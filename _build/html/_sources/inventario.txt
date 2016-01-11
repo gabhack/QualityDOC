@@ -1,0 +1,4 @@
+Inventario
+==========
+
+Esto es Inventario
