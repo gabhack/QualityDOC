@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+======================================
 Welcome to QualityDOC's documentation!
-=======================================
+======================================
 
-Contents:
+Módulos Administrativos	   
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
-   :maxdepth: 2
-
-  inventario  
-  facturacion  
-  tesoreria  
-
+   :maxdepth: 3
+  
+  inventario/inventario
+  
 Indices and tables
 ==================
 

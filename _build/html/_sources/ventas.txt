@@ -1,0 +1,12 @@
+Ventas
+======
+
+.. image:: /images/logo_quality.png
+
+Parámetros
+^^^^^^^^^^
+
+Administración de clientes
+
+Este es el modulo de ventas
+
