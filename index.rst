@@ -11,14 +11,13 @@ Módulos Administrativos
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
-   :maxdepth: 3
-  
-  inventario/inventario
-  
+  :maxdepth: 1
+
+  /inventario/inventario
+
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-

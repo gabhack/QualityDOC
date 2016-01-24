@@ -1,0 +1,10 @@
+===========================================
+Impresión de etiquetas de códigos de barras
+===========================================
+
+.. toctree::
+  :maxdepth: 3
+
+  /inventario/standard/procesos/frm_imprimir_codbar
+  
+  `Impresión de etiquetas de códigos de barras`_.

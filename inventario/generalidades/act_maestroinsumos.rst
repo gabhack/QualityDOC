@@ -1,56 +1,68 @@
-=====================================
-**Catálogo de Productos & Servicios**
-=====================================
+=================================
+Catálogo de Productos & Servicios
+=================================
 
-Introducción al Catálogo de Productos & Servicios
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Introducción
+^^^^^^^^^^^^
 
 El catálogo de productos y servicios es la interface del sistema que permite registrar todos los productos o servicios que son comercializados por la empresa.
 
-Líneas de Productos & Servicios
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Líneas de Productos/Servicios
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Introducción
+------------
 
 Crear una Línea
 ---------------
 
-Edición de una Línea
---------------------
+Editar de una Línea
+-------------------
 
-Eliminación de una Línea
-------------------------
+Eliminar de una Línea
+---------------------
 
-Sub Lineas de Productos 
-^^^^^^^^^^^^^^^^^^^^^^^
+Sub Lineas de Productos/Servicios 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Introducción
+------------
 
 Crear una Sub Línea
 -------------------
 
-Edición de una Sub Línea
-------------------------
+Editar una Sub Línea
+--------------------
 
-Eliminación de una Sub Línea
-----------------------------
+Eliminar una Sub Línea
+----------------------
 
-Creación de un Producto o Servicio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Crear Producto/Servicio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Buscar Producto o Servicio en el arbol principal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Buscar Producto/Servicio en el arbol principal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Edición de un Producto o Servicio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Editar un Producto/Servicio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Eliminación de un Producto o Servicio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Eliminar de un Producto/Servicio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Descontinuar Producto o Servicio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Descontinuar Producto/Servicio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Re-Activar Producto/Servicio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Re-Clasificar Producto/Servicio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Familias de Productos
 ^^^^^^^^^^^^^^^^^^^^^
 
-¿ Que son las familias de productos ?
--------------------------------------
+Introducción
+------------
 
 Casos de uso
 ------------
@@ -61,7 +73,5 @@ Agregar productos a una familia
 Remover productos de una familia
 --------------------------------
 
-Agregar/Quitar imagen a un Producto o Servicio
+Agregar/Quitar imagen a un Producto/Servicio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
