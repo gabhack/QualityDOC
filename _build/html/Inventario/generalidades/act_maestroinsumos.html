@@ -43,63 +43,161 @@
 <h1>Catálogo de Productos &amp; Servicios<a class="headerlink" href="#catalogo-de-productos-servicios" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="introduccion">
 <h2>Introducción<a class="headerlink" href="#introduccion" title="Permalink to this headline">¶</a></h2>
-<p>El catálogo de productos y servicios es la interface del sistema que permite registrar todos los productos o servicios que son comercializados por la empresa.</p>
+<p>El catálogo de productos/servicios es el origen de los procesos de inventario; en él se administra toda la información referente a los productos/servicios que son comercializados por la empresa.</p>
+<p>El catálogo de productos/servicios le permitirá entre otras cosas:</p>
+<ul class="simple">
+<li>Crear/editar/eliminar líneas/categorías de productos/servicios</li>
+<li>Crear/editar/eliminar sub lineas/sub categorías de productos/servicios</li>
+<li>Crear/editar/eliminar productos/servicios</li>
+<li>Buscar productos/servicios</li>
+<li>Entre otras</li>
+</ul>
+<p>En el catálogo de productos podrá crear las siguientes clases de items:</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Productos:</th><td class="field-body">Manejan inventario</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Servicios:</th><td class="field-body">No manejan inventario</td>
+</tr>
+<tr class="field-odd field"><th class="field-name">Presentaciones:</th><td class="field-body">No manejan inventario y hacen referencia a una cantidad especifica de productos</td>
+</tr>
+</tbody>
+</table>
+<p>Cada tipo de item está representado por una carpeta en el arbol de productos, como se muestra en la siguiente imagen</p>
+<div class="figure align-center" id="id5">
+<img alt="../../_images/placeholder.png" src="../../_images/placeholder.png" />
+<p class="caption"><span class="caption-text">Tipos de items</span></p>
+</div>
+<p>Adicionalmente podemos indicarle al sistema cuales de estos tipos de items deseamos manejar en el catálogo, de manera que si por ejemplo, no queremos manejar servicios, podemos remover la carpeta de servicios para que no nos aparezca en el catálogo de productos.</p>
+<p>A continuación se detallan los componentes básicos del catálogo de productos/servicios</p>
 </div>
 <div class="section" id="lineas-de-productos-servicios">
 <h2>Líneas de Productos/Servicios<a class="headerlink" href="#lineas-de-productos-servicios" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="id1">
 <h3>Introducción<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<p>Las líneas de productos/servicios son el primer nivel de clasificación de la mercancía, el sistema clasifica todos los productos/servicios que se crean en una categoría/línea.</p>
+<div class="figure align-center" id="id6">
+<img alt="../../_images/placeholder.png" src="../../_images/placeholder.png" />
+<p class="caption"><span class="caption-text">En esta imagen podemos apreciar algunas líneas de productos, por ejemplo : Línea 1, Línea 2, Línea 3, Etc...</span></p>
+</div>
 </div>
 <div class="section" id="crear-una-linea">
 <h3>Crear una Línea<a class="headerlink" href="#crear-una-linea" title="Permalink to this headline">¶</a></h3>
+<p>Para crear una línea de productos/servicios siga los siguientes pasos:</p>
+<ul class="simple">
+<li>Haga click-derecho sobre la carpeta correspondiente al tipo de item (productos, servicios, presentaciones) para desplegar el menu contextual</li>
+<li>Seleccione la opción <em>Nueva Línea</em></li>
+<li>El sistema creará una carpeta con el siguiente texto : <em>Digite el nombre de la línea</em></li>
+<li>Reemplace el texto: <em>Digite el nombre de la línea</em> con el nombre de la línea correspondiente y confirme presionando la tecla ENTER</li>
+</ul>
 </div>
-<div class="section" id="editar-de-una-linea">
-<h3>Editar de una Línea<a class="headerlink" href="#editar-de-una-linea" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="editar-una-linea">
+<h3>Editar una Línea<a class="headerlink" href="#editar-una-linea" title="Permalink to this headline">¶</a></h3>
+<p>Para editar una línea de productos/servicios siga los siguientes pasos:</p>
+<ul class="simple">
+<li>Hubique en el arbol la línea que quiere editar y seleccionela haciendo click sobre ella</li>
+<li>Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual</li>
+<li>Seleccione la opción <em>Modificar línea</em></li>
+<li>El nombre de la línea se marcará en azul, indicando que puede editar el texto</li>
+<li>Edite el nombre de la línea haciendo los cambios necesarios y confirme con ENTER</li>
+</ul>
 </div>
-<div class="section" id="eliminar-de-una-linea">
-<h3>Eliminar de una Línea<a class="headerlink" href="#eliminar-de-una-linea" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="eliminar-una-linea">
+<h3>Eliminar una Línea<a class="headerlink" href="#eliminar-una-linea" title="Permalink to this headline">¶</a></h3>
+<p>Para eliminar una línea de productos/servicios siga los siguientes pasos:</p>
+<ul class="simple">
+<li>Hubique en el arbol la línea que quiere eliminar y seleccionela haciendo click sobre ella</li>
+<li>Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual</li>
+<li>Seleccione la opción <em>Eliminar línea</em></li>
+<li>El sistema le pedirá que confirme su intención de eliminar la línea</li>
+<li>Confirme la solicitud de eliminación</li>
+</ul>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">No podrá eliminar líneas que contengan sub líneas, en estos casos la opción : <em>Eliminar línea</em>, aparecerá desactivada</p>
+</div>
 </div>
 </div>
 <div class="section" id="sub-lineas-de-productos-servicios">
 <h2>Sub Lineas de Productos/Servicios<a class="headerlink" href="#sub-lineas-de-productos-servicios" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="id2">
 <h3>Introducción<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<p>Las sub líneas de productos/servicios son el segundo nivel de clasificación de la mercancía, las sub líneas se alojan dentro de las líneas y son las sub líneas las que alojan a los productos/servicios.</p>
+<div class="figure align-center" id="id7">
+<img alt="../../_images/placeholder.png" src="../../_images/placeholder.png" />
+<p class="caption"><span class="caption-text">En esta imagen podemos apreciar que la línea <em>PC&#8217;S DE ESCRITORIO</em> contiene las sub líneas <em>Board</em>, <em>Procesador</em>, <em>RAM</em>, <em>Disco Duro</em>, <em>Monitor</em>, etc..</span></p>
+</div>
 </div>
 <div class="section" id="crear-una-sub-linea">
 <h3>Crear una Sub Línea<a class="headerlink" href="#crear-una-sub-linea" title="Permalink to this headline">¶</a></h3>
+<p>Para crear una sub línea de productos/servicios siga los siguientes pasos:</p>
+<ul class="simple">
+<li>Hubique en el arbol la línea en la cual desea crear la nueva sub línea y seleccionela haciendo click sobre ella</li>
+<li>Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual</li>
+<li>Seleccione la opción <em>Nueva sub línea</em></li>
+<li>El sistema creará una carpeta con el siguiente texto : <em>Digite el nombre de la sub línea</em></li>
+<li>Reemplace el texto: <em>Digite el nombre de la sub línea</em> con el nombre de la sub línea correspondiente y confirme presionando la tecla ENTER</li>
+</ul>
 </div>
 <div class="section" id="editar-una-sub-linea">
 <h3>Editar una Sub Línea<a class="headerlink" href="#editar-una-sub-linea" title="Permalink to this headline">¶</a></h3>
+<p>Para editar una sub línea de productos/servicios siga los siguientes pasos:</p>
+<ul class="simple">
+<li>Hubique en el arbol la sub línea que desea editar y seleccionela haciendo click sobre ella</li>
+<li>Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual</li>
+<li>Seleccione la opción <em>Modificar sub línea</em></li>
+<li>El nombre de la sub línea se marcará en azul, indicando que puede editar el texto</li>
+<li>Edite el nombre de la sub línea haciendo los cambios necesarios y confirme con ENTER</li>
+</ul>
 </div>
 <div class="section" id="eliminar-una-sub-linea">
 <h3>Eliminar una Sub Línea<a class="headerlink" href="#eliminar-una-sub-linea" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Hubique en el arbol la sub línea que desea eliminar y seleccionela haciendo click sobre ella</li>
+<li>Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual</li>
+<li>Seleccione la opción <em>Eliminar sub línea</em></li>
+<li>El sistema le pedirá que confirme su intención de eliminar la sub línea</li>
+<li>Confirme la solicitud de eliminación</li>
+</ul>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">No podrá eliminar sub líneas que contengan productos/servicios, en estos casos la opción : <em>Eliminar sub línea</em>, aparecerá desactivada</p>
 </div>
 </div>
-<div class="section" id="crear-producto-servicio">
-<h2>Crear Producto/Servicio<a class="headerlink" href="#crear-producto-servicio" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="productos-servicios">
+<h2>Productos/Servicios<a class="headerlink" href="#productos-servicios" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id3">
+<h3>Introducción<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="crear-un-producto-servicios">
+<h3>Crear un producto/servicios<a class="headerlink" href="#crear-un-producto-servicios" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="buscar-producto-servicio-en-el-arbol-principal">
-<h2>Buscar Producto/Servicio en el arbol principal<a class="headerlink" href="#buscar-producto-servicio-en-el-arbol-principal" title="Permalink to this headline">¶</a></h2>
+<h3>Buscar Producto/Servicio en el arbol principal<a class="headerlink" href="#buscar-producto-servicio-en-el-arbol-principal" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="editar-un-producto-servicio">
-<h2>Editar un Producto/Servicio<a class="headerlink" href="#editar-un-producto-servicio" title="Permalink to this headline">¶</a></h2>
+<h3>Editar un Producto/Servicio<a class="headerlink" href="#editar-un-producto-servicio" title="Permalink to this headline">¶</a></h3>
 </div>
-<div class="section" id="eliminar-de-un-producto-servicio">
-<h2>Eliminar de un Producto/Servicio<a class="headerlink" href="#eliminar-de-un-producto-servicio" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="eliminar-un-producto-servicio">
+<h3>Eliminar un Producto/Servicio<a class="headerlink" href="#eliminar-un-producto-servicio" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="descontinuar-producto-servicio">
-<h2>Descontinuar Producto/Servicio<a class="headerlink" href="#descontinuar-producto-servicio" title="Permalink to this headline">¶</a></h2>
+<h3>Descontinuar Producto/Servicio<a class="headerlink" href="#descontinuar-producto-servicio" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="re-activar-producto-servicio">
-<h2>Re-Activar Producto/Servicio<a class="headerlink" href="#re-activar-producto-servicio" title="Permalink to this headline">¶</a></h2>
+<h3>Re-Activar Producto/Servicio<a class="headerlink" href="#re-activar-producto-servicio" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="re-clasificar-producto-servicio">
-<h2>Re-Clasificar Producto/Servicio<a class="headerlink" href="#re-clasificar-producto-servicio" title="Permalink to this headline">¶</a></h2>
+<h3>Re-Clasificar Producto/Servicio<a class="headerlink" href="#re-clasificar-producto-servicio" title="Permalink to this headline">¶</a></h3>
+</div>
 </div>
 <div class="section" id="familias-de-productos">
 <h2>Familias de Productos<a class="headerlink" href="#familias-de-productos" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="id3">
-<h3>Introducción<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="id4">
+<h3>Introducción<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="casos-de-uso">
 <h3>Casos de uso<a class="headerlink" href="#casos-de-uso" title="Permalink to this headline">¶</a></h3>
@@ -110,9 +208,9 @@
 <div class="section" id="remover-productos-de-una-familia">
 <h3>Remover productos de una familia<a class="headerlink" href="#remover-productos-de-una-familia" title="Permalink to this headline">¶</a></h3>
 </div>
-</div>
 <div class="section" id="agregar-quitar-imagen-a-un-producto-servicio">
-<h2>Agregar/Quitar imagen a un Producto/Servicio<a class="headerlink" href="#agregar-quitar-imagen-a-un-producto-servicio" title="Permalink to this headline">¶</a></h2>
+<h3>Agregar/Quitar imagen a un Producto/Servicio<a class="headerlink" href="#agregar-quitar-imagen-a-un-producto-servicio" title="Permalink to this headline">¶</a></h3>
+</div>
 </div>
 </div>
 
@@ -129,8 +227,8 @@
 <li><a class="reference internal" href="#lineas-de-productos-servicios">Líneas de Productos/Servicios</a><ul>
 <li><a class="reference internal" href="#id1">Introducción</a></li>
 <li><a class="reference internal" href="#crear-una-linea">Crear una Línea</a></li>
-<li><a class="reference internal" href="#editar-de-una-linea">Editar de una Línea</a></li>
-<li><a class="reference internal" href="#eliminar-de-una-linea">Eliminar de una Línea</a></li>
+<li><a class="reference internal" href="#editar-una-linea">Editar una Línea</a></li>
+<li><a class="reference internal" href="#eliminar-una-linea">Eliminar una Línea</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#sub-lineas-de-productos-servicios">Sub Lineas de Productos/Servicios</a><ul>
@@ -140,21 +238,25 @@
 <li><a class="reference internal" href="#eliminar-una-sub-linea">Eliminar una Sub Línea</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#crear-producto-servicio">Crear Producto/Servicio</a></li>
+<li><a class="reference internal" href="#productos-servicios">Productos/Servicios</a><ul>
+<li><a class="reference internal" href="#id3">Introducción</a></li>
+<li><a class="reference internal" href="#crear-un-producto-servicios">Crear un producto/servicios</a></li>
 <li><a class="reference internal" href="#buscar-producto-servicio-en-el-arbol-principal">Buscar Producto/Servicio en el arbol principal</a></li>
 <li><a class="reference internal" href="#editar-un-producto-servicio">Editar un Producto/Servicio</a></li>
-<li><a class="reference internal" href="#eliminar-de-un-producto-servicio">Eliminar de un Producto/Servicio</a></li>
+<li><a class="reference internal" href="#eliminar-un-producto-servicio">Eliminar un Producto/Servicio</a></li>
 <li><a class="reference internal" href="#descontinuar-producto-servicio">Descontinuar Producto/Servicio</a></li>
 <li><a class="reference internal" href="#re-activar-producto-servicio">Re-Activar Producto/Servicio</a></li>
 <li><a class="reference internal" href="#re-clasificar-producto-servicio">Re-Clasificar Producto/Servicio</a></li>
+</ul>
+</li>
 <li><a class="reference internal" href="#familias-de-productos">Familias de Productos</a><ul>
-<li><a class="reference internal" href="#id3">Introducción</a></li>
+<li><a class="reference internal" href="#id4">Introducción</a></li>
 <li><a class="reference internal" href="#casos-de-uso">Casos de uso</a></li>
 <li><a class="reference internal" href="#agregar-productos-a-una-familia">Agregar productos a una familia</a></li>
 <li><a class="reference internal" href="#remover-productos-de-una-familia">Remover productos de una familia</a></li>
+<li><a class="reference internal" href="#agregar-quitar-imagen-a-un-producto-servicio">Agregar/Quitar imagen a un Producto/Servicio</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#agregar-quitar-imagen-a-un-producto-servicio">Agregar/Quitar imagen a un Producto/Servicio</a></li>
 </ul>
 </li>
 </ul>
