@@ -28,7 +28,7 @@ En el catálogo de productos podrá crear las siguientes clases de items:
 
 Cada tipo de item está representado por una carpeta en el arbol de productos, como se muestra en la siguiente imagen
 
-.. figure:: /_images/placeholder.png
+.. figure:: /_images/generales/placeholder.png
    :align: center
 
    Tipos de items
@@ -45,7 +45,7 @@ Introducción
 
 Las líneas de productos/servicios son el primer nivel de clasificación de la mercancía, el sistema clasifica todos los productos/servicios que se crean en una categoría/línea.
 
-.. figure:: /images/placeholder.png
+.. figure:: /_images/generales/placeholder.png
    :align: center   
 
    En esta imagen podemos apreciar algunas líneas de productos, por ejemplo : Línea 1, Línea 2, Línea 3, Etc...
@@ -93,7 +93,7 @@ Introducción
 
 Las sub líneas de productos/servicios son el segundo nivel de clasificación de la mercancía, las sub líneas se alojan dentro de las líneas y son las sub líneas las que alojan a los productos/servicios.
 
-.. figure:: /images/placeholder.png
+.. figure:: /_images/generales/placeholder.png
    :align: center   
 
    En esta imagen podemos apreciar que la línea *PC'S DE ESCRITORIO* contiene las sub líneas *Board*, *Procesador*, *RAM*, *Disco Duro*, *Monitor*, etc..
