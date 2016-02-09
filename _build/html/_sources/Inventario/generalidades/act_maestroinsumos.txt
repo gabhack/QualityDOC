@@ -132,26 +132,108 @@ Eliminar una Sub Línea
 .. NOTE::
    No podrá eliminar sub líneas que contengan productos/servicios, en estos casos la opción : *Eliminar sub línea*, aparecerá desactivada
 
-Productos/Servicios
-===================
+Productos & Servicios
+=====================
 
 Introducción
 ------------
 
-Crear un producto/servicios
----------------------------
+Los productos/servicios son el último nivel en el arbol, contienen la información necesaria para facilitar su compra/venta.
 
-Buscar Producto/Servicio en el arbol principal
-----------------------------------------------
+.. figure:: /_images/generales/placeholder.png
+   :align: center
+
+   En esta imagen podemos apreciar el producto x, que se encuentra dentro de la línea z y la sub línea t
+
+Entre las principales caracteristicas de los productos/servicios podemos encontrar:
+
+:Codigo:
+  Código único del producto/servicio en el sistema (Generado por el sistema)
+
+:Nombre:
+  Nombre del producto o descripción del servicio (Obligatorio)
+
+:UM:
+  Unidad de medida del producto, ej: Unidad, Metro, Litro, etc... (Obligatorio)
+
+:Referencia:
+  Referencia del producto (Obligatorio)
+
+:IVA:
+  Margen de IVA con el que se compra/vende el producto (Obligatorio)
+
+:Imagen:
+  Imagen que represente al producto/servicio (Opcional)  
+
+Crear un producto/servicio
+--------------------------
+
+Para crear un productos/servicios siga los siguientes pasos:
+
+- Hubique en el arbol la sub línea en la que desea crear el producto/servicio y seleccionela haciendo click sobre ella
+- Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
+- Seleccione la opción |wznew.bmp| *Nuevo producto* o *Nuevo Servicio* según sea el caso
+- El sistema desplegará una ventana solicitando la siguiente información
+
+ - **Nombre del producto/servicio** (Nombre del producto o la descripción del servicio)
+ - **Referencia** (Si no la maneja, deje la que el sistema coloca por defecto)
+ - **Código EAN** (Código de barras presente en el empaque del producto, si aplica)
+ - **UM** (Unidad de medida para el inventario, ej: Unidad, Metro, Litro)
+ - **Magen de IVA** (Margen de IVA con el cual está gravado el producto/servicio)
+
+- LLene los campos solicitados y finalice el proceso presionando el botón *Guardar* para cerrar la ventana o el botón *Guardar y Continuar* para continuar creando productos/servicios detro de la línea y sub línea actual
+
+En la siguiente imagen se puede apreciar la ventana de creación de productos/servicios
+
+.. figure:: /_images/generales/placeholder.png
+   :align: center
+
+   Ventana de creación de productos/servicios
+
+Buscar un Producto/Servicio en el arbol
+---------------------------------------
+
+Con un catálogo muy extenso, puede ser dificil ubicar un producto/servicio en el arbol; por esta razón existe un mecanismo de busqueda que le permitirá ubicar facilmente el item que necesite.
+
+Para buscar un productos/servicio siga los siguientes pasos:
+
+- En la ventana principal del *Catálogo de productos* haga click en icono |buscar.bmp|
+- El sistema despliega la busqueda de productos/servicios
+- Digite el nombre del producto/servicio
+- Confirme la selección colocandose sobre el producto/servicio y presionando la tecla ENTER o haciendo doble-click
+- El sistema ubicará el producto/servicio en el arbol y desplegará sus carácteristicas en el panel de detalles
 
 Editar un Producto/Servicio
 ---------------------------
 
-Eliminar un Producto/Servicio
---------------------------------
+Para editar un productos/servicio siga los siguientes pasos:
 
-Descontinuar Producto/Servicio
-------------------------------
+- Ubique el producto/servicio en el arbol, vea : `Buscar un Producto/Servicio en el arbol`_.
+- En el panel de detalles haga click en el icono |wzedit.bmp| para habilitar la edición de las propiedades del producto/servicio
+- Realice los cambios pertinentes
+- En el panel de detalles haga click en el icono |save.bmp| para guardar los cambios
+
+Eliminar un Producto/Servicio
+-----------------------------
+
+Para eliminar un productos/servicio siga los siguientes pasos:
+
+- Ubique el producto/servicio en el arbol, vea : `Buscar un Producto/Servicio en el arbol`_.
+- Haga click-dereho sobre el producto/servicio seleccionado para desplegar el menú contextual
+- Seleccione la opción |delete.bmp| *Eliminar producto* o *Eliminar servicio* según el caso
+- El sistema pedirá confirmar la solicitud de eliminación
+- Confirme la solicitud de eliminación
+
+.. NOTE::
+   No podrá eliminar productos que presenten movimientos en el kardex o servicios que hayan sido facturados.	
+
+Descontinuar un Producto/Servicio
+---------------------------------
+
+Despues de un tiempo considerable creando productos/servicios se encontrará con la necesidad de eliminar algunos que ya no se vayan a seguir utilizando, sin embargo el sistema no permitirá eliminar productos/servicios que hayan tenido algún tipo de movimiento debido a que esta información es necesaria a nivel estadistico; por esta razón existe la posibilidad de **descontinuar** productos; al descontinuar un producto este desaparece de todas las operaciones de inventario, por ejemplo : entradas, salidas, traslados y únicamente es visible en las estadisticas de las operaciones registradas previas a su descontinuación.
+
+.. NOTE::
+   No podrá descontinuar productos que presenten existencias en el inventario
 
 Re-Activar Producto/Servicio
 ----------------------------
@@ -176,3 +258,9 @@ Remover productos de una familia
 
 Agregar/Quitar imagen a un Producto/Servicio
 --------------------------------------------
+
+.. |wznew.bmp| image:: /_images/generales/wznew.bmp
+.. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
+.. |buscar.bmp| image:: /_images/generales/buscar.bmp
+.. |delete.bmp| image:: /_images/generales/delete.bmp
+.. |save.bmp| image:: /_images/generales/save.bmp
