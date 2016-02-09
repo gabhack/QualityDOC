@@ -28,7 +28,7 @@ En el catálogo de productos podrá crear las siguientes clases de items:
 
 Cada tipo de item está representado por una carpeta en el arbol de productos, como se muestra en la siguiente imagen
 
-.. figure:: /images/placeholder.png
+.. figure:: /_images/placeholder.png
    :align: center
 
    Tipos de items
