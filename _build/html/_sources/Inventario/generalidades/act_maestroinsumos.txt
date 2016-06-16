@@ -56,7 +56,7 @@ Crear una Línea
 Para crear una línea de productos/servicios siga los siguientes pasos: 
 
 - Haga click-derecho sobre la carpeta correspondiente al tipo de item (productos, servicios, presentaciones) para desplegar el menu contextual
-- Seleccione la opción *Nueva Línea* 
+- Seleccione la opción |wznew.bmp| *Nueva Línea* 
 - El sistema creará una carpeta con el siguiente texto : *Digite el nombre de la línea*
 - Reemplace el texto: *Digite el nombre de la línea* con el nombre de la línea correspondiente y confirme presionando la tecla ENTER
 
@@ -67,7 +67,7 @@ Para editar una línea de productos/servicios siga los siguientes pasos:
 
 - Hubique en el arbol la línea que quiere editar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual
-- Seleccione la opción *Modificar línea*
+- Seleccione la opción |wzedit.bmp| *Modificar línea*
 - El nombre de la línea se marcará en azul, indicando que puede editar el texto
 - Edite el nombre de la línea haciendo los cambios necesarios y confirme con ENTER
 
@@ -78,7 +78,7 @@ Para eliminar una línea de productos/servicios siga los siguientes pasos:
 
 - Hubique en el arbol la línea que quiere eliminar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual
-- Seleccione la opción *Eliminar línea*
+- Seleccione la opción |delete.bmp| *Eliminar línea*
 - El sistema le pedirá que confirme su intención de eliminar la línea
 - Confirme la solicitud de eliminación
 
@@ -105,7 +105,7 @@ Para crear una sub línea de productos/servicios siga los siguientes pasos:
 
 - Hubique en el arbol la línea en la cual desea crear la nueva sub línea y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual
-- Seleccione la opción *Nueva sub línea* 
+- Seleccione la opción |wznew.bmp| *Nueva sub línea* 
 - El sistema creará una carpeta con el siguiente texto : *Digite el nombre de la sub línea*
 - Reemplace el texto: *Digite el nombre de la sub línea* con el nombre de la sub línea correspondiente y confirme presionando la tecla ENTER
 
@@ -116,7 +116,7 @@ Para editar una sub línea de productos/servicios siga los siguientes pasos:
 
 - Hubique en el arbol la sub línea que desea editar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
-- Seleccione la opción *Modificar sub línea* 
+- Seleccione la opción |wzedit.bmp| *Modificar sub línea* 
 - El nombre de la sub línea se marcará en azul, indicando que puede editar el texto
 - Edite el nombre de la sub línea haciendo los cambios necesarios y confirme con ENTER
 
@@ -125,7 +125,7 @@ Eliminar una Sub Línea
 
 - Hubique en el arbol la sub línea que desea eliminar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
-- Seleccione la opción *Eliminar sub línea* 
+- Seleccione la opción |delete.bmp| *Eliminar sub línea* 
 - El sistema le pedirá que confirme su intención de eliminar la sub línea
 - Confirme la solicitud de eliminación
 
@@ -230,16 +230,46 @@ Para eliminar un productos/servicio siga los siguientes pasos:
 Descontinuar un Producto/Servicio
 ---------------------------------
 
-Despues de un tiempo considerable creando productos/servicios se encontrará con la necesidad de eliminar algunos que ya no se vayan a seguir utilizando, sin embargo el sistema no permitirá eliminar productos/servicios que hayan tenido algún tipo de movimiento debido a que esta información es necesaria a nivel estadistico; por esta razón existe la posibilidad de **descontinuar** productos; al descontinuar un producto este desaparece de todas las operaciones de inventario, por ejemplo : entradas, salidas, traslados y únicamente es visible en las estadisticas de las operaciones registradas previas a su descontinuación.
+Después de un tiempo considerable creando productos/servicios se encontrará con la necesidad de eliminar algunos que ya no se vayan a seguir utilizando, sin embargo el sistema no permitirá eliminar productos/servicios que hayan tenido algún tipo de movimiento debido a que esta información es necesaria a nivel estadístico; por esta razón existe la posibilidad de **descontinuar** productos; al descontinuar un producto este desaparece de todas las operaciones de inventario, por ejemplo : entradas, salidas, traslados y únicamente es visible en las estadisticas de las operaciones registradas previas a su descontinuación.
+
+Para descontinuar un producto/servicio siga los siguientes pasos:
+
+- Ubique el producto/servicio en el arbol, vea : `Buscar un Producto/Servicio en el arbol`_.
+- Haga click-dereho sobre el producto/servicio seleccionado para desplegar el menú contextual
+- Seleccione la opción |descartar.bmp| *Descontinuar <<producto/servicio>>* 
+- El sistema pedirá confirmar la solicitud de descontinuar el producto/servicio
+- Confirme la solicitud de descontinuación
 
 .. NOTE::
    No podrá descontinuar productos que presenten existencias en el inventario
 
-Re-Activar Producto/Servicio
+Reactivar Producto/Servicio
 ----------------------------
+
+El proceso de reactivación es inverso al proceso de descontinuación, consiste volver a activar productos que se encuentren descontinuados para permitir nuevamente su uso.
+
+Para reactivar productos/servicios siga los siguientes pasos:
+
+- En la ventana principal del *Catálogo de productos* haga click en icono |btn_ok.bmp|
+- El sistema abrirá una ventana donde se listan los productos descontinuados
+- La ventana posee una casilla de busqueda que le permitirá ubicar facilmente el producto que requiera
+- Para reactivar el producto/servicio ubiquelo en el listado y seleccione la casilla de verificación que se encuentra en la última columna
+- Una vez seleccionados los productos que desea reactivar, presione el botón |refresh.bmp| *Reactivar*
 
 Re-Clasificar Producto/Servicio
 -------------------------------
+
+La correcta clasificación de los productos/servicios en líneas y sub líneas, es muy importante porque nos permite:
+
+- Ubicar fácilmente y de manera lógica los productos/servicios en el arbol
+- Obtener estadísticas de ventas e inventarios por medio de esta clasificación
+- Establecer la interface contable de los productos/servicios por medio en esta clasificación
+
+Durante el proceso de creación de productos/servicios, será necesario *mover* productos/servicios de una línea *X* a una línea *Y*, o incluso, a una sub línea diferente a la actual; Esta es la función de la re-clasificación de productos/servicios
+
+La re-clasificación le permitira estructurar el catálogo de productos/servicios de la manera que considere mas provechosa para la empresa
+
+Para re-clasificar productos/servicios siga los siguientes pasos
 
 Familias de Productos
 =====================
@@ -263,4 +293,7 @@ Agregar/Quitar imagen a un Producto/Servicio
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
 .. |delete.bmp| image:: /_images/generales/delete.bmp
+.. |btn_ok.bmp| image:: /_images/generales/btn_ok.bmp
+.. |refresh.bmp| image:: /_images/generales/refresh.bmp
+.. |descartar.bmp| image:: /_images/generales/descartar.bmp
 .. |save.bmp| image:: /_images/generales/save.bmp

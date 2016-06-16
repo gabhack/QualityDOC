@@ -3,13 +3,22 @@ Administración de unidades de medida
 ====================================
 
 Introducción
-------------
+============
+
+Las unidades de medida nos permiten cuantificar claramente las existencias de nuestro inventario, estas nos proporcionan las
+herramientas necesarias para la correcta interpretación de las cantidades, los siguientes son algunos ejemplos de unidades de medidas :
+
+- Unidad
+- Metro
+- Litro
+- Gramo
+- etc ...
 
 Crear Unidad de Medida
-----------------------
+======================
 
 Modificar Unidad de Medida
---------------------------
+==========================
 
 Eliminar Unidad de Medida
--------------------------
+=========================
