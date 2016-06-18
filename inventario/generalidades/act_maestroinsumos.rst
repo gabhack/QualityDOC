@@ -2,6 +2,18 @@
 Catálogo de Productos & Servicios
 =================================
 
+Ubicación
+=========
+
+:Módulo:
+ Inventario
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+ Catálogo de productos & servicios
+
 Introducción
 ============
 
@@ -46,17 +58,17 @@ Introducción
 Las líneas de productos/servicios son el primer nivel de clasificación de la mercancía, el sistema clasifica todos los productos/servicios que se crean en una categoría/línea.
 
 .. figure:: /_images/generales/placeholder.png
-   :align: center   
+   :align: center
 
    En esta imagen podemos apreciar algunas líneas de productos, por ejemplo : Línea 1, Línea 2, Línea 3, Etc...
 
 Crear una Línea
 ---------------
 
-Para crear una línea de productos/servicios siga los siguientes pasos: 
+Para crear una línea de productos/servicios siga los siguientes pasos:
 
 - Haga click-derecho sobre la carpeta correspondiente al tipo de item (productos, servicios, presentaciones) para desplegar el menu contextual
-- Seleccione la opción |wznew.bmp| *Nueva Línea* 
+- Seleccione la opción |wznew.bmp| *Nueva Línea*
 - El sistema creará una carpeta con el siguiente texto : *Digite el nombre de la línea*
 - Reemplace el texto: *Digite el nombre de la línea* con el nombre de la línea correspondiente y confirme presionando la tecla ENTER
 
@@ -85,7 +97,7 @@ Para eliminar una línea de productos/servicios siga los siguientes pasos:
 .. NOTE::
    No podrá eliminar líneas que contengan sub líneas, en estos casos la opción : *Eliminar línea*, aparecerá desactivada
 
-Sub Lineas de Productos/Servicios 
+Sub Lineas de Productos/Servicios
 =================================
 
 Introducción
@@ -94,29 +106,29 @@ Introducción
 Las sub líneas de productos/servicios son el segundo nivel de clasificación de la mercancía, las sub líneas se alojan dentro de las líneas y son las sub líneas las que alojan a los productos/servicios.
 
 .. figure:: /_images/generales/placeholder.png
-   :align: center   
+   :align: center
 
    En esta imagen podemos apreciar que la línea *PC'S DE ESCRITORIO* contiene las sub líneas *Board*, *Procesador*, *RAM*, *Disco Duro*, *Monitor*, etc..
 
 Crear una Sub Línea
 -------------------
 
-Para crear una sub línea de productos/servicios siga los siguientes pasos: 
+Para crear una sub línea de productos/servicios siga los siguientes pasos:
 
 - Hubique en el arbol la línea en la cual desea crear la nueva sub línea y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual
-- Seleccione la opción |wznew.bmp| *Nueva sub línea* 
+- Seleccione la opción |wznew.bmp| *Nueva sub línea*
 - El sistema creará una carpeta con el siguiente texto : *Digite el nombre de la sub línea*
 - Reemplace el texto: *Digite el nombre de la sub línea* con el nombre de la sub línea correspondiente y confirme presionando la tecla ENTER
 
 Editar una Sub Línea
 --------------------
 
-Para editar una sub línea de productos/servicios siga los siguientes pasos: 
+Para editar una sub línea de productos/servicios siga los siguientes pasos:
 
 - Hubique en el arbol la sub línea que desea editar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
-- Seleccione la opción |wzedit.bmp| *Modificar sub línea* 
+- Seleccione la opción |wzedit.bmp| *Modificar sub línea*
 - El nombre de la sub línea se marcará en azul, indicando que puede editar el texto
 - Edite el nombre de la sub línea haciendo los cambios necesarios y confirme con ENTER
 
@@ -125,7 +137,7 @@ Eliminar una Sub Línea
 
 - Hubique en el arbol la sub línea que desea eliminar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
-- Seleccione la opción |delete.bmp| *Eliminar sub línea* 
+- Seleccione la opción |delete.bmp| *Eliminar sub línea*
 - El sistema le pedirá que confirme su intención de eliminar la sub línea
 - Confirme la solicitud de eliminación
 
@@ -163,7 +175,7 @@ Entre las principales caracteristicas de los productos/servicios podemos encontr
   Margen de IVA con el que se compra/vende el producto (Obligatorio)
 
 :Imagen:
-  Imagen que represente al producto/servicio (Opcional)  
+  Imagen que represente al producto/servicio (Opcional)
 
 Crear un producto/servicio
 --------------------------
@@ -225,7 +237,7 @@ Para eliminar un productos/servicio siga los siguientes pasos:
 - Confirme la solicitud de eliminación
 
 .. NOTE::
-   No podrá eliminar productos que presenten movimientos en el kardex o servicios que hayan sido facturados.	
+   No podrá eliminar productos que presenten movimientos en el kardex o servicios que hayan sido facturados.
 
 Descontinuar un Producto/Servicio
 ---------------------------------
@@ -236,7 +248,7 @@ Para descontinuar un producto/servicio siga los siguientes pasos:
 
 - Ubique el producto/servicio en el arbol, vea : `Buscar un Producto/Servicio en el arbol`_.
 - Haga click-dereho sobre el producto/servicio seleccionado para desplegar el menú contextual
-- Seleccione la opción |descartar.bmp| *Descontinuar <<producto/servicio>>* 
+- Seleccione la opción |descartar.bmp| *Descontinuar <<producto/servicio>>*
 - El sistema pedirá confirmar la solicitud de descontinuar el producto/servicio
 - Confirme la solicitud de descontinuación
 
