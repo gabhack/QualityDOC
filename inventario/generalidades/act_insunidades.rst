@@ -29,7 +29,7 @@ herramientas necesarias para la correcta interpretación de las cantidades, los 
 Crear Unidad de Medida
 ======================
 
-Para crear una unidad de medida siga los siguientes pasos:
+Para crear una *unidad de medida* siga los siguientes pasos:
 
 - Ejecute la opción *Administración de unidades de medidas*
 - Haga clic en el botón *Nuevo* |wznew.bmp|

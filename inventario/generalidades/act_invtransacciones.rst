@@ -45,7 +45,7 @@ a continuación se detallan las principales diferencias.
   Algunos ejemplos de transacciones del sistema, son :
 
   - *_EC - ENTRADA DE ALMACÉN POR COMPRAS*
-  - *_FC - FACTURACIÓN DE CONTADO*
+  - *_FC - FACTURACIÓN DE CREDITO*
   - *_ST - SALIDA DE ALMACÉN POR TRASLADOS*
 
 - **Transacciones de usuario**:
