@@ -6,7 +6,7 @@ Introducción
 ============
 ------
 
-El módulo de inventario le permite administrar y gestionar todas las operaciones relacionadas a los productos que son comercializados en la empresa.
+El módulo de inventario cambio le permite administrar y gestionar todas las operaciones relacionadas a los productos que son comercializados en la empresa.
 
 Entre las principales operaciones que podrá realizar en el módulo de inventario se listan las siguientes :
 
