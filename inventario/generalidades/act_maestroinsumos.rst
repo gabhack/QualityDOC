@@ -38,7 +38,7 @@ En el catálogo de productos podrá crear las siguientes clases de items:
 :Presentaciones:
   No manejan inventario y hacen referencia a una cantidad especifica de productos
 
-Cada tipo de item está representado por una carpeta en el arbol de productos, como se muestra en la siguiente imagen
+Cada tipo de item está representado por una carpeta en el árbol de productos, como se muestra en la siguiente imagen
 
 .. figure:: /_images/generales/placeholder.png
    :align: center
@@ -77,7 +77,7 @@ Editar una Línea
 
 Para editar una línea de productos/servicios siga los siguientes pasos:
 
-- Hubique en el arbol la línea que quiere editar y seleccionela haciendo click sobre ella
+- Hubique en el árbol la línea que quiere editar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |wzedit.bmp| *Modificar línea*
 - El nombre de la línea se marcará en azul, indicando que puede editar el texto
@@ -88,7 +88,7 @@ Eliminar una Línea
 
 Para eliminar una línea de productos/servicios siga los siguientes pasos:
 
-- Hubique en el arbol la línea que quiere eliminar y seleccionela haciendo click sobre ella
+- Hubique en el árbol la línea que quiere eliminar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |delete.bmp| *Eliminar línea*
 - El sistema le pedirá que confirme su intención de eliminar la línea
@@ -115,7 +115,7 @@ Crear una Sub Línea
 
 Para crear una sub línea de productos/servicios siga los siguientes pasos:
 
-- Hubique en el arbol la línea en la cual desea crear la nueva sub línea y seleccionela haciendo click sobre ella
+- Hubique en el árbol la línea en la cual desea crear la nueva sub línea y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |wznew.bmp| *Nueva sub línea*
 - El sistema creará una carpeta con el siguiente texto : *Digite el nombre de la sub línea*
@@ -126,7 +126,7 @@ Editar una Sub Línea
 
 Para editar una sub línea de productos/servicios siga los siguientes pasos:
 
-- Hubique en el arbol la sub línea que desea editar y seleccionela haciendo click sobre ella
+- Hubique en el árbol la sub línea que desea editar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |wzedit.bmp| *Modificar sub línea*
 - El nombre de la sub línea se marcará en azul, indicando que puede editar el texto
@@ -135,7 +135,7 @@ Para editar una sub línea de productos/servicios siga los siguientes pasos:
 Eliminar una Sub Línea
 ----------------------
 
-- Hubique en el arbol la sub línea que desea eliminar y seleccionela haciendo click sobre ella
+- Hubique en el árbol la sub línea que desea eliminar y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |delete.bmp| *Eliminar sub línea*
 - El sistema le pedirá que confirme su intención de eliminar la sub línea
@@ -150,7 +150,7 @@ Productos & Servicios
 Introducción
 ------------
 
-Los productos/servicios son el último nivel en el arbol, contienen la información necesaria para facilitar su compra/venta.
+Los productos/servicios son el último nivel en el árbol, contienen la información necesaria para facilitar su compra/venta.
 
 .. figure:: /_images/generales/placeholder.png
    :align: center
@@ -182,7 +182,7 @@ Crear un producto/servicio
 
 Para crear un productos/servicios siga los siguientes pasos:
 
-- Hubique en el arbol la sub línea en la que desea crear el producto/servicio y seleccionela haciendo click sobre ella
+- Hubique en el árbol la sub línea en la que desea crear el producto/servicio y seleccionela haciendo click sobre ella
 - Haga click-dereho sobre la sub línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |wznew.bmp| *Nuevo producto* o *Nuevo Servicio* según sea el caso
 - El sistema desplegará una ventana solicitando la siguiente información
@@ -202,10 +202,10 @@ En la siguiente imagen se puede apreciar la ventana de creación de productos/se
 
    Ventana de creación de productos/servicios
 
-Buscar un Producto/Servicio en el arbol
+Buscar un Producto/Servicio en el árbol
 ---------------------------------------
 
-Con un catálogo muy extenso, puede ser dificil ubicar un producto/servicio en el arbol; por esta razón existe un mecanismo de busqueda que le permitirá ubicar facilmente el item que necesite.
+Con un catálogo muy extenso, puede ser dificil ubicar un producto/servicio en el árbol; por esta razón existe un mecanismo de busqueda que le permitirá ubicar facilmente el item que necesite.
 
 Para buscar un productos/servicio siga los siguientes pasos:
 
@@ -213,14 +213,14 @@ Para buscar un productos/servicio siga los siguientes pasos:
 - El sistema despliega la busqueda de productos/servicios
 - Digite el nombre del producto/servicio
 - Confirme la selección colocandose sobre el producto/servicio y presionando la tecla ENTER o haciendo doble-click
-- El sistema ubicará el producto/servicio en el arbol y desplegará sus carácteristicas en el panel de detalles
+- El sistema ubicará el producto/servicio en el árbol y desplegará sus carácteristicas en el panel de detalles
 
 Editar un Producto/Servicio
 ---------------------------
 
 Para editar un productos/servicio siga los siguientes pasos:
 
-- Ubique el producto/servicio en el arbol, vea : `Buscar un Producto/Servicio en el arbol`_.
+- Ubique el producto/servicio en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_.
 - En el panel de detalles haga click en el icono |wzedit.bmp| para habilitar la edición de las propiedades del producto/servicio
 - Realice los cambios pertinentes
 - En el panel de detalles haga click en el icono |save.bmp| para guardar los cambios
@@ -230,7 +230,7 @@ Eliminar un Producto/Servicio
 
 Para eliminar un productos/servicio siga los siguientes pasos:
 
-- Ubique el producto/servicio en el arbol, vea : `Buscar un Producto/Servicio en el arbol`_.
+- Ubique el producto/servicio en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_.
 - Haga click-dereho sobre el producto/servicio seleccionado para desplegar el menú contextual
 - Seleccione la opción |delete.bmp| *Eliminar producto* o *Eliminar servicio* según el caso
 - El sistema pedirá confirmar la solicitud de eliminación
@@ -246,7 +246,7 @@ Después de un tiempo considerable creando productos/servicios se encontrará co
 
 Para descontinuar un producto/servicio siga los siguientes pasos:
 
-- Ubique el producto/servicio en el arbol, vea : `Buscar un Producto/Servicio en el arbol`_.
+- Ubique el producto/servicio en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_.
 - Haga click-dereho sobre el producto/servicio seleccionado para desplegar el menú contextual
 - Seleccione la opción |descartar.bmp| *Descontinuar <<producto/servicio>>*
 - El sistema pedirá confirmar la solicitud de descontinuar el producto/servicio
@@ -273,7 +273,7 @@ Re-Clasificar Producto/Servicio
 
 La correcta clasificación de los productos/servicios en líneas y sub líneas, es muy importante porque nos permite:
 
-- Ubicar fácilmente y de manera lógica los productos/servicios en el arbol
+- Ubicar fácilmente y de manera lógica los productos/servicios en el árbol
 - Obtener estadísticas de ventas e inventarios por medio de esta clasificación
 - Establecer la interface contable de los productos/servicios por medio en esta clasificación
 
@@ -289,16 +289,120 @@ Familias de Productos
 Introducción
 ------------
 
-Casos de uso
-------------
+Usted podrá crear familias de productos para agrupar artículos que tengan las mismas especificaciones generales y varíen en algunos detalles no relevantes para su inventario como color, sabor, esencia, etc...
 
 Agregar productos a una familia
 -------------------------------
+Introducción
+------------
+Usted podrá crear una familia de productos cuando varios de los artículos en su centro de costo posean características muy similares y usted no necesite diferenciarlos con referencias diferentes.
 
-Remover productos de una familia
---------------------------------
+Antes de comenzar (pre-requisitos para agregar un producto a una familia)
+-------------------------------------------------------------------------
 
-Agregar/Quitar imagen a un Producto/Servicio
+  Para agregar un producto a una familia, primero deberá:
+    - Crear un producto ref : Este producto deberá tener especificaciones generales y sin ingresar un código de barra.
+    
+       **Ejemplo 1**
+        
+       Si desea crear una familia de velas aromáticas cuyas esencias comprenden: fresa, mandarina, manzana, etc... entonces primero deberá crear un producto llamado 'Vela Aromática' y agregar en él solo las especificaciones que coincidan con todos los miembros de la familia, como por ejemplo en este caso: el peso o el número de unidades por empaque.
+        
+Para agregar productos a una familia
+------------------------------------
+
+Para agregar diferentes productos a una misma familia siga estos pasos:
+  - Ubique el producto/servicio en el árbol, vea : Buscar un Producto en el árbol. Vea : `Buscar un Producto/Servicio en el árbol`_.
+  - En el panel de detalles haga click en el icono |wzedit.bmp| para habilitar la edición de las propiedades del producto.
+  - Pulse el botón *contabilidad* y aparecerá una ventana flotante.
+  - En las pestañas, haga click en *familia*, aquí podrá agregar seguidamente todos los productos que pertenezcan a la misma familia.
+    
+   .. Note::
+    
+    Cada producto de características específicas, aunque pertenezca a la misma familia, tiene un código de barras diferente. 
+    
+  - Ingrese en *Cód. Barra* el código de barra del producto específico que agregará a la familia.
+  - En el siguiente cuadro de texto indique la característica específica que lo hace diferente al resto de la familia (color, esencia, sabor, etc...)
+  
+        **Ejemplo 1.1**
+      
+        Según el Ejemplo 1, quedaría de la siguiente forma
+        Cód. barra |########| Variante |mandarina|
+  
+  - Presione Enter, y vea como es agregado a la lista.
+  - A continuación puede seguir agregando productos a la familia o guardar los cambios en el Icono |save.bmp| Guardar.
+  
+
+Agregar productos existentes a una familia
+------------------------------------------
+
+Introducción:
+-------------
+
+Si ya ha agregado productos muy parecidos al inventario y ahora desea unirlos a una familia ya creada para usar una sola referencia, entonces agregelos a una familia ya existente.
+
+Antes de comenzar (pre-requisitos para agregar un producto existente a una familia)
+-------------------------------------------------------------------
+
+Para agregar un producto existente usted primero deberá:
+    - Haber creado productos anteriormente.
+    
+    
+Para agregar productos existentes a una familia
+-----------------------------------------------
+
+Para agregar diferentes productos existentes a una misma familia siga los siguientes pasos:
+  - Ubique el producto en el árbol, vea : Buscar un Producto en el árbol. ref
+  - En el panel de detalles haga click en el icono |wzedit.bmp| para habilitar la edición de las propiedades del producto.
+  - Pulse el botón *contabilidad* y aparecerá una ventana flotante.
+  - En las pestañas, haga click en *familia*, aquí podrá agregar seguidamente todos los productos existentes que pertenezcan a la misma familia.
+  - Presione el botón *agregar insumos existentes a esta familia*
+  - Se desplegará una nueva ventana con el listado de productos existentes en el inventario, podrá usar la barra de búsqueda o moverse por la lista. Cuando encuentre un producto que dese agregar a esta familia, enlístelo haciendo click sobre el cuadro de check al final de la fila. Puede enlistar todos los productos que desee.
+  - Después de haber seleccionado al menos 1 producto, podrá hacer click en el botón de abajo *agregar insumos existentes a esta familia*
+  - A partir de allí, podrá visualizar en la lista de productos de la pestaña *Familia* aquellos productos que seleccionó
+
+
+Agregar/Quitar imagen a un Producto
+===================================
+
+Agregar imagen a un Producto
+----------------------------
+Introducción
+------------
+Use las imagenes de los productos para identificarlos de mejor manera. Podrá agregar una sola imágen a cada artículo y quitarla cuando lo desee.
+
+Antes de comenzar (pre-requisitos para agregar imagen a un Producto)
+-------------------------------------------------------------------
+
+Para agregar la imagen a un Producto usted primero deberá:
+    - Haber creado el producto anteriormente.
+    
+Para agregar imagen a un Producto
+------------------------------------
+Para agregar una imagen a un producto existente siga los siguientes pasos:
+  - Ubique el producto en el árbol, vea : Buscar un Producto en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_.
+  - En el panel de detalles haga click en *habilitar edición* |wzedit.bmp| para habilitar la edición de las propiedades del producto.
+  - Haga doble click en el cuadro designado para la imagen.
+  - Aparecerá un cuadro de dialogo donde podrá ubicar el archivo de imagen que necesita para el producto, seleccionelo y haga click en 'Abrir'.
+  - Vera la imagen adaptada al cuadro. Ahora puede guardar los cambios haciendo click en *guardar* |save.bmp|
+ 
+Quitar imagen a un Producto
+------------------------------------ 
+
+Antes de comenzar (pre-requisitos para quitar imagen a un Producto)
+-------------------------------------------------------------------
+
+Para Quitar la imagen a un Producto usted primero deberá:
+    - Haber creado el producto anteriormente.
+    - Haber agregado una imágen al producto seleccionado.
+    
+Para quitar imagen a un Producto
+-----------------------------------
+
+Para quitar la imagen a un producto existente siga los siguientes pasos:
+  - Ubique el producto en el árbol, vea : Buscar un Producto en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_.
+  - En el panel de detalles haga click en *habilitar edición* |wzedit.bmp| para habilitar la edición de las propiedades del producto.
+  - Haga click-derecho en el cuadro designado para la imagen.
+  - Aparecerá un pequeño recuadro con el símbolo |delete.bmp| y con el texto 'Quitar Imagen', haga click en él.
 --------------------------------------------
 
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp

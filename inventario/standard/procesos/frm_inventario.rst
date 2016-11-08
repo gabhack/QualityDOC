@@ -2,6 +2,18 @@
 Entradas, salidas & transferencias de mercancías
 ==================================================
 
+Ubicación
+=========
+
+:Módulo:
+ Inventario
+
+:Grupo:
+ Operaciones
+
+:Descripción:
+ Entradas, salidas y transferencia de mercancías
+
 Introducción
 ============
  
@@ -249,7 +261,7 @@ Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
   	 .. Note::
   		Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema. ref
 
-- Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de insumos/productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
+  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de insumos/productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
   - Verá como aparece información relacionada al producto:
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento|+|
   - En el campo *cantidad* introduzca la cantidad de productos de este tipo que pedirá al proveedor. Presione Enter.
