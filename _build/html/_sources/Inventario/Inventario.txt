@@ -20,7 +20,7 @@ Entre las principales operaciones que podrá realizar en el módulo de inventari
 
 A continuación se listan las diferentes opciones de manejo de inventario en el sistema, deberá ingresar a la opción que corresponda de acuerdo a el tipo de inventario que maneje su empresa, por ejemplo: inventario standard, inventario por tallaje o inventario por lotes.
 
-En la primera opción : **Generalidades del módulo de inventario**, encontrará opciones de uso común, como el catálogo de productos, administración de unidades de medida, entre otros. 
+En la primera opción : **Generalidades del módulo de inventario**, encontrará opciones de uso común, como el catálogo de productos, administración de unidades de medida, entre otros.
 
 -------
 
