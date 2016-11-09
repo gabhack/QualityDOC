@@ -31,7 +31,7 @@ Entradas de mercancías
 Introducción
 ------------
 
-Las entradas de mercancías se refieren a todo aquel producto que llegue al centro de costo y deba ser registrado en el sistema, sea cual sea la razón de su llegada, a continuación podrá leer sobre los tipos de entradas existentes.
+Las entradas de mercancías se refieren a un proceso de inventario donde usted podrá registrar en el sistema, todo aquel producto que llegue al centro de costo, sea cual sea la razón de su llegada, a continuación podrá leer sobre los tipos de entradas existentes.
 
  .. NOTE::
 
@@ -40,13 +40,15 @@ Las entradas de mercancías se refieren a todo aquel producto que llegue al cent
 Tipos de entradas
 -----------------
 
-Existen diferentes motivos por los cuales se da ingreso a un producto en el centro de costo, es importante conocer el motivo por el cual un producto ha sido ingresado a sistema.
+Existen dos formas principales en que la mercancía puede entrar al sistema de inventario:
 
-  - Entradas de almacén por compras.
+  - Entradas de almacén por compras a proveedores.
   - Entradas por otros conceptos  
- 
-Antes de comenzar (Pre-requisitos para realizar una *Entrada por compra a proveedores*)
----------------------------------------------------------------------------------------
+
+Entradas de almacén por compras a proveedores:
+---------------------------------------------- 
+Pre-requisitos 
+^^^^^^^^^^^^^^
 
 Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar cierto tipo de entradas:
   .. se puede hacer referencia a la creación de un centro de costo ref
@@ -56,10 +58,10 @@ Para comenzar es importante saber que se necesita la creación de algunos parám
   
 Cualquier entrada a inventario deberá tener un *número de remisión* que puede ser una factura de compra, un número de remisión, un documento, etc...
 
-Entradas por compras a proveedores
-----------------------------------
+Para realizar entradas por compras a proveedores
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Usted realiza una Entrada por compras a proveedores, cuando los productos que desea ingresar han sido comprados por la empresa a un proveedor específico. 
+Usted realiza la operación *Entrada por compras a proveedores* cuando los productos que desea ingresar han sido comprados por la empresa a un proveedor específico. 
 
 Para realizar una *Entrada por compras al proveedor* al sistema siga los siguientes pasos:
 
@@ -95,11 +97,6 @@ Para realizar una *Entrada por compras al proveedor* al sistema siga los siguien
 	 .. NOTE:: 
 	   El campo IVA sólo estará presente en la entrada de *mercancía por compras a proveedor* y además si está permitido en las características del producto.
 
-Antes de comenzar (Pre-requisitos para realizar una *Entrada por otros conceptos*)
------------------------------------------------------------------------------------
- .. se puede hacer referencia
-  - Crear un centro de costo
-
 Entradas por otros conceptos
 ----------------------------
 
@@ -107,6 +104,15 @@ Algunas de las entradas por otros conceptos que pueden existir son:
 
   - Saldos iniciales de inventarios: Use esta entrada cuando está abriendo el centro de costo contable y administrativamente y tiene un inventario inicial.
   - Entrada de almacén por ajuste débito: Entrada de mercancía a través de una nota de débito.
+
+Pre-requisitos
+^^^^^^^^^^^^^^
+
+ .. se puede hacer referencia
+  - Crear un centro de costo
+
+Para realizar entradas por otros conceptos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Para realizar una *Entrada* por cualquiera de estos u otros conceptos, siga los siguientes pasos:
 
@@ -145,13 +151,13 @@ Salidas de mercancias
 Introducción
 ------------
 
-Las *salidas de mercancías* se refieren al registro de toda salida de un producto del centro de costo. Esta salida puede darse por un concepto predefinido por el usuario o por un proceso administrativo del sistema, tal como: Factura de venta, devolución al proveedor, etc...
+Las *salidas de mercancías* son una operación de inventario para el registro de toda salida de un producto del centro de costo. Esta salida puede darse por un concepto predefinido por el usuario o por un proceso administrativo del sistema, tal como: Factura de venta, devolución al proveedor, etc...
 
  .. NOTE::
    En *Generalidades del Módulo de Inventario - Definición de Transacciones de Inventario* Aprendió a crear nuevos tipos de salidas que ahora aparecerán a la hora de dar salida a la mercancía.    
     
-Salidas de mercancías por conceptos
------------------------------------
+Para realizar salidas de mercancías por conceptos
+-------------------------------------------------
 
 Para dar salida a un producto o conjunto de productos del centro de costo, siga los siguientes pasos:
 
@@ -167,7 +173,7 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
   - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter.
   
      .. Note::
-     En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo. Solo la cantidad. Si desea hacer una salida especificando todos o alguno de estos campos, deberá crear una Factura a cliente, en el apartado *Ventas*.
+     En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo. 
   
   - Presione Enter de Nuevo para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
@@ -183,10 +189,10 @@ Transferencias de mercancías
 ============================
 Introducción
 ------------
-Puede usar la opción de *traslado entre bodegas* para llevar mercancía desde un centro de costo a otro. De esta manera puede intercambiar productos en sus centros de costo y siempre mantenerlos actualizados.
+*Traslado entre bodegas* es una operación que permite llevar mercancía desde un centro de costo a otro. De esta manera puede intercambiar productos en sus centros de costo y siempre mantenerlos actualizados.
 
-Antes de comenzar (pre-requisitos para realizar un *traslado entre bodegas*
----------------------------------------------------------------------------
+Pre-requisitos
+--------------
  Para realizar un *traslado entre bodegas* primero deberá:
    - Tener al menos dos centros de costos creados.
    - Poseer al menos un producto en el centro de costo de origen.
@@ -227,10 +233,10 @@ Ordenes de compra
 Introducción
 ------------
 
-La orden de compra es un documento mediante el cual usted puede hacer un pedido detallado al proveedor. Puede registrar estas ordenes en el sistema y luego comparar con el pedido que llega.
+La orden de compra es un proceso mediante el cual usted puede hacer un pedido detallado al proveedor. Puede registrar estas ordenes en el sistema y luego comparar con el pedido que llega.
 
-Antes de comenzar (Pre-requisitos para realizar una *Entrada por orden de compra a proveedores*)
-------------------------------------------------------------------------------------------------
+Pre-requisitos
+--------------
 
 Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar una orden de compra:
   .. se puede hacer referencia
@@ -282,15 +288,15 @@ Para eliminar una orden de compra siga estos pasos:
  - Vera un mensaje de confirmación donde deberá pulsar 'Sí' si está seguro de eliminarla.
 
 Entrada de mercancías por medio de orden de compra existente
-------------------------------------------------------------
+============================================================
 
 Introducción
 ------------
 
-Puede realizar una entrada de mercancía a partir de una orden de compra hecha anterioremente. No tendrá que elegir los productos de nuevo sino, más bien, verificar la cantidad de productos que entrarán con respecto a la orden que realizó.
+Puede realizar una operación de *entrada de mercancía* a partir de una *orden de compra* hecha anterioremente. No tendrá que elegir los productos de nuevo sino, más bien, verificar la cantidad de productos que entrarán con respecto a la orden que realizó.
 
-Antes de comenzar (Pre-requisitos para realizar una *Entrada por compra a proveedores*)
-----------------------------------------------------------------------------------------
+Pre-requisitos
+--------------
 
 Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar una entrada de mercancía por orden de compra:
  .. se puede hacer referencia
@@ -300,7 +306,7 @@ Para comenzar es importante saber que se necesita la creación de algunos parám
   - Haber creado una **orden de compra** con anterioridad.
  
 Para crear una entrada de mercancías por medio de orden de compra existente
-----------------------------------------------------------------------------
+---------------------------------------------------------------------------
  
 Para realizar una *Entrada de mercancía por orden de compra* al sistema siga los siguientes pasos:
 
