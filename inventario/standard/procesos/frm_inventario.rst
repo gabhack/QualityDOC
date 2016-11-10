@@ -186,7 +186,7 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
    +------+----------+----+-----+--------+-----+---------+-----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento| |plus.bmp||
    +------+----------+----+-----+--------+-----+---------+-----------+  - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter.
-  
+
      .. Note::
      En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo.
 
@@ -360,14 +360,8 @@ Para realizar una *Entrada de mercancía* por orden de compra al sistema siga lo
   	- Revise que el listado, los costos, IVA, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
  	- El sistema pedirá que confirme el procedimiento, seleccione *sí*.
  	- Visualizará en un documento un comprobante de ingreso de mercancía por compra a proveedor. Puede imprimirlo para respaldo físico. Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
-<<<<<<< HEAD
-
-
-
-=======
 
 .. |plus.bmp| image:: /_images/generales/plus.bmp
->>>>>>> fc968547d6978793244e5902c2fe28deb9d67244
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
@@ -376,7 +370,3 @@ Para realizar una *Entrada de mercancía* por orden de compra al sistema siga lo
 .. |refresh.bmp| image:: /_images/generales/refresh.bmp
 .. |descartar.bmp| image:: /_images/generales/descartar.bmp
 .. |save.bmp| image:: /_images/generales/save.bmp
-<<<<<<< HEAD
-=======
-.. |plus.bmp| image:: /_images/generales/plus.bmp
->>>>>>> fc968547d6978793244e5902c2fe28deb9d67244
