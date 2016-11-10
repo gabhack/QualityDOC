@@ -16,22 +16,22 @@ Ubicación
 
 Introducción
 ============
- 
+
 En la opción *Entradas, salidas & transferencias de mercancías* usted podrá manejar la ubicación, la entrada o la salida de los insumos o productos que actualmente están registrados en el sistema.
 
-La opción Entradas, salidas & transferencias de mercancías le permitirá entre otras cosas.
+La opción *Entradas, salidas & transferencias de mercancías* le permitirá entre otras cosas.
 
   - Dar entrada a productos al inventario
   - Dar salida a productos del inventario
-  - Trasladar productos de un centro de costo a otro.  
-  
+  - Trasladar productos de un centro de costo a otro.
+
 Entradas de mercancías
 ======================
 
 Introducción
 ------------
 
-Las entradas de mercancías se refieren a un proceso de inventario donde usted podrá registrar en el sistema, todo aquel producto que llegue al centro de costo, sea cual sea la razón de su llegada, a continuación podrá leer sobre los tipos de entradas existentes.
+La entrada de mercancía es un proceso de inventario que le permitirá registrar en el sistema, todo aquel producto que llegue al centro de costo, sea cual sea la razón de su llegada, a continuación podrá leer sobre los tipos de entradas existentes.
 
  .. NOTE::
 
@@ -42,45 +42,47 @@ Tipos de entradas
 
 Existen dos formas principales en que la mercancía puede entrar al sistema de inventario:
 
-  - Entradas de almacén por compras a proveedores.
-  - Entradas por otros conceptos  
+  - Entradas de almacén por compras (Ingreso de facturas de compra a proveedores)
+  - Entradas por otros conceptos (Conceptos definidos por el usuario, ej: entrada por obsequio, etc ...)
 
-Entradas de almacén por compras a proveedores:
----------------------------------------------- 
-Pre-requisitos 
+Entradas de almacén por compras
+-------------------------------
+Pre-requisitos
 ^^^^^^^^^^^^^^
 
-Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar cierto tipo de entradas:
-  .. se puede hacer referencia a la creación de un centro de costo ref
-  - Crear un centro de costo. 
-  - Crear un Proveedor.
-  - Habilitar el centro de costo para recibir mercancía por compras.
-  
-Cualquier entrada a inventario deberá tener un *número de remisión* que puede ser una factura de compra, un número de remisión, un documento, etc...
+Para poder realizar una entrada de almacén por compras, tenga en cuenta que :
+  .. se puede hacer referencia a la creación de un centro de costo, creación de proveedor y vinculo a la explicación de la conf del centro en cuantro a compras ref
+  - Debe existir por lo menos un centro de costo.
+  - Debe haber creado el proveedor al cual va a realizarle la compra.
+  - Debe habilitar el centro de costo para realizar compras.
 
-Para realizar entradas por compras a proveedores
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cualquier entrada a inventario deberá tener un *número de remisión* que puede ser una factura de compra, un número de remisión, un documento soporte, etc...
 
-Usted realiza la operación *Entrada por compras a proveedores* cuando los productos que desea ingresar han sido comprados por la empresa a un proveedor específico. 
+Para realizar entradas por compras
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Para realizar una *Entrada por compras al proveedor* al sistema siga los siguientes pasos:
+Usted realizará la operación *Entrada de almacén por compras* cuando los productos que desea ingresar han sido comprados por la empresa a un proveedor específico y cuenta con un documento de soporte como una factura o una remisión.
 
-  - Ejecute la opción Entradas, salidas & transferencias de mercancías
+Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
+
+  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*
   - Escoja el proceso *Entradas*
   - Escoja el *Centro de costo* donde ingresará la mercancía
-  - Seleccione el concepto *Entrada de almacén por compras'
+  - Seleccione el concepto *Entrada de almacén por compras*
   - Usted verá como aparecen dos nuevos campos en pantalla: Proveedor y tipo de compra.
-  -Seleccione el Proveedor al cual se le ha comprado la mercancía entrante.
-  -Seleccione el tipo de compra. Existen dos tipos de compra:
-    - Factura: Se habla de factura cuando los productos deben incluir algún tipo de impuesto.
-    - Remisión: Use esta opción para realizar una entrada de mercancía que no reflejará impuesto alguno.
+  - Seleccione el Proveedor al cual se le ha comprado la mercancía entrante.
+  - Seleccione el tipo de compra. Existen dos tipos de compra:
+
+      - Factura: Se habla de factura cuando los productos deben incluir algún tipo de impuesto.
+      - Remisión: Use esta opción para realizar una entrada de mercancía que no reflejará impuesto alguno.
   - Agregue alguna observación apropiada para describir este proceso de entrada.
   - Especifique el *Remisión No* - Puede indicar aquí cualquier control pertinente indicado en el documento físico de la factura o la remisión.
-  - Puede introducir un monto para los fletes que será distribuido entre el costo de los insumos de la compra. 
+  - Puede introducir un monto para los fletes que será distribuido entre el costo de los insumos de la compra.
+  
     .. se puede hacer referencia a quien es el admin del sistema ref
-	 .. NOTE::  
-	   Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema. 
+	 .. NOTE::
+	   Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
 
   - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
   - Verá como aparece información relacionada al producto:
@@ -92,10 +94,10 @@ Para realizar una *Entrada por compras al proveedor* al sistema siga los siguien
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos, IVA, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
-  - Visualizará en un documento un comprobante de ingreso de mercancía por compra a proveedor. Puede imprimirlo para respaldo físico. Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.  
-  
-	 .. NOTE:: 
-	   El campo IVA sólo estará presente en la entrada de *mercancía por compras a proveedor* y además si está permitido en las características del producto.
+  - Visualizará en un documento un comprobante de ingreso de mercancía por compra a proveedor. Puede imprimirlo para respaldo físico. Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
+
+	 .. NOTE::
+	   El campo IVA sólo estará presente en la opción *Entrada de almacén por compras* y además si está permitido en las características del producto.
 
 Entradas por otros conceptos
 ----------------------------
@@ -123,10 +125,10 @@ Para realizar una *Entrada* por cualquiera de estos u otros conceptos, siga los 
   - Seleccione el concepto apropiado
   - Agregue alguna observación apropiada para describir este proceso de entrada.
   - Especifique el *Remisión No* - Puede indicar aquí cualquier control pertinente indicado en el documento físico de la factura o la remisión.
-  - Puede introducir un monto para los fletes que será distribuido entre el costo de los productos de la compra. 
+  - Puede introducir un monto para los fletes que será distribuido entre el costo de los productos de la compra.
    .. se puede hacer referencia
-	 .. NOTE:: 
-        Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema. 
+	 .. NOTE::
+        Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
 
 - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
   - Verá como aparece información relacionada al producto:
@@ -143,7 +145,7 @@ Para realizar una *Entrada* por cualquiera de estos u otros conceptos, siga los 
 Fletes
 ------
 
-El campo flete en las entradas de mercancía de cualquier tipo, afecta el costo total de la factura y de cada producto, distribuyendo el flete entre cada uno de los productos ingresados. Esto podrá observarlo al generar el comprobante. 
+El campo flete en las entradas de mercancía de cualquier tipo, afecta el costo total de la factura y de cada producto, distribuyendo el flete entre cada uno de los productos ingresados. Esto podrá observarlo al generar el comprobante.
 
 Salidas de mercancias
 =====================
@@ -154,8 +156,8 @@ Introducción
 Las *salidas de mercancías* son una operación de inventario para el registro de toda salida de un producto del centro de costo. Esta salida puede darse por un concepto predefinido por el usuario o por un proceso administrativo del sistema, tal como: Factura de venta, devolución al proveedor, etc...
 
  .. NOTE::
-   En *Generalidades del Módulo de Inventario - Definición de Transacciones de Inventario* Aprendió a crear nuevos tipos de salidas que ahora aparecerán a la hora de dar salida a la mercancía.    
-    
+   En *Generalidades del Módulo de Inventario - Definición de Transacciones de Inventario* Aprendió a crear nuevos tipos de salidas que ahora aparecerán a la hora de dar salida a la mercancía.
+
 Para realizar salidas de mercancías por conceptos
 -------------------------------------------------
 
@@ -171,18 +173,18 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
   - Verá como aparece información relacionada al producto:
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento|+|
   - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter.
-  
+
      .. Note::
-     En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo. 
-  
+     En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo.
+
   - Presione Enter de Nuevo para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
-  - Visualizará un comprobante de salida. Puede imprimirlo para respaldo físico. 
-  
+  - Visualizará un comprobante de salida. Puede imprimirlo para respaldo físico.
+
       .. Note::
-        
+
       Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
 
 Transferencias de mercancías
@@ -197,7 +199,7 @@ Pre-requisitos
    - Tener al menos dos centros de costos creados.
    - Poseer al menos un producto en el centro de costo de origen.
    - Tener los permisos correspondientes. Si no los tiene, comuníquese con su administrador de sistema.
-   
+
 Para realizar Transferencias de mercancías
 ------------------------------------------
 
@@ -212,19 +214,19 @@ Para realizar una transferencia de mercancías de un centro de costo a  otro, si
   - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos a los que quiere dar salida. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima enter de nuevo.
   - Verá como aparece información relacionada al producto:
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento|+|
-  - En el campo *cantidad* introduzca la cantidad de productos de este tipo que saldrán del centro de costo. Presione Enter.           
-       
+  - En el campo *cantidad* introduzca la cantidad de productos de este tipo que saldrán del centro de costo. Presione Enter.
+
      .. Note::
      En el caso de un traslado entre centros de costo, no se podrá especificar: descuento, IVA, flete ni costo. Solo la cantidad.
-        
+
   - Presione Enter de Nuevo para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
-  - Visualizará un comprobante de salida. Puede imprimirlo para respaldo físico. 
+  - Visualizará un comprobante de salida. Puede imprimirlo para respaldo físico.
   - Ahora podrá consultar ambas bodegas y ver los cambios en las cantidades de producto. Para consultar, consulte en el manual acerca de este mismo módulo en el apartado *consultas*.
-  
-  	 .. Note::        
+
+  	 .. Note::
      Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
 
 
@@ -240,10 +242,10 @@ Pre-requisitos
 
 Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar una orden de compra:
   .. se puede hacer referencia
-  - Crear un centro de costo. 
+  - Crear un centro de costo.
   - Crear un Proveedor.
   - Habilitar el centro de costo para recibir mercancía por compras.
-  
+
 Para crear orden de compra
 --------------------------
 Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
@@ -261,7 +263,7 @@ Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
   - Puede introducir un monto para los fletes que será distribuido entre el costo de los productos de la compra.
      .. se puede hacer referencia
   	 .. Note::
-  		Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema. 
+  		Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
 
   - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
   - Verá como aparece información relacionada al producto:
@@ -272,11 +274,11 @@ Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos y fletes sean correctos y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
-  - Visualizará un comprobante de orden de compra. Puede imprimirlo para respaldo físico. 
-  		
+  - Visualizará un comprobante de orden de compra. Puede imprimirlo para respaldo físico.
+
  	 .. Note::
    	   Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
-  
+
 Eliminar orden de compra
 ------------------------
 
@@ -304,10 +306,10 @@ Para comenzar es importante saber que se necesita la creación de algunos parám
   - Crear un Proveedor.
   - Habilitar el centro de costo para recibir mercancía por compras.
   - Haber creado una **orden de compra** con anterioridad.
- 
+
 Para crear una entrada de mercancías por medio de orden de compra existente
 ---------------------------------------------------------------------------
- 
+
 Para realizar una *Entrada de mercancía por orden de compra* al sistema siga los siguientes pasos:
 
 	- Ejecute la opción Entradas, salidas & transferencias de mercancías
@@ -317,14 +319,14 @@ Para realizar una *Entrada de mercancía por orden de compra* al sistema siga lo
 	- Verá aparecer una lista desplegable a la derecha donde podrá seleccionar la *orden de compra* a la que quiere dar entrada.
 	- Cuando seleccione la *orden de compra* entonces verá en la lista de abajo todos los productos que aparecían en la orden.
 	- Haga check en los productos que llegaron a su centro de costo.
-	- Podrá modificar el campo *recibir* puede escribir la cantidad del producto que llegó realmente. 
+	- Podrá modificar el campo *recibir* puede escribir la cantidad del producto que llegó realmente.
 	- Pulse aceptar cuando haya seleccionado los productos y las cantidades correctas.
 	- Agregue alguna observación apropiada para describir este proceso de entrada de mercancía por orden de compra.
 	 - Especifique el *Remisión No* - Puede indicar aquí cualquier control pertinente indicado en el documento físico de la factura o la remisión.
-	 - Puede introducir un monto para los fletes que será distribuido entre el costo de los insumos de la compra. 
+	 - Puede introducir un monto para los fletes que será distribuido entre el costo de los insumos de la compra.
       .. se puede hacer referencia
    	 .. Note::
-   	    Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema. 
+   	    Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
 
 
   	- Verá como aparece información relacionada a cada producto en la lista.
@@ -333,9 +335,9 @@ Para realizar una *Entrada de mercancía por orden de compra* al sistema siga lo
   	- Revise que el listado, los costos, IVA, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
  	- El sistema pedirá que confirme el procedimiento, seleccione *sí*.
  	- Visualizará en un documento un comprobante de ingreso de mercancía por compra a proveedor. Puede imprimirlo para respaldo físico. Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
-  
 
- 
+
+
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
