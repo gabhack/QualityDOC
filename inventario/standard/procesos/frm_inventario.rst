@@ -185,7 +185,8 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
   - Verá como aparece información relacionada al producto:
    +------+----------+----+-----+--------+-----+---------+-----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento| |plus.bmp||
-   +------+----------+----+-----+--------+-----+---------+-----------+  - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter.
+   +------+----------+----+-----+--------+-----+---------+-----------+
+   - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter.
 
      .. Note::
      En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo.
@@ -226,15 +227,7 @@ Para realizar una transferencia de mercancías, siga estos pasos:
   - Escriba una observación de ser necesario.
   - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos a los que quiere dar salida. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima enter de nuevo.
   - Verá como aparece información relacionada al producto:
-<<<<<<< HEAD
-   |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento|+|
-  - En el campo *cantidad* introduzca la cantidad de productos de este tipo que saldrán del centro de costo. Presione Enter.
 
-     .. Note::
-     Al realizar un *Traslado entre bodegas* no se podrá especificar: descuento, IVA ni costo. Solo la cantidad.
-
-  - Presione Enter de Nuevo para agregar el producto a la lista.
-=======
    +------+----------+----+-----+--------+-----+---------+-----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento| |plus.bmp||
    +------+----------+----+-----+--------+-----+---------+-----------+
@@ -244,7 +237,6 @@ Para realizar una transferencia de mercancías, siga estos pasos:
      En el caso de un traslado entre centros de costo, no se podrá especificar: descuento, IVA, flete ni costo. Solo la cantidad.
 
   - Presione Enter de Nuevo o el ícono |plus.bmp| para agregar el producto a la lista.
->>>>>>> fc968547d6978793244e5902c2fe28deb9d67244
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *Sí*.
