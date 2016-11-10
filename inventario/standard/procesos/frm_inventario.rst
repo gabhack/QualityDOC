@@ -84,11 +84,13 @@ Para realizar una *Entrada por compras al proveedor* al sistema siga los siguien
 
   - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
   - Verá como aparece información relacionada al producto:
-   |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento|+|
+   +------+----------+----+-----+--------+-----+---------+-----------+
+   |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento| |plus.bmp||
+   +------+----------+----+-----+--------+-----+---------+-----------+
   - En el campo *cantidad* introduzca la cantidad de productos que han llegado al centro de costo. Presione Enter.
   - En el campo *costo* ingrese el precio del producto que aparece en la factura (sin IVA). Presione Enter.
   - En el campo *descuento* ingrese el porcentaje del descuento en caso de ser necesario. Presione Enter.
-  - Presione Enter de Nuevo para agregar el producto a la lista.
+  - Presione Enter de Nuevo o el ícono |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos, IVA, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
@@ -344,3 +346,4 @@ Para realizar una *Entrada de mercancía por orden de compra* al sistema siga lo
 .. |refresh.bmp| image:: /_images/generales/refresh.bmp
 .. |descartar.bmp| image:: /_images/generales/descartar.bmp
 .. |save.bmp| image:: /_images/generales/save.bmp
+.. |plus.bmp| image:: /_images/generales/plus.bmp
