@@ -79,7 +79,7 @@ Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
   - Agregue alguna observación apropiada para describir este proceso de entrada.
   - Especifique el *Remisión No* - Puede indicar aquí cualquier control pertinente indicado en el documento físico de la factura o la remisión.
   - Puede introducir un monto para los fletes que será distribuido entre el costo de los insumos de la compra.
-  
+
     .. se puede hacer referencia a quien es el admin del sistema ref
 	 .. NOTE::
 	   Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
@@ -102,23 +102,30 @@ Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
 Entradas por otros conceptos
 ----------------------------
 
-Algunas de las entradas por otros conceptos que pueden existir son:
+Las entradas de almacén por conceptos, le permiten al usuario personalizar las operaciones de inventario, marcandolas con un concepto especifico.
+Esto es de gran utilidad cuando nos interesa tener informes períodicos donde podamos analizar que tipo de operaciones se están realizando en el inventario.
 
-  - Saldos iniciales de inventarios: Use esta entrada cuando está abriendo el centro de costo contable y administrativamente y tiene un inventario inicial.
-  - Entrada de almacén por ajuste débito: Entrada de mercancía a través de una nota de débito.
+Algunas de las entradas por conceptos que pueden existir son:
+
+  - Saldos iniciales de inventarios: Use este concepto de entrada cuando está abriendo el centro de costo contable y administrativamente y tiene un inventario inicial.
+  - Entrada de almacén por ajuste débito: Use este concepto de entrada para fines diversos.
+  - Entrada de almacén por obsequio: Use este concepto cuando recibe obsequios de sus proveedores.
 
 Pre-requisitos
 ^^^^^^^^^^^^^^
 
- .. se puede hacer referencia
-  - Crear un centro de costo
+.. se puede hacer referencia
+Para poder realizar entradas de almacén por conceptos, tenga en cuenta que:
+
+- Debe existir por lo menos un centro de costo.
+- Debe existir por lo menos un concepto de entrada creado.
 
 Para realizar entradas por otros conceptos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Para realizar una *Entrada* por cualquiera de estos u otros conceptos, siga los siguientes pasos:
+Para realizar una *Entrada* de almacén por conceptos, siga los siguientes pasos:
 
-  - Ejecute la opción Entradas, salidas & transferencias de mercancías
+  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*
   - Escoja el proceso *Entradas*
   - Escoja el *Centro de costo* donde ingresará la mercancía
