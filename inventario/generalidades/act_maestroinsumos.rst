@@ -295,7 +295,7 @@ Familias de Productos
 Introducción
 ------------
 
-Usted podrá crear familias de productos para agrupar artículos que tengan las mismas especificaciones generales y varíen en algunos detalles no relevantes para su inventario como color, sabor, esencia, etc... Cree una familia de productos cuando varios de los artículos en su centro de costo posean características muy similares y usted no necesite diferenciarlos con referencias distintas.
+Usted podrá crear familias de productos para agrupar artículos que tengan las mismas especificaciones generales y varíen en algunos detalles no relevantes para su inventario como color, sabor, esencia, etc... Son útiles cuando varios de los artículos en su centro de costo posean características muy similares y usted no necesite diferenciarlos con referencias distintas.
 
 Pre-requisitos 
 --------------

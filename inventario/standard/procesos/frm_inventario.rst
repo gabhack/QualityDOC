@@ -138,7 +138,7 @@ Para realizar una *Entrada* por cualquiera de estos u otros conceptos, siga los 
   - En el campo *cantidad* introduzca la cantidad de productos que han llegado al centro de costo. Presione Enter.
   - En el campo *costo* ingrese el precio del producto que aparece en la remisión. Presione Enter.
   - En el campo *descuento* ingrese el monto del descuento en caso de ser necesario. Presione Enter.
-  - Presione Enter de Nuevo para agregar el producto a la lista.
+  - Presione Enter de Nuevo o el ícono |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
@@ -179,7 +179,7 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
      .. Note::
      En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo. 
   
-  - Presione Enter de Nuevo para agregar el producto a la lista.
+  - Presione Enter de Nuevo o el ícono |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
@@ -223,7 +223,7 @@ Para realizar una transferencia de mercancías de un centro de costo a  otro, si
      .. Note::
      En el caso de un traslado entre centros de costo, no se podrá especificar: descuento, IVA, flete ni costo. Solo la cantidad.
         
-  - Presione Enter de Nuevo para agregar el producto a la lista.
+  - Presione Enter de Nuevo o el ícono |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
@@ -276,7 +276,7 @@ Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
    +------+----------+----+-----+--------+-----+---------+-----------+
   - En el campo *cantidad* introduzca la cantidad de productos de este tipo que pedirá al proveedor. Presione Enter.
   - En el campo *costo* ingrese el costo del producto que aparece en la remisión. Presione Enter.
-  - Presione Enter de Nuevo para agregar el producto a la lista.
+  - Presione Enter de Nuevo o el ícono |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos y fletes sean correctos y presione F2 o el ícono |save.bmp| Guardar.
   - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
