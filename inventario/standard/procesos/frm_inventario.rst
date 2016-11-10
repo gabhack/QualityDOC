@@ -79,7 +79,7 @@ Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
   - Agregue alguna observación apropiada para describir este proceso de entrada.
   - Especifique el *Remisión No* - Puede indicar aquí cualquier control pertinente indicado en el documento físico de la factura o la remisión.
   - Puede introducir un monto para los fletes que será distribuido entre el costo de los insumos de la compra.
-  
+
     .. se puede hacer referencia a quien es el admin del sistema ref
 	 .. NOTE::
 	   Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
@@ -102,23 +102,30 @@ Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
 Entradas por otros conceptos
 ----------------------------
 
-Algunas de las entradas por otros conceptos que pueden existir son:
+Las entradas de almacén por conceptos, le permiten al usuario personalizar las operaciones de inventario, marcandolas con un concepto especifico.
+Esto es de gran utilidad cuando nos interesa tener informes períodicos donde podamos analizar que tipo de operaciones se están realizando en el inventario.
 
-  - Saldos iniciales de inventarios: Use esta entrada cuando está abriendo el centro de costo contable y administrativamente y tiene un inventario inicial.
-  - Entrada de almacén por ajuste débito: Entrada de mercancía a través de una nota de débito.
+Algunas de las entradas por conceptos que pueden existir son:
+
+  - Saldos iniciales de inventarios: Use este concepto de entrada cuando está abriendo el centro de costo contable y administrativamente y tiene un inventario inicial.
+  - Entrada de almacén por ajuste débito: Use este concepto de entrada para fines diversos.
+  - Entrada de almacén por obsequio: Use este concepto cuando recibe obsequios de sus proveedores.
 
 Pre-requisitos
 ^^^^^^^^^^^^^^
 
- .. se puede hacer referencia
-  - Crear un centro de costo
+.. se puede hacer referencia
+Para poder realizar entradas de almacén por conceptos, tenga en cuenta que:
+
+- Debe existir por lo menos un centro de costo.
+- Debe existir por lo menos un concepto de entrada creado.
 
 Para realizar entradas por otros conceptos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Para realizar una *Entrada* por cualquiera de estos u otros conceptos, siga los siguientes pasos:
+Para realizar una *Entrada* de almacén por conceptos, siga los siguientes pasos:
 
-  - Ejecute la opción Entradas, salidas & transferencias de mercancías
+  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*
   - Escoja el proceso *Entradas*
   - Escoja el *Centro de costo* donde ingresará la mercancía
@@ -163,7 +170,7 @@ Para realizar salidas de mercancías por conceptos
 
 Para dar salida a un producto o conjunto de productos del centro de costo, siga los siguientes pasos:
 
-  - Ejecute la opción Entradas, salidas & transferencias de mercancías
+  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*
   - Escoja el proceso *Salidas*
   - Escoja el *Centro de costo* de donde saldrá la mercancía
@@ -175,7 +182,7 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
   - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter.
 
      .. Note::
-     En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo.
+     Al realizar una salida de mercancías no se podrá especificar: descuento, IVA, flete ni costo.
 
   - Presione Enter de Nuevo para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
@@ -185,27 +192,27 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
 
       .. Note::
 
-      Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
+      Podrá reimprimir este comprobante en la opción *Reimpresión de transacciones de inventario* de este mismo apartado.
 
 Transferencias de mercancías
 ============================
 Introducción
 ------------
-*Traslado entre bodegas* es una operación que permite llevar mercancía desde un centro de costo a otro. De esta manera puede intercambiar productos en sus centros de costo y siempre mantenerlos actualizados.
+*Traslado entre bodegas* es una operación de inventario que permite envíar mercancía de un centro de costo a otro. De esta manera puede intercambiar productos en sus centros de costo y siempre mantenerlos actualizados.
 
 Pre-requisitos
 --------------
  Para realizar un *traslado entre bodegas* primero deberá:
    - Tener al menos dos centros de costos creados.
-   - Poseer al menos un producto en el centro de costo de origen.
+   - Poseer existencias de productos en el centro de costo origen.
    - Tener los permisos correspondientes. Si no los tiene, comuníquese con su administrador de sistema.
 
 Para realizar Transferencias de mercancías
 ------------------------------------------
 
-Para realizar una transferencia de mercancías de un centro de costo a  otro, siga estos pasos:
+Para realizar una transferencia de mercancías, siga estos pasos:
 
-  - Ejecute la opción Entradas, salidas & transferencias de mercancías
+  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*.
   - Escoja el proceso *Traslado entre bodegas*.
   - Escoja el *centro de costo* de donde saldrá la mercancía.
@@ -217,17 +224,17 @@ Para realizar una transferencia de mercancías de un centro de costo a  otro, si
   - En el campo *cantidad* introduzca la cantidad de productos de este tipo que saldrán del centro de costo. Presione Enter.
 
      .. Note::
-     En el caso de un traslado entre centros de costo, no se podrá especificar: descuento, IVA, flete ni costo. Solo la cantidad.
+     Al realizar un *Traslado entre bodegas* no se podrá especificar: descuento, IVA ni costo. Solo la cantidad.
 
   - Presione Enter de Nuevo para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| Guardar.
-  - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
+  - El sistema pedirá que confirme el procedimiento, seleccione *Sí*.
   - Visualizará un comprobante de salida. Puede imprimirlo para respaldo físico.
   - Ahora podrá consultar ambas bodegas y ver los cambios en las cantidades de producto. Para consultar, consulte en el manual acerca de este mismo módulo en el apartado *consultas*.
 
   	 .. Note::
-     Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
+     Podrá reimprimir este comprobante en la opción *Reimpresión de transacciones de inventario* de este mismo apartado.
 
 
 Ordenes de compra
@@ -240,17 +247,17 @@ La orden de compra es un proceso mediante el cual usted puede hacer un pedido de
 Pre-requisitos
 --------------
 
-Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar una orden de compra:
+Para poder realizar ordenes de compra, tenga en cuenta que:
   .. se puede hacer referencia
-  - Crear un centro de costo.
-  - Crear un Proveedor.
-  - Habilitar el centro de costo para recibir mercancía por compras.
+  - Debe existir por lo menos un centro de costo.
+  - Debe haber creado el proveedor al cual le realizará el pedido.
+  - Habilitar el centro de costo para realizar por compras.
 
 Para crear orden de compra
 --------------------------
-Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
+Para realizar una *Orden de compra* en el sistema siga los siguientes pasos:
 
-  - Ejecute la opción Entradas, salidas & transferencias de mercancías.
+  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*.
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*.
   - Escoja el proceso *Orden de compra*.
   - Escoja el *centro de costo* donde ingresará la mercancía una vez el proveedor la envíe.
@@ -277,17 +284,17 @@ Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
   - Visualizará un comprobante de orden de compra. Puede imprimirlo para respaldo físico.
 
  	 .. Note::
-   	   Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
+   	   Podrá reimprimir este comprobante en la opción *Reimpresión de transacciones de inventario* de este mismo apartado.
 
 Eliminar orden de compra
 ------------------------
 
 Para eliminar una orden de compra siga estos pasos:
 
- - Ejecute la opción Entradas, salidas & transferencias de mercancías
- - Pulse el botón *Ingreso de mercancías por orden de compra*
- - En la lista de la derecha donde puede seleccionar la orden de compra, seleccione la que desea eliminar y presione la tecla 'Supr'.
- - Vera un mensaje de confirmación donde deberá pulsar 'Sí' si está seguro de eliminarla.
+ - Ejecute la opción *Entradas, salidas & transferencias de mercancías*.
+ - Pulse el botón *Ingreso de mercancías por orden de compra*.
+ - En la lista de la derecha donde puede seleccionar la orden de compra, seleccione la que desea eliminar y presione la tecla 'Supr' o 'Delete'.
+ - Vera un mensaje de confirmación donde deberá pulsar *Sí* si está seguro de eliminarla.
 
 Entrada de mercancías por medio de orden de compra existente
 ============================================================
@@ -295,24 +302,22 @@ Entrada de mercancías por medio de orden de compra existente
 Introducción
 ------------
 
-Puede realizar una operación de *entrada de mercancía* a partir de una *orden de compra* hecha anterioremente. No tendrá que elegir los productos de nuevo sino, más bien, verificar la cantidad de productos que entrarán con respecto a la orden que realizó.
+Puede realizar una operación de *entrada de mercancía* a partir de una *orden de compra* hecha anterioremente. No tendrá que digitar los productos de nuevo sino, más bien, verificar la cantidad de productos que entrarán con respecto a la orden que realizó.
 
 Pre-requisitos
 --------------
 
-Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar una entrada de mercancía por orden de compra:
+Para poder realizar *Entrada de mercancías* basado en una orden de compra prevía, tenga en cuenta que:
+
  .. se puede hacer referencia
-  - Crear un centro de costo.
-  - Crear un Proveedor.
-  - Habilitar el centro de costo para recibir mercancía por compras.
-  - Haber creado una **orden de compra** con anterioridad.
+  - Debe haber creado una **orden de compra** con anterioridad.
 
 Para crear una entrada de mercancías por medio de orden de compra existente
 ---------------------------------------------------------------------------
 
-Para realizar una *Entrada de mercancía por orden de compra* al sistema siga los siguientes pasos:
+Para realizar una *Entrada de mercancía* por orden de compra al sistema siga los siguientes pasos:
 
-	- Ejecute la opción Entradas, salidas & transferencias de mercancías
+	- Ejecute la opción *Entradas, salidas & transferencias de mercancías*
 	- Pulse el botón *Ingreso de mercancías por orden de compra*
 	- Aparecerá una ventana flotante donde deberá seleccionar primeramente el centro de costo al que ingresará la mercancía.
 	- Seleccione el proveedor al que realizó con anterioridad la orden de compra.
