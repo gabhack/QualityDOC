@@ -69,15 +69,17 @@ Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*
   - Escoja el proceso *Entradas*
   - Escoja el *Centro de costo* donde ingresará la mercancía
-  - Seleccione el concepto *Entrada de almacén por compras'
+  - Seleccione el concepto *Entrada de almacén por compras*
   - Usted verá como aparecen dos nuevos campos en pantalla: Proveedor y tipo de compra.
   - Seleccione el Proveedor al cual se le ha comprado la mercancía entrante.
   - Seleccione el tipo de compra. Existen dos tipos de compra:
-  - Factura: Se habla de factura cuando los productos deben incluir algún tipo de impuesto.
-  - Remisión: Use esta opción para realizar una entrada de mercancía que no reflejará impuesto alguno.
+
+      - Factura: Se habla de factura cuando los productos deben incluir algún tipo de impuesto.
+      - Remisión: Use esta opción para realizar una entrada de mercancía que no reflejará impuesto alguno.
   - Agregue alguna observación apropiada para describir este proceso de entrada.
   - Especifique el *Remisión No* - Puede indicar aquí cualquier control pertinente indicado en el documento físico de la factura o la remisión.
   - Puede introducir un monto para los fletes que será distribuido entre el costo de los insumos de la compra.
+  
     .. se puede hacer referencia a quien es el admin del sistema ref
 	 .. NOTE::
 	   Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
