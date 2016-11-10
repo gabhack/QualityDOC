@@ -247,17 +247,17 @@ La orden de compra es un proceso mediante el cual usted puede hacer un pedido de
 Pre-requisitos
 --------------
 
-Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar una orden de compra:
+Para poder realizar ordenes de compra, tenga en cuenta que:
   .. se puede hacer referencia
-  - Crear un centro de costo.
-  - Crear un Proveedor.
-  - Habilitar el centro de costo para recibir mercancía por compras.
+  - Debe existir por lo menos un centro de costo.
+  - Debe haber creado el proveedor al cual le realizará el pedido.
+  - Habilitar el centro de costo para realizar por compras.
 
 Para crear orden de compra
 --------------------------
-Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
+Para realizar una *Orden de compra* en el sistema siga los siguientes pasos:
 
-  - Ejecute la opción Entradas, salidas & transferencias de mercancías.
+  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*.
   - El sistema desplegará una ventana donde encontrará una lista de opciones con la pregunta *¿Qué proceso desea realizar?*.
   - Escoja el proceso *Orden de compra*.
   - Escoja el *centro de costo* donde ingresará la mercancía una vez el proveedor la envíe.
@@ -284,17 +284,17 @@ Para realizar una *Orden de compra* al sistema siga los siguientes pasos:
   - Visualizará un comprobante de orden de compra. Puede imprimirlo para respaldo físico.
 
  	 .. Note::
-   	   Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
+   	   Podrá reimprimir este comprobante en la opción *Reimpresión de transacciones de inventario* de este mismo apartado.
 
 Eliminar orden de compra
 ------------------------
 
 Para eliminar una orden de compra siga estos pasos:
 
- - Ejecute la opción Entradas, salidas & transferencias de mercancías
- - Pulse el botón *Ingreso de mercancías por orden de compra*
- - En la lista de la derecha donde puede seleccionar la orden de compra, seleccione la que desea eliminar y presione la tecla 'Supr'.
- - Vera un mensaje de confirmación donde deberá pulsar 'Sí' si está seguro de eliminarla.
+ - Ejecute la opción *Entradas, salidas & transferencias de mercancías*.
+ - Pulse el botón *Ingreso de mercancías por orden de compra*.
+ - En la lista de la derecha donde puede seleccionar la orden de compra, seleccione la que desea eliminar y presione la tecla 'Supr' o 'Delete'.
+ - Vera un mensaje de confirmación donde deberá pulsar *Sí* si está seguro de eliminarla.
 
 Entrada de mercancías por medio de orden de compra existente
 ============================================================
@@ -302,24 +302,22 @@ Entrada de mercancías por medio de orden de compra existente
 Introducción
 ------------
 
-Puede realizar una operación de *entrada de mercancía* a partir de una *orden de compra* hecha anterioremente. No tendrá que elegir los productos de nuevo sino, más bien, verificar la cantidad de productos que entrarán con respecto a la orden que realizó.
+Puede realizar una operación de *entrada de mercancía* a partir de una *orden de compra* hecha anterioremente. No tendrá que digitar los productos de nuevo sino, más bien, verificar la cantidad de productos que entrarán con respecto a la orden que realizó.
 
 Pre-requisitos
 --------------
 
-Para comenzar es importante saber que se necesita la creación de algunos parámetros para realizar una entrada de mercancía por orden de compra:
+Para poder realizar *Entrada de mercancías* basado en una orden de compra prevía, tenga en cuenta que:
+
  .. se puede hacer referencia
-  - Crear un centro de costo.
-  - Crear un Proveedor.
-  - Habilitar el centro de costo para recibir mercancía por compras.
-  - Haber creado una **orden de compra** con anterioridad.
+  - Debe haber creado una **orden de compra** con anterioridad.
 
 Para crear una entrada de mercancías por medio de orden de compra existente
 ---------------------------------------------------------------------------
 
-Para realizar una *Entrada de mercancía por orden de compra* al sistema siga los siguientes pasos:
+Para realizar una *Entrada de mercancía* por orden de compra al sistema siga los siguientes pasos:
 
-	- Ejecute la opción Entradas, salidas & transferencias de mercancías
+	- Ejecute la opción *Entradas, salidas & transferencias de mercancías*
 	- Pulse el botón *Ingreso de mercancías por orden de compra*
 	- Aparecerá una ventana flotante donde deberá seleccionar primeramente el centro de costo al que ingresará la mercancía.
 	- Seleccione el proveedor al que realizó con anterioridad la orden de compra.
