@@ -157,41 +157,36 @@ Los productos/servicios son el último nivel en el árbol, contienen la informac
 
    En esta imagen podemos apreciar el producto x, que se encuentra dentro de la línea z y la sub línea t
 
-Entre las principales características de los productos/servicios podemos encontrar:
-
-:Código:
-  Código único del producto/servicio en el sistema (Generado por el sistema)
-
-:Nombre:
-  Nombre del producto o descripción del servicio (Obligatorio)
-
-:UM:
-  Unidad de medida del producto, ej: Unidad, Metro, Litro, etc... (Obligatorio)
-
-:Referencia:
-  Referencia del producto (Obligatorio)
-
-:IVA:
-  Margen de IVA con el que se compra/vende el producto (Obligatorio)
-
-:Imagen:
-  Imagen que represente al producto/servicio (Opcional)
-
 Crear un producto/servicio
 --------------------------
-
-Para crear un productos/servicios siga los siguientes pasos:
 
 - Ubique en el árbol la sub línea en la que desea crear el producto/servicio y selecciónela haciendo click sobre ella
 - Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |wznew.bmp| *Nuevo producto* o *Nuevo Servicio* según sea el caso
-- El sistema desplegará una ventana solicitando la siguiente información
+- El sistema desplegará una ventana solicitando la siguiente información:
 
- - **Nombre del producto/servicio** (Nombre del producto o la descripción del servicio)
- - **Referencia** (Si no la maneja, deje la que el sistema coloca por defecto)
- - **Código EAN** (Código de barras presente en el empaque del producto, si aplica)
- - **UM** (Unidad de medida para el inventario, ej: Unidad, Metro, Litro)
- - **Margen de IVA** (Margen de IVA con el cual está gravado el producto/servicio)
+
+   :Nombre:
+   Nombre del producto o la descripción del servicio.                   *
+
+   :Referencia: 
+   Si no la maneja, deje la que el sistema coloca por defecto.          *
+
+   :Código EAN:
+   Código de barras presente en el empaque del producto, si aplica.     *
+
+   :UM: 
+   Unidad de medida para el inventario, ej: Unidad, Metro, Litro.       *
+
+   :Margen de IVA: 
+   Porcentaje de IVA con el cual está gravado el producto/servicio.     *
+
+   :Imagen: 
+   Imagen que represente al producto/servicio 
+
+  *Los campos señalados con un * son obligatorios*
+
+**El código es único para cada producto/servicio y es generado por el sistema.**
 
 - Llene los campos solicitados y finalice el proceso presionando el botón *Guardar* para cerrar la ventana o el botón *Guardar y Continuar* para continuar creando productos/servicios dentro de la línea y sub línea actual
 
