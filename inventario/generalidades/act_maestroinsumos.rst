@@ -157,41 +157,34 @@ Los productos/servicios son el último nivel en el árbol, contienen la informac
 
    En esta imagen podemos apreciar el producto x, que se encuentra dentro de la línea z y la sub línea t
 
-Entre las principales características de los productos/servicios podemos encontrar:
-
-:Código:
-  Código único del producto/servicio en el sistema (Generado por el sistema)
-
-:Nombre:
-  Nombre del producto o descripción del servicio (Obligatorio)
-
-:UM:
-  Unidad de medida del producto, ej: Unidad, Metro, Litro, etc... (Obligatorio)
-
-:Referencia:
-  Referencia del producto (Obligatorio)
-
-:IVA:
-  Margen de IVA con el que se compra/vende el producto (Obligatorio)
-
-:Imagen:
-  Imagen que represente al producto/servicio (Opcional)
-
 Crear un producto/servicio
 --------------------------
-
-Para crear un productos/servicios siga los siguientes pasos:
 
 - Ubique en el árbol la sub línea en la que desea crear el producto/servicio y selecciónela haciendo click sobre ella
 - Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual
 - Seleccione la opción |wznew.bmp| *Nuevo producto* o *Nuevo Servicio* según sea el caso
-- El sistema desplegará una ventana solicitando la siguiente información
+- El sistema desplegará una ventana solicitando la siguiente información:
 
- - **Nombre del producto/servicio** (Nombre del producto o la descripción del servicio)
- - **Referencia** (Si no la maneja, deje la que el sistema coloca por defecto)
- - **Código EAN** (Código de barras presente en el empaque del producto, si aplica)
- - **UM** (Unidad de medida para el inventario, ej: Unidad, Metro, Litro)
- - **Margen de IVA** (Margen de IVA con el cual está gravado el producto/servicio)
+
+   :Nombre:
+   Nombre del producto o la descripción del servicio.                   *
+
+   :Referencia: 
+   Si no la maneja, deje la que el sistema coloca por defecto.          *
+
+   :Código EAN:
+   Código de barras presente en el empaque del producto, si aplica.     *
+
+   :UM: 
+   Unidad de medida para el inventario, ej: Unidad, Metro, Litro.       *
+
+   :Margen de IVA: 
+   Porcentaje de IVA con el cual está gravado el producto/servicio.     *
+
+
+  *Los campos señalados con un * son obligatorios*
+
+**El código es único para cada producto/servicio y es generado por el sistema.**
 
 - Llene los campos solicitados y finalice el proceso presionando el botón *Guardar* para cerrar la ventana o el botón *Guardar y Continuar* para continuar creando productos/servicios dentro de la línea y sub línea actual
 
@@ -201,6 +194,8 @@ En la siguiente imagen se puede apreciar la ventana de creación de productos/se
    :align: center
 
    Ventana de creación de productos/servicios
+
+   Para agregar una imágen a un producto vea el apartado `Agregar imagen a un Producto`_
 
 Buscar un Producto/Servicio en el árbol
 ---------------------------------------
@@ -375,11 +370,184 @@ Para quitar la imagen a un producto existente siga los siguientes pasos:
   - Haga click-derecho en el cuadro designado para la imagen.
   - Aparecerá un pequeño recuadro con el símbolo |delete.bmp| y con el texto 'Quitar Imagen', haga click en él.
 
+Combos
+======
+
+Introducción
+------------
+
+Usted podrá agrupar sus productos en un *Combo* para facilitar la venta. De esta manera usted podrá ofrecer promociones a sus clientes y además agilizar la creación de las facturas. 
+
+    .. Note:
+    **Ejemplo 1:**
+    Un *combo* puede referirse a la salida de inventario de un dispositivo móvil, una tarjeta de memoria SD y un forro de cuero, seleccionando el combo 'Promoción Celular' en su lista de productos al momento de hacer la factura.
+
+Cuando un *Combo* es vendido, se hace automáticamente la salida del inventario de cada uno de los productos incluídos en él. El *Combo* no tiene existencia en el inventario, por lo tanto no podrá hacer entradas de él, ni tampoco verlo en los reportes de existencias o salidas en el inventario, ya que no es un producto sino una referencia para agilizar la venta de varios artículos a la vez.
+
+  .. Note:
+  **Ejemplo 1.1:**
+  Al salir una 'Promoción Celular' por una venta, puede verificar en la factura que aparece el nombre del *Combo* =' Promoción Celular', mientras que en el inventario que la salida será la de un dispositivo móvil, una tarjeta de memoria SD y un forro de cuero.
+
+Pre-requisitos
+--------------
+
+- Deberá haber creado los productos que van incluídos en el combo. Vea, `Crear un producto/servicio`_.
+- Tener al menos una Linea y una Sub-Linea en la rama del arbol de productos bajo el apartado Combos y Presentaciones.
+
+Crear un Combo
+--------------
+
+- Ubique en el árbol la sub línea en la que desea crear el *Combo* y selecciónela haciendo click sobre ella.
+- Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual.
+- Seleccione la opción |wznew.bmp| *Nuevo Combo/presentación*.
+- El sistema desplegará una ventana solicitando la siguiente información:
+
+   :Nombre:
+   Nombre del Combo.                   *
+
+   :Referencia: 
+   Si no la maneja, deje la que el sistema coloca por defecto.          *
+
+   :Código EAN:
+   Código de barras presente en el empaque del producto, si aplica.     
+
+   :UM: 
+   Unidad de medida para el inventario, ej: Unidad, Metro, Litro.       *
+
+   :Margen de IVA: 
+   Porcentaje de IVA con el cual está gravado el *Combo*.     *
+
+ *Los campos señalados con un * son obligatorios*
+
+**El código es único para cada *Combo* y es generado por el sistema.**
+
+- Llene los campos solicitados y finalice el proceso presionando el botón *Guardar* |save.bmp| para cerrar la ventana o el botón *Guardar y Continuar* para continuar creando *Combos* dentro de la línea y sub línea actual.
+
+Agregar productos al Combo
+--------------------------
+
+Pre-requisitos
+^^^^^^^^^^^^^^
+
+- Deberá haber creado un *Combo* anteriormente.
+- Deberá haber creado un producto al menos para agregar al combo. Vea, `Crear un producto/servicio`_ 
+
+
+Para agregar productos al Combo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Ubique el *Combo* en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_..
+- Haga click-dereho sobre el *Combo* seleccionado para desplegar el menú contextual.
+- Haga click en la opción 'descargues automáticos' |wzedit.bmp|
+- Se desplegará una ventana donde podrá buscar los productos |buscar.bmp| y agregarlos al Combo digitando el código del producto o presinando Enter para buscarlos en la lista de productos.
+- Al seleccionar el producto que dese agregar verá una información desplegada de la siguiente manera:
+
+  +------------+---------------------+--------+---------------+----------+----------+
+  | referencia | nombre del producto | código | código rápido | cantidad ||plus.bmp||
+  +------------+---------------------+--------+---------------+----------+----------+
+
+- Inserte la cantidad del producto seleccionado que irá en el combo. 
+- Presione Enter o haga click en el ícono |plus.bmp|
+- Una vez satisfecho con todos los productos agregados al combo, guarde los cambios haciendo click en |save.bmp|.
+
+  .. Note:
+    Si desea eliminar un producto que acaba de agregar al combo o que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la linea del producto y presionar la tecla 'Supr'. 
+
+
+Presentaciones
+==============
+
+Introducción
+------------
+Las presentaciones son una manera de agrupar productos que se venden o adquieren en cantidades fijas mayores a una unidad. Usted podrá dar salida o entrada a varias unidades del inventario al mismo tiempo seleccionando una presentación cuando quiera hacer una venta o, una compra a proveedor.
+
+    .. Note:
+    Ejemplo 2:
+    Cree una 'unidad de huevo' para luego crear presentaciones de varias cantidades. Puede agrupar las 'unidades de huevo' en una presentación de docena, de 24 unidades, etc.
+
+Cuando una *Presentacion* es vendida, se hace automáticamente la salida del inventario de la cantidad del producto establecida en su creación. La *Presentación* no tiene existencia en el inventario, por lo tanto no podrá verlo en los reportes de existencias o salidas en el inventario, ya que no es un producto sino una referencia para agilizar la venta de varias unidades de un mismo artículo a la vez.
+
+  .. Note:
+  Ejemplo 2.1
+  Cuando a través de una venta de salida a una 'docena de huevos', entonces podrá ver en la factura reflejado el nombre de la *Presentación* = 'docena de huevos' y la cantidad, mientras que si verífica en el inventario, verá que la salida fue de 12 'unidades de huevo' a la vez.
+
+  
+Pre-requisitos
+--------------
+
+- Deberá haber creado un producto principal en unidad, que luego agrupará en la *Presentación*, Ejemplo: Huevo. Vea, `Crear un producto/servicio`_.
+- Tener al menos una Linea y una Sub-Linea en la rama del arbol de productos bajo el apartado *Combos y Presentaciones*.
+
+Crear una Presentación
+----------------------
+
+- Ubique en el árbol la sub línea en la que desea crear La *Presentación* y selecciónela haciendo click sobre ella.
+- Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual.
+- Seleccione la opción |wznew.bmp| *Nuevo Combo/presentación*.
+- El sistema desplegará una ventana solicitando la siguiente información:
+
+   :Nombre:
+   Nombre de la presentación.                   *
+
+   :Referencia: 
+   Si no la maneja, deje la que el sistema coloca por defecto.          *
+
+   :Código EAN:
+   Código de barras presente en el empaque del producto, si aplica.     
+
+   :UM: 
+   Unidad de medida para el inventario, ej: Unidad, Metro, Litro.       *
+
+   :Margen de IVA: 
+   Porcentaje de IVA con el cual está gravada la *Presentación*.     *
+
+ *Los campos señalados con un * son obligatorios*
+
+**El código es único para cada *Prensentación* y es generado por el sistema.**
+
+- Llene los campos solicitados y finalice el proceso presionando el botón *Guardar* |save.bmp| para cerrar la ventana o el botón *Guardar y Continuar* para continuar creando *Presentaciones* dentro de la línea y sub línea actual.
+
+
+Agregar productos a la Presentación
+-----------------------------------
+
+Pre-requisitos
+^^^^^^^^^^^^^^
+
+- Deberá haber creado una *Presentación* anteriormente.
+- Deberá haber creado un producto al menos para agregar a la presentación. Vea, `Crear un producto/servicio`_ 
+
+
+Para agregar productos a la presentación
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Ubique la *Presentación* en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_..
+- Haga click-dereho sobre la *Presentacion* seleccionado para desplegar el menú contextual.
+- Haga click en la opción 'descargues automáticos' |wzedit.bmp|
+- Se desplegará una ventana donde podrá buscar los productos |buscar.bmp| y agregarlos a la presentación digitando el código del producto o presinando Enter para buscarlos en la lista de productos.
+- Al seleccionar el producto que dese agregar verá una información desplegada de la siguiente manera:
+
+  +------------+---------------------+--------+---------------+----------+----------+
+  | referencia | nombre del producto | código | código rápido | cantidad ||plus.bmp||
+  +------------+---------------------+--------+---------------+----------+----------+
+
+- Inserte la cantidad del producto seleccionado que irá en la presentación. 
+
+  -- Note:
+  **Ejemplo 2.2**
+  En la creación de la *Presentación* 'Docena de Huevos', seleccione el producto 'Huevo' y en el campo cantidad digite '12'.
+
+- Presione Enter o haga click en el ícono |plus.bmp|
+- Una vez satisfecho con el producto agregados a la presentación y su cantidad, guarde los cambios haciendo click en |save.bmp|.
+
+  .. Note:
+    - Si desea eliminar un producto que acaba de agregar a la presentación que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la linea del producto y presionar la tecla 'Supr'.
+    - Recuerde que la idea es que una presentación sea un aglomerado de unidades de un solo producto, por ejemplo: una docena de globos.
 
 
 --------------------------------------------
 
-.. |wznew.bmp| image:: /_images/generales/wznew.bmp
+.. |plus.bmp| image:: /_images/generales/plus.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
 .. |delete.bmp| image:: /_images/generales/delete.bmp
@@ -387,3 +555,4 @@ Para quitar la imagen a un producto existente siga los siguientes pasos:
 .. |refresh.bmp| image:: /_images/generales/refresh.bmp
 .. |descartar.bmp| image:: /_images/generales/descartar.bmp
 .. |save.bmp| image:: /_images/generales/save.bmp
+.. |wznew.bmp| image:: /_images/generales/wznew.bmp
