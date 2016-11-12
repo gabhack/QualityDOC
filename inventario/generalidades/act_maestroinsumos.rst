@@ -379,14 +379,14 @@ Introducción
 Usted podrá agrupar sus productos en un *Combo* para facilitar la venta. De esta manera usted podrá ofrecer promociones a sus clientes y además agilizar la creación de las facturas. 
 
     .. Note:
-    Ejemplo 1:
-    Un combo puede referirse a la salida de inventario de una botella de Ron, un gaseosa y una bolsa de hielo, seleccionando el combo 'Promoción de Ron' en su lista de productos al momento de hacer la factura.
+    **Ejemplo 1:**
+    Un *combo* puede referirse a la salida de inventario de una botella de Ron, un gaseosa y una bolsa de hielo, seleccionando el combo 'Promoción de Ron' en su lista de productos al momento de hacer la factura.
 
 Cuando un *Combo* es vendido, se hace automáticamente la salida del inventario de cada uno de los productos incluídos en él. El *Combo* no tiene existencia en el inventario, por lo tanto no podrá hacer entradas de él, ni tampoco verlo en los reportes de existencias o salidas en el inventario, ya que no es un producto sino una referencia para agilizar la venta de varios artículos a la vez.
 
   .. Note:
-  Ejemplo 1.1:
-  Al salir una 'Promoción de ron' por una venta, puede verificar en el inventario que la salida será la de una botella de ron, una bolsa de hielo y una gaseosa, más no verá en ningún lado la salida de una 'Promoción de ron'
+  **Ejemplo 1.1:**
+  Al salir una 'Promoción de ron' por una venta, puede verificar en el inventario que la salida será la de una botella de ron, una bolsa de hielo y una gaseosa.
 
 Pre-requisitos
 --------------
@@ -403,19 +403,19 @@ Crear un Combo
 - El sistema desplegará una ventana solicitando la siguiente información:
 
    :Nombre:
-   Nombre del producto o la descripción del servicio.                   *
+   Nombre del Combo.                   *
 
    :Referencia: 
    Si no la maneja, deje la que el sistema coloca por defecto.          *
 
    :Código EAN:
-   Código de barras presente en el empaque del producto, si aplica.     *
+   Código de barras presente en el empaque del producto, si aplica.     
 
    :UM: 
    Unidad de medida para el inventario, ej: Unidad, Metro, Litro.       *
 
    :Margen de IVA: 
-   Porcentaje de IVA con el cual está gravado el producto/servicio.     *
+   Porcentaje de IVA con el cual está gravado el *Combo*.     *
 
  *Los campos señalados con un * son obligatorios*
 
@@ -451,7 +451,8 @@ Para agregar productos al Combo
 - Una vez satisfecho con todos los productos agregados al combo, guarde los cambios haciendo click en |save.bmp|.
 
   .. Note:
-    Si desea eliminar un producto que acaba de agregar al combo o que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la linea del producto y presionar la tecla 'Supr'.
+    Si desea eliminar un producto que acaba de agregar al combo o que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la linea del producto y presionar la tecla 'Supr'. 
+
 
 Presentaciones
 ==============
@@ -474,7 +475,7 @@ Cuando una *Presentacion* es vendida, se hace automáticamente la salida del inv
 Pre-requisitos
 --------------
 
-- Deberá haber crear un producto principal en unidad, que luego agrupará en la *Presentación*, Ejemplo: Huevo. Vea, `Crear un producto/servicio`_.
+- Deberá haber creado un producto principal en unidad, que luego agrupará en la *Presentación*, Ejemplo: Huevo. Vea, `Crear un producto/servicio`_.
 - Tener al menos una Linea y una Sub-Linea en la rama del arbol de productos bajo el apartado *Combos y Presentaciones*.
 
 Crear una Presentación
@@ -486,19 +487,19 @@ Crear una Presentación
 - El sistema desplegará una ventana solicitando la siguiente información:
 
    :Nombre:
-   Nombre del producto o la descripción del servicio.                   *
+   Nombre de la presentación.                   *
 
    :Referencia: 
    Si no la maneja, deje la que el sistema coloca por defecto.          *
 
    :Código EAN:
-   Código de barras presente en el empaque del producto, si aplica.     *
+   Código de barras presente en el empaque del producto, si aplica.     
 
    :UM: 
    Unidad de medida para el inventario, ej: Unidad, Metro, Litro.       *
 
    :Margen de IVA: 
-   Porcentaje de IVA con el cual está gravado el producto/servicio.     *
+   Porcentaje de IVA con el cual está gravada la *Presentación*.     *
 
  *Los campos señalados con un * son obligatorios*
 
@@ -531,6 +532,11 @@ Para agregar productos a la presentación
   +------------+---------------------+--------+---------------+----------+----------+
 
 - Inserte la cantidad del producto seleccionado que irá en la presentación. 
+
+  -- Note:
+  **Ejemplo 2.2**
+  En la creación de la *Presentación* 'Docena de Huevos', seleccione el producto 'Huevo' y en el campo cantidad digite '12'.
+
 - Presione Enter o haga click en el ícono |plus.bmp|
 - Una vez satisfecho con el producto agregados a la presentación y su cantidad, guarde los cambios haciendo click en |save.bmp|.
 
