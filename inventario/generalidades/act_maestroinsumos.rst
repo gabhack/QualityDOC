@@ -546,8 +546,8 @@ Para agregar productos a la presentación
 
 
 --------------------------------------------
+
 .. |plus.bmp| image:: /_images/generales/plus.bmp
-.. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
 .. |delete.bmp| image:: /_images/generales/delete.bmp
@@ -555,3 +555,4 @@ Para agregar productos a la presentación
 .. |refresh.bmp| image:: /_images/generales/refresh.bmp
 .. |descartar.bmp| image:: /_images/generales/descartar.bmp
 .. |save.bmp| image:: /_images/generales/save.bmp
+.. |wznew.bmp| image:: /_images/generales/wznew.bmp
