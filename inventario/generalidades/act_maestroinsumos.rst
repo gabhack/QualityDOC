@@ -380,13 +380,13 @@ Usted podrá agrupar sus productos en un *Combo* para facilitar la venta. De est
 
     .. Note:
     **Ejemplo 1:**
-    Un *combo* puede referirse a la salida de inventario de una botella de Ron, un gaseosa y una bolsa de hielo, seleccionando el combo 'Promoción de Ron' en su lista de productos al momento de hacer la factura.
+    Un *combo* puede referirse a la salida de inventario de un dispositivo móvil, una tarjeta de memoria SD y un forro de cuero, seleccionando el combo 'Promoción Celular' en su lista de productos al momento de hacer la factura.
 
 Cuando un *Combo* es vendido, se hace automáticamente la salida del inventario de cada uno de los productos incluídos en él. El *Combo* no tiene existencia en el inventario, por lo tanto no podrá hacer entradas de él, ni tampoco verlo en los reportes de existencias o salidas en el inventario, ya que no es un producto sino una referencia para agilizar la venta de varios artículos a la vez.
 
   .. Note:
   **Ejemplo 1.1:**
-  Al salir una 'Promoción de ron' por una venta, puede verificar en el inventario que la salida será la de una botella de ron, una bolsa de hielo y una gaseosa.
+  Al salir una 'Promoción Celular' por una venta, puede verificar en la factura que aparece el nombre del *Combo* =' Promoción Celular', mientras que en el inventario que la salida será la de un dispositivo móvil, una tarjeta de memoria SD y un forro de cuero.
 
 Pre-requisitos
 --------------
@@ -438,7 +438,7 @@ Para agregar productos al Combo
 
 - Ubique el *Combo* en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_..
 - Haga click-dereho sobre el *Combo* seleccionado para desplegar el menú contextual.
-- Haga click en la opción 'descargar automáticos' |wzedit.bmp|
+- Haga click en la opción 'descargues automáticos' |wzedit.bmp|
 - Se desplegará una ventana donde podrá buscar los productos |buscar.bmp| y agregarlos al Combo digitando el código del producto o presinando Enter para buscarlos en la lista de productos.
 - Al seleccionar el producto que dese agregar verá una información desplegada de la siguiente manera:
 
@@ -459,17 +459,17 @@ Presentaciones
 
 Introducción
 ------------
-Las presentaciones son una manera de agrupar productos que se venden en cantidades fijas mayores a una unidad. Usted podrá dar salida a varias unidades del inventario al mismo tiempo seleccionando una presentación cuando quiera hacer una venta.
+Las presentaciones son una manera de agrupar productos que se venden o adquieren en cantidades fijas mayores a una unidad. Usted podrá dar salida o entrada a varias unidades del inventario al mismo tiempo seleccionando una presentación cuando quiera hacer una venta o, una compra a proveedor.
 
     .. Note:
     Ejemplo 2:
     Cree una 'unidad de huevo' para luego crear presentaciones de varias cantidades. Puede agrupar las 'unidades de huevo' en una presentación de docena, de 24 unidades, etc.
 
-Cuando una *Presentacion* es vendida, se hace automáticamente la salida del inventario de la cantidad del producto establecida en su creación. La *Presentación* no tiene existencia en el inventario, por lo tanto no podrá hacer entradas de ella, ni tampoco verlo en los reportes de existencias o salidas en el inventario, ya que no es un producto sino una referencia para agilizar la venta de varios artículos a la vez.
+Cuando una *Presentacion* es vendida, se hace automáticamente la salida del inventario de la cantidad del producto establecida en su creación. La *Presentación* no tiene existencia en el inventario, por lo tanto no podrá verlo en los reportes de existencias o salidas en el inventario, ya que no es un producto sino una referencia para agilizar la venta de varias unidades de un mismo artículo a la vez.
 
   .. Note:
   Ejemplo 2.1
-  Cuando a través de una venta de salida a una 'docena de huevos', entonces podrá veríficar en el inventario que la salida fue de 12 'unidades de huevo' a la vez.
+  Cuando a través de una venta de salida a una 'docena de huevos', entonces podrá ver en la factura reflejado el nombre de la *Presentación* = 'docena de huevos' y la cantidad, mientras que si verífica en el inventario, verá que la salida fue de 12 'unidades de huevo' a la vez.
 
   
 Pre-requisitos
@@ -523,7 +523,7 @@ Para agregar productos a la presentación
 
 - Ubique la *Presentación* en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_..
 - Haga click-dereho sobre la *Presentacion* seleccionado para desplegar el menú contextual.
-- Haga click en la opción 'descargar automáticos' |wzedit.bmp|
+- Haga click en la opción 'descargues automáticos' |wzedit.bmp|
 - Se desplegará una ventana donde podrá buscar los productos |buscar.bmp| y agregarlos a la presentación digitando el código del producto o presinando Enter para buscarlos en la lista de productos.
 - Al seleccionar el producto que dese agregar verá una información desplegada de la siguiente manera:
 
