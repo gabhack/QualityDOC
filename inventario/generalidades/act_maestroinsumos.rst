@@ -234,102 +234,6 @@ Para eliminar un productos/servicio siga los siguientes pasos:
 .. NOTE::
    No podrá eliminar productos que presenten movimientos en el kardex o servicios que hayan sido facturados.
 
-Descontinuar un Producto/Servicio
----------------------------------
-
-Después de un tiempo considerable creando productos/servicios se encontrará con la necesidad de eliminar algunos que ya no se vayan a seguir utilizando, sin embargo el sistema no permitirá eliminar productos/servicios que hayan tenido algún tipo de movimiento debido a que esta información es necesaria a nivel estadístico; por esta razón existe la posibilidad de **descontinuar** productos; al descontinuar un producto este desaparece de todas las operaciones de inventario, por ejemplo : entradas, salidas, traslados y únicamente es visible en las estadísticas de las operaciones registradas previas a su discontinuación.
-
-Para descontinuar un producto/servicio siga los siguientes pasos:
-
-- Ubique el producto/servicio en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_.
-- Haga click-dereho sobre el producto/servicio seleccionado para desplegar el menú contextual
-- Seleccione la opción |descartar.bmp| *Descontinuar <<producto/servicio>>*
-- El sistema pedirá confirmar la solicitud de descontinuar el producto/servicio
-- Confirme la solicitud de discontinuación
-
-.. NOTE::
-   No podrá descontinuar productos que presenten existencias en el inventario
-
-Reactivar Producto/Servicio
-----------------------------
-
-El proceso de reactivación es inverso al proceso de discontinuación, consiste volver a activar productos que se encuentren descontinuados para permitir nuevamente su uso.
-
-Para reactivar productos/servicios siga los siguientes pasos:
-
-- En la ventana principal del *Catálogo de productos* haga click en icono |btn_ok.bmp|
-- El sistema abrirá una ventana donde se listan los productos descontinuados
-- La ventana posee una casilla de búsqueda que le permitirá ubicar facilmente el producto que requiera
-- Para reactivar el producto/servicio ubíquelo en el listado y seleccione la casilla de verificación que se encuentra en la última columna
-- Una vez seleccionados los productos que desea reactivar, presione el botón |refresh.bmp| *Reactivar*
-
-Re-Clasificar Producto/Servicio
--------------------------------
-
-La correcta clasificación de los productos/servicios en líneas y sub líneas, es muy importante porque nos permite:
-
-- Ubicar fácilmente y de manera lógica los productos/servicios en el árbol
-- Obtener estadísticas de ventas e inventarios por medio de esta clasificación
-- Establecer la interface contable de los productos/servicios por medio en esta clasificación
-
-Durante el proceso de creación de productos/servicios, será necesario *mover* productos/servicios de una línea *X* a una línea *Y*, o incluso, a una sub línea diferente a la actual; Esta es la función de la re-clasificación de productos/servicios.
-
-La re-clasificación le permitirá estructurar el catálogo de productos/servicios de la manera que considere mas provechosa para la empresa
-
-Para re-clasificar productos/servicios siga los siguientes pasos:
-  - Ubique el producto/servicio en el árbol, Vea : `Buscar un Producto/Servicio en el árbol`_.
-  - Haga click-derecho sobre el producto y verá la opción |wzedit.bmp| *cambiar de linea*.
-  - Verá una ventana desplegarse. Seleccione en la lista la línea a la cual desea cambiarse.
-  - Aparecerá una nueva lista con las sublíneas. Seleccione la sublínea para la cual desea cambiarse.
-  - Haga click en el botón *Guardar* |save.bmp|
-
-
-Familias de Productos
-=====================
-
-Introducción
-------------
-
-Usted podrá crear familias de productos para agrupar artículos que tengan las mismas especificaciones generales y varíen en algunos detalles no relevantes para su inventario como color, sabor, esencia, etc... Son útiles cuando varios de los artículos en su centro de costo posean características muy similares y usted no necesite diferenciarlos con referencias distintas.
-
-Pre-requisitos 
---------------
-
-  Para agregar un producto a una familia, primero deberá:
-    - Crear un producto, vea `Crear un producto/servicio`_: Este producto deberá tener especificaciones generales y sin ingresar un código de barra.
-    
-       **Ejemplo 1**
-        
-       Si desea crear una familia de velas aromáticas cuyas esencias comprenden: fresa, mandarina, manzana, etc... entonces primero deberá crear un producto llamado 'Vela Aromática' y agregar en él solo las especificaciones que coincidan con todos los miembros de la familia, como por ejemplo en este caso: el peso o el número de unidades por empaque.
-        
-Para agregar productos a una familia
-------------------------------------
-
-Para agregar diferentes productos a una misma familia siga estos pasos:
-  - Ubique el producto/servicio en el árbol, Vea : `Buscar un Producto/Servicio en el árbol`_.
-  - En el panel de detalles haga click en el icono |wzedit.bmp| para habilitar la edición de las propiedades del producto.
-  - Pulse el botón *contabilidad* y aparecerá una ventana flotante.
-  - En las pestañas, haga click en *familia*, aquí podrá agregar seguidamente todos los productos que pertenezcan a la misma familia.
-    
-   .. Note::
-    
-    Cada producto de características específicas, aunque pertenezca a la misma familia, tiene un código de barras diferente. 
-    
-  - Ingrese en *Cód. Barra* el código de barra del producto específico que agregará a la familia.
-  - En el siguiente cuadro de texto indique la característica específica que lo hace diferente al resto de la familia (color, esencia, sabor, etc...)
-  
-        **Ejemplo 1.1**
-      
-        Según el Ejemplo 1, quedaría de la siguiente forma
-        Cód. barra |########| Variante |mandarina|
-  
-  - Presione Enter, y vea como es agregado a la lista.
-  - A continuación puede seguir agregando productos a la familia o guardar los cambios en el Icono |save.bmp| Guardar.
-  
-
-Agregar/QUitar Imagen a un Producto
-===================================
-
 Agregar imagen a un Producto
 ----------------------------
 Introducción
@@ -369,6 +273,143 @@ Para quitar la imagen a un producto existente siga los siguientes pasos:
   - En el panel de detalles haga click en *habilitar edición* |wzedit.bmp| para habilitar la edición de las propiedades del producto.
   - Haga click-derecho en el cuadro designado para la imagen.
   - Aparecerá un pequeño recuadro con el símbolo |delete.bmp| y con el texto 'Quitar Imagen', haga click en él.
+
+
+Descontinuar un Producto/Servicio
+=================================
+
+Después de un tiempo considerable creando productos/servicios se encontrará con la necesidad de eliminar algunos que ya no se vayan a seguir utilizando, sin embargo el sistema no permitirá eliminar productos/servicios que hayan tenido algún tipo de movimiento debido a que esta información es necesaria a nivel estadístico; por esta razón existe la posibilidad de **descontinuar** productos; al descontinuar un producto este desaparece de todas las operaciones de inventario, por ejemplo : entradas, salidas, traslados y únicamente es visible en las estadísticas de las operaciones registradas previas a su discontinuación.
+
+Para descontinuar un producto/servicio siga los siguientes pasos:
+
+- Ubique el producto/servicio en el árbol, vea : `Buscar un Producto/Servicio en el árbol`_.
+- Haga click-dereho sobre el producto/servicio seleccionado para desplegar el menú contextual
+- Seleccione la opción |descartar.bmp| *Descontinuar <<producto/servicio>>*
+- El sistema pedirá confirmar la solicitud de descontinuar el producto/servicio
+- Confirme la solicitud de discontinuación
+
+.. NOTE::
+   No podrá descontinuar productos que presenten existencias en el inventario
+
+Reactivar Producto/Servicio
+----------------------------
+
+El proceso de reactivación es inverso al proceso de discontinuación, consiste volver a activar productos que se encuentren descontinuados para permitir nuevamente su uso.
+
+Para reactivar productos/servicios siga los siguientes pasos:
+
+- En la ventana principal del *Catálogo de productos* haga click en icono |btn_ok.bmp|
+- El sistema abrirá una ventana donde se listan los productos descontinuados
+- La ventana posee una casilla de búsqueda que le permitirá ubicar facilmente el producto que requiera
+- Para reactivar el producto/servicio ubíquelo en el listado y seleccione la casilla de verificación que se encuentra en la última columna
+- Una vez seleccionados los productos que desea reactivar, presione el botón |refresh.bmp| *Reactivar*
+
+Re-Clasificar (Cambiar de línea) Producto/Servicio
+==================================================
+
+La correcta clasificación de los productos/servicios en líneas y sub líneas, es muy importante porque nos permite:
+
+- Ubicar fácilmente y de manera lógica los productos/servicios en el árbol
+- Obtener estadísticas de ventas e inventarios por medio de esta clasificación
+- Establecer la interface contable de los productos/servicios por medio en esta clasificación
+
+Durante el proceso de creación de productos/servicios, será necesario *mover* productos/servicios de una línea *X* a una línea *Y*, o incluso, a una sub línea diferente a la actual; Esta es la función de la re-clasificación de productos/servicios.
+
+La re-clasificación le permitirá estructurar el catálogo de productos/servicios de la manera que considere mas provechosa para la empresa
+
+Para re-clasificar productos/servicios siga los siguientes pasos:
+  - Ubique el producto/servicio en el árbol, Vea : `Buscar un Producto/Servicio en el árbol`_.
+  - Haga click-derecho sobre el producto y verá la opción |wzedit.bmp| *cambiar de linea*.
+  - Verá una ventana desplegarse. Seleccione en la lista la línea a la cual desea cambiarse.
+  - Aparecerá una nueva lista con las sublíneas. Seleccione la sublínea para la cual desea cambiarse.
+  - Haga click en el botón *Guardar* |save.bmp|
+
+Permitir fraccionar un producto
+-------------------------------
+
+*Permitir Fracción*  es una opción útil para aquellas tiendas que manejen productos en cantidades con decimales. Por ejemplo una venta de verduras, frutas, cemento, arena, detergentes líquidos, etc. Estos productos se comercializan por unidades, kilos y litros expresados en números racionales. 
+
+  .. Note:
+
+  **Ejemplo** Una ferretería puede vender un Kilo y medio de cemento ( 1½Kg)
+
+Para activar *Permitir Fracción*  habilite la edición del producto, vea `Editar un Producto/Servicio`_, y dirijase a la pestaña *Otros*, allí marque la opción 'Permitir fracción'. Una vez seguidos estos pasos podrá ingresar cantidades racionales en el proceso de venta de un producto. Recuerde que la unidad del producto (Kg, L, grs, UND) fue seleccionada en las características principales en el momento de su creación.
+
+.. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  En este campo puede introducir una cantidad decimal si lo desea. 
+
+
+Acerca de los Servicios
+=======================
+
+Los *Servicios* forman parte del producto no tangible de su empresa: acesorías, consultas, trabajos intelectuales, diseños, balances, etc... y tienen ciertas características en las que se diferencian de un producto. 
+
+  - Un Servicio no forma parte del inventario, no tiene Stock y no se puede acabar. Si no dispone más de un servicio, entonces puede descontinuarlo. 
+
+  - Puede agregar *Información extendida* a un servicio para poder agregar información detllada en la factura. Para activarla habilite la edición del servicio, vea `Editar un Producto/Servicio`_, y dirijase a la pestaña *Otros*, allí marque la opción 'Registrar información extendida'.
+  Pueda Usar la *Información extendida* en el momento de incluir el servicio en la factura de venta. Verá algo como:
+
+  .. figure:: /_images/generales/placeholder.png   
+    :align: center
+
+  En este campo puede introducir una descripción detallada del servicio que prestó.
+
+    .. Note:
+    **Ejemplo:** Incluya el servicio 'Reparación de electrodoméstico' y en información detallada puede colocar 'Licuadora Oster - Cambio de hojillas'
+
+
+
+
+Familias de Productos
+=====================
+
+Introducción
+------------
+
+Usted podrá crear familias de productos para agrupar artículos que tengan las mismas especificaciones generales y varíen en algunos detalles no relevantes para su inventario como color, sabor, esencia, etc... Son útiles cuando varios de los artículos en su centro de costo posean características muy similares y usted no necesite diferenciarlos con referencias distintas.
+
+Pre-requisitos 
+--------------
+
+  Para agregar un producto a una familia, primero deberá:
+    - Crear un producto, vea `Crear un producto/servicio`_: Este producto deberá tener especificaciones generales y sin ingresar un código de barra.
+    
+       **Ejemplo 1**
+        
+       Si desea crear una familia de velas aromáticas cuyas esencias comprenden: fresa, mandarina, manzana, etc... entonces primero deberá crear un producto llamado 'Vela Aromática' y agregar en él solo las especificaciones que coincidan con todos los miembros de la familia, como por ejemplo en este caso: el peso o el número de unidades por empaque.
+        
+Para agregar productos a una familia
+------------------------------------
+
+Para agregar diferentes productos a una misma familia siga estos pasos:
+  - Ubique el producto/servicio en el árbol, Vea : `Buscar un Producto/Servicio en el árbol`_.
+  - En el panel de detalles haga click en el icono |wzedit.bmp| para habilitar la edición de las propiedades del producto.
+
+  .. figure:: /_images/generales/placeholder.png   
+    :align: center
+
+  - Pulse el botón *contabilidad* y aparecerá una ventana flotante.
+  - En las pestañas, haga click en *familia*, aquí podrá agregar seguidamente todos los productos que pertenezcan a la misma familia.
+    
+   .. Note::
+    
+    Cada producto de características específicas, aunque pertenezca a la misma familia, tiene un código de barras diferente. 
+    
+  - Ingrese en *Cód. Barra* el código de barra del producto específico que agregará a la familia.
+  - En el siguiente cuadro de texto indique la característica específica que lo hace diferente al resto de la familia (color, esencia, sabor, etc...)
+  
+        **Ejemplo 1.1**
+      
+        Según el Ejemplo 1, quedaría de la siguiente forma
+        Cód. barra |########| Variante |mandarina|
+  
+  - Presione Enter, y vea como es agregado a la lista.
+  - A continuación puede seguir agregando productos a la familia o guardar los cambios en el Icono |save.bmp| Guardar.
+  
+
+
 
 Combos
 ======
@@ -483,6 +524,10 @@ Crear una Presentación
 
 - Ubique en el árbol la sub línea en la que desea crear La *Presentación* y selecciónela haciendo click sobre ella.
 - Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual.
+
+  .. figure:: /_images/generales/placeholder.png   
+    :align: center
+
 - Seleccione la opción |wznew.bmp| *Nuevo Combo/presentación*.
 - El sistema desplegará una ventana solicitando la siguiente información:
 
@@ -525,6 +570,10 @@ Para agregar productos a la presentación
 - Haga click-dereho sobre la *Presentacion* seleccionado para desplegar el menú contextual.
 - Haga click en la opción 'descargues automáticos' |wzedit.bmp|
 - Se desplegará una ventana donde podrá buscar los productos |buscar.bmp| y agregarlos a la presentación digitando el código del producto o presinando Enter para buscarlos en la lista de productos.
+
+  .. figure:: /_images/generales/placeholder.png   
+    :align: center
+
 - Al seleccionar el producto que dese agregar verá una información desplegada de la siguiente manera:
 
   +------------+---------------------+--------+---------------+----------+----------+
