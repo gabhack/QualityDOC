@@ -28,7 +28,7 @@ Filtros aplicables
 Podrá filtrar la información por:
 	- Centro de costo
 	- Margen de IVA
-	- Linea
+	- Línea
 	- Código de producto
 
 Opciones de salida
@@ -48,7 +48,7 @@ Con la consulta a *Inventario Comparativo* usted podrá conocer la existencia en
 
 Casos de Uso
 ------------
-	- Si hay falla de un producto en su centro de costo, puede revisar si el producto está en un centro de costo y realizar un *traslado entre bodegas* para buscarlo y no perder una venta.
+	- Si hay falla de un producto en su centro de costo, puede revisar si el producto está en otro centro de costo y realizar un *traslado entre bodegas* para buscarlo y no perder una venta.
 	- Si los costos del mismo producto son diferentes, ya sea por la ubicación del centro de costo, fletes u otros conceptos, entonces puede homologar los precios conociendo el costo promedio de todos los centros de costo.
 
 Filtros aplicables
