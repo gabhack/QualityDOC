@@ -4,14 +4,18 @@ Consulta de inventario general
 
 Introducción:
 -------------
-En este apartado de consultas usted podrá obtener información acerca de la existencia y cantidad de productos en inventario, sus valores y en que centro de costos los puede encontrar. Existen dos tipos de reportes de inventario:
+En este apartado de consultas usted podrá obtener información acerca de la existencia y cantidad de productos en inventario, sus valores y en que centro de costos los puede encontrar. Este informe permite visualizar el inventario de dos maneras distintas:
 	
 	- Inventario General: Busque la disponibilidad de artículos por centro de costo.
 	- Inventario Comparativo: Compare las disponibilidades en todos sus centros de costo.
 
+  .. Note:
+  La columna costo es un campo protegido, si el usuario no está autorizado para ver el monto del costo, entonces en su lugar verá -asteriscos (*)-
+  
 
 Inventario General
 ==================
+
 
 Introducción
 ------------
@@ -33,6 +37,11 @@ Podrá filtrar la información por:
 	- Línea
 	- Código/Nombre/Referencia/Código de barras - del producto
 
+.. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  En esta cabezera puede aplicar los filtros que necesite. No son obligatorios.
+
 Opciones de salida
 ------------------
 Usted podrá dar salida al reporte de *Inventario General* en:
@@ -41,11 +50,14 @@ Usted podrá dar salida al reporte de *Inventario General* en:
 	- Imprimirlo
 
 
+
 Inventario Comparativo
 ======================
 
+
 Introducción
 ------------
+
 Con la consulta a *Inventario Comparativo* usted podrá conocer la existencia de los productos en todas los centros de  costo de la empresa. Además de conocer la cantidad, también podrá visualizar el costo promedio.
 
 Casos de Uso
@@ -61,6 +73,11 @@ Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 	- Código/Nombre/Referencia/Código de barras - del producto
+
+.. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  Introduzca la refrencia por la cual desea buscar el producto. No es obligatorio.
 
 Opciones de salida
 ------------------
