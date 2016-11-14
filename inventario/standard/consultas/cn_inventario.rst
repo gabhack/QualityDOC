@@ -23,7 +23,7 @@ Usted podrá remitirse a este informe para:
 
 	- Consultar las existencias de un producto en uno o varios centros de costo.
 	- Conocer el costo promedio de los productos.
-	- Extraer información a partir de diferentes metodos de salida.
+	- Extraer información a partir de diferentes métodos de salida.
 
 Filtros aplicables
 ------------------
@@ -46,7 +46,7 @@ Inventario Comparativo
 
 Introducción
 ------------
-Con la consulta a *Inventario Comparativo* usted podrá conocer la existencia de los productos en todas las centros de costode la empresa. Además de conocer la cantidad, también podrá visualizar el costo promedio.
+Con la consulta a *Inventario Comparativo* usted podrá conocer la existencia de los productos en todas los centros de  costo de la empresa. Además de conocer la cantidad, también podrá visualizar el costo promedio.
 
 Casos de Uso
 ------------
