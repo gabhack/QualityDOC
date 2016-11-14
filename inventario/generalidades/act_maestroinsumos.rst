@@ -344,9 +344,9 @@ Para activar *Permitir Fracción*  habilite la edición del producto, vea `Edita
 Acerca de los Servicios
 =======================
 
-Los *Servicios* forman parte del producto no tangible de su empresa: acesorías, consultas, trabajos intelectuales, diseños, balances, etc... y tienen ciertas características en las que se diferencian de un producto. 
+Los *Servicios* forman parte del producto no tangible de su empresa: asesorías, consultas, trabajos intelectuales, diseños, balances, etc... y tienen ciertas características en las que se diferencian de un producto. 
 
-  - Un Servicio no forma parte del inventario, no tiene Stock y no se puede acabar. Si no dispone más de un servicio, entonces puede descontinuarlo. 
+  - Un Servicio no forma parte del inventario, no tiene Stock y no se puede acabar. Si no prestará más un servicio, entonces puede descontinuarlo. 
 
   - Puede agregar *Información extendida* a un servicio para poder agregar información detllada en la factura. Para activarla habilite la edición del servicio, vea `Editar un Producto/Servicio`_, y dirijase a la pestaña *Otros*, allí marque la opción 'Registrar información extendida'.
   Pueda Usar la *Información extendida* en el momento de incluir el servicio en la factura de venta. Verá algo como:
