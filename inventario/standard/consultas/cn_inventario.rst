@@ -19,9 +19,11 @@ La consulta de *Inventario General* le permitirá tener un listado de los produc
 
 Casos de Uso
 ------------
-Usted podrá consultar en el inventario para:
-	- Revisar fallas en mercancía y hacer los pedidos a tiempo.
-	- Conocer la situación patrimonial de la empresa y obtener los reportes necesarios para la contabilidad.
+Usted podrá remitirse a este informe para:
+
+	- Consultar las existencias de un producto en uno o varios centros de costo.
+	- Conocer el costo promedio de los productos.
+	- Extraer información a partir de diferentes metodos de salida.
 
 Filtros aplicables
 ------------------
@@ -29,11 +31,11 @@ Podrá filtrar la información por:
 	- Centro de costo
 	- Margen de IVA
 	- Línea
-	- Código de producto
+	- Código/Nombre/Referencia/Código de barras - del producto
 
 Opciones de salida
 ------------------
-Usted podrá descargar el reporte de *Inventario General* en:
+Usted podrá dar salida al reporte de *Inventario General* en:
 	- PDF
 	- Excel
 	- Imprimirlo
@@ -44,19 +46,23 @@ Inventario Comparativo
 
 Introducción
 ------------
-Con la consulta a *Inventario Comparativo* usted podrá conocer la existencia en todas las centros de costo que esté autorizado a manejar. Además de conocer la cantidad, tendrá un coste promedio entre todos los centros de costo.
+Con la consulta a *Inventario Comparativo* usted podrá conocer la existencia de los productos en todas las centros de costode la empresa. Además de conocer la cantidad, también podrá visualizar el costo promedio.
 
 Casos de Uso
 ------------
-	- Si hay falla de un producto en su centro de costo, puede revisar si el producto está en otro centro de costo y realizar un *traslado entre bodegas* para buscarlo y no perder una venta.
-	- Si los costos del mismo producto son diferentes, ya sea por la ubicación del centro de costo, fletes u otros conceptos, entonces puede homologar los precios conociendo el costo promedio de todos los centros de costo.
+
+Usted podrá remitirse a este informe para:
+
+	- Comparar las cantidades en existencia de uno o varios productos entre los centros de costo.
+	- Conocer el costo promedio de un producto tomando en cuenta su valor en cada uno de los centros de costo.
+
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
-	- Código de producto
+	- Código/Nombre/Referencia/Código de barras - del producto
 
 Opciones de salida
 ------------------
-Usted podrá descargar el reporte de *Inventario General* en:
+Usted podrá descargar el reporte de *Inventario Comparativo* en:
 	- Excel
