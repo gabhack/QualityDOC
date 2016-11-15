@@ -1,7 +1,7 @@
 =============================================
 Movimiento del kardex por tipo de transacción
-
 =============================================
+
 Introducción
 ------------
 En el apartado de consultas *Movimiento del Kardex por tipo* usted podrá visualizar un reporte de todas las operaciones transaccionales en un centro de costo específico de acuerdo a su tipo: entradas, salidas, traslados, etc.
@@ -28,12 +28,12 @@ Podrá filtrar la información por:
 
   En esta cabezera puede aplicar los filtros que necesite. 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp|, entonces aparecera un nuevo *filtro* que le permitirá ver un producto en específico.
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp|, entonces aparecera un nuevo *filtro* que le permitirá ver en el listado de transacciones, las que involucren a un producto en específico.
 
 .. figure:: /_images/generales/placeholder.png
   :align: center
 
- 
+
 
 Opciones de salida
 ------------------
