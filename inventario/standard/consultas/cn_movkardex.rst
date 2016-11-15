@@ -5,7 +5,7 @@ Movimiento diario del kardex
 Introducción
 ------------
 
-En este apartado de consultas usted podrá visualizar todas las operaciones transaccionales (Entradas, Salidas, Traslados, etc) de un centro de costo, separadas por día.
+En este apartado de consultas usted podrá visualizar todas las operaciones transaccionales (Entradas, Salidas, Traslados, etc) de un centro de costo en un período de tiempo determinado.
 
 Casos de uso
 ------------
