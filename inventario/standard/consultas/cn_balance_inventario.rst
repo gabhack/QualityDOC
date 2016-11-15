@@ -40,7 +40,7 @@ Usted podrá dar salida al reporte de *Balance de Inventario* en Los siguientes 
 	- Excel
 	- Impresión
 
-	
+.. este comentario es solo para verificar si solo con el push recibes la actualización	
 
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
