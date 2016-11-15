@@ -4,7 +4,7 @@ Movimiento del kardex por tipo de transacción
 
 Introducción
 ------------
-En el apartado de consultas *Movimiento del Kardex por tipo* usted podrá visualizar un reporte de todas las operaciones transaccionales en un centro de costo específico de acuerdo a su tipo: entradas, salidas, traslados, etc.
+En el apartado de consultas *Movimiento del Kardex por tipo de transacción* usted podrá visualizar un reporte de todas las operaciones transaccionales en un centro de costo específico de acuerdo a su tipo: entradas, salidas, traslados, etc.
 
 Casos de Uso
 ------------
@@ -37,7 +37,7 @@ Una vez elegidos los filtros principales y proceder con la consulta en el botón
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Movimiento de Kardex por producto* en Los siguientes formatos:
+Usted podrá dar salida al reporte de *Movimiento de Kardex por tipo de transacción* en Los siguientes formatos:
 
 	- PDF
 	- Excel
