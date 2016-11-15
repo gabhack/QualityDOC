@@ -31,7 +31,9 @@ Usted podrá remitirse a este informe para:
 
 Filtros aplicables
 ------------------
+
 Podrá filtrar la información por:
+
 	- Centro de costo
 	- Margen de IVA
 	- Línea
@@ -44,7 +46,7 @@ Podrá filtrar la información por:
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Inventario General* en:
+Usted podrá dar salida al reporte de *Inventario General* en los siguientes formatos:
 	- PDF
 	- Excel
 	- Imprimirlo
