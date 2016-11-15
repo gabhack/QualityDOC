@@ -21,7 +21,7 @@ Podrá filtrar la información por:
 
 	- Centro de costo
 	- Intervalo de fechas
-	- Código/Nombre/Referencia/Código de barras - del producto
+	- Código/Nombre/Referencia - del producto
 
 .. figure:: /_images/generales/placeholder.png
   :align: center
