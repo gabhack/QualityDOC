@@ -13,7 +13,7 @@ Ud podrá remitirse a este informe para:
  	- Visualizar sólo los productos que tengan una cantidad inferior a su óptima.
  	- Verá una columna con la cantidad necesaria para lograr la cantidad óptima de cada columna.
  	- Podrá listar la carencia de productos por Línea.
- 	- De cada producto usted podrá obtener: código, nombre, referencia, unidad de medidad, cantidad mínima, cantidad óptima, existencia y diferencia entre la existencia y la óptima.
+ 	- De cada producto usted podrá obtener: código, nombre, referencia, unidad de medida, cantidad mínima, cantidad óptima, existencia y diferencia entre la existencia y la óptima.
  	- Podrá modificar directamente en la grilla los valores mínimos y óptimos de cada producto.
 
  		.. Note:
