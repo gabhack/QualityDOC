@@ -97,14 +97,44 @@ Ingresar datos a la Toma
 Filtrar el listado en la grilla
 ===============================
 
+Puede filtrar el contenido de la grilla para visualizar solo los productos que le interesan, de esa manera podrá localizarlos para verificarlos o modificarlos. ** IMPORTANTE: Los filtros tienen efectos sobre la grilla en pantalla, más no sobre lo que se imprime.** Los filtros aplicables son:
+
+	- **Líneas:** En la cabecera encontrará una lista de las líneas disponibles.
+	- **Mostrar únicamente productos con diferencias:** De los productos que ya ha ingresado en la grilla puede filtrar para que aparezcan aquellos cuya existencia en sistema y física son diferentes.
+	- **Filtrar:** Filtrar es un campo de texto donde podrá hacer búsqueda de un producto en específico o de varios con alguna referencia similar. Busque por ejemplo, todos los productos cuyo código empiece por 10 o cuyo nombre tenga la letra Z.
 
 
 Editar conteo de productos en toma de inventario
 ================================================
 
+	- Si usted necesita cambiar la cantidad que digitó de un producto, solo debe dirigirse a él en la grilla (buscándolo manualmente, o usando el campo *filtrar*) y editar el número en la columna *Físico*.
+
+	- También puede sustituir la cantidad de físico SI y SOLO SI eligió la modalidad *Reemplazar la cantidad previamente digitada por el nuevo valor digitado* buscando de nuevo el producto en la cabecera y sustituyendo el valor en el campo 'físico' y haciendo Enter dos veces.
+
+
 Aplicar una toma de inventario
 ==============================
 
+Cuando usted aplica una toma de inventario, el sistema soluciona las diferencias entre el inventario real y el de sistema creando entradas y salidas automáticas. Es importante que sepa que estas entradas y salidas irán a su registro contable SI y SOLO SI usted realiza la configuración pertinente, agregando los conceptos adecuados a este proceso automatizado, en la pestaña *Inventario* de la opción `Parametrización Contable`_, si no la realiza entonces no estará afectando la contabilidad.
+
+Para *Aplicar una toma de inventario* pulse el botón Aplicar |btn_ok.bmp| y diga 'sí' en el mensaje de confirmación. Haga click en OK cuando el sistema confirme la aplicación. Será enviado de nuevo a la grilla principal.
+
+Consultar una Toma que ya ha sido aplicada
+==========================================
+
+En la grilla principal del proceso *Toma y aplicación de inventario*, para consultar una toma realice los siguientes pasos:
+
+	- Indique en la cabecera el centro de costo correspondiente a la toma. Automáticamente se actualizará la grilla mostrando las tomas que han sido aplicadas y las que aún no.
+	- Seleccione la toma que ya ha sido aplicada (marcada con un check al final de la fila en la grilla) y pulse en la cabecera el botón 'Consultar' |btn_ok.bmp|.
+
+Se desplegará una ventana donde usted podrá visualizar:
+
+	- Número de referencia/documento de las entradas y/o salidas realizadas automáticamente.
+	- Quién realizó la aplicación.
+	- En que estación se realizó la aplicación.
+	- Fecha de la aplicación.
+
+**Es importante recordar que la información que se muestra en la grilla fue la de la toma, antes de la aplicación, y no refleja el estado actual del inventario**
 
 
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp
