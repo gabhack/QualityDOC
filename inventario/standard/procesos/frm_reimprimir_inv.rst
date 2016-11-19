@@ -56,9 +56,8 @@ Impresión de etiquetas de códigos de barras por transaccion
 	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_), verá los productos incluídos en ella en la grilla principal. 
 	- En esa misma grilla verá la pestaña 'Código de barras', haga click en ella.
 	- Verá nuevas opciones en la cabecera:
-		- Seleccione en la nueva lista de la izquierda si desea que las etiquetas lleven también el precio de venta.
-		- Elija la 'Lista de precios' que desea usar.
-		- Si desea modificar algún precio de venta, podrá hacerlo directamente sobre la grilla en la fila del producto, en la columna 'precio'.
+		- Si desea cambiar la cantidad de etiquetas a imprimir, podrá hacerlo directamente sobre la grilla en la fila del producto, en la columna 'imprimir'.
+		- Si desea dejar un producto por fuera de la lista de impresión, desmárquelo al final de la fila de la grilla.
 		- Bajo la grilla, en la lista 'Diseño de Stickers' escoja el diseño que prefiere.
 		- En la lista 'Formato de impresión' seleccione el formato de su preferencia.
 		- Presione F2 o haga click en el ícono |printer.bmp| para imprimir los códigos de barras.
