@@ -81,9 +81,9 @@ Ingresar datos a la Toma
  - Para ingresar datos a una *Toma de inventario*, seleccione la toma en la grilla principal y haga click en el botón 'Ir a la toma' |wzedit.bmp|.
  - Se desplegará una ventana donde deberá comenzar el ingreso de datos. Repita el siguiente ciclo de trabajo para agregar la información de su inventario físico al sistema:
 
- 	1. **Agregando productos a la grilla:**   Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
- 		 - Verá desplegada información acerca del producto como: Código, nombre, un campo llamado 'Sistema' que muestra la cantidad que se encuentra en el sistema. y un cuadro editable llamado "Físico" donde usted ingresará la cantidad que quiera sumar a la cuenta del inventario físico.
- 	2. **Estableciendo cantidad** De acuerdo a la modalidad de captura que haya escogido, se encontrará con dos escenarios diferentes:
+ 	1. **Elegir un producto para incorporar a la toma:**   Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
+ 		 - Verá desplegada información acerca del producto como: Código, nombre, un campo llamado 'Sistema' que muestra la cantidad que se encuentra en el sistema. y un cuadro editable llamado 'Físico' donde usted ingresará la cantidad que quiera sumar a la cuenta del inventario físico.
+ 	2. **Establecer cantidad** De acuerdo a la modalidad de captura que haya escogido, se encontrará con dos escenarios diferentes:
  		- Si eligió *Reemplazar la cantidad previamente digitada por el nuevo valor digitado:*  entonces verá seleccionado el monto en el campo físico, listo para ser sustituido para la nueva cantidad de su conteo. Ingrese la cantidad y presione Enter dos veces.
  			.. Note:
  			Ejemplo: Si usted tiene 5 cajas de gomitas en su inventario físico, ingrese '5'. Si luego descubre que en verdad eran '8' cajas de gomitas, deberá de nuevo buscar este producto como en el paso 1, y aparecerá seleccionado el 's' para ser sustituido por el '8'.
@@ -107,9 +107,10 @@ Puede filtrar el contenido de la grilla para visualizar solo los productos que l
 Editar conteo de productos en toma de inventario
 ================================================
 
-	- Si usted necesita cambiar la cantidad que digitó de un producto, solo debe dirigirse a él en la grilla (buscándolo manualmente, o usando el campo *filtrar*) y editar el número en la columna *Físico*.
+Para editar el número de unidades de un producto en su inventario físico, proceda de la siguiente manera:
 
-	- También puede sustituir la cantidad de físico SI y SOLO SI eligió la modalidad *Reemplazar la cantidad previamente digitada por el nuevo valor digitado* buscando de nuevo el producto en la cabecera y sustituyendo el valor en el campo 'físico' y haciendo Enter dos veces.
+- Busque el producto en la grilla usando el campo 'filtrar', vea `Filtrar el listado en la grilla`_
+- Diríjase a la columna editable 'físico' y sustituya el valor ahí marcado por la nueva suma recolectada.
 
 
 Aplicar una toma de inventario
@@ -134,7 +135,7 @@ Se desplegará una ventana donde usted podrá visualizar:
 	- En que estación se realizó la aplicación.
 	- Fecha de la aplicación.
 
-**Es importante recordar que la información que se muestra en la grilla fue la de la toma, antes de la aplicación, y no refleja el estado actual del inventario**
+**Es importante recordar que la información que se muestra en la grilla fue la de la toma, en el momento de la aplicación, y no refleja el estado actual del inventario**
 
 
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp
