@@ -86,7 +86,7 @@ Ingresar datos a la Toma
  	2. **Establecer cantidad** De acuerdo a la modalidad de captura que haya escogido, se encontrará con dos escenarios diferentes:
  		- Si eligió *Reemplazar la cantidad previamente digitada por el nuevo valor digitado:*  entonces verá seleccionado el monto en el campo físico, listo para ser sustituido para la nueva cantidad de su conteo. Ingrese la cantidad y presione Enter dos veces.
  			.. Note:
- 			Ejemplo: Si usted tiene 5 cajas de gomitas en su inventario físico, ingrese '5'. Si luego descubre que en verdad eran '8' cajas de gomitas, deberá de nuevo buscar este producto como en el paso 1, y aparecerá seleccionado el 's' para ser sustituido por el '8'.
+ 			Ejemplo: Si usted tiene 5 cajas de gomitas en su inventario físico, ingrese '5'. Si luego descubre que en verdad eran '8' cajas de gomitas, deberá de nuevo buscar este producto como en el paso 1, y aparecerá seleccionado el '5' para ser sustituido por el '8'.
 
  		- Si eligió *Sumar la cantidad digitada al valor previamente digitado:* entonces verá en el campo el número '1', presione Enter dos veces para agregar una nueva unidad a la cuenta.
  			.. Note:
