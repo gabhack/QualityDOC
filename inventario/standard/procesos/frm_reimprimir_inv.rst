@@ -30,7 +30,7 @@ Reimprimir una transacción de inventario
 ========================================
 
 
-	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_) , verá los productos incluídos en ella en la grilla principal donde podrá verificar si es el documento que desea reimprimir. Presione F2 o haga click en el ícono |print.bmp|
+	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_) , verá los productos incluídos en ella en la grilla principal donde podrá verificar si es el documento que desea reimprimir. Presione F2 o haga click en el ícono |priner_q.bmp|
 
 
 Anular una transacción de Inventario
@@ -60,7 +60,7 @@ Impresión de etiquetas de códigos de barras por transaccion
 		- Si desea dejar un producto por fuera de la lista de impresión, desmárquelo al final de la fila de la grilla.
 		- Bajo la grilla, en la lista 'Diseño de Stickers' escoja el diseño que prefiere.
 		- En la lista 'Formato de impresión' seleccione el formato de su preferencia.
-		- Presione F2 o haga click en el ícono |printer.bmp| para imprimir los códigos de barras.
+		- Presione F2 o haga click en el ícono |printer_q.bmp| para imprimir los códigos de barras.
 
 		**Usted podrá obtener una vista previa de la impresión si hace click en el ícono de la izquierda |printer_q.bmp|, bajo la lista de formatos**
 
