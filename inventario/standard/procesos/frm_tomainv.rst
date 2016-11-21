@@ -69,10 +69,10 @@ Modalidad de captura
 La modalidad de captura le permite facilitar el proceso mediante el cual usted digitará las cantidades que encunetre en su inventario físico. Cada una de las dos opciones ofrece una manera distinta de realizar el conteo.
 
 			.. Reemplazar cantidad
-			- **Reemplazar la cantidad previamente digitada por el nuevo valor digitado:** En este caso usted elige hacer el conteo de su producto en existencia física e incluir el total de lo que ha contado en la toma. Si vuelve a referirse a este producto (porque el total estaba errado, porque encontró más unidades de ese producto, o para verificar en un segundo conteo) entonces la suma anterior será sustituída por la nueva.
+			- **Modalidad de Reemplazo:** En este caso usted elige hacer el conteo de su producto en existencia física e incluir el total de lo que ha contado en la toma. Si vuelve a referirse a este producto (porque el total estaba errado, porque encontró más unidades de ese producto, o para verificar en un segundo conteo) entonces la suma anterior será sustituída por la nueva.
 
 			.. Sumar cantidad
-			- **Sumar la cantidad digitada al valor previamente digitado:** En este caso usted elije sumar un producto cada vez que lo encuentre. En esta ocasión usted no realiza un conteo de la totalidad de sus productos antes de ingresarlos a sistema, sino más bien cada vez que encuentre una unidad entonces la suma a la cuenta. Esta opción es útil cuando los productos están identificados con un código de barra, con solo pasar la unidad por el lector, se agregará uno a la cuenta.
+			- **Modalidad de suma:** En este caso usted elije sumar un producto cada vez que lo encuentre. En esta ocasión usted no realiza un conteo de la totalidad de sus productos antes de ingresarlos a sistema, sino más bien cada vez que encuentre una unidad entonces la suma a la cuenta. Esta opción es útil cuando los productos están identificados con un código de barra, con solo pasar la unidad por el lector, se agregará uno a la cuenta.
 		
 
 
@@ -95,7 +95,7 @@ Ingresar datos a la Toma
  	1. **Elegir un producto para incorporar a la toma:**   Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
  		 - Verá desplegada información acerca del producto como: Código, nombre, un campo llamado 'Sistema' que muestra la cantidad que se encuentra en el sistema. y un cuadro editable llamado 'Físico' donde usted ingresará la cantidad que quiera sumar a la cuenta del inventario físico.
  	2. **Establecer cantidad** De acuerdo a la modalidad de captura que haya escogido, se encontrará con dos escenarios diferentes:
- 		- Si eligió *Reemplazar la cantidad previamente digitada por el nuevo valor digitado:*  entonces verá seleccionado el monto en el campo físico, listo para ser sustituido para la nueva cantidad de su conteo. Ingrese la cantidad y presione Enter dos veces.
+ 		- Si eligió *Modalidad de Reemplazo:*  entonces verá seleccionado el monto en el campo físico, listo para ser sustituido para la nueva cantidad de su conteo. Ingrese la cantidad y presione Enter dos veces.
  			.. Note:
  			Ejemplo: Si usted tiene 5 cajas de gomitas en su inventario físico, ingrese '5'. Si luego descubre que en verdad eran '8' cajas de gomitas, deberá de nuevo buscar este producto como en el paso 1, y aparecerá seleccionado el '5' para ser sustituido por el '8'.
 
@@ -104,7 +104,7 @@ Ingresar datos a la Toma
 
   Así será el proceso con la modalidad de reemplazo.
 
- 		- Si eligió *Sumar la cantidad digitada al valor previamente digitado:* entonces verá en el campo el número '1', presione Enter dos veces para agregar una nueva unidad a la cuenta.
+ 		- Si eligió *Modalidad de suma:* entonces verá en el campo el número '1', presione Enter dos veces para agregar una nueva unidad a la cuenta.
  			.. Note:
  			Ejemplo: Tome la caja de gomitas que tiene en la mano, y pásela por el lector, presione Enter y estará sumando una caja de gomitas a la cuenta. Si pasa otra caja de gomitas por el lector, y presiona Enter, entonces totalizará 2 cajas de gomitas. Así sucesivamente hasta haber sumado todas las cajas.
 
