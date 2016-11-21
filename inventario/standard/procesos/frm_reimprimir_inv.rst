@@ -11,7 +11,7 @@ Ubicación
  Operaciones
 
 :Descripción:
- Reimprimir transacciones de inventario anteriores
+ Reimpresión de transacciones de inventario
 
 Introducción
 ============
@@ -46,7 +46,7 @@ Cambiar fecha a una transacción
 ===============================
 
 
-	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_), verá los productos incluídos en ella en la grilla principal donde podrá verificar si es el documento al que desea cambiar la fecha. Haga click en el ícono |calendar.bmp|
+	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_), verá los productos incluídos en ella en la grilla principal donde podrá verificar si es el documento al que desea cambiar la fecha. Haga click en el ícono |calendaricon.gif|
 	- Se desplegará una ventana donde deberá introducir la nueva fecha y luego hacer click en el ícono |btn_ok.bmp|
 
 
@@ -62,9 +62,11 @@ Impresión de etiquetas de códigos de barras por transaccion
 		- En la lista 'Formato de impresión' seleccione el formato de su preferencia.
 		- Presione F2 o haga click en el ícono |printer.bmp| para imprimir los códigos de barras.
 
-		**Usted podrá obtener una vista previa de la impresión si hace click en el ícono de la izquierda | pequeña impresora|, bajo la lista de formatos**
+		**Usted podrá obtener una vista previa de la impresión si hace click en el ícono de la izquierda |printer_q.bmp|, bajo la lista de formatos**
 
 
+.. |printer_1.bmp| image:: /_images/generales/printer_q.bmp
+.. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
 .. |plus.bmp| image:: /_images/generales/plus.bmp
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
