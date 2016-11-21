@@ -30,6 +30,12 @@ Para hacer un *Traslado entre bodegas*:
 Como realizar un envío de mercancías
 ====================================
 
+    .. Note:
+
+    Es importante que considere que exite un máximo de traslados que usted puede realizar de un centro de costo a otro, a menos que su centro de costos esté autorizado para recibir entradas por compras.
+
+    Si desea aumentar el límite de transacciones permitidas, puede hacerlo desde el módulo Contabilidad - Paramterización Contable - Inventarios - Transferencias en cola. Si no posee acceso a esta configuración, comuníquese con el administrador de sistema.
+
 - Ejecute la opción 'Traslado entre bodegas'.
 - En la nueva ventana, seleccione en la lista <<seleccione el almacén de origen>> el centro de costo de donde saldrá la mercancía.
 - En la lista <<seleccione almacén destino>> seleccione el centro de costo al cual quiere que llegue la mercancía.
@@ -43,7 +49,7 @@ Como realizar un envío de mercancías
   - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp| 
 
   .. figure:: /_images/generales/placeholder.png
-  :align: center
+   :align: center
 
   Así es la ventana de envío de mercancías.
 
@@ -51,9 +57,13 @@ Como realizar un envío de mercancías
 Como realizar recepción de mercancías
 =====================================
 
-	-- Note:
+  	.. Note:
 
-	Solo visualizará las opciones si hay alguna transferencia pendiente.
+  	Solo visualizará las opciones si hay alguna transferencia pendiente.
+
+    La transferencia no dejará de ser una operación pendiente hasta que el valor de la casilla 'Saldo' de todos los productos en la grilla llegue a 0. Este valor disminuye al recibir o devolver productos.
+
+    Si usted está recibiendo una devolución, solo podrá dar ingreso a los productos y no podrá regresarlos nuevamente.
 
 - Ejecute la opción 'Traslado entre bodegas'.
 - En la ventana desplegada, vaya a la pestaña 'Recepción de mercancía' en la parte superior.
@@ -61,19 +71,32 @@ Como realizar recepción de mercancías
 - En la lista <<seleccione almacén origen>> elija el centro de costo que envió la mercancía.
 - Seleccione en la lista de traslados, aquel que desea recibir. Puede distinguir el traslado por la fecha o por la observación.
 - En el siguiente campo puede insertar un valor de flete, si aplica.
-- Verá los productos listados en la grilla. Chequee que cada producto en la grilla coincida con los que han llegado a su centro de costo, si coinciden marquelos en la fila del producto en el check de la última columna.
-- Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp| y así aceptar la transferencia.
+- Verá los productos listados en la grilla. Coloque en la casilla de la columna 'procesar' la cantidad de unidades de cada producto que recibirá.
 
   .. figure:: /_images/generales/placeholder.png
-  :align: center
+   :align: center
+
+  Así verá la casilla procesar.
+
+- Marquelos en la fila del producto en el check de la última columna. 
+- Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp| y así realizar el ingreso. 
+    - Solo los productos marcados se tomarán en cuenta, y entrarán las cantidades digitadas en la casilla 'procesar'.
+    - Despues de pulsar el botón se procederá internamente al ingreso de las unidades y no verá más la grilla.
+    - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección.
+
+  .. figure:: /_images/generales/placeholder.png
+   :align: center
 
   Así es la ventana de recepción de mercancías.
 
 Como realizar devolución de mercancias
 ======================================
 
-	.. Note:
-	Si un producto no coincide o por cualquier otra razón no desea recibirlo, puede devolverlo.
+  	.. Note:
+
+  	Si un producto no coincide o por cualquier otra razón no desea recibirlo, puede devolverlo.
+
+    La transferencia no dejará de ser una operación pendiente hasta que el valor de la casilla 'Saldo' de todos los productos en la grilla llegue a 0. Este valor disminuye al recibir o devolver productos.
 
 - Ejecute la opción 'Traslado entre bodegas'.
 - En la ventana desplegada, vaya a la pestaña 'Recepción de mercancía' en la parte superior.
@@ -81,9 +104,21 @@ Como realizar devolución de mercancias
 - En la lista <<seleccione almacén origen>> elija el centro de costo que envió la mercancía.
 - Seleccione en la lista de traslados, aquel que desea recibir. Puede distinguir el traslado por la fecha o por la observación.
 - Deje vacío el campo Flete.
-- Verá los productos listados en la grilla. 
-Para devolver un producto, márquelo en el check de la última columna en la fila del artículo y haga click en |descartar.bmp| para regresarlo. 
-- Se desplegará una ventana para que indique un motivo. Haga click en 'Ok'.
+- Verá los productos listados en la grilla. Coloque en la casilla de la columna 'procesar' la cantidad de unidades de cada producto que devolverá.
+
+  .. figure:: /_images/generales/placeholder.png
+   :align: center
+
+  Así verá la casilla procesar.
+
+
+- Marquelos en la fila del producto en el check de la última columna. 
+- Una vez seleccionados los productos que desea devolverr, podrá pulsar |descartar.bmp| y así realizar la devolución.
+    - Solo los productos marcados se tomarán en cuenta, y se devolverán las cantidades digitadas en la casilla 'procesar'. 
+    - Despues de pulsar el botón se desplegará una ventana para que indique un motivo. Haga click en 'Ok'. 
+    - Se procederá internamente a la devolución de las unidades y no verá más la grilla. 
+    - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección. 
+
 
 
 .. |plus.bmp| image:: /_images/generales/plus.bmp
