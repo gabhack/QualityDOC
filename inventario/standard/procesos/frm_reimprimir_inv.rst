@@ -57,7 +57,13 @@ Impresión de etiquetas de códigos de barras por transaccion
 	- En esa misma grilla verá la pestaña 'Código de barras', haga click en ella.
 	- Verá nuevas opciones en la cabecera:
 		- Si desea cambiar la cantidad de etiquetas a imprimir, podrá hacerlo directamente sobre la grilla en la fila del producto, en la columna 'imprimir'.
-		- Si desea dejar un producto por fuera de la lista de impresión, desmárquelo al final de la fila de la grilla.
+		- Si desea dejar un producto por fuera de la lista de impresión, desmárquelo al final de la fila de la grilla. Si desea marcarlos todos, haga clicl en la cabecera gris de la columna.
+
+		.. figure:: /_images/generales/placeholder.png
+  		:align: center
+
+  		Haga click para seleccionar todas las filas.
+
 		- Bajo la grilla, en la lista 'Diseño de Stickers' escoja el diseño que prefiere.
 		- En la lista 'Formato de impresión' seleccione el formato de su preferencia.
 		- Presione F2 o haga click en el ícono |printer_q.bmp| para imprimir los códigos de barras.
