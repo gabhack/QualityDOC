@@ -43,6 +43,12 @@ Pasos para crear una toma de inventario
 - Seleccione un centro de costo para verificar las tomas ya creadas en él.
 - Haga click en Nueva Toma |nuevo.bmp|.
 	Entrará a una ventana donde elegirá las características para la nueva toma.
+
+  .. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  Configuración nueva toma
+
 		- Elija el almacén donde hará la verificación del inventario.
 		- Escriba una fecha para la toma.
 		- Marque la opción "Incluir productos sin existencias" si desea listar también en la toma cualquier producto que tenga cantidad 0 según el sistema. Es probable que no haya existencia en el sistema pero físicamente sí.
@@ -54,6 +60,11 @@ Pasos para crear una toma de inventario
 
 Modalidad de captura
 ^^^^^^^^^^^^^^^^^^^^
+
+  .. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  Selección de la modalidad
 
 La modalidad de captura le permite facilitar el proceso mediante el cual usted digitará las cantidades que encunetre en su inventario físico. Cada una de las dos opciones ofrece una manera distinta de realizar el conteo.
 
@@ -88,9 +99,20 @@ Ingresar datos a la Toma
  			.. Note:
  			Ejemplo: Si usted tiene 5 cajas de gomitas en su inventario físico, ingrese '5'. Si luego descubre que en verdad eran '8' cajas de gomitas, deberá de nuevo buscar este producto como en el paso 1, y aparecerá seleccionado el '5' para ser sustituido por el '8'.
 
+   .. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  Así será el proceso con la modalidad de reemplazo.
+
  		- Si eligió *Sumar la cantidad digitada al valor previamente digitado:* entonces verá en el campo el número '1', presione Enter dos veces para agregar una nueva unidad a la cuenta.
  			.. Note:
  			Ejemplo: Tome la caja de gomitas que tiene en la mano, y pásela por el lector, presione Enter y estará sumando una caja de gomitas a la cuenta. Si pasa otra caja de gomitas por el lector, y presiona Enter, entonces totalizará 2 cajas de gomitas. Así sucesivamente hasta haber sumado todas las cajas.
+
+  .. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  Así será el proceso con la modalidad de Suma.
+
  	3. Regrese al paso 1 si aún tiene productos por agregar a la grilla.
 
 
@@ -112,11 +134,21 @@ Para editar el número de unidades de un producto en su inventario físico, proc
 - Busque el producto en la grilla usando el campo 'filtrar', vea `Filtrar el listado en la grilla`_
 - Diríjase a la columna editable 'físico' y sustituya el valor ahí marcado por la nueva suma recolectada.
 
+	.. figure:: /_images/generales/placeholder.png
+  	:align: center
+
+ 	 Editando en la columna físico.
+
 
 Aplicar una toma de inventario
 ==============================
 
 Cuando usted aplica una toma de inventario, el sistema soluciona las diferencias entre el inventario real y el de sistema creando entradas y salidas automáticas. Es importante que sepa que estas entradas y salidas irán a su registro contable SI y SOLO SI usted realiza la configuración pertinente, agregando los conceptos adecuados a este proceso automatizado, en la pestaña *Inventario* de la opción `Parametrización Contable`_, si no la realiza entonces no estará afectando la contabilidad.
+
+  .. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  Así es la ventana de parametrización contable.
 
 Para *Aplicar una toma de inventario* pulse el botón Aplicar |btn_ok.bmp| y diga 'sí' en el mensaje de confirmación. Haga click en OK cuando el sistema confirme la aplicación. Será enviado de nuevo a la grilla principal.
 
@@ -134,6 +166,11 @@ Se desplegará una ventana donde usted podrá visualizar:
 	- Quién realizó la aplicación.
 	- En que estación se realizó la aplicación.
 	- Fecha de la aplicación.
+
+	  .. figure:: /_images/generales/placeholder.png
+  :align: center
+
+  Ejemplo del resultado de una toma aplicada.
 
 **Es importante recordar que la información que se muestra en la grilla fue la de la toma, en el momento de la aplicación, y no refleja el estado actual del inventario**
 
