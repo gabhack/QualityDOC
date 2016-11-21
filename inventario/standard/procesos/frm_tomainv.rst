@@ -12,7 +12,7 @@ Ubicación
  Operaciones
 
 :Descripción:
-Interfaz para facilitar la toma de inventarios
+Toma y aplicación de inventario
 
 Introducción
 ============
