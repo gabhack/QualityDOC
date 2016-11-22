@@ -44,9 +44,9 @@ Como realizar un envío de mercancías
 - En el campo de texto siguiente, puede digitar alguna observación oportuna.
 - Ahora podrá buscar productos para ingresar en la grilla. Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
   - Verá como aparece información relacionada al producto:
-   +------+------+----------+-----------+-----+--------+--------------+---------+
-   |código|Nombre|referencia|cód. Rápido|Stock|cantidad|costo promedio|plus.bmp |
-   +------+------+----------+-----------+-----+--------+--------------+---------+
+   +------+------+----------+-----------+-----+--------+--------------+----------+
+   |código|Nombre|referencia|cód. Rápido|Stock|cantidad|costo promedio||plus.bmp||
+   +------+------+----------+-----------+-----+--------+--------------+----------+
   - En el campo 'cantidad' ingrese la cantidad del producto que desea trasladar. Presione Enter dos veces.
   - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp|
 
