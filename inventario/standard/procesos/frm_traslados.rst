@@ -50,6 +50,7 @@ Como realizar un envío de mercancías
   - En el campo 'cantidad' ingrese la cantidad del producto que desea trasladar. Presione Enter dos veces.
   - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp|
 
+
   .. figure:: /_images/generales/placeholder.png
    :align: center
 
