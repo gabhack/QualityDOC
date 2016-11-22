@@ -113,7 +113,7 @@ Como realizar devolución de mercancias
 
 
 - Marquelos en la fila del producto en el check de la última columna. 
-- Una vez seleccionados los productos que desea devolverr, podrá pulsar |descartar.bmp| y así realizar la devolución.
+- Una vez seleccionados los productos que desea devolver, podrá pulsar |descartar.bmp| y así realizar la devolución.
     - Solo los productos marcados se tomarán en cuenta, y se devolverán las cantidades digitadas en la casilla 'procesar'. 
     - Despues de pulsar el botón se desplegará una ventana para que indique un motivo. Haga click en 'Ok'. 
     - Se procederá internamente a la devolución de las unidades y no verá más la grilla. 
