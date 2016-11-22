@@ -27,6 +27,7 @@ Para hacer un *Traslado entre bodegas*:
 	- Deben existir productos en stock para incluir en el caso de hacer un envío.
 	- En el caso de recepción debe haber una transferencia pendiente para poder visiualizar las opciones.
 
+
 Como realizar un envío de mercancías
 ====================================
 
@@ -34,7 +35,7 @@ Como realizar un envío de mercancías
 
     Es importante que considere que exite un máximo de transferencias en proceso. Usted no podrá realizar traslados de un centro de costo a otro hasta que estas transferencias sean resueltas por este último. Un centro de costos esté autorizado para recibir entradas por compras no tiene esta limitación.
 
-    Si desea aumentar el límite de transacciones en proceso permitidas, puede hacerlo desde el módulo Contabilidad - Paramterización Contable - Inventarios - Transferencias en cola. Si no posee acceso a esta configuración, comuníquese con el administrador de sistema.
+    Si desea aumentar el límite de transacciones permitidas, puede hacerlo desde el módulo Contabilidad - Paramterización Contable - Inventarios - Transferencias en cola. Si no posee acceso a esta configuración, comuníquese con el administrador de sistema.
 
 - Ejecute la opción 'Traslado entre bodegas'.
 - En la nueva ventana, seleccione en la lista <<seleccione el almacén de origen>> el centro de costo de donde saldrá la mercancía.
@@ -42,11 +43,12 @@ Como realizar un envío de mercancías
 - En el campo de texto siguiente, puede digitar alguna observación oportuna.
 - Ahora podrá buscar productos para ingresar en la grilla. Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
   - Verá como aparece información relacionada al producto:
-   +------+------+----------+-----------+-----+--------+--------------+---------+
-   |código|Nombre|referencia|cód. Rápido|Stock|cantidad|costo promedio|Plus.bmp||
-   +------+------+----------+-----------+-----+--------+--------------+---------+
+   +------+------+----------+-----------+-----+--------+--------------+----------+
+   |código|Nombre|referencia|cód. Rápido|Stock|cantidad|costo promedio||plus.bmp||
+   +------+------+----------+-----------+-----+--------+--------------+----------+
   - En el campo 'cantidad' ingrese la cantidad del producto que desea trasladar. Presione Enter dos veces.
-  - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp| 
+  - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp|
+
 
   .. figure:: /_images/generales/placeholder.png
    :align: center
@@ -57,13 +59,12 @@ Como realizar un envío de mercancías
 Como realizar recepción de mercancías
 =====================================
 
-  	.. Note:
+  .. Note::
+     Solo visualizará las opciones si hay alguna transferencia pendiente.
 
-  	Solo visualizará las opciones si hay alguna transferencia pendiente.
+La transferencia no dejará de ser una operación pendiente hasta que el valor de la casilla 'Saldo' de todos los productos en la grilla llegue a 0. Este valor disminuye al recibir o devolver productos.
 
-    La transferencia no dejará de ser una operación pendiente hasta que el valor de la casilla 'Saldo' de todos los productos en la grilla llegue a 0. Este valor disminuye al recibir o devolver productos.
-
-    Si usted está recibiendo una devolución, solo podrá dar ingreso a los productos y no podrá regresarlos nuevamente.
+Si usted está recibiendo una devolución, solo podrá dar ingreso a los productos y no podrá regresarlos nuevamente.
 
 - Ejecute la opción 'Traslado entre bodegas'.
 - En la ventana desplegada, vaya a la pestaña 'Recepción de mercancía' en la parte superior.
@@ -78,15 +79,14 @@ Como realizar recepción de mercancías
 
   Así verá la casilla procesar.
 
-- Marquelos en la fila del producto en el check de la última columna. 
+- Marquelos en la fila del producto en el check de la última columna.
 - Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp| y así realizar el ingreso.
- 
     - Solo los productos marcados se tomarán en cuenta, y entrarán las cantidades digitadas en la casilla 'procesar'.
     - Despues de pulsar el botón se procederá internamente al ingreso de las unidades y no verá más la grilla.
     - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección.
 
   .. figure:: /_images/generales/placeholder.png
-   :align: center
+    :align: center
 
   Así es la ventana de recepción de mercancías.
 
@@ -116,10 +116,11 @@ Como realizar devolución de mercancias
 - Marquelos en la fila del producto en el check de la última columna. 
 - Una vez seleccionados los productos que desea devolver, podrá pulsar |descartar.bmp| y así realizar la devolución.
 
-      - Solo los productos marcados se tomarán en cuenta, y se devolverán las cantidades digitadas en la casilla 'procesar'. 
-      - Despues de pulsar el botón se desplegará una ventana para que indique un motivo. Haga click en 'Ok'. 
-      - Se procederá internamente a la devolución de las unidades y no verá más la grilla. 
-      - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección. 
+  - Solo los productos marcados se tomarán en cuenta, y se devolverán las cantidades digitadas en la casilla 'procesar'. 
+  - Despues de pulsar el botón se desplegará una ventana para que indique un motivo. Haga click en 'Ok'. 
+  - Se procederá internamente a la devolución de las unidades y no verá más la grilla. 
+  - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección. 
+
 
 
 
