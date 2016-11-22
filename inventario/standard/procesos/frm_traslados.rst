@@ -11,16 +11,11 @@ Ubicación
  Operaciones
 
 :Descripción:
-<<<<<<< HEAD
  Traslado entre bodegas
-=======
- Realiza traslados entre centro de costos
->>>>>>> 45baf35f0c086190d0a90a10a8779b7925e76ee5
 
 Introducción
 ============
 
-<<<<<<< HEAD
 Use la opción de *Traslado entre bodegas* para hacer transferencias de mercancías desde un centro de costo a otros. En esta opción el destinatario necesita recibir y confirmar la mercancía entrante.
 
 Pre-requisitos
@@ -31,14 +26,11 @@ Para hacer un *Traslado entre bodegas*:
 	- Debe contar con los permisos necesarios.
 	- Deben existir productos en stock para incluir en el caso de hacer un envío.
 	- En el caso de recepción debe haber una transferencia pendiente para poder visiualizar las opciones.
-=======
-En el esta operación usted podrá realizar traslado de mercancía desde un centro de costo a otro. También podrá realizar el recibimiento de mercancía entrante desde otro centro de costo.
->>>>>>> 45baf35f0c086190d0a90a10a8779b7925e76ee5
+
 
 Como realizar un envío de mercancías
 ====================================
 
-<<<<<<< HEAD
     .. Note:
 
     Es importante que considere que exite un máximo de traslados que usted puede realizar de un centro de costo a otro, a menos que su centro de costos esté autorizado para recibir entradas por compras.
@@ -62,23 +54,6 @@ Como realizar un envío de mercancías
 
   Así es la ventana de envío de mercancías.
 
-=======
-Para Hacer un envío de mercancía realice las siguientes acciones:
-
-  - Ejecute la opción *Traslado entre bodegas*
-  - El sistema desplegará una ventana donde encontrará dos pestañas en la parte superior. Elija la pestaña *Envío de mercancías* (Esta pestaña también viene seleccionada por defecto)
-  - En las listas seleccione un almacén de origen y un almacén de destino.
-  - Opcionalmente podrá describir este traslado o colocar alguna observación en el campo 'Digite una observación'.
-  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos a la grilla. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
-  - Verá información desplegarse acerca del producto:
-   +------+------+----------+----------+-----+------------+-----+---------+----------+
-   |código|Nombre|referencia|cód rápido|Stock|**cantidad**|costo promedio ||plus.bmp||
-   +------+------+----------+----------+-----+------------+-----+---------+----------+
-  - Ingrese en el campo 'cantidad' el número de unidades de este producto que desea trasladar. Presione enter 2 veces.
-  - Cuando haya ingresado el total de productos a trasladarm compruebe las cantidades y seguidamente pulse el botón Guardar |save.bmp|  
-  - Verá un mensaje de confirmación, si está seguro de la operación pulse 'Sí'.
-  
->>>>>>> 45baf35f0c086190d0a90a10a8779b7925e76ee5
 
 Como realizar recepción de mercancías
 =====================================
@@ -118,7 +93,6 @@ Como realizar recepción de mercancías
 Como realizar devolución de mercancias
 ======================================
 
-<<<<<<< HEAD
   	.. Note:
 
   	Si un producto no coincide o por cualquier otra razón no desea recibirlo, puede devolverlo.
@@ -145,8 +119,7 @@ Como realizar devolución de mercancias
     - Despues de pulsar el botón se desplegará una ventana para que indique un motivo. Haga click en 'Ok'. 
     - Se procederá internamente a la devolución de las unidades y no verá más la grilla. 
     - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección. 
-=======
->>>>>>> 45baf35f0c086190d0a90a10a8779b7925e76ee5
+
 
 
 
