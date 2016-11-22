@@ -32,9 +32,9 @@ Como realizar un envío de mercancías
 
     .. Note:
 
-    Es importante que considere que exite un máximo de traslados que usted puede realizar de un centro de costo a otro, a menos que su centro de costos esté autorizado para recibir entradas por compras.
+    Es importante que considere que exite un máximo de transferencias en proceso. Usted no podrá realizar traslados de un centro de costo a otro hasta que estas transferencias sean resueltas por este último. Un centro de costos esté autorizado para recibir entradas por compras no tiene esta limitación.
 
-    Si desea aumentar el límite de transacciones permitidas, puede hacerlo desde el módulo Contabilidad - Paramterización Contable - Inventarios - Transferencias en cola. Si no posee acceso a esta configuración, comuníquese con el administrador de sistema.
+    Si desea aumentar el límite de transacciones en proceso permitidas, puede hacerlo desde el módulo Contabilidad - Paramterización Contable - Inventarios - Transferencias en cola. Si no posee acceso a esta configuración, comuníquese con el administrador de sistema.
 
 - Ejecute la opción 'Traslado entre bodegas'.
 - En la nueva ventana, seleccione en la lista <<seleccione el almacén de origen>> el centro de costo de donde saldrá la mercancía.
@@ -79,7 +79,8 @@ Como realizar recepción de mercancías
   Así verá la casilla procesar.
 
 - Marquelos en la fila del producto en el check de la última columna. 
-- Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp| y así realizar el ingreso. 
+- Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp| y así realizar el ingreso.
+ 
     - Solo los productos marcados se tomarán en cuenta, y entrarán las cantidades digitadas en la casilla 'procesar'.
     - Despues de pulsar el botón se procederá internamente al ingreso de las unidades y no verá más la grilla.
     - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección.
@@ -114,10 +115,11 @@ Como realizar devolución de mercancias
 
 - Marquelos en la fila del producto en el check de la última columna. 
 - Una vez seleccionados los productos que desea devolver, podrá pulsar |descartar.bmp| y así realizar la devolución.
-    - Solo los productos marcados se tomarán en cuenta, y se devolverán las cantidades digitadas en la casilla 'procesar'. 
-    - Despues de pulsar el botón se desplegará una ventana para que indique un motivo. Haga click en 'Ok'. 
-    - Se procederá internamente a la devolución de las unidades y no verá más la grilla. 
-    - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección. 
+
+      - Solo los productos marcados se tomarán en cuenta, y se devolverán las cantidades digitadas en la casilla 'procesar'. 
+      - Despues de pulsar el botón se desplegará una ventana para que indique un motivo. Haga click en 'Ok'. 
+      - Se procederá internamente a la devolución de las unidades y no verá más la grilla. 
+      - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección. 
 
 
 
