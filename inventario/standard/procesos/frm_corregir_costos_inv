@@ -47,9 +47,9 @@ Para cambiar el costo de uno o varios productos, proceda con los siguientes paso
 - Si desea, puede agregar más productos a la grilla siguiendo los pasos anteriores.
 - Verá como aparece información relacionada al producto:
 
-   +------+------+-----------+----------+------------+---------------+---------+
-   |código|Nombre|cód. Rápido|Referencia|costo actual|**Nuevo costo**|plus.bmp||
-   +------+------+-----------+----------+------------+---------------+---------+
+   +------+------+-----------+----------+------------+---------------+----------+
+   |código|Nombre|cód. Rápido|Referencia|costo actual|**Nuevo costo**||plus.bmp||
+   +------+------+-----------+----------+------------+---------------+----------+
 
 - Puede modificar la columna ‘Nuevo Costo’ siempre que quiera. También. puede quitar productos de la grilla, situándose en la casilla del código con un click y presionando la tecla Supr. 
 - Una vez haya agregado los productos pertinentes, tiene dos opciones:
