@@ -34,7 +34,7 @@ Como realizar un envío de mercancías
 
     .. Note:
 
-    Es importante que considere que exite un máximo de traslados que usted puede realizar de un centro de costo a otro, a menos que su centro de costos esté autorizado para recibir entradas por compras.
+    Es importante que considere que exite un máximo de transferencias en proceso. Usted no podrá realizar traslados de un centro de costo a otro hasta que estas transferencias sean resueltas por este último. Un centro de costos esté autorizado para recibir entradas por compras no tiene esta limitación.
 
     Si desea aumentar el límite de transacciones permitidas, puede hacerlo desde el módulo Contabilidad - Paramterización Contable - Inventarios - Transferencias en cola. Si no posee acceso a esta configuración, comuníquese con el administrador de sistema.
 
