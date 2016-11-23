@@ -18,7 +18,7 @@ Ubicación
 Introducción
 ============
 
-En esta operación usted podrá cambiar el costo de todas las unidades en existencia de un producto cualquiera a un valor seleccionado. Tome en cuenta que:
+En esta operación usted podrá cambiar el costo promedio de un producto en el inventario. Tome en cuenta que:
 
 Las transacciones realizadas antes del cambio de costo, no se verán afectadas por el nuevo valor.
 El cambio de costo efectúa una transacción interna de salida (Salida por ajuste crédito) y una de entrada (Entrada por ajuste débito) que afecta a todos las unidades del producto en existencia.
@@ -40,10 +40,11 @@ Cambiar un costo
 
 Para cambiar el costo de uno o varios productos, proceda con los siguientes pasos:
 - Ejecute la opción *Corrección de costos*
-- Se desplegará una ventana. En la parte superior podrá elegir la bodega donde desea hacer el cambio.
-- Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
-- Una vez haya elegido el producto, podrá cambiar su costo en el campo ‘Costo Correcto’ y presionar Enter dos veces para agregarlo a la grilla.
-- Si desea, puede agregar más productos a la grilla.
+- Se desplegará una ventana. En la parte superior podrá elegir el centro de costo donde desea hacer el cambio.
+- Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
+- Una vez haya elegido el producto, podrá cambiar su costo en el campo ‘Costo Correcto’. Al cambiarlo, presione Enter para confirmar el monto. 
+- Presione Enter ahora para agregarlo a la grilla o haga click en el botón |plus.bmp|.
+- Si desea, puede agregar más productos a la grilla siguiendo los pasos anteriores.
 - Verá como aparece información relacionada al producto:
 
    +------+------+-----------+----------+------------+---------------+---------+
