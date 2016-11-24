@@ -11,3 +11,4 @@ Parámetros
   /inventario/generalidades/act_maestroinsumos
   /inventario/generalidades/act_insunidades
   /inventario/generalidades/act_invtransacciones
+  /inventario/generalidades/frm_imprimir_codbar
