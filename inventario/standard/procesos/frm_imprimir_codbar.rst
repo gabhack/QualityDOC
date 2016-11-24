@@ -55,7 +55,7 @@ Para configurar un modelo de Sticker:
 	- Usted puede elegir entre 15 características de producto para mostrar en la etiqueta. 
 	- Para agregar un valor/característica a la etiqueta:
 		- Verá 4 cajas vacías en la derecha, dos para el encabezado y 3 para el cuerpo. 
-		- Arrastre los elementos desde la lista en la izquierda hacia las cajas de la derecha. En cada caja caben dos elementos. Necesitará mínimo 1 elemento ene l cuerpo y otro en el encabezado para poder guardar los cambios.
+		- Arrastre los elementos desde la lista en la izquierda hacia las cajas de la derecha. En cada caja caben dos elementos. Necesitará mínimo 1 elemento en el cuerpo para poder guardar los cambios.
 		- Si le interesa subir o bajar un elemento en el cuerpo o el encabezado, haga click sobre él y manténgalo presionado, luego deslicelo sin soltar el botón del mouse hacia donde lo necesita.
 	- Para eliminar un elemento de las cajas, haga click sobre él y presione la tecla Supr.
 	- Si está modificando o creando una etiqueta nueva, presione |save.bmp| para guardar los cambios o el nuevo diseño.
