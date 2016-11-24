@@ -12,7 +12,8 @@ Pre-Requisitos
 
 Para imprimir las etiquetas de código de barras:
 
-	- Los productos a imprimir deben ser parte de alguna transacción de inventario.
+	- El producto debe existir en el catalogo de productos. `Crear un producto <../generalidades/act_maestroinsumos.html#productos-servicios>`_
+
 
 Para Imprimir las etiquetas de código de barras
 ===============================================
@@ -20,11 +21,19 @@ Para Imprimir las etiquetas de código de barras
 	- Ejecute la opción *impresión de código de barras* 
 	- En la ventana que se desplega, elija el centro de costo donde se encuentran los productos que desea marcar con las etiquetas.
 	- Ahora puede proceder a insertar los artículos que desea marcar:
-		- Haga click en una cabezera de la grilla en la columna 'Código'.
+		- Haga click en la cabezera de la columna 'Código' en la grilla.
+		- Se crea un nueva linea en la grilla, y el foco se ubicará en la columna códgio. Presione Enter.
 		- Se desplegará una ventana con la lista de productos y usted podrá hacer click en cualquiera y presionar Enter para seleccionarlo.
 		- Verá el producto que seleccionó en la grilla. 
 		- La casilla en la columna 'Cantidad' es modificable. Digite allí el número de etiquetas para este producto que desea imprimir.
 		- La casilla en la columna 'Valor' es modificable. Digite allí el precio de este producto.
+
+			.. Note:
+
+			No es obligatorio colocar el precio en la columna 'Valor' si no eleigió mostrar el precio del producto en la eqtiqueta. Vea `Configuración de Stickers`_
+
+			En cualquier caso, el precio que coloque en la columna 'Valor', siempre modificará el valor en la 'Lista de precios "1"', vea `Configuración de listas de precio por defecto <>`_
+
 		-Puede insertar los productos que quiera a la grilla. Para insertar de nuevo un producto, sitúese en la fila del último producto de la grilla y presione la tecla direccional 'abajo' ↓ dos veces.
 	- Bajo la grilla encontrará una lista donde podrá cambiar la configuración del Sticker. Si desea crear una nueva configuración de sticker, entonces presione el botón |wzedit.bmp| y vea `Configuración de Stickers`_
 	- Luego, encontrará otra lista donde debe seleccionar el formato de impresión.
