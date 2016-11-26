@@ -320,7 +320,7 @@ La re-clasificación le permitirá estructurar el catálogo de productos/servici
 Para re-clasificar productos/servicios siga los siguientes pasos:
 
   - Ejecute la opción *Catálogo de productos y servicios*
-  - Haga click en *Re-clasificar productos en categorías y sub-categorías* |library_listview.bmp| en la cabecera de la ventana.
+  - Haga click en *Re-clasificar productos en categorías y sub-categorías* |library_listview.png| en la cabecera de la ventana.
   - Se desplegará una nueva ventana. En la lista *tipo de referencia* elija si es un producto, un servicio o un combo/presentación.
   - Del lado izquierdo:
      - En la lista *Origen de productos* escoja la línea en la cual está el producto actualmente.
