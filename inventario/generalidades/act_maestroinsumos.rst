@@ -612,7 +612,7 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
   - Vera una nueva ventana como esta:
 
       .. figure:: /_images/generales/placeholder.png   
-      :align: center
+        :align: center
 
 
   - El cursor se colocará en el primer cuadro de texto. Si sabe el código del producto digítelo o también oprima Enter y búsquelo en la lista de productos, haga click sobre él y presione Enter.
@@ -652,6 +652,7 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
 
 --------------------------------------------
 
+.. |codbar.png| image:: /_images/generales/codbar.png
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
 .. |gear.bmp| image:: /_images/generales/gear.bmp
