@@ -92,7 +92,7 @@ Ingresar datos a la Toma
  - Para ingresar datos a una *Toma de inventario*, seleccione la toma en la grilla principal y haga click en el botón 'Ir a la toma' |wzedit.bmp|.
  - Se desplegará una ventana donde deberá comenzar el ingreso de datos. Repita el siguiente ciclo de trabajo para agregar la información de su inventario físico al sistema:
 
- 	1. **Elegir un producto para incorporar a la toma:**   Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
+ 	1. **Elegir un producto para incorporar a la toma:**  Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
  		 - Verá desplegada información acerca del producto como: Código, nombre, un campo llamado 'Sistema' que muestra la cantidad que se encuentra en el sistema. y un cuadro editable llamado 'Físico' donde usted ingresará la cantidad que quiera sumar a la cuenta del inventario físico.
  	2. **Establecer cantidad** De acuerdo a la modalidad de captura que haya escogido, se encontrará con dos escenarios diferentes:
  		- Si eligió *Modalidad de Reemplazo:*  entonces verá seleccionado el monto en el campo físico, listo para ser sustituido para la nueva cantidad de su conteo. Ingrese la cantidad y presione Enter dos veces.
