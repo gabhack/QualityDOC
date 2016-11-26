@@ -318,11 +318,19 @@ Durante el proceso de creación de productos/servicios, será necesario *mover* 
 La re-clasificación le permitirá estructurar el catálogo de productos/servicios de la manera que considere mas provechosa para la empresa
 
 Para re-clasificar productos/servicios siga los siguientes pasos:
-  - Ubique el producto/servicio en el árbol, Vea : `Buscar un Producto/Servicio en el árbol`_.
-  - Haga click-derecho sobre el producto y verá la opción |wzedit.bmp| *cambiar de linea*.
-  - Verá una ventana desplegarse. Seleccione en la lista la línea a la cual desea cambiarse.
-  - Aparecerá una nueva lista con las sublíneas. Seleccione la sublínea para la cual desea cambiarse.
-  - Haga click en el botón *Guardar* |save.bmp|
+
+  - Ejecute la opción *Catálogo de productos y servicios*
+  - Haga click en *Re-clasificar productos en categorías y sub-categorías* |openfold.bmp| en la cabecera de la ventana.
+  - Se desplegará una nueva ventana. En la lista *tipo de referencia* elija si es un producto, un servicio o un combo/presentación.
+  - Del lado izquierdo:
+     - En la lista *Origen de productos* escoja la línea en la cual está el producto actualmente.
+     - En la lista *Seleccione la sub-línea origen* escoja la sub-línea en la cual están los productos actualmente. Aparecerán los productos en la lista de la izquierda.
+  - Del lado derecho:
+     - En la lista *Destino de productos* escoja la línea a la cual serán transferidos los productos.
+     - En la lista *Seleccione la sub-línea destino* escoja la sub-línea línea línea a la cual serán transferidos los productos.
+  - Para reubicar uno o varios productos, márquelos en la lista de la izquierda y haga click en el botón de la parte inferior *Mover productos seleccionados*. Aparecerán en la lista de la derecha.
+  - Si ya no desea mover uno o varios de los productos, y ya ejecutó el paso anterior, puede marcarlos en la lista de la derecha y presionar *quitar productos seleccionados*
+  - Cuando esté conforme con las ubicaciones presione |save.bmp| para guardar todos los cambios.
 
 Permitir fraccionar un producto
 -------------------------------
@@ -600,14 +608,14 @@ Actualización de Códigos EAN
 Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier producto, de una manera más sencilla que la interfaz de edición de producto.
 
   - Ejecute la opción *Catálogo de productos y servicios*
-  - En la cabecera de la ventana desplegada, haga click en el botón |codbar.bmp|
+  - En la cabecera de la ventana desplegada, haga click en el botón |codbar.bmp| *Actualización de códigos EAN*
   - Vera una nueva ventana como esta:
 
       .. figure:: /_images/generales/placeholder.png   
       :align: center
 
 
-  - El cursor se colocará en el primer cuadro de texto. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. 
+  - El cursor se colocará en el primer cuadro de texto. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos, haga click sobre él y presione Enter.
   - Una vez seleccionado el producto, se mostrará su nombre en el segundo campo de texto y el cursor se posará sobre el tercer campo de texto.
   - Ingrese el nuevo código EAN y presione Enter para cambiar el código.
   - Una vez haya presionado enter el producto tomará inmediatamente el nuevo código
@@ -618,7 +626,8 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
 
   Esta interfaz le permite acceder rápidamente e imprimir las etqiuetas de código de barras de uno o más productos.
 
-    - Ejecute la opción *impresión de código de barras* |imprimircodbar.bmp|
+  - Ejecute la opción *Catálogo de productos y servicios*
+  - Haga click en *impresión de código de barras* |codbar.png| en la cabecera de la ventana.
   - En la ventana que se desplega, elija el centro de costo donde se encuentran los productos que desea marcar con las etiquetas.
   - Elija la lista de precios que se manejarán en caso de que el formato de sticker que elija tenga el precio incluído.
   - Ahora puede proceder a insertar los artículos que desea marcar:
@@ -638,11 +647,15 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
     -Puede insertar los productos que quiera a la grilla. Para insertar de nuevo un producto, sitúese en la fila del último producto de la grilla y presione la tecla direccional 'abajo' ↓ dos veces.
   - Bajo la grilla encontrará una lista donde podrá cambiar la configuración del Sticker. Si desea crear una nueva configuración de sticker, entonces presione el botón |wzedit.bmp| y vea `Configuración de Stickers`_
   - Luego, encontrará otra lista donde debe seleccionar el formato de impresión.
-  - Puede realizar una vista previa presionando el ícono |printer_q.bmp| a la izquierda.
+  - Puede realizar una vista previa presionando el ícono |gear.bmp| a la izquierda.
   - Para imprimir las etiquetas de los productos en la grilla, según lo que indicó en la columna *Cantidad* y *Valor*, presione F2 o haga click en |printer_q| a la derecha.
+
 
 --------------------------------------------
 
+.. |gear.bmp| image:: /_images/generales/gear.bmp
+.. |openfolder.bmp| image:: /_images/generales/openfold.bmp
+.. |library_listview.bmp| image:: /_images/generales/library_listview.png
 .. |plus.bmp| image:: /_images/generales/plus.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
