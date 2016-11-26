@@ -83,15 +83,14 @@ Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
     .. se puede hacer referencia a quien es el admin del sistema ref
 	 .. NOTE::
 	   Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
-
-  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
+  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
   - Verá como aparece información relacionada al producto:
    +------+----------+----+-----+--------+-----+---------+----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento||plus.bmp||
    +------+----------+----+-----+--------+-----+---------+----------+
-  - En el campo *cantidad* introduzca la cantidad de productos que han llegado al centro de costo. Presione Enter.
-  - En el campo *costo* ingrese el precio del producto que aparece en la factura (sin IVA). Presione Enter.
-  - En el campo *descuento* ingrese el porcentaje del descuento en caso de ser necesario. Presione Enter.
+  - En el campo *cantidad* introduzca la cantidad de productos que han llegado al centro de costo. Presione Enter para confirmar.
+  - En el campo *costo* ingrese el precio del producto que aparece en la factura (sin IVA). Presione Enter para confirmar.
+  - En el campo *descuento* ingrese el porcentaje del descuento en caso de ser necesario. Presione Enter para confirmar.
   - Presione Enter de Nuevo o haga click en |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos, IVA, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
@@ -139,14 +138,14 @@ Para realizar una *Entrada* de almacén por conceptos, siga los siguientes pasos
 	 .. NOTE::
         Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
 
-- Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
+- Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos que desea dar entrada al inventario. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
   - Verá como aparece información relacionada al producto:
    +------+----------+----+-----+--------+-----+---------+----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento||plus.bmp||
    +------+----------+----+-----+--------+-----+---------+----------+
-  - En el campo *cantidad* introduzca la cantidad de productos que han llegado al centro de costo. Presione Enter.
-  - En el campo *costo* ingrese el precio del producto que aparece en la remisión. Presione Enter.
-  - En el campo *descuento* ingrese el monto del descuento en caso de ser necesario. Presione Enter.
+  - En el campo *cantidad* introduzca la cantidad de productos que han llegado al centro de costo. Presione Enter para confirmar.
+  - En el campo *costo* ingrese el precio del producto que aparece en la remisión. Presione Enter para confirmar.
+  - En el campo *descuento* ingrese el monto del descuento en caso de ser necesario. Presione Enter para confirmar.
   - Presione Enter de Nuevo o haga click en |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
@@ -180,13 +179,12 @@ Para dar salida a un producto o conjunto de productos del centro de costo, siga 
   - Escoja el *Centro de costo* de donde saldrá la mercancía
   - Seleccione el concepto apropiado
   - Agregue alguna observación apropiada para describir este proceso de salida.
-  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos a los que quiere dar salida. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima enter de nuevo.
-
+  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos a los que dará salida. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
   - Verá como aparece información relacionada al producto:
    +------+----------+----+-----+--------+-----+---------+----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento||plus.bmp||
    +------+----------+----+-----+--------+-----+---------+----------+
-  - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter.
+  - En el campo *cantidad* introduzca la cantidad de productos que saldrán del centro de costo. Presione Enter para confirmar.
 
      .. Note::
      En el caso de una salida de mercancía del centro de costo por este medio, no se podrá especificar: descuento, IVA, flete ni costo.
@@ -226,11 +224,12 @@ Para realizar una transferencia de mercancías, siga estos pasos:
   - Escoja el *centro de costo* a donde llegará la mercancía.
   - Escriba una observación de ser necesario.
   - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos a los que quiere dar salida. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima enter de nuevo.
+  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos a los que quiere dar salida. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
   - Verá como aparece información relacionada al producto:
    +------+----------+----+-----+--------+-----+---------+-----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento| |plus.bmp||
    +------+----------+----+-----+--------+-----+---------+-----------+
-  - En el campo *cantidad* introduzca la cantidad de productos de este tipo que saldrán del centro de costo. Presione Enter.
+  - En el campo *cantidad* introduzca la cantidad de productos de este tipo que saldrán del centro de costo. Presione Enter para confirmar.
 
      .. Note::
      En el caso de un traslado entre centros de costo, no se podrá especificar: descuento, IVA, flete ni costo. Solo la cantidad.
@@ -281,13 +280,13 @@ Para realizar una *Orden de compra* en el sistema siga los siguientes pasos:
   	 .. Note::
   		Esta opción viene deshabilitada por defecto. Para activarla comuníquese con el administrador de sistema.
 
-  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
+  - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código..
   - Verá como aparece información relacionada al producto:
    +------+----------+----+-----+--------+-----+---------+----------+
    |Nombre|referencia|IVA%|Stock|cantidad|costo|descuento||plus.bmp||
    +------+----------+----+-----+--------+-----+---------+----------+
-  - En el campo *cantidad* introduzca la cantidad de productos de este tipo que pedirá al proveedor. Presione Enter.
-  - En el campo *costo* ingrese el costo del producto que aparece en la remisión. Presione Enter.
+  - En el campo *cantidad* introduzca la cantidad de productos de este tipo que pedirá al proveedor. Presione Enter para confirmar.
+  - En el campo *costo* ingrese el costo del producto que aparece en la remisión. Presione Enter para confirmar.
   - Presione Enter de Nuevo o haga click en |plus.bmp| para agregar el producto a la lista.
   - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
   - Si no hay más productos para agregar, revise que el listado, los costos y fletes sean correctos y presione F2 o el ícono |save.bmp| Guardar.

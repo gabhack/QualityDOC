@@ -22,7 +22,7 @@ Para Imprimir las etiquetas de código de barras
 	- En la ventana que se desplega, elija el centro de costo donde se encuentran los productos que desea marcar con las etiquetas.
 	- Ahora puede proceder a insertar los artículos que desea marcar:
 		- Haga click en la cabezera de la columna 'Código' en la grilla.
-		- Se crea un nueva linea en la grilla, y el foco se ubicará en la columna códgio. Presione Enter.
+		- Se crea un nueva linea en la grilla, y el foco se ubicará en la columna código. Presione Enter.
 		- Se desplegará una ventana con la lista de productos y usted podrá hacer click en cualquiera y presionar Enter para seleccionarlo.
 		- Verá el producto que seleccionó en la grilla. 
 		- La casilla en la columna 'Cantidad' es modificable. Digite allí el número de etiquetas para este producto que desea imprimir.
