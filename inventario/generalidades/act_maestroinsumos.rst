@@ -594,6 +594,53 @@ Para agregar productos a la presentación
     - Recuerde que la idea es que una presentación sea un aglomerado de unidades de un solo producto, por ejemplo: una docena de globos.
 
 
+Actualización de Códigos EAN
+============================
+
+Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier producto, de una manera más sencilla que la interfaz de edición de producto.
+
+  - Ejecute la opción *Catálogo de productos y servicios*
+  - En la cabecera de la ventana desplegada, haga click en el botón |codbar.bmp|
+  - Vera una nueva ventana como esta:
+
+      .. figure:: /_images/generales/placeholder.png   
+      :align: center
+
+
+  - El cursor se colocará en el primer cuadro de texto. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. 
+  - Una vez seleccionado el producto, se mostrará su nombre en el segundo campo de texto y el cursor se posará sobre el tercer campo de texto.
+  - Ingrese el nuevo código EAN y presione Enter para cambiar el código.
+  - Una vez haya presionado enter el producto tomará inmediatamente el nuevo código
+  - Vera la lista de productos a los que cambió el código en la grilla inferior a los campos de texto.
+
+  Impresión de código de barras
+  =============================
+
+  Esta interfaz le permite acceder rápidamente e imprimir las etqiuetas de código de barras de uno o más productos.
+
+    - Ejecute la opción *impresión de código de barras* |imprimircodbar.bmp|
+  - En la ventana que se desplega, elija el centro de costo donde se encuentran los productos que desea marcar con las etiquetas.
+  - Elija la lista de precios que se manejarán en caso de que el formato de sticker que elija tenga el precio incluído.
+  - Ahora puede proceder a insertar los artículos que desea marcar:
+    - Haga click en la cabezera de la columna 'Código' en la grilla.
+    - Se crea un nueva linea en la grilla, y el foco se ubicará en la columna código. Presione Enter.
+    - Se desplegará una ventana con la lista de productos y usted podrá hacer click en cualquiera y presionar Enter para seleccionarlo.
+    - Verá el producto que seleccionó en la grilla. 
+    - La casilla en la columna 'Cantidad' es modificable. Digite allí el número de etiquetas para este producto que desea imprimir.
+    - La casilla en la columna 'Valor' es modificable. Digite allí el precio de este producto.
+
+      .. Note:
+
+      No es obligatorio colocar el precio en la columna 'Valor' si no eleigió mostrar el precio del producto en la eqtiqueta. Vea `Configuración de Stickers`_
+
+      En cualquier caso, el precio que coloque en la columna 'Valor', siempre modificará el valor en la 'Lista de precios "1"', vea `Configuración de listas de precio por defecto <>`_
+
+    -Puede insertar los productos que quiera a la grilla. Para insertar de nuevo un producto, sitúese en la fila del último producto de la grilla y presione la tecla direccional 'abajo' ↓ dos veces.
+  - Bajo la grilla encontrará una lista donde podrá cambiar la configuración del Sticker. Si desea crear una nueva configuración de sticker, entonces presione el botón |wzedit.bmp| y vea `Configuración de Stickers`_
+  - Luego, encontrará otra lista donde debe seleccionar el formato de impresión.
+  - Puede realizar una vista previa presionando el ícono |printer_q.bmp| a la izquierda.
+  - Para imprimir las etiquetas de los productos en la grilla, según lo que indicó en la columna *Cantidad* y *Valor*, presione F2 o haga click en |printer_q| a la derecha.
+
 --------------------------------------------
 
 .. |plus.bmp| image:: /_images/generales/plus.bmp
