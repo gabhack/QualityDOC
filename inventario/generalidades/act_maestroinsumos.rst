@@ -612,7 +612,7 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
   - Vera una nueva ventana como esta:
 
       .. figure:: /_images/generales/placeholder.png   
-      :align: center
+        :align: center
 
 
   - El cursor se colocará en el primer cuadro de texto. Si sabe el código del producto digítelo o también oprima Enter y búsquelo en la lista de productos, haga click sobre él y presione Enter.
@@ -647,11 +647,12 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
   - Bajo la grilla encontrará una lista donde podrá cambiar la configuración del Sticker. Si desea crear una nueva configuración de sticker, entonces presione el botón |wzedit.bmp| y vea `Configuración de Stickers`_
   - Luego, encontrará otra lista donde debe seleccionar el formato de impresión.
   - Puede realizar una vista previa presionando el ícono |gear.bmp| a la izquierda.
-  - Para imprimir las etiquetas de los productos en la grilla, según lo que indicó en la columna *Cantidad* y *Valor*, presione F2 o haga click en |printer_q| a la derecha.
+  - Para imprimir las etiquetas de los productos en la grilla, según lo que indicó en la columna *Cantidad* y *Valor*, presione F2 o haga click en |printer_q.bmp| a la derecha.
 
 
 --------------------------------------------
 
+.. |codbar.png| image:: /_images/generales/codbar.png
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
 .. |gear.bmp| image:: /_images/generales/gear.bmp
