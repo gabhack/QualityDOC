@@ -615,10 +615,9 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
       :align: center
 
 
-  - El cursor se colocará en el primer cuadro de texto. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos, haga click sobre él y presione Enter.
+  - El cursor se colocará en el primer cuadro de texto. Si sabe el código del producto digítelo o también oprima Enter y búsquelo en la lista de productos, haga click sobre él y presione Enter.
   - Una vez seleccionado el producto, se mostrará su nombre en el segundo campo de texto y el cursor se posará sobre el tercer campo de texto.
-  - Ingrese el nuevo código EAN y presione Enter para cambiar el código.
-  - Una vez haya presionado enter el producto tomará inmediatamente el nuevo código
+  - Ingrese el nuevo código EAN con el lector laser. Si el foco permanece en este campo presione Enter para confirmar y cambiar el código. Su lector puede estar configurado para confirmar el cambio automáticamente.
   - Vera la lista de productos a los que cambió el código en la grilla inferior a los campos de texto.
 
   Impresión de código de barras
