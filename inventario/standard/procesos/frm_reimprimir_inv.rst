@@ -71,10 +71,12 @@ Impresión de etiquetas de códigos de barras por transaccion
 		**Usted podrá obtener una vista previa de la impresión si hace click en el ícono de la izquierda |printer_q.bmp|, bajo la lista de formatos**
 
 
-.. |printer_1.bmp| image:: /_images/generales/printer_q.bmp
+.. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
+.. |gear.bmp| image:: /_images/generales/gear.bmp
+.. |openfolder.bmp| image:: /_images/generales/openfold.bmp
+.. |library_listview.bmp| image:: /_images/generales/library_listview.png
 .. |plus.bmp| image:: /_images/generales/plus.bmp
-.. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
 .. |delete.bmp| image:: /_images/generales/delete.bmp
@@ -82,3 +84,4 @@ Impresión de etiquetas de códigos de barras por transaccion
 .. |refresh.bmp| image:: /_images/generales/refresh.bmp
 .. |descartar.bmp| image:: /_images/generales/descartar.bmp
 .. |save.bmp| image:: /_images/generales/save.bmp
+.. |wznew.bmp| image:: /_images/generales/wznew.bmp

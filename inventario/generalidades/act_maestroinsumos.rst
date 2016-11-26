@@ -653,6 +653,8 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
 
 --------------------------------------------
 
+.. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
+.. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
 .. |gear.bmp| image:: /_images/generales/gear.bmp
 .. |openfolder.bmp| image:: /_images/generales/openfold.bmp
 .. |library_listview.bmp| image:: /_images/generales/library_listview.png
