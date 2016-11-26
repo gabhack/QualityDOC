@@ -41,7 +41,7 @@ Como realizar un envío de mercancías
 - En la nueva ventana, seleccione en la lista <<seleccione el almacén de origen>> el centro de costo de donde saldrá la mercancía.
 - En la lista <<seleccione almacén destino>> seleccione el centro de costo al cual quiere que llegue la mercancía.
 - En el campo de texto siguiente, puede digitar alguna observación oportuna.
-- Ahora podrá buscar productos para ingresar en la grilla. Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también oprima Enter y búsquelo en la lista de productos. Oprima Enter de nuevo.
+- Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
   - Verá como aparece información relacionada al producto:
    +------+------+----------+-----------+-----+--------+--------------+----------+
    |código|Nombre|referencia|cód. Rápido|Stock|cantidad|costo promedio||plus.bmp||
