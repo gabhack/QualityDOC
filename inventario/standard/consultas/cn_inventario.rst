@@ -47,9 +47,9 @@ Podrá filtrar la información por:
 Opciones de salida
 ------------------
 Usted podrá dar salida al reporte de *Inventario General* en los siguientes formatos:
-	- PDF
-	- Excel
-	- Imprimirlo
+	- PDF |pdf_logo.gif| 
+	- Excel |excel.bmp|
+	- Impresión |printer_q.bmp| 
 
 
 
@@ -84,4 +84,19 @@ Podrá filtrar la información por:
 Opciones de salida
 ------------------
 Usted podrá descargar el reporte de *Inventario Comparativo* en:
-	- Excel
+	- Excel |excel.bmp|
+
+
+.. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
+.. |excel.bmp| image:: /_images/generales/excel.bmp
+.. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
+.. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
+.. |plus.bmp| image:: /_images/generales/plus.bmp
+.. |wznew.bmp| image:: /_images/generales/wznew.bmp
+.. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
+.. |buscar.bmp| image:: /_images/generales/buscar.bmp
+.. |delete.bmp| image:: /_images/generales/delete.bmp
+.. |btn_ok.bmp| image:: /_images/generales/btn_ok.bmp
+.. |refresh.bmp| image:: /_images/generales/refresh.bmp
+.. |descartar.bmp| image:: /_images/generales/descartar.bmp
+.. |save.bmp| image:: /_images/generales/save.bmp
