@@ -37,8 +37,15 @@ Para Imprimir las etiquetas de código de barras
 		-Puede insertar los productos que quiera a la grilla. Para insertar de nuevo un producto, sitúese en la fila del último producto de la grilla y presione la tecla direccional 'abajo' ↓ dos veces.
 	- Bajo la grilla encontrará una lista donde podrá cambiar la configuración del Sticker. Si desea crear una nueva configuración de sticker, entonces presione el botón |wzedit.bmp| y vea `Configuración de Stickers`_
 	- Luego, encontrará otra lista donde debe seleccionar el formato de impresión.
-	- Puede realizar una vista previa presionando el ícono |gear.bmp| a la izquierda.
+	- Puede configurar la impresión, a modo de que muestre una vista previa o imprima de una vez, en el ícono |gear.bmp| a la izquierda.
 	- Para imprimir las etiquetas de los productos en la grilla, según lo que indicó en la columna *Cantidad* y *Valor*, presione F2 o haga click en |printer_q.bmp| a la derecha.
+
+		.. Note:
+
+		También puede acceder desde el *catalogo de productos y servicios*
+
+		- Ejecute la opción *Catálogo de productos y servicios*
+  		- Haga click en *impresión de código de barras* |codbar.png| en la cabecera de la ventana.
 
 Configuración de Stickers
 =========================
@@ -64,11 +71,15 @@ Para configurar un modelo de Sticker:
 
 
 
-
+.. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
+.. |excel.bmp| image:: /_images/generales/excel.bmp
+.. |codbar.png| image:: /_images/generales/codbar.png
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
+.. |gear.bmp| image:: /_images/generales/gear.bmp
+.. |openfolder.bmp| image:: /_images/generales/openfold.bmp
+.. |library_listview.bmp| image:: /_images/generales/library_listview.png
 .. |plus.bmp| image:: /_images/generales/plus.bmp
-.. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
 .. |delete.bmp| image:: /_images/generales/delete.bmp
@@ -76,3 +87,4 @@ Para configurar un modelo de Sticker:
 .. |refresh.bmp| image:: /_images/generales/refresh.bmp
 .. |descartar.bmp| image:: /_images/generales/descartar.bmp
 .. |save.bmp| image:: /_images/generales/save.bmp
+.. |wznew.bmp| image:: /_images/generales/wznew.bmp
