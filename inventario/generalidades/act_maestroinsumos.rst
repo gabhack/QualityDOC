@@ -620,12 +620,13 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
   - Ingrese el nuevo código EAN con el lector laser. Si el foco permanece en este campo presione Enter para confirmar y cambiar el código. Su lector puede estar configurado para confirmar el cambio automáticamente.
   - Vera la lista de productos a los que cambió el código en la grilla inferior a los campos de texto.
 
-  Impresión de código de barras
-  =============================
+  
+Impresión de código de barras
+=============================
 
-  Esta interfaz le permite acceder rápidamente e imprimir las etiquetas de código de barras de uno o más productos.
+    Esta interfaz le permite acceder rápidamente e imprimir las etiquetas de código de barras de uno o más productos.
 
-  `Impresión de etiquetas de código de barras <../standard/procesos/frm_imprimir_codbar.html>`_
+    `Impresión de etiquetas de código de barras <../standard/procesos/frm_imprimir_codbar.html>`_
 
 
 
