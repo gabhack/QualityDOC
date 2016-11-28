@@ -35,9 +35,10 @@ Opciones de salida
 ------------------
 Usted podrá dar salida al reporte de *Consulta de productos sin movimiento* en Los siguientes formatos:
 
-	- PDF |pdf_logo.gif| 
-	- Excel |excel.bmp|
-	- Impresión |printer_q.bmp| 
+	- |pdf_logo.gif| PDF 
+	- |excel.bmp| Excel
+	- |printer_q.bmp| Impresión
+
 
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
