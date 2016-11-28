@@ -39,11 +39,11 @@ Opciones de salida
 ------------------
 Usted podrá dar salida al reporte de *Movimiento de Kardex por tipo de transacción* en Los siguientes formatos:
 
-	- PDF |pdf_logo.gif|
-	- Excel |excel.bmp|
+	- |pdf_logo.gif| PDF 
+	- |excel.bmp| Excel
 		- Informe Plano
 		- Informe agrupado por concepto
-	- Impresión |printer_q.bmp|
+	- |printer_q.bmp| Impresión
 
 
 
