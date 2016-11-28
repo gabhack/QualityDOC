@@ -40,7 +40,6 @@ Usted podrá dar salida al reporte de *Consulta de productos sin movimiento* en 
 	- |printer_q.bmp| Impresión
 
 
-
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp

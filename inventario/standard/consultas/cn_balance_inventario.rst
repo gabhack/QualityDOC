@@ -36,9 +36,9 @@ Opciones de salida
 ------------------
 Usted podrá dar salida al reporte de *Balance de Inventario* en Los siguientes formatos:
 
-	- PDF |pdf_logo.gif| 
-	- Excel |excel.bmp|
-	- Impresión |printer_q.bmp| 
+	- |pdf_logo.gif| PDF 
+	- |excel.bmp| Excel
+	- |printer_q.bmp| Impresión
 
 .. este comentario es solo para verificar si solo con el push recibes la actualización	
 
