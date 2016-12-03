@@ -4,7 +4,7 @@ Inventario
 
 Introducción
 ============
-------
+
 
 El módulo de inventario le permite administrar y gestionar todas las operaciones relacionadas a los productos que son comercializados en la empresa.
 
@@ -20,13 +20,18 @@ Entre las principales operaciones que podrá realizar en el módulo de inventari
 
 A continuación se listan las diferentes opciones de manejo de inventario en el sistema, deberá ingresar a la opción que corresponda de acuerdo a el tipo de inventario que maneje su empresa, por ejemplo: inventario standard, inventario por tallaje o inventario por lotes.
 
-En la primera opción : **Generalidades del módulo de inventario**, encontrará opciones de uso común, como el catálogo de productos, administración de unidades de medida, entre otros.
 
--------
+---------------------------------
 
-.. toctree::
-  :maxdepth: 1
 
-  /inventario/generalidades/generalidades
-  /inventario/_inventario_standard
-  /inventario/_inventario_tallaje
+  `Generalidades: <../inventario/generalidades/generalidades.html>`_ 
+
+
+  En este apartado puede consultar los procedimientos para modificar los parametros que rigen el inventario y crear nuevos porductos/servicios y combos/presentaciones
+
+  `Inventario sin tallaje: <../inventario/_inventario_standard.html>`_
+
+
+  Encuentre aquí los pasos para realizar consultas y procedimientos relacionados al inventario
+
+  ..       /inventario/_inventario_tallaje
