@@ -22,7 +22,7 @@ El catálogo de productos/servicios es el origen de los procesos de inventario; 
 El catálogo de productos/servicios le permitirá entre otras cosas:
 
 - Crear/editar/eliminar líneas/categorías de productos/servicios
-- Crear/editar/eliminar sub lineas/sub categorías de productos/servicios
+- Crear/editar/eliminar sub Líneas/sub categorías de productos/servicios
 - Crear/editar/eliminar productos/servicios
 - Buscar productos/servicios
 - Entre otras
@@ -40,7 +40,7 @@ En el catálogo de productos podrá crear las siguientes clases de items:
 
 Cada tipo de item está representado por una carpeta en el árbol de productos, como se muestra en la siguiente imagen
 
-.. figure:: inventario\generalidades\images\1.png
+.. figure:: images\1.png
    :align: center
 
    Tipos de items
@@ -57,7 +57,7 @@ Introducción
 
 Las líneas de productos/servicios son el primer nivel de clasificación de la mercancía, el sistema clasifica todos los productos/servicios que se crean en una categoría/línea.
 
-.. figure:: \inventario\generalidades\images\2.png
+.. figure:: images\2.png
    :align: center
 
    En esta imagen podemos apreciar algunas líneas de productos de ejemplo.
@@ -97,7 +97,7 @@ Para eliminar una línea de productos/servicios siga los siguientes pasos:
 .. NOTE::
    No podrá eliminar líneas que contengan sub líneas, en estos casos la opción : *Eliminar línea*, aparecerá desactivada
 
-Sub Lineas de Productos/Servicios
+Sub Líneas de Productos/Servicios
 =================================
 
 Introducción
@@ -105,7 +105,7 @@ Introducción
 
 Las sub líneas de productos/servicios son el segundo nivel de clasificación de la mercancía, las sub líneas se alojan dentro de las líneas y son las sub líneas las que alojan a los productos/servicios.
 
-.. figure:: \inventario\generalidades\images\3.png
+.. figure:: images\3.png
    :align: center
 
    En esta imagen podemos apreciar que la línea *COMPUTACIÓN* contiene las sub líneas *BOLSOS*, *MOUSE*, *IMPRESORAS*, *TECLADOS*, etc..
@@ -152,7 +152,7 @@ Introducción
 
 Los productos/servicios son el último nivel en el árbol, contienen la información necesaria para facilitar su compra/venta.
 
-.. figure:: \inventario\generalidades\images\4.png
+.. figure:: images\4.png
    :align: center
 
    En esta imagen podemos apreciar el producto **HP 2200 black**, que se encuentra dentro de la línea **COMPUTACION** y la sub línea **IMPRESORAS**
@@ -162,7 +162,7 @@ Crear un producto/servicio
 
 - Ubique en el árbol la sub línea en la que desea crear el producto/servicio y selecciónela haciendo click sobre ella
 
-.. figure:: \inventario\generalidades\images\5.png
+.. figure:: images\5.png
    :align: center
 
 - Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual
@@ -195,7 +195,7 @@ Crear un producto/servicio
 
 En la siguiente imagen se puede apreciar la ventana de creación de productos/servicios
 
-.. figure:: \inventario\generalidades\images\6.png
+.. figure:: images\6.png
    :align: center
 
    Ventana de creación de productos/servicios
@@ -260,7 +260,7 @@ Para agregar una imagen a un producto siga los siguientes pasos:
   - Aparecerá un cuadro de dialogo donde podrá ubicar el archivo de imagen que necesita para el producto, selecciónelo y haga click en 'Abrir'. Recomendable JPEG.
   - Vera la imagen adaptada al cuadro. Ahora puede guardar los cambios haciendo click en *guardar* |save.bmp|
 
-.. figure:: \inventario\generalidades\images\7.png
+.. figure:: images\7.png
   :align: center
 
  
@@ -289,7 +289,7 @@ Descontinuar un Producto/Servicio
 
 Después de un tiempo considerable creando productos/servicios se encontrará con la necesidad de eliminar algunos que ya no se vayan a seguir utilizando, sin embargo el sistema no permitirá eliminar productos/servicios que hayan tenido algún tipo de movimiento debido a que esta información es necesaria a nivel estadístico; por esta razón existe la posibilidad de **descontinuar** productos; al descontinuar un producto este desaparece de todas las operaciones de inventario, por ejemplo : entradas, salidas, traslados y únicamente es visible en las estadísticas de las operaciones registradas previas a su discontinuación.
 
-.. figure:: \inventario\generalidades\images\8.png
+.. figure:: images\8.png
   :align: center
 
 Para descontinuar un producto/servicio siga los siguientes pasos:
@@ -334,7 +334,7 @@ Para re-clasificar productos/servicios siga los siguientes pasos:
   - Ejecute la opción *Catálogo de productos y servicios*
   - Haga click en *Re-clasificar productos en categorías y sub-categorías* |library_listview.png| en la cabecera de la ventana.
 
-  .. figure:: \inventario\generalidades\images\9.png
+  .. figure:: images\9.png
     :align: center
 
   - Se desplegará una nueva ventana. En la lista *tipo de referencia* elija si es un producto, un servicio o un combo/presentación.
@@ -346,7 +346,7 @@ Para re-clasificar productos/servicios siga los siguientes pasos:
      - En la lista *Seleccione la sub-línea destino* escoja la sub-línea línea línea a la cual serán transferidos los productos.
   - Para reubicar uno o varios productos, márquelos en la lista de la izquierda y haga click en el botón de la parte inferior *Mover productos seleccionados*. Aparecerán en la lista de la derecha.
 
-  .. figure:: \inventario\generalidades\images\10.png
+  .. figure:: images\10.png
     :align: center
 
   - Si ya no desea mover uno o varios de los productos, y ya ejecutó el paso anterior, puede marcarlos en la lista de la derecha y presionar *quitar productos seleccionados*
@@ -363,7 +363,7 @@ Permitir fraccionar un producto
 
 Para activar *Permitir Fracción*  habilite la edición del producto, vea `Editar un Producto/Servicio`_, y dirijase a la pestaña *Otros*, allí marque la opción 'Permitir fracción'. Una vez seguidos estos pasos podrá ingresar cantidades racionales en el proceso de venta de un producto. Recuerde que la unidad del producto (Kg, L, grs, UND) fue seleccionada en las características principales en el momento de su creación.
 
-  .. figure:: \inventario\generalidades\images\11.png
+  .. figure:: images\11.png
     :align: center
 
 
@@ -376,17 +376,17 @@ Los *Servicios* forman parte del producto no tangible de su empresa: asesorías,
 
   - Puede agregar *Información extendida* a un servicio para poder agregar información detllada en la factura. Para activarla habilite la edición del servicio, vea `Editar un Producto/Servicio`_, y dirijase a la pestaña *Otros*, allí marque la opción 'Registrar información extendida'.
 
-    .. figure:: \inventario\generalidades\images\12.png
+    .. figure:: images\12.png
      :align: center 
 
   Pueda Usar la *Información extendida* en el momento de incluir el servicio en la factura de venta. Verá algo como:
 
-    .. figure:: \inventario\generalidades\images\13.png
+    .. figure:: images\13.png
       :align: center
 
 ----------
 
-    .. figure:: \inventario\generalidades\images\14.png
+    .. figure:: images\14.png
       :align: center
 
       En este campo puede introducir una descripción detallada del servicio que prestó.
@@ -423,7 +423,7 @@ Para agregar diferentes productos a una misma familia siga estos pasos:
   - En el panel de detalles haga click en el icono |wzedit.bmp| para habilitar la edición de las propiedades del producto.
   - Pulse el botón *contabilidad* y aparecerá una ventana flotante.
 
-    .. figure:: \inventario\generalidades\images\15.png
+    .. figure:: images\15.png
         :align: center
 
   - En las pestañas, haga click en *familia*, aquí podrá agregar seguidamente todos los productos que pertenezcan a la misma familia.
@@ -443,7 +443,7 @@ Para agregar diferentes productos a una misma familia siga estos pasos:
   - Presione Enter, y vea como es agregado a la lista.
   - A continuación puede seguir agregando productos a la familia o guardar los cambios en el Icono |save.bmp| Guardar.
   
-    .. figure:: \inventario\generalidades\images\16.png
+    .. figure:: images\16.png
         :align: center
 
 
@@ -469,9 +469,9 @@ Pre-requisitos
 --------------
 
 - Deberá haber creado los productos que van incluídos en el combo. Vea, `Crear un producto/servicio`_.
-- Tener al menos una Linea y una Sub-Linea en la rama del arbol de productos bajo el apartado Combos y Presentaciones.
+- Tener al menos una Línea y una Sub-Línea en la rama del arbol de productos bajo el apartado Combos y Presentaciones.
 
-    .. figure:: \inventario\generalidades\images\166.png
+    .. figure:: images\166.png
         :align: center
 
 Crear un Combo
@@ -481,7 +481,7 @@ Crear un Combo
 - Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual.
 - Seleccione la opción |wznew.bmp| *Nuevo Combo/presentación*.
 
-      .. figure:: \inventario\generalidades\images\17.png
+      .. figure:: images\17.png
         :align: center
 
 
@@ -525,7 +525,7 @@ Para agregar productos al Combo
 - Haga click-dereho sobre el *Combo* seleccionado para desplegar el menú contextual.
 - Haga click en la opción 'descargues automáticos' |wzedit.bmp|
 
-      .. figure:: \images\18.png
+      .. figure:: s\images\18.png
         :align: center
 
 - Se desplegará una ventana donde podrá buscar los productos |buscar.bmp| y agregarlos al Combo digitando el código del producto o presinando Enter para buscarlos en la lista de productos.
@@ -540,10 +540,10 @@ Para agregar productos al Combo
 - Una vez satisfecho con todos los productos agregados al combo, guarde los cambios haciendo click en |save.bmp|.
 
   .. Note:
-    Si desea eliminar un producto que acaba de agregar al combo o que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la linea del producto y presionar la tecla 'Supr'. 
+    Si desea eliminar un producto que acaba de agregar al combo o que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la línea del producto y presionar la tecla 'Supr'. 
 
 
-.. figure:: \inventario\generalidades\images\19.png
+.. figure:: images\19.png
     :align: center
 
 Presentaciones
@@ -568,7 +568,7 @@ Pre-requisitos
 --------------
 
 - Deberá haber creado un producto principal en unidad, que luego agrupará en la *Presentación*, Ejemplo: cable Ethernet. Vea, `Crear un producto/servicio`_.
-- Tener al menos una Linea y una Sub-Linea en la rama del arbol de productos bajo el apartado *Combos y Presentaciones*.
+- Tener al menos una Línea y una Sub-Línea en la rama del arbol de productos bajo el apartado *Combos y Presentaciones*.
 
 Crear una Presentación
 ----------------------
@@ -576,7 +576,7 @@ Crear una Presentación
 - Ubique en el árbol la sub línea en la que desea crear La *Presentación* y selecciónela haciendo click sobre ella.
 - Haga click-derecho sobre la sub línea seleccionada para desplegar el menú contextual.
 
-    .. figure:: \inventario\generalidades\images\20.png
+    .. figure:: images\20.png
        :align: center
 
 - Seleccione la opción |wznew.bmp| *Nuevo Combo/presentación*.
@@ -622,7 +622,7 @@ Para agregar productos a la presentación
 - Haga click en la opción 'descargues automáticos' |wzedit.bmp|
 - Se desplegará una ventana donde podrá buscar los productos |buscar.bmp| y agregarlos a la presentación digitando el código del producto o presinando Enter para buscarlos en la lista de productos.
 
-  .. figure:: \inventario\generalidades\images\21.png   
+  .. figure:: images\21.png   
     :align: center
 
 - Al seleccionar el producto que dese agregar verá una información desplegada de la siguiente manera:
@@ -641,7 +641,7 @@ Para agregar productos a la presentación
 - Una vez satisfecho con el producto agregados a la presentación y su cantidad, guarde los cambios haciendo click en |save.bmp|.
 
   .. Note:
-    - Si desea eliminar un producto que acaba de agregar a la presentación que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la linea del producto y presionar la tecla 'Supr'.
+    - Si desea eliminar un producto que acaba de agregar a la presentación que ya estaba agregado, puede en esta misma lista, situar el cursor en el código de la Línea del producto y presionar la tecla 'Supr'.
     - Recuerde que la idea es que una presentación sea un aglomerado de unidades de un solo producto, por ejemplo: una docena de globos.
 
 
@@ -656,7 +656,7 @@ Esta interfaz le permite actualizar los códigos EAN (barras) de cualquier produ
   - En la cabecera de la ventana desplegada, haga click en el botón |codbar.bmp| *Actualización de códigos EAN*
   - Vera una nueva ventana como esta:
 
-      .. figure:: \inventario\generalidades\images\22.png
+      .. figure:: images\22.png
         :align: center
 
 
