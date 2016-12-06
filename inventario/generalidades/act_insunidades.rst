@@ -33,12 +33,19 @@ Para crear una *unidad de medida* siga los siguientes pasos:
 
 - Ejecute la opción *Administración de unidades de medidas*
 - Haga clic en el botón *Nuevo* |wznew.bmp|
+
+.. figure:: images/23.png
+    :align: center
+
 - El sistema abrirá una ventana solicitando la siguiente información
 
   - Nombre de la unidad de medida (Ejemplo : UNIDAD)
   - Abreviación (Ejemplo : UND)
 
 - LLene los datos solicitados y confirme presionando el botón *Guardar* |save.bmp|
+       
+.. figure:: images/24.png
+    :align: center
 
 Modificar Unidad de Medida
 ==========================

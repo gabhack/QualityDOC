@@ -65,7 +65,16 @@ Crear Transacción de Inventario
 Para crear una *Transacción de Inventario* siga los siguientes pasos:
 
 - Ejecute la opción *Definición de transacciones de inventario*
+
+      .. figure:: images/25.png
+         :align: center
+
+
 - Haga clic en el botón *Nuevo* |wznew.bmp|
+
+      .. figure:: images/26.png
+         :align: center
+
 - El sistema abrirá una ventana solicitando la siguiente información
 
   - **Código** : Código de la *Transacción de Inventario*, el código es de 3 carácteres pero solo se deben especificar 2, ya que el primer caracter siempre va a ser
@@ -81,11 +90,50 @@ Para crear una *Transacción de Inventario* siga los siguientes pasos:
 
 - LLene los datos solicitados y confirme presionando el botón *Guardar* |save.bmp|
 
+.. figure:: images/27.png
+  :align: center
+
 Modificar Transacción de Inventario
 ===================================
 
+Para modificar una *Transacción de Inventario* siga los siguientes pasos:
+
+- Ejecute la opción *Definición de transacciones de inventario*
+
+      .. figure:: images/25.png
+         :align: center
+
+- Haga clic en el botón *Editar* |wzedit.bmp|
+
+      .. figure:: images/28.png
+         :align: center
+
+- El sistema abrirá una ventana mostrando la información previa de la transacción, y permitiendo modificarla
+
+- LLene los datos solicitados y confirme presionando el botón *Guardar* |save.bmp|
+
+
 Eliminar Transacción de Inventario
 ==================================
+
+    .. Note:
+
+      Existen Transacciones de inventario que el sistema necesita internamente y no podrá eliminar.
+
+Para eliminar una *Transacción de Inventario* siga los siguientes pasos:
+
+- Ejecute la opción *Definición de transacciones de inventario*
+
+      .. figure:: images/25.png
+         :align: center
+
+- Seleccione en la lista la transacción que desea eliminar
+- Haga clic en el botón *Eliminar* |wzedit.bmp|
+
+      .. figure:: images/29.png
+         :align: center
+
+
 
 .. |wznew.bmp| image:: /_images/generales/wznew.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
