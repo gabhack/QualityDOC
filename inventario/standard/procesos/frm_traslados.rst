@@ -38,9 +38,18 @@ Como realizar un envío de mercancías
     Si desea aumentar el límite de transacciones permitidas, puede hacerlo desde el módulo Contabilidad - Paramterización Contable - Inventarios - Transferencias en cola. Si no posee acceso a esta configuración, comuníquese con el administrador de sistema.
 
 - Ejecute la opción 'Traslado entre bodegas'.
+
+  .. figure:: images/40.png
+      :align: center
+
 - En la nueva ventana, seleccione en la lista <<seleccione el almacén de origen>> el centro de costo de donde saldrá la mercancía.
 - En la lista <<seleccione almacén destino>> seleccione el centro de costo al cual quiere que llegue la mercancía.
 - En el campo de texto siguiente, puede digitar alguna observación oportuna.
+
+  .. figure:: images/41.png
+      :align: center
+
+
 - Encontrará ahora la casilla |buscar.bmp| buscar, donde podrá dar inicio a la inserción de productos. Si sabe el código del producto digítelo, ingréselo con el lector láser, o también, situado sobre la casilla, oprima Enter para abrir la lista de productos y buscarlo. Oprima enter si ya lo ha encontrado o ha digitado el código.
   - Verá como aparece información relacionada al producto:
    +------+------+----------+-----------+-----+--------+--------------+----------+
@@ -50,10 +59,8 @@ Como realizar un envío de mercancías
   - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp|
 
 
-  .. figure:: /_images/generales/placeholder.png
-   :align: center
-
-  Así es la ventana de envío de mercancías.
+   .. figure:: images/42.png
+      :align: center
 
 
 Como realizar recepción de mercancías
@@ -74,10 +81,10 @@ Si usted está recibiendo una devolución, solo podrá dar ingreso a los product
 - En el siguiente campo puede insertar un valor de flete, si aplica.
 - Verá los productos listados en la grilla. Coloque en la casilla de la columna 'procesar' la cantidad de unidades de cada producto que recibirá.
 
-  .. figure:: /_images/generales/placeholder.png
-   :align: center
+   .. figure:: images/43.png
+      :align: center
 
-  Así verá la casilla procesar.
+
 
 - Marquelos en la fila del producto en el check de la última columna.
 - Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp| y así realizar el ingreso.
@@ -85,10 +92,7 @@ Si usted está recibiendo una devolución, solo podrá dar ingreso a los product
     - Despues de pulsar el botón se procederá internamente al ingreso de las unidades y no verá más la grilla.
     - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección.
 
-  .. figure:: /_images/generales/placeholder.png
-    :align: center
 
-  Así es la ventana de recepción de mercancías.
 
 Como realizar devolución de mercancias
 ======================================
@@ -107,10 +111,8 @@ Como realizar devolución de mercancias
 - Deje vacío el campo Flete.
 - Verá los productos listados en la grilla. Coloque en la casilla de la columna 'procesar' la cantidad de unidades de cada producto que devolverá.
 
-  .. figure:: /_images/generales/placeholder.png
-   :align: center
-
-  Así verá la casilla procesar.
+   .. figure:: images/44.png
+      :align: center
 
 
 - Marquelos en la fila del producto en el check de la última columna. 
