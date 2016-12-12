@@ -7,6 +7,9 @@ Introducción
 
 En este apartado de consultas usted podrá visualizar todas las operaciones transaccionales (Entradas, Salidas, Traslados, etc) de un centro de costo en un período de tiempo determinado.
 
+.. figure:: images/9.png
+   :align: center
+
 Casos de uso
 ------------
 
@@ -22,6 +25,9 @@ Podrá filtrar la información por:
 	
 	- Centro de costo
 	- Intervalo de fechas
+
+.. figure:: images/10.png
+  :align: center
 
 Opciones de salida
 ------------------

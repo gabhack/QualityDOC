@@ -5,6 +5,9 @@ Introducción
 ------------
 En el apartado de consultas *Informe de productos sin movimiento* usted podrá ver en la grilla la lista de productos que no han tenido movimiento en el plazo que usted establezca.
 
+.. figure:: images/17.png
+   :align: center
+
 Casos de uso
 ------------
 
@@ -17,10 +20,10 @@ Ud podrá remitirse a este informe para:
 
 	`Descontinuar Productos y Servicios○ <../../generalidades/act_maestroinsumos.html#descontinuar-un-producto-servicio>`_
 
-.. figure:: /_images/generales/placeholder.png
-  :align: center
+.. figure:: images/18.png
+   :align: center
 
-  Así se visualiza la grilla de productos sin movimiento en pantalla.
+Así se visualiza la grilla de productos sin movimiento en pantalla.
 
 Filtros Aplicables
 ------------------
