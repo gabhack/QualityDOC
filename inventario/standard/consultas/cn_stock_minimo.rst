@@ -6,6 +6,9 @@ Introducción
 ------------
 En el apartado de consultas *Consulta de productos con stock mínimo* usted podrá visualizar todos los productos que estén por debajo de cantidad óptima y realizar un reporte guía para hacer un pedido.
 
+.. figure:: images/14.png
+   :align: center
+
 Casos de uso
 ------------
 Ud podrá remitirse a este informe para:
@@ -17,16 +20,18 @@ Ud podrá remitirse a este informe para:
  	- Podrá modificar directamente en la grilla los valores mínimos y óptimos de cada producto.
 
  		.. Note:
-		Usted puede configurar las cantidades mínimas y óptimas en la creación o modificación del producto, en la pestaña *Existencias*
-	`Productos y Servicios○ <../../generalidades/act_maestroinsumos.html#productos-servicios>`_
+		Usted puede configurar las cantidades mínimas y óptimas en la creación o modificación del producto, en la pestaña *Existencias* `Productos y Servicios○ <../../generalidades/act_maestroinsumos.html#productos-servicios>`_
+
+			.. figure:: images/15.png
+   				:align: center
 
 	- Podrá modificar la columna pedido, para luego imprimir un reporte en diferentes formatos y usarlos como guía para realizar un pedido a los proveedores.
 
 
-.. figure:: /_images/generales/placeholder.png
-  :align: center
+.. figure:: images/16.png
+   :align: center
 
-  Así se visualizan las existencias en pantalla.
+Así se visualizan las existencias en pantalla.
 
 Filtros aplicables
 ------------------
@@ -35,10 +40,6 @@ Podrá filtrar la información por:
 	- Centro de costo
 	- Línea
 
-.. figure:: /_images/generales/placeholder.png
-  :align: center
-
-  En esta cabezera puede aplicar los filtros que necesite. 
 
 La opción "Modificar Stock Mínimo" aunque no es un filtro, si lo chequea, podrá visiualizar todos los productos en el centro de costo seleccionado o de la Línea seleccionada para cambiar sus cantidades 'mínimas' y 'optimas'. Una vez guardados |save.bmp| los cambios, volverá a ver la grilla con los datos que filtro.
 

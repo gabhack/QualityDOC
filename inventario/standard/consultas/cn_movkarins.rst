@@ -6,6 +6,9 @@ Introducción
 ------------
 En el apartado de consultas *Movimiento del Kardex por producto* usted podrá visualizar un reporte de todas las operaciones transaccionales en el centro de costo que incluyan un producto de su eleccíón (entradas, salidas, traslados, etc...).
 
+.. figure:: images/5.png
+   :align: center
+
 Casos de Uso
 ------------
 
@@ -23,10 +26,10 @@ Podrá filtrar la información por:
 	- Intervalo de fechas
 	- Código/Nombre/Referencia - del producto
 
-.. figure:: /_images/generales/placeholder.png
-  :align: center
+.. figure:: images/6.png
+     :align: center
 
-  En esta cabezera puede aplicar los filtros que necesite. 
+En esta cabezera puede aplicar los filtros que necesite. 
 
 Opciones de salida
 ------------------
