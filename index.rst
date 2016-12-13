@@ -14,5 +14,6 @@ Módulos Administrativos
   :maxdepth: 1
 
   /inventario/inventario
+  /ventas/ventas
 
 
