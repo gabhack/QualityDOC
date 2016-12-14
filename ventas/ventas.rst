@@ -6,7 +6,7 @@ Introducción
 ============
 
 
-El módulo de inventario le permite administrar y gestionar todas las operaciones relacionadas a la facturación y ventas de la empresa. 
+El módulo de ventas le permite administrar y gestionar todas las operaciones relacionadas a la facturación y ventas de la empresa. 
 
 Entre las principales opciones disponibles en el módulo de ventas se listan las siguientes :
 
