@@ -32,8 +32,13 @@ Para crear un cliente realice los siguientes pasos:
  			- Común
  			- Gran contribuyente
  		- Documento de identificación
- 		-Datos básicos: Nombres, telefonos, dirección
+ 		- Datos básicos: Nombres, telefonos, dirección
  		- Otros datos: Nombre comercial, lista de precios, vendedor destinado, email, plazo de crédito o bloquearlo.
+
+ 			.. Note:
+
+ 			Las listas de precios pueden ser asociadas a un cliente específico con el fin de ofrecer precios especiales al mismo. Vea `Configurar lista de precios <>`_
+
  		- Sucursales
  		- Retenciones
  		- Información de Cartera
