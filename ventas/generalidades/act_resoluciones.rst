@@ -69,6 +69,42 @@ Modificar una Resolución de facturación
 	- Pulse sobre 'modificar' al pie de la ventana |wzedit.bmp|	
 	- Cambie los campos que necesite y pulse 'guardar' |save.bmp|
 
+Auditoría de consecutivos de facturas
+======================================
+
+Use esta ventana para vigilar cualquier salto en la numeración de las facturas, ya sea por tener facturas anuladas o faltantes.
+
+	- Ejecute la opción "Administración de resoluciones de facturación"
+	- En el pie de la ventana, pulse el botón "Auditoría de consecutivos de facturas"
+	- En la ventana emergente seleccione el centro de costo donde desea hace rel analisis
+	- Seleccione la resolución en el cuadro superior marcando la casilla de verificación al principio de la fila.
+	- Inicie el Analisis haciendo click en el botón 'Iniciar Analisis'
+	- Podrá observar en la grilla los documentos faltantes o facturas anuladas, a que resolución pertenecen y alguna anotación. Puede filtrar los reusltados en la grilla como 'Anuladas', 'Inexistentes' o 'Todos'.
+
+
+
+
+
+
+--------------------------------------------
+
+.. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
+.. |excel.bmp| image:: /_images/generales/excel.bmp
+.. |codbar.png| image:: /_images/generales/codbar.png
+.. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
+.. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
+.. |gear.bmp| image:: /_images/generales/gear.bmp
+.. |openfolder.bmp| image:: /_images/generales/openfold.bmp
+.. |library_listview.bmp| image:: /_images/generales/library_listview.png
+.. |plus.bmp| image:: /_images/generales/plus.bmp
+.. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
+.. |buscar.bmp| image:: /_images/generales/buscar.bmp
+.. |delete.bmp| image:: /_images/generales/delete.bmp
+.. |btn_ok.bmp| image:: /_images/generales/btn_ok.bmp
+.. |refresh.bmp| image:: /_images/generales/refresh.bmp
+.. |descartar.bmp| image:: /_images/generales/descartar.bmp
+.. |save.bmp| image:: /_images/generales/save.bmp
+.. |wznew.bmp| image:: /_images/generales/wznew.bmp
 
 
 
