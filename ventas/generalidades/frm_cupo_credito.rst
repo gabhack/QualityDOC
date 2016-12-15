@@ -23,7 +23,6 @@ En "Actualización de cupos de crédito" usted podrá administrar el límite de 
 
 		Cuando usted hace una venta a crédito a un cliente cuyo cupo no ha sido establecido anteriormente, el sistema tomará tal monto como referencia y usted lo verá reflejado cuando quiera establecerle un cupo.
 
-
 Autorizar un cupo de crédito
 ============================
 
