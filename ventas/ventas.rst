@@ -30,7 +30,7 @@ A continuación se listan las diferentes opciones de manejo de ventas en el sist
   En este apartado puede consultar acerca de cómo modificar los parametros que rigen la facturación hacia los clientes y demás procesos relacionados a la venta de mercancía: vendedores, clientes, listas de precios, etc.
 
 
-  `Ventas - sin tallaje: <../ventas/_inventario_standard.html>`_
+  `Ventas - sin tallaje: <../ventas/ventas_standard.html>`_
 
 
   Encuentre aquí los pasos necesarios para llevar a cabo ventas, devoluciones y consultas.
