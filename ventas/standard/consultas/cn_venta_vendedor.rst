@@ -1,39 +1,38 @@
-=================================
-Informe de devoluciones en ventas
-=================================
+======================================
+Informe de ventas por vendedor & línea
+======================================
 
 Introducción
 ------------
 
-En *Informe de devoluciones en ventas* podrá consultar información detallada acerca de todas las devoluciones realizadas a partir de una venta durante un rango de tiempo determinado
+En *Informe de ventas por vendedor & línea* podrá consultar el total de ventas por línea de los vendedores registrados en un rango de fechas determinado.
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer:
+Ud podrá remitirse a este informe para conocer en un rango de fechas determinado:
 
-	- Cantidad de unidades devueltas de un producto o servicio
-	- Base imponible e IVA del producto devuelto
-	- Fecha de la devolución
+	- Cantidad de ventas (moneda) por vendedor
+	- Cantidad de unidades vendidas por vendedor
+	- Cantidad de ventas (moneda) por vendedor y por línea
+	- Cantidad de unidades vendidas por vendedor y por línea
 
-	.. Note:
-
-	Puede seleccionar una fila y ver en el pie de la ventana el cliente que realizó la devolución.
 
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Centro de costo
-	- Fecha
+	- Vendedor
+	- Línea
+	- Fechas
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón 'Consultar' |btn_ok.bmp|.
+Una vez elegidos los filtros principales y proceder con la consulta en el botón 'Consultar' |btn_ok.bmp|. 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Informe de devoluciones en ventas* en Los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de ventas por vendedor & línea* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
 	- |excel.bmp| Excel

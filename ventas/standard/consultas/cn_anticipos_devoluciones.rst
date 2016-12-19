@@ -1,24 +1,24 @@
-=================================
-Informe de devoluciones en ventas
-=================================
+===========================================
+Saldos a Favor por Devolución de Mercancías
+===========================================
 
 Introducción
 ------------
 
-En *Informe de devoluciones en ventas* podrá consultar información detallada acerca de todas las devoluciones realizadas a partir de una venta durante un rango de tiempo determinado
+En *Informe de saldos a Favor por Devolución de Mercancías* podrá consultar el total de saldo al favor que tienen sus clientes en cartera. 
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer:
+Ud podrá remitirse a este informe para conocer :
 
-	- Cantidad de unidades devueltas de un producto o servicio
-	- Base imponible e IVA del producto devuelto
-	- Fecha de la devolución
+	- Una lista de saldos a favor debido a devoluciones en la moneda de su preferencia
+	- Detalle del saldo a favor separado por facturas.
 
-	.. Note:
+		.. Note:
 
-	Puede seleccionar una fila y ver en el pie de la ventana el cliente que realizó la devolución.
+			Para ver en detalle los saldos a favor del cliente y de que factra provienen en una ventana nueva, haga doble click en el número de idientificación del cliente (la casilla de la primera columna da la grilla)
+
 
 
 Filtros aplicables
@@ -26,17 +26,16 @@ Filtros aplicables
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Fecha
+	- Moneda
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón 'Consultar' |btn_ok.bmp|.
+Una vez elegidos los filtros principales y proceder con la consulta en el botón 'Consultar' |btn_ok.bmp|. 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Informe de devoluciones en ventas* en Los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de saldos a Favor por Devolución de Mercancías* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |excel.bmp| Excel
 	- |printer_q.bmp| Impresión
 
 
