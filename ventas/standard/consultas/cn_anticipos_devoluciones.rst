@@ -17,7 +17,7 @@ Ud podrá remitirse a este informe para conocer :
 
 		.. Note:
 
-		Para ver en detalle los saldos a favor del cliente y de que factra provienen en una ventana nueva, haga doble click en el número de idientificación del cliente (la casilla de la primera columna da la grilla)
+			Para ver en detalle los saldos a favor del cliente y de que factra provienen en una ventana nueva, haga doble click en el número de idientificación del cliente (la casilla de la primera columna da la grilla)
 
 
 
