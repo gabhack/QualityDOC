@@ -27,12 +27,12 @@ En esta operación usted podrá realizar facturas de ventas a clientes.
 Pre-requisitos
 ==============
 
-	- `Crear Resolución de facturación - DIAN<>`_
-	- `Crear un Vendedor<>`_
-	- `Crear un producto o un servicio<>`_
-	- `Crear/configurar una lista de precios<>`_
+	- `Crear Resolución de facturación DIAN <../../generalidades/act_resoluciones.html#crear-una-resolucion-de-facturacion>`_
+	- `Crear un Vendedor <../../generalidades/act_vendedores.html#crear-un-vendedor>`_
+	- `Crear un producto o un servicio <../../../inventario/generalidades/act_maestroinsumos.html#productos-servicios>`_
+	- `Crear o configurar una lista de precios <../../generalidades/frm_listas_precios_post.html#crear-una-lista-de-precios>`_
 	- `Permitir las ventas en el centro de costos <>`_
-	- `Crear una caja`_
+	- `Crear una caja <>`_
 
 
 
