@@ -8,7 +8,8 @@ Procesos
 .. toctree::
   :maxdepth: 2
   :numbered:
-
+  
+  /ventas/standard/procesos/frm_facturacion
 
 Consultas
 ---------
