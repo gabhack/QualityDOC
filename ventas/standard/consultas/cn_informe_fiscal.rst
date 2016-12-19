@@ -1,43 +1,36 @@
-=================================
-Informe de devoluciones en ventas
-=================================
+=============================================
+Informe Fiscal - Comprobante diario de ventas
+=============================================
 
 Introducción
 ------------
 
-En *Informe de devoluciones en ventas* podrá consultar información detallada acerca de todas las devoluciones realizadas a partir de una venta durante un rango de tiempo determinado
+En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
 
 Casos de uso
 ------------
 
 Ud podrá remitirse a este informe para conocer:
 
-	- Cantidad de unidades devueltas de un producto o servicio
-	- Base imponible e IVA del producto devuelto
-	- Fecha de la devolución
-
-	.. Note:
-
-	Puede seleccionar una fila y ver en el pie de la ventana el cliente que realizó la devolución.
-
+	- Informe con estructura reglamentaria (DIAN)
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Centro de costo
+	- Servidor
+	- Caja
 	- Fecha
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón 'Consultar' |btn_ok.bmp|.
+Una vez elegidos los filtros principales y proceder con la consulta en el botón 'imprimir informe' |printer_q.bmp|. 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Informe de devoluciones en ventas* en Los siguientes formatos:
+Usted podrá dar salida al reporte de *Comprobante diario de ventas*, eligiendo de la lista en la esquina inferior derecha, entre Los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |excel.bmp| Excel
-	- |printer_q.bmp| Impresión
+	- |printer_q.bmp| Reporte
 
 
 
