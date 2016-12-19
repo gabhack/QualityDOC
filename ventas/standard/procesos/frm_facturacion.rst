@@ -59,6 +59,11 @@ Para procesar una venta realice los siguientes pasos:
     - Después de agregar el producto en la grilla, podrá modificar la casilla en la columna 'cantidad' siempre que lo considere necesario. Si no hay suficientes productos en existencia el sistema se lo hará saber.
     - En la esquina inferior derecha, podrá ver información relacionada a la facturación (Sub Total, impuestos, descuentos, retenciones y total)
     - Una vez esté seguro del total de la venta y los productos agregados, presione F2 si será cancelada en efectivo o F3 si será pagada con otros medios (cheque, tarjeta, crédito). 
+
+    	.. Note:
+
+	    	Si hay notas de crédito pendientes, podrá elegirlas de la lista de metodos de pago.
+
     - Se desplegará una ventana de confirmación para imprimir o no el recibo/reporte de la venta.
 
 Configurar resolución de facturación y Caja
