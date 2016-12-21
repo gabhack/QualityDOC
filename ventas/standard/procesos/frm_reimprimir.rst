@@ -28,10 +28,10 @@ Pre-requisitos
 	- Conocer algún dato que identifique la venta (fecha o id)
 
 
-Procesar una devolución de mercancía
+Reimprimir/Anular una factura
 ====================================
 
-Para procesar una devolución realice los siguientes pasos:
+Para Reimprimir/Anular una factura realice los siguientes pasos:
 
 	
 		.. Note: 
