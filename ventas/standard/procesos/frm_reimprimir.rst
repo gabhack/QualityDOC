@@ -44,7 +44,7 @@ Para Reimprimir/Anular una factura realice los siguientes pasos:
 	- Presione el botón |btn_ok.bmp
 	- En la grilla, se incorporarán todas las facturas que corresponden a su busqueda, en cada fila podrá ver información detallada para diferenciarlas.
 	- Marque la(s) que desea Reimprimir/Anular
-	- Se activarán los botones en la cabecera: Imprimir |printer_q.bmp| y Anular |Delete.bmp|
+	- Se activarán los botones en la cabecera: Imprimir |printer_q.bmp| y Anular |delete.bmp|
 	- Pulse el botón, según la opción que necesite.
 
 
