@@ -29,7 +29,7 @@ Pre-requisitos
 
 
 Reimprimir/Anular una factura
-====================================
+=============================
 
 Para Reimprimir/Anular una factura realice los siguientes pasos:
 
@@ -41,7 +41,7 @@ Para Reimprimir/Anular una factura realice los siguientes pasos:
 	- Ejecute la opción *Reimpresión y Anulación de facturas de venta*
 	- Seleccione el centro de costo en el que realizó la venta 
 	- Puede seleccionar la opción 'fecha' e indicar el rango de fechas donde se ecuentra la factura, o puede elegir 'factura' para introducir el número de transaccion(id).
-	- Presione el botón |btn_ok.bmp
+	- Presione el botón |btn_ok.bmp|
 	- En la grilla, se incorporarán todas las facturas que corresponden a su busqueda, en cada fila podrá ver información detallada para diferenciarlas.
 	- Marque la(s) que desea Reimprimir/Anular
 	- Se activarán los botones en la cabecera: Imprimir |printer_q.bmp| y Anular |delete.bmp|

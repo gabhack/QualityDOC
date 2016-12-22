@@ -39,7 +39,7 @@ Editar/Imprimir/Eliminar una cotización
 ================================
 
 	- Visualice las cotizaciones `Visualizar cotizaciones existentes`_
-	- A la izquierda de cada fila de cotización verá 2 íconos: Editar |zwedit.bmp|, |Imprimir |printer_q.bmp| y Borrar |delete.bmp|. Presione según la opción que desee.
+	- A la izquierda de cada fila de cotización verá 2 íconos: Editar |wzedit.bmp|  , Imprimir |printer_q.bmp| y Borrar |delete.bmp|. Presione según la opción que desee.
 
 
 
@@ -49,7 +49,7 @@ Crear una Cotizacion
 Para crear una *Cotizacion* realice los siguientes pasos:
 
 	- Ejecute la opción "Cotizaciones"
-	- Haga click en el botón 'Nueva cotización' |nuevo.bmp|
+	- Haga click en el botón 'Nueva cotización' |wznew.bmp|
 	- **Se desplegará una nueva ventana:**
 		- Elija el centro de costo para la cotización
 		- Elija la fecha y luego la vigencia de los precios que contendrá la cotización
@@ -66,9 +66,9 @@ Para crear una *Cotizacion* realice los siguientes pasos:
 		- Haga click en 'Guardar' |save.bmp|
 	-Entrará de nuevo a la ventana con las características de la cotización, desde aquí podrá decidir si desea:
 		- Agregar otra propuesta comercial |plus.bmp|
-		- Imprimir esta cotización |printer_q|
+		- Imprimir esta cotización |printer_q.bmp|
 		- Salir
-	
+
 
 
 ---------------------------------------------------------
