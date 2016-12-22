@@ -13,6 +13,8 @@ Procesos
   /ventas/standard/procesos/frm_facturacion
   /ventas/standard/procesos/frm_devoluciones
   /ventas/standard/procesos/frm_cuadre_caja
+  /ventas/standard/procesos/frm_reimprimir
+  /ventas/standard/procesos/frm_cotizaciones
 
 Consultas
 ---------
