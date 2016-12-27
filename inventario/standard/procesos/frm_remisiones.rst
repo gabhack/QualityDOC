@@ -24,7 +24,8 @@ Introducción
 Pre-requisitos
 ==============
 
-	- Tener un pedido creado ` Crear un pedido <>`
+	- Tener un pedido creado `Crear un pedido <../../../ventas/standard/procesos/frm_administrador_pedidos.html>`_
+
 
 Hacer una remisión
 ==================

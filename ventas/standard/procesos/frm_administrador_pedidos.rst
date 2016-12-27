@@ -18,7 +18,7 @@ Ubicación
 Introducción
 ============
 
-	En este proceso puede crear un pedido a un cliente según sus necesidades. Este proceso no genera una salida del inventario. Cuando el pedido haya llegado y desee darle salida, deberá ir a la opción `Remisiones de pedidos <>`
+	En este proceso puede crear un pedido a un cliente según sus necesidades. Este proceso no genera una salida del inventario. Cuando el pedido haya llegado y desee darle salida, deberá ir a la opción `Remisiones de pedidos <../../../inventario/standard/procesos/frm_remisiones.html>`_
 
 
 Pre-requisitos
