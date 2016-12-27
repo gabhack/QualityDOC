@@ -45,6 +45,7 @@ Para procesar una *venta* realice los siguientes pasos:
 	- Si no lo ha hecho anteriormente, entonces debe `Configurar resolución de facturación y Caja`_
 	- Seleccione el centro de costo que realiza la venta
 	- Introduzca la identificación del comprador y presione enter o búsquelo |buscar.bmp|. Si el cliente no está creado, verá una ventana de confirmación preguntando si desea crearlo, presione 'Sí' y proceda a llenar los datos necesarios del nuevo comprador. `Crear un cliente <../../generalidades/act_clientes_pos.html#crear-un-cliente>`_
+	- Si el comprador tiene cotizaciones o remisiones pendientes puede verlas en el botón |buscar.bmp|
 	- En la lista 'Vendedor', elija el vendedor pertinente. Esta configuración solo se hace la primera vez aunque luego podrá cambiarlo.
 	- En la lista 'Precios', eija la lista de precios en la cual estarán basados los montos de la factura.
 	- Encontrará un campo de texto vacio, destinado a la búsqueda de productos. Use el lector laser, introduzca manualmente el código del producto, el codigo de acceso rápido o presione enter para buscarlo en la lista. El lector laser puede estar configurado para realizar un Enter automático después de encontrar el producto, si no es así, presione Enter.

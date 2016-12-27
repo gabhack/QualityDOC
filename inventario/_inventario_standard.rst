@@ -14,6 +14,7 @@ Procesos
   /inventario/standard/procesos/frm_traslados
   /inventario/standard/procesos/frm_tomainv
   /inventario/standard/procesos/frm_imprimir_codbar
+  /inventario/standard/procesos/frm_remisiones
 
 Consultas
 ---------

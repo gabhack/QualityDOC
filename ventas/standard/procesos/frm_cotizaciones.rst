@@ -69,6 +69,7 @@ Para crear una *Cotizacion* realice los siguientes pasos:
 		- Imprimir esta cotización |printer_q.bmp|
 		- Salir
 
+**Para ver como usar la cotización creada en el momento de la facturación, vea:** `Procesar una venta <../../standard/procesos/frm_facturacion.html#crear-una-factura-procesar-una-venta>`_
 
 
 ---------------------------------------------------------
