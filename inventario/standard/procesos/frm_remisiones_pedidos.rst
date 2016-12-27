@@ -1,6 +1,6 @@
-=============================
-Impresión de código de barras
-=============================
+=====================
+Remisiones de pedidos
+=====================
 
 Ubicación
 =========
@@ -11,21 +11,18 @@ Ubicación
 :Grupo:
  Operaciones
 
-:Descripción:
- Impresión de código de barras
-
+:Descripción: 
+ Remisiones de pedidos
 
 Introducción
 ============
 
-Usted podrá usar esta opción para imprimir etiquetas de código de barras para manejo interno del inventario. Esta opción es exclusiva para aquellos productos cuyo empaque no tenga un código previamente marcado. Si su producto ya tiene código de barras y desea registrarlo en sistema, puede hacerlo en el momento de `crear o editar el producto <../generalidades/act_maestroinsumos.html#productos-servicios>`_
+Usted podrá usar esta opción para 
 
 Pre-Requisitos
 ==============
-
-Para imprimir las etiquetas de código de barras:
-
-	- El producto debe existir en el catalogo de productos. `Crear un producto <../generalidades/act_maestroinsumos.html#productos-servicios>`_
+ 
+	
 
 
 Para Imprimir las etiquetas de código de barras

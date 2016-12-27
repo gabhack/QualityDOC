@@ -39,7 +39,7 @@ Pre-requisitos
 Crear una factura / Procesar una venta
 ======================================
 
-Para procesar una venta realice los siguientes pasos:
+Para procesar una *venta* realice los siguientes pasos:
 
 	- Ejecute la opción *Facturación a clientes*
 	- Si no lo ha hecho anteriormente, entonces debe `Configurar resolución de facturación y Caja`_
