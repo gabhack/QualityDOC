@@ -15,6 +15,7 @@ Procesos
   /ventas/standard/procesos/frm_cuadre_caja
   /ventas/standard/procesos/frm_reimprimir
   /ventas/standard/procesos/frm_cotizaciones
+  /ventas/standard/procesos/frm_administrador_pedidos
 
 Consultas
 ---------
