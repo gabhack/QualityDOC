@@ -38,7 +38,7 @@ Para procesar una devolución realice los siguientes pasos:
 
 	- Ejecute la opción *Devolución de mercancías*
 	- Seleccione el centro de costo en el que realizó la venta 
-	- Presione el botón 'Buscar' |buscar.bmp|
+	- Presione el botón  |buscar.bmp| *buscar*
 
 	** Se desplegará una ventana que le permitirá buscar la factura en la que estará basada la devolución **
 
@@ -52,14 +52,14 @@ Para procesar una devolución realice los siguientes pasos:
 		- Precio de venta
 
 	- Seleccione cualquiera para desplegar un cuadro de texto y digitar la información requerida
-	- Presione 'Buscar Factura' |buscar.bmp|
+	- Presione  |buscar.bmp| *buscar factura*
 	- Aparecerán todas las facturas relacionadas a sus terminos de búsqueda en pantalla.
-	- Marque la factura que desea, y haga click en 'Seleccionar Factura' |btn_ok.bmp|
+	- Marque la factura que desea, y haga click en  |btn_ok.bmp| *seleccionar factura*
 
 	** Volverá a la pantalla inicial de devolución **
 
-	- Verá los productos relacionados a la factura en el grid. Seleccione los que fueron devueltos por el cliente. Verifique los montos y presione 'Guardar' |save.bmp|
-	- En una ventana emergente podrá escribir una jutificación o una observación relacionada a la devolución. Presione F2 o pulse el botón 'Aceptar' |btn_ok.bmp|
+	- Verá los productos relacionados a la factura en el grid. Seleccione los que fueron devueltos por el cliente. Verifique los montos y presione |save.bmp| *guardar*
+	- En una ventana emergente podrá escribir una jutificación o una observación relacionada a la devolución. Presione F2 o pulse el botón |btn_ok.bmp| *aceptar*
 
 
 	.. Note:

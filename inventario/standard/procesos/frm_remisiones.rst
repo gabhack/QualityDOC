@@ -31,12 +31,12 @@ Hacer una remisión
 ==================
 
 	- Ejecute la opción "Remisión de pedidos"
-	- Elija el centro de costo correcto
+	- Elija el centro de costo 
 	- Seleccione el vendedor al que se adjudicó el pedido
 	- Seleccione el cliente que realizó el pedido
 	- Se desplegará un campo para que elija el pedido correspondiente
 	- En la grilla se listarán los productos. Podrá chequear al final de la fila de cada producto todos aquellos a los que desea darles salida.
-	- Haga click en 'Guardar' |save.bmp|
+	- Haga click en |save.bmp| *guardar*
 
 **Para ver como usar la remisión creada en el momento de la facturación, vea:** `Procesar una venta <../../../ventas/standard/procesos/frm_facturacion.html#crear-una-factura-procesar-una-venta>`_
 

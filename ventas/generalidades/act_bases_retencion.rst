@@ -23,7 +23,7 @@ Crear una nueva Base de retención
 =================================
 
 	- Ejecute la opción *Bases de retención*
-	- En el pie de la ventana haga click en 'nuevo' |wznew.bmp|
+	- En el pie de la ventana haga click en  |wznew.bmp| *nuevo*
 	- Se desplegará una ventana emergente donde deberá colocar la siguiente información:
 		- *Nombre de la Base de retención:* Escoja una descripción apropiada para la base.
 		- *Base de retención:* Escoja la base a partir de la cual se llevará a cabo un calculo de retención.
@@ -32,14 +32,14 @@ Crear una nueva Base de retención
 		- *Interfaz contable de Auto-retención para Ventas:* Cuenta contable afectada por el proceso de auto-retención en ventas.
 		- *Interfaz contable de compras:* Cuenta contable afectada por el proceso de retención en compras.
 		- *Grupo:* Elija el tipo de retención que cubre: CREE, IVA, Renta o ICA.
-	- Haga click en 'guardar' |save.bmp|
+	- Haga click en |save.bmp| *guardar*
 
 ELiminar una Base de retención
 ==============================
 
 	- Ejecute la opción *Base de retención*
 	- Seleccione la retención en la grilla, haciendo click sobre ella.
-	- En el pie de la ventana haga click en 'eliminar' |delete.bmp|
+	- En el pie de la ventana haga click en |delete.bmp| *eliminar*
 	- Oprima 'Sí' en la ventana de confirmación
 
 	.. Note:
@@ -50,9 +50,9 @@ Modificar una Base de retención
 ===============================
 
 	- Ejecute la opción *Base de retención*
-	- En el pie de la ventana haga click en 'Modificar' |wzedit.bmp|
+	- En el pie de la ventana haga click en  |wzedit.bmp| *modificar*
 	- Modifique lo que considere pertinente
-	- Haga click en 'guardar' |save.bmp|
+	- Haga click en |save.bmp| *guardar*
 
 
 

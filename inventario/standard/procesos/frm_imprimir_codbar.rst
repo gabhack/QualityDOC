@@ -70,7 +70,7 @@ Para Imprimir las etiquetas de código de barras
 		También puede acceder desde el *catalogo de productos y servicios*
 
 		- Ejecute la opción *Catálogo de productos y servicios*
-  		- Haga click en *impresión de código de barras* |codbar.png| en la cabecera de la ventana.
+  		- Haga click en |codbar.png| *impresión de código de barras* en la cabecera de la ventana.
 
 Configuración de Stickers
 =========================

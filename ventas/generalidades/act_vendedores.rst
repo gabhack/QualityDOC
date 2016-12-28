@@ -25,7 +25,7 @@ Crear un vendedor
 Para crear un vendedor realice los siguientes pasos:
  	
  	- Ejecute la opción *Administración de vendedores*
- 	- En el pie de la ventana pulse sobre el botón Nuevo |wznew.bmp|
+ 	- En el pie de la ventana pulse sobre el botón |wznew.bmp| *nuevo*
  	- Se desplegará una ventana donde podrá indicar:
  		- Nombres
  		- Teléfonos
@@ -42,7 +42,7 @@ Elmiminar un vendedor
 =====================
  	- Ejecute la opción *Administración de vendedores*
  	- Seleccione, haciendo click, a un vendedor en la grilla
- 	- Presione el botón Eliminar |delete.bmp| al pie de la ventana
+ 	- Presione el botón |delete.bmp| *eliminar* al pie de la ventana
  	- En el cuadro de confirmación presiones 'Sí'
 
  	.. Note:
@@ -54,7 +54,7 @@ Modificar un vendedor
 
  	- Ejecute la opción *Administración de vendedores*
  	- Seleccione, haciendo click, a un vendedor en la grilla
- 	- Presione el botón Modificar |wzedit.bmp| al pie de la ventana
+ 	- Presione el botón |wzedit.bmp| *modificar* al pie de la ventana
  	- Aparecerá una ventana donde podrá cambiar los datos del vendedor que necesite, y dejar los que considere ya están bien.
 
  	--------------------------------------------

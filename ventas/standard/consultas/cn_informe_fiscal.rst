@@ -23,7 +23,7 @@ Podrá filtrar la información por:
 	- Fecha
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón 'imprimir informe' |printer_q.bmp|. 
+Una vez elegidos los filtros principales y proceder con la consulta en el botón  |printer_q.bmp| *imprimir informe* 
 
 Opciones de salida
 ------------------

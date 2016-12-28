@@ -33,7 +33,7 @@ Reimprimir una transacción de inventario
 ========================================
 
 
-	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_) , verá los productos incluídos en ella en la grilla principal donde podrá verificar si es el documento que desea reimprimir. Presione F2 o haga click en el ícono |priner_q.bmp|
+	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_) , verá los productos incluídos en ella en la grilla principal donde podrá verificar si es el documento que desea reimprimir. Presione F2 o haga click en el ícono |printer_q.bmp|
 
 	 .. figure:: images/16.png
        :align: center
