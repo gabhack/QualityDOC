@@ -29,26 +29,39 @@ Para crear un cliente realice los siguientes pasos:
  		 .. figure:: images/0.png
    			:align: center
 
- 	- En el pie de la ventana pulse sobre el botón Nuevo |wznew.bmp|
+ 	- En el pie de la ventana pulse sobre el botón |wznew.bmp| *nuevo*
  	- Se desplegará una ventana emergente donde podrá dar cavida a los datos del cliente:
  		- Régimen (tributario): 
  			- Simplificado
  			- Común
  			- Gran contribuyente
- 		- Documento de identificación
- 		- Datos básicos: Nombres, telefonos, dirección
- 		- Otros datos: Nombre comercial, lista de precios, vendedor destinado, email, plazo de crédito o bloquearlo.
+ 		- **Documento de identificación**: Si este número de identificación ha sido usado en algún otro apartado (vendedores, proveedores, etc) entonces el sistema desplegará la información registrada de esta persona.
+ 		- **Datos básicos**: Nombres, telefonos, dirección
+
+ 			.. Note:
+
+ 			Datos obligatorios: Primer nombre, primer apellido, departamento, municipio y número de documento.
+
+ 		- **Otros datos**: 
+
+ 				- Nombre comercial: Nombre del establecimiento (no razón social)
+ 				- lista de precios: Las listas de precios pueden ser asociadas a un cliente específico con el fin de ofrecer precios especiales al mismo. Vea `Configurar lista de precios <>`_ Esta lista será cargada automáticamente al elegir este cliente.
+ 				- vendedor destinado: Un vendedor puede ser asociado  a un cliente. Será cargado automáticamente en el momento de hacer una venta a este cliente.
+ 				- Email
+ 				- Plazo de crédito: El número aquí indicado será mostrado automáticamente en el momento de la facturación al elegir este cliente.
+ 				- Bloquear ventas a este cliente: Un usuario puede bloquear un cliente para que no pueda efectuar compras, dejando una aclaratoria en un campo de texto emergente. Cuando se vaya a facturar al cliente, la razón establecida por el usuario será mostrada en pantalla.
+ 				- Este cliente es exento de IVA: Márquela para que en el momento de la facturación, el IVA no se atribuya al monto.
+ 				- Fecha de nacimiento
 
 			 .. figure:: images/1.png
 			   :align: center
 
- 			.. Note:
+ 			
 
- 			Las listas de precios pueden ser asociadas a un cliente específico con el fin de ofrecer precios especiales al mismo. Vea `Configurar lista de precios <>`_
-
- 		- Sucursales
- 		- Retenciones
- 		- Información de Cartera
+ 		- **Sucursales**: Un cliente puede tener en cuanto a su negocio, varias sucursales. En esta pestaña se pueden crear sucursales para saber a cual se atiende en el momento de la venta. 
+ 		- Retenciones: Aparece un listado de retenciones creadas en sistema, puede marcar las que quiere que se apliquen **automáticamente** sobre la facturación para este cliente. 
+ 			- Puede marcar la casilla *Retiene sobre cualquier base* para aplicar las retenciones marcadas en cualquier monto imponible.
+ 		- Información de Cartera: Se trata de un texto para el usuario que gestiona cartera (información de cobros, contacto, etc). Esta información aparece en la sección de **Cartera** para facilitar la gestión.
 
  	En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)
 
