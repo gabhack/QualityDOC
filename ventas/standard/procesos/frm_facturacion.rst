@@ -84,6 +84,8 @@ Configurar resolución de facturación y Caja
 
 
 
+.. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
+.. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |codbar.png| image:: /_images/generales/codbar.png
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif

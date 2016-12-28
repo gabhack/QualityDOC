@@ -12,7 +12,7 @@ Ubicación
  Parámetros
 
 :Descripción:
-  Adminsitración de Listas de Precios
+  Administración de Listas de Precios
 
 Introducción
 ============
@@ -33,17 +33,30 @@ Pre-requisitos
 Crear una Lista de Precios
 ==========================
 
-Para crear una +Lista de Precios* realice los siguientes pasos:
+Para crear una *Lista de Precios* realice los siguientes pasos:
 
 	- Ejecute la opción *Administración de Lista de precios*
-	- En la cabecera elija el centro de costos al que irá relacionada la +Lista de Precios*
+
+ 			.. figure:: images/4.png
+   				:align: center
+
+	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios*
 	- Haga click en el botón 'Crear una lista de precios' |plus.bmp|
 	- En la ventana emergente introduzca el nombre de la nueva *Lista de precios* y presione 'aceptar'
+
+ 		.. figure:: images/5.png
+   			:align: center
+
+   		.. figure:: images/6.png
+  			 :align: center
+
 	- Verá una nueva lista con todos los productos marcados en rojo (Los productos en rojo reflejan una utilidad negrativa)
 
 
 		De ahora en adelante usted podrá realizar cambios en los precios de los productos reflejados en la grilla directamente en la columna **Precio de venta** y **Precio mínimo**. Estos precios se verán reflejados en en el momento de realizar la factura si ha elegido esta *Lista de Precios*
 
+			 .. figure:: images/7.png
+			   :align: center
 
 		El **Margen de Utilidad** (%Uti - Casilla naranja) será una manera automática de establecer el precio del producto de acuerdo a un porcentaje sobre el costo.
 
@@ -62,6 +75,9 @@ Podrá buscar los productos que pertenezcan a una transacción específica coloc
 
 		- **_EC:001:21400587**
 
+ .. figure:: images/8.png
+   :align: center
+
 
 
 Establecer formas de pago a una Lista de precios
@@ -69,10 +85,17 @@ Establecer formas de pago a una Lista de precios
 
 Podrá establecer formas de pago permitidas a la hora de realizar una venta usando cierta *Lista de precios*
 
-
 	- Haga click en el botón "Configurar formas de pago permitidas" |gear.bmp| 
+
+		 .. figure:: images/9.png
+		   :align: center
+
 	- En la cabecera de la venta emergente seleccione la *Lista de precios*
 	- Chequee las opciones que le parezcan pertinentes
+
+		 .. figure:: images/10.png
+		   :align: center
+
 	- Haga click en 'Guardar' |save.bmp| 
 
 Asociar un usuario del sistema a una *Lista de Precios*
@@ -81,10 +104,18 @@ Asociar un usuario del sistema a una *Lista de Precios*
 Podrá establecer acceso seguro a las *Lista de Precios* dando permisos únicos a usuarios, o negándoles el acceso.
 
 	- Haga click en el botón "Configurar formas de pago permitidas" |gear.bmp| 
+
+		 .. figure:: images/9.png
+		   :align: center
+
 	- En la cabecera de la venta emergente seleccione la *Lista de precios*
 	- Diríjase a la pestaña 'usuarios'
 	- Ahora puede proceder a chequear los usuarios que tendrán acceso a esta lista o que serán vetados.
 	- En el pie de la ventana, seleccione si desea restringir u otorgar el acceso
+
+		 .. figure:: images/11.png
+		   :align: center
+
 	- Haga click en 'Guardar' |save.bmp| 
 
 Otras configuraciones de Listas de Precios
@@ -93,6 +124,10 @@ Otras configuraciones de Listas de Precios
 Acceda a otros ajustes que le permitirán parametrizar y hacer más amena la facturación en ventas:
 
 	- Haga click en el botón "Configurar formas de pago permitidas" |gear.bmp| 
+
+		 .. figure:: images/9.png
+		   :align: center
+
 	- En la cabecera de la venta emergente seleccione la *Lista de precios*
 	- Diríjase a la pestaña 'otros'
 	-Luego encontrará un combo con 3 opciones:
@@ -104,17 +139,21 @@ Acceda a otros ajustes que le permitirán parametrizar y hacer más amena la fac
 	- Marque 'Lista de precios pública' si la lista puede ser aplicada a cualquier cliente y no a uno específico. Para asociar una lista a un cliente diríjase a `Crear o modificar un cliente <>`_
 	- Marque 'No permitir precios de venta inferiores al costo' si dese inhabilitar esta posibilidad al cajero.
 
-
+		 .. figure:: images/12.png
+		   :align: center
 
 Cambiar nombre a una Lista de Precios
 =====================================
 
 	- Ejecute la opción *Administración de Lista de precios*
-	- En la cabecera elija el centro de costos al que irá relacionada la +Lista de Precios*
+	- En la cabecera elija el centro de costos relacionado a la *Lista de Precios*
+	- Elija la *Lista de Precios*
 	- Haga click en el botón 'cambiar nombre de esta lista de precios' |wzedit.bmp|
 	- En la ventana emergente introduzca el nuevo nombre y haga click en 'aceptar'
+ 
 
-
+ .. figure:: images/13.png
+	   :align: center
 
 Eliminar una Lista de precios
 =============================
@@ -123,6 +162,9 @@ Eliminar una Lista de precios
 	- En la cabecera elija el centro de costos al que irá relacionada la +Lista de Precios*
 	- Haga click en el botón 'Eliminar lista de precios seleccionada' |delete.bmp|
 	- Haga click en 'Sí' para confirmar la eliminación
+
+ .. figure:: images/14.png
+   :align: center
 
 
 Exportar información de una Lista de precios
@@ -139,6 +181,8 @@ en los siguientes formatos:
 	- |excel.bmp| Excel
 	- |printer_q.bmp| Impresión
 
+ .. figure:: images/15.png
+   :align: center
 
 Log de cambios en precios de venta
 ==================================
@@ -146,11 +190,18 @@ Log de cambios en precios de venta
 Por seguridad, cada cambio en los precios de su centro de costo de una lista determinada es guardada con información pertinente del usuario, producto y fecha.
 
 	- Ejecute la opción *Administración de Lista de precios*
-	- En la cabecera elija el centro de costos al que irá relacionada la +Lista de Precios* 
+	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios* 
 	- Haga click en el botón 'Log de cambios en precios de ventas' |library_listview.bmp|
+
+		 .. figure:: images/16.png
+		   :align: center
+
 	- Se desplegará una ventana donde podrá ver los cambios en todos los productos. También podrá verlos en una rango de fechas determinado. 
-	- En la barra de búsqueda inteligente podrá poner información acerca del producto (nombre, aprte del nombre, código, parte del código)
+	- En la barra de búsqueda inteligente podrá poner información acerca del producto (nombre, parte del nombre, código, parte del código)
 	- En el Combo podrá seleccionar que columnas de precios desea mostrar en la grilla.
+
+ .. figure:: images/17.png
+   :align: center
 
 Etiquetar productos
 ===================
@@ -162,6 +213,9 @@ Para etiquetar/desetiquetar un producto:
 	- Elija el producto en la grilla marcandolo en la casilla de la última columna (puede elegir varios)
 	- Presione el botón 'Etiquetar productos' |label.bmp| 
 	- Elija la etiqueta de que desea, o elija 'Remover TAG de los productos seleccionados' para desetiquetar.
+
+ .. figure:: images/18.png
+   :align: center
 
 
 --------------------------------------------

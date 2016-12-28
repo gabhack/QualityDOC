@@ -5,7 +5,7 @@ Consulta general de facturación
 Introducción
 ------------
 
-En *Consulta general de facturación* podrá consultar información pertinenete de las facturas procesadas.
+En *Consulta general de facturación* podrá consultar información pertinente de las facturas procesadas.
 
 * Para que los filtros aparezcan en pantalla deberá haber procesado alguna venta en el centro de costo elegido
 

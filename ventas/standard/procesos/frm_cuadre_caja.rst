@@ -51,7 +51,7 @@ Cuadrar la caja
 
 	Una vez haga el cierre de caja, podrá visualizar las transacciones desde la apertura de la caja, en pantalla. Si necesita modificar la observación puede hacerlo presionando el botón |wzedit.bmp|
 
-	**Puede exportar los datos del cuadre de caja en |pdf_logo.gif| PDF y |printer_q.bmp| formato de impresión
+	 - Puede exportar los datos del cuadre de caja en |pdf_logo.gif| PDF y |printer_q.bmp| formato de impresión
 
 
 
@@ -60,6 +60,8 @@ Cuadrar la caja
 ---------------------------------------------------------
 
 
+.. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
+.. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |codbar.png| image:: /_images/generales/codbar.png
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
