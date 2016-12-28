@@ -25,6 +25,10 @@ Crear un cliente
 Para crear un cliente realice los siguientes pasos:
  	
  	- Ejecute la opción *Administración de clientes*
+
+ 		 .. figure:: images/0.png
+   			:align: center
+
  	- En el pie de la ventana pulse sobre el botón Nuevo |wznew.bmp|
  	- Se desplegará una ventana emergente donde podrá dar cavida a los datos del cliente:
  		- Régimen (tributario): 
@@ -34,6 +38,9 @@ Para crear un cliente realice los siguientes pasos:
  		- Documento de identificación
  		- Datos básicos: Nombres, telefonos, dirección
  		- Otros datos: Nombre comercial, lista de precios, vendedor destinado, email, plazo de crédito o bloquearlo.
+
+			 .. figure:: images/1.png
+			   :align: center
 
  			.. Note:
 
@@ -52,6 +59,10 @@ Elmiminar un cliente
  	- Ejecute la opción *Administración de clientes*
  	- Seleccione, haciendo click, a un cliente en la grilla
  	- Presione el botón Eliminar |delete.bmp| al pie de la ventana
+
+		 .. figure:: images/2.png
+		   :align: center
+
  	- En el cuadro de confirmación presiones 'Sí'
 
  	.. Note:
@@ -64,6 +75,10 @@ Modificar un cliente
  	- Ejecute la opción *Administración de clientes*
  	- Seleccione, haciendo click, a un cliente en la grilla
  	- Presione el botón Modificar |wzedit.bmp| al pie de la ventana
+		 
+		 .. figure:: images/3.png
+		   :align: center
+
  	- Aparecerá una ventana donde podrá cambiar los datos del cliente que necesite, y dejar los que considere ya están bien.
 
 
