@@ -32,7 +32,7 @@ Crear una Resolución de facturación
 ===================================
 
 	- Ejecute la opción "Administración de resoluciones de facturación"
-	- Haga click en el pie de la ventana en el botón 'Nuevo' |nuevo.bmp|
+	- Haga click en el pie de la ventana en el botón |nuevo.bmp| *nuevo*
 	- Verá una ventana emergente con los siguientes campos:
 		- *Resolución destinada para el almacén:* La resolución debe ir relacionada con un almacen (una por sucursal) o puede ser compartida (dos puntos de venta en la misma sucursal)
 		- *No Resolución:* Entregado por la DIAN
@@ -47,14 +47,14 @@ Crear una Resolución de facturación
 		- *Esta resolución aplica como resolución manual:* Márquela si tiene un respaldo manual para el proceso de facturación. Idealmente se designa una resolución solo para ese talonario.
 		- *Resolución Activa:* Márquela si está en actual uso.
 		- *Mostrar ceros a la izquierda:* Márquela si desea que en la factura impresa aparezcan o no, los ceros a la izquierda.
-		- Haga click en el botón 'Guardar' |save.bmp|
+		- Haga click en el botón |save.bmp| *guardar*
 
 Eliminar una Resolución de facturación
 ======================================
 
 	- Ejecute la opción "Administración de resoluciones de facturación"
 	- Seleccione en la grilla haciendo click con el mouse sobre la Resolución que desea eliminar
-	- Pulse sobre 'eliminar' al pie de la ventana |delete.bmp|
+	- Pulse sobre |delete.bmp| *eliminar* al pie de la ventana 
 	- Pulse aceptar en la ventana de confirmación
 
 	.. Note:
@@ -66,8 +66,8 @@ Modificar una Resolución de facturación
 
 	- Ejecute la opción "Administración de resoluciones de facturación"
 	- Seleccione en la grilla haciendo click con el mouse sobre la Resolución que desea modificar
-	- Pulse sobre 'modificar' al pie de la ventana |wzedit.bmp|	
-	- Cambie los campos que necesite y pulse 'guardar' |save.bmp|
+	- Pulse sobre |wzedit.bmp| *modificar* al pie de la ventana 
+	- Cambie los campos que necesite y pulse |save.bmp| *guardar*
 
 Auditoría de consecutivos de facturas
 ======================================

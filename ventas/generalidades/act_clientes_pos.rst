@@ -58,7 +58,7 @@ Elmiminar un cliente
 ====================
  	- Ejecute la opción *Administración de clientes*
  	- Seleccione, haciendo click, a un cliente en la grilla
- 	- Presione el botón Eliminar |delete.bmp| al pie de la ventana
+ 	- Presione el botón |delete.bmp| *eliminar* al pie de la ventana
 
 		 .. figure:: images/2.png
 		   :align: center
@@ -74,7 +74,7 @@ Modificar un cliente
 
  	- Ejecute la opción *Administración de clientes*
  	- Seleccione, haciendo click, a un cliente en la grilla
- 	- Presione el botón Modificar |wzedit.bmp| al pie de la ventana
+ 	- Presione el botón |wzedit.bmp| *modificar* al pie de la ventana
 		 
 		 .. figure:: images/3.png
 		   :align: center

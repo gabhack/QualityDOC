@@ -29,7 +29,7 @@ Podrá filtrar la información por:
 	- Moneda
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón 'Consultar' |btn_ok.bmp|. 
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------

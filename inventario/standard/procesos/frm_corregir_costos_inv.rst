@@ -55,7 +55,7 @@ Para cambiar el costo de uno o varios productos, proceda con los siguientes paso
 - Una vez haya agregado los productos pertinentes, tiene dos opciones:
 	- **Corregir en todos los centros de costo:** Pulse aquí para que estos productos se vean modificados en todos los centros donde tengan existencia.
 	- **Corregir únicamente en el centro de costo seleccionado:** Haga click aquí para corregir el costo solo en el centro seleccionado en la cabecera. 
-- Se mostrará una ventana donde deberá colocar una observación o motivo del cambio. Servirá como referencia para un futuro. Presione F2 o haga click en Aceptar |btn_ok.bmp| 
+- Se mostrará una ventana donde deberá colocar una observación o motivo del cambio. Servirá como referencia para un futuro. Presione F2 o haga click en  |btn_ok.bmp| *Aceptar*
 
 
 

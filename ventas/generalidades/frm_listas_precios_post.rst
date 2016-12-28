@@ -41,8 +41,8 @@ Para crear una *Lista de Precios* realice los siguientes pasos:
    				:align: center
 
 	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios*
-	- Haga click en el botón 'Crear una lista de precios' |plus.bmp|
-	- En la ventana emergente introduzca el nombre de la nueva *Lista de precios* y presione 'aceptar'
+	- Haga click en el botón  |plus.bmp| *Crear una lista de precios*
+	- En la ventana emergente introduzca el nombre de la nueva *Lista de precios* y presione *aceptar*
 
  		.. figure:: images/5.png
    			:align: center
@@ -85,7 +85,7 @@ Establecer formas de pago a una Lista de precios
 
 Podrá establecer formas de pago permitidas a la hora de realizar una venta usando cierta *Lista de precios*
 
-	- Haga click en el botón "Configurar formas de pago permitidas" |gear.bmp| 
+	- Haga click en el botón |gear.bmp| *Configurar formas de pago permitidas*
 
 		 .. figure:: images/9.png
 		   :align: center
@@ -103,7 +103,7 @@ Asociar un usuario del sistema a una *Lista de Precios*
 
 Podrá establecer acceso seguro a las *Lista de Precios* dando permisos únicos a usuarios, o negándoles el acceso.
 
-	- Haga click en el botón "Configurar formas de pago permitidas" |gear.bmp| 
+	- Haga click en el botón  |gear.bmp| *Configurar formas de pago permitidas*
 
 		 .. figure:: images/9.png
 		   :align: center
@@ -116,14 +116,14 @@ Podrá establecer acceso seguro a las *Lista de Precios* dando permisos únicos 
 		 .. figure:: images/11.png
 		   :align: center
 
-	- Haga click en 'Guardar' |save.bmp| 
+	- Haga click en |save.bmp| *guardar*
 
 Otras configuraciones de Listas de Precios
 ==========================================
 
 Acceda a otros ajustes que le permitirán parametrizar y hacer más amena la facturación en ventas:
 
-	- Haga click en el botón "Configurar formas de pago permitidas" |gear.bmp| 
+	- Haga click en el botón  |gear.bmp| *Configurar formas de pago permitidas*
 
 		 .. figure:: images/9.png
 		   :align: center
@@ -148,7 +148,7 @@ Cambiar nombre a una Lista de Precios
 	- Ejecute la opción *Administración de Lista de precios*
 	- En la cabecera elija el centro de costos relacionado a la *Lista de Precios*
 	- Elija la *Lista de Precios*
-	- Haga click en el botón 'cambiar nombre de esta lista de precios' |wzedit.bmp|
+	- Haga click en el botón |wzedit.bmp| *cambiar nombre de esta lista de precios*
 	- En la ventana emergente introduzca el nuevo nombre y haga click en 'aceptar'
  
 
@@ -159,8 +159,8 @@ Eliminar una Lista de precios
 =============================
 
 	- Ejecute la opción *Administración de Lista de precios*
-	- En la cabecera elija el centro de costos al que irá relacionada la +Lista de Precios*
-	- Haga click en el botón 'Eliminar lista de precios seleccionada' |delete.bmp|
+	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios*
+	- Haga click en el botón  |delete.bmp| *Eliminar lista de precios seleccionada*
 	- Haga click en 'Sí' para confirmar la eliminación
 
  .. figure:: images/14.png
@@ -191,7 +191,7 @@ Por seguridad, cada cambio en los precios de su centro de costo de una lista det
 
 	- Ejecute la opción *Administración de Lista de precios*
 	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios* 
-	- Haga click en el botón 'Log de cambios en precios de ventas' |library_listview.bmp|
+	- Haga click en el botón |library_listview.bmp| *Log de cambios en precios de ventas*
 
 		 .. figure:: images/16.png
 		   :align: center
@@ -211,7 +211,7 @@ Puede remarcar productos con algún color de su preferencia si es necesario. Pue
 Para etiquetar/desetiquetar un producto:
 
 	- Elija el producto en la grilla marcandolo en la casilla de la última columna (puede elegir varios)
-	- Presione el botón 'Etiquetar productos' |label.bmp| 
+	- Presione el botón  |label.bmp| *Etiquetar productos*
 	- Elija la etiqueta de que desea, o elija 'Remover TAG de los productos seleccionados' para desetiquetar.
 
  .. figure:: images/18.png

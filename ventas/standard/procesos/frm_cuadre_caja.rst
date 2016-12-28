@@ -44,9 +44,9 @@ Cuadrar la caja
 	- En el campo "Efectivo" introduzca la cantidad de efectivo real.
 	- En el campo "Tarjetas" introduzca el monto tramitado a través de tarjetas de débito o crédito.
 	- En el campo "Cheques" introduzca el monto tramitado a través de cheques.
-	- Una vez verificados los montos, presione el botón 'Cerrar caja' |btn_ok.bmp|
-	- Se desplegará una ventana donde podrá hacer alguna anotación u observación acerca del cuadre. Presione F2 o pulse el botón 'Aceptar' |btn_ok.bmp|
-	- Verá una ventana donde podrá seleccionar la fecha de la apertura siguiente, elíjala y presione 'Procesar'  |save.bmp|
+	- Una vez verificados los montos, presione el botón |btn_ok.bmp| *cerrar caja*
+	- Se desplegará una ventana donde podrá hacer alguna anotación u observación acerca del cuadre. Presione F2 o pulse el botón |btn_ok.bmp| *aceptar*
+	- Verá una ventana donde podrá seleccionar la fecha de la apertura siguiente, elíjala y presione |save.bmp| *procesar*
 	- Se emitirá un comprobante de la transacción.
 
 	Una vez haga el cierre de caja, podrá visualizar las transacciones desde la apertura de la caja, en pantalla. Si necesita modificar la observación puede hacerlo presionando el botón |wzedit.bmp|

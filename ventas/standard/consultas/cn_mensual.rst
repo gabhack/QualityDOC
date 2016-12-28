@@ -34,7 +34,7 @@ Una vez elegidos los filtros principales y proceder con la consulta en el botón
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de **Facturacion mensual* * en Los siguientes formatos:
+Usted podrá dar salida al reporte de **Facturacion mensual** en Los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
 	- |excel.bmp| Excel

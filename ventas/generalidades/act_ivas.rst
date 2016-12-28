@@ -23,17 +23,17 @@ Crear un nuevo IVA
 ==================
 
 	- Ejecute la opción *Actualización de impuestos de IVA*
-	- En el pie de la ventana haga click en 'nuevo' |wznew.bmp|
+	- En el pie de la ventana haga click en |wznew.bmp| *nuevo*
 	- En la ventana emergente, coloque una descripción del nuevo impuesto en el campo de texto 
 	- En el campo númerico coloque el porcentaje del impuesto.
-	- Haga click en 'guardar' |save.bmp|
+	- Haga click en |save.bmp| *guardar*
 
 ELiminar un IVA
 ===============
 
 	- Ejecute la opción *Actualización de impuestos de IVA*
 	- Seleccione el impuesto en la grilla, haciendo click sobre él.
-	- En el pie de la ventana haga click en 'eliminar' |delete.bmp|
+	- En el pie de la ventana haga click en |delete.bmp| *eliminar*
 	- Oprima 'Sí' en la ventana de confirmación
 
 	.. Note:
@@ -44,9 +44,9 @@ Modificar un IVA
 ================
 
 	- Ejecute la opción *Actualización de impuestos de IVA*
-	- En el pie de la ventana haga click en 'Modificar' |wzedit.bmp|
+	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
 	- Modifique lo que considere pertinente
-	- Haga click en 'guardar' |save.bmp|
+	- Haga click en |save.bmp| *guardar*
 
 
 
