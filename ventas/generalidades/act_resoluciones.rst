@@ -37,7 +37,7 @@ Crear una Resolución de facturación
 		- *Resolución destinada para el almacén:* La resolución debe ir relacionada con un almacen (una por sucursal) o puede ser compartida (dos puntos de venta en la misma sucursal)
 		- *No Resolución:* Entregado por la DIAN
 		- *Fecha:* Fecha de expedición
-		- *Vende:* De acuerdo a la ley, se suma a la fecha de expedición el tiempo correspondiente
+		- *Vence:* De acuerdo a la ley, se suma a la fecha de expedición el tiempo correspondiente
 		- *Prefijo:* Una empresa tiene una sola resolución, pero puede usar prefijos para distinguir la facturación de una sucursal a otra.
 		- *Rango de Facturación:*
 			- *Inicial:* Primer número de factura
