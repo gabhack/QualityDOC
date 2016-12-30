@@ -2,6 +2,19 @@
 Informe de ventas por vendedor & línea
 ======================================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Informe de ventas por vendedor & línea
+
+
 Introducción
 ------------
 

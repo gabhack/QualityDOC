@@ -2,6 +2,18 @@
 Facturación mensual por centros
 ===============================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Facturación mensual por centros
+
 Introducción
 ------------
 

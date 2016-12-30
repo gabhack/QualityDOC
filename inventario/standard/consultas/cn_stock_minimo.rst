@@ -2,6 +2,18 @@
 Consulta de productos con stock mínimo
 ======================================
 
+Ubicación
+---------
+
+:Módulo:
+ Inventario
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Consulta de productos con stock mínimo
+
 Introducción
 ------------
 En el apartado de consultas *Consulta de productos con stock mínimo* usted podrá visualizar todos los productos que estén por debajo de cantidad óptima y realizar un reporte guía para hacer un pedido.

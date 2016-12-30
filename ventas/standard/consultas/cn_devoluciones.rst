@@ -2,6 +2,18 @@
 Informe de devoluciones en ventas
 =================================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Informe de devoluciones en ventas
+
 Introducción
 ------------
 

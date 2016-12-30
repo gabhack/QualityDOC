@@ -2,6 +2,18 @@
 Saldos a Favor por Devolución de Mercancías
 ===========================================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Saldos a Favor por Devolución de Mercancías
+
 Introducción
 ------------
 

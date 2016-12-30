@@ -2,6 +2,18 @@
 Producto Vs Cliente
 ===================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Producto Vs Cliente
+
 Introducción
 ------------
 

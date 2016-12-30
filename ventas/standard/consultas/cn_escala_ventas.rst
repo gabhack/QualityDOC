@@ -2,6 +2,18 @@
 Escala de ventas por productos
 ==============================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Escala de ventas por productos
+
 Introducción
 ------------
 

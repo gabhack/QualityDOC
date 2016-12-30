@@ -1,6 +1,20 @@
 ====================================
 Consulta de productos sin movimiento
 ====================================
+
+Ubicación
+---------
+
+:Módulo:
+ Inventario
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Consulta de productos sin movimiento
+
+
 Introducción
 ------------
 En el apartado de consultas *Informe de productos sin movimiento* usted podrá ver en la grilla la lista de productos que no han tenido movimiento en el plazo que usted establezca.

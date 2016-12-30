@@ -2,6 +2,18 @@
 Analisis anual de ventas por productos
 ======================================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Analisis anual de ventas por productos
+
 Introducción
 ------------
 
