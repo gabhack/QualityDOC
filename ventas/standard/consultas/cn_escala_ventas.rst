@@ -5,13 +5,14 @@ Escala de ventas por productos
 Introducción
 ------------
 
-En *Escala de ventas por productos* podrá consultar información detallada sobre los productos vendidos en un lapso determinado de tiempo.
+En *Escala de ventas por productos* podrá consultar qué productos se están vendiendo en mayor o menor cantidad e información detallada relacionada.
 
 Casos de uso
 ------------
 
 Ud podrá remitirse a este informe para conocer:
 
+	- Ordenar ascendentemente, descendentemente los productos según el número de unidades vendidas
 	- Cantidad de unidades vendidas por producto en un centro de costo
 	- Totalización en moneda de los productos vendidos
 	- Total de impuesto recogido por producto
