@@ -64,8 +64,8 @@ Para crear una *Lista de Precios* realice los siguientes pasos:
 		Aplique un **% de descuento** a los productos en la casilla de la columna '%desc'. Este descuento se basará siempre en el **precio de venta** (no en el precio mínimo).
 
 
-Establecer una Lista de Precios a partir de una transacción (Documento)
-=======================================================================
+Establecer precios de venta a partir de una transacción (Documento)
+===================================================================
 
 Podrá buscar los productos que pertenezcan a una transacción específica colocando la especificación del documento en la barra de búsqueda inteligente de la siguiente manera:
 
