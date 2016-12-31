@@ -2,10 +2,23 @@
 Cliente Vs Producto
 ===================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Cliente Vs Producto
+
+
 Introducción
 ------------
 
-En *Cliente Vs Producto* podrá consultar el total de unidades vendidas a un cliente, impuestos agregados y el valor unitario.
+En *Cliente Vs Producto* podrá seleccionar un producto y conocer los clientes a los que fue vendido e información detallada relacionada a la venta.
 
 Casos de uso
 ------------

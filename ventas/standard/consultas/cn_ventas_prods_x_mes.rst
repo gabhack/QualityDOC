@@ -2,6 +2,18 @@
 Analisis anual de ventas por productos
 ======================================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Analisis anual de ventas por productos
+
 Introducción
 ------------
 
@@ -13,7 +25,7 @@ Casos de uso
 Ud podrá remitirse a este informe para conocer:
 
 	- Cantidad de unidades de un producto por mes
-	- Gráfica de ventas en línea de tiempo
+	- Gráfica de tendencia de ventas
 
 
 Filtros aplicables

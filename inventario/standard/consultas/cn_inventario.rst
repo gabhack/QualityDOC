@@ -2,6 +2,19 @@
 Consulta de inventario general
 ==============================
 
+Ubicación
+---------
+
+:Módulo:
+ Inventario
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Consulta de inventario general
+
+
 Introducción:
 -------------
 En este apartado de consultas usted podrá obtener información acerca de la existencia y cantidad de productos en inventario, sus valores y en que centro de costos los puede encontrar. Este informe permite visualizar el inventario de dos maneras distintas:
