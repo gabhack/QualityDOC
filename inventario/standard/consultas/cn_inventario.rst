@@ -11,6 +11,9 @@ En este apartado de consultas usted podrá obtener información acerca de la exi
 
   .. Note:
   La columna costo es un campo protegido, si el usuario no está autorizado para ver el monto del costo, entonces en su lugar verá -asteriscos (*)-
+
+    .. figure:: images/1.png
+      :align: center
   
 
 Inventario General
@@ -39,10 +42,10 @@ Podrá filtrar la información por:
 	- Línea
 	- Código/Nombre/Referencia/Código de barras - del producto
 
-.. figure:: /_images/generales/placeholder.png
-  :align: center
+  .. figure:: images/2.png
+      :align: center
 
-  En esta cabezera puede aplicar los filtros que necesite. No son obligatorios.
+En esta cabezera puede aplicar los filtros que necesite. No son obligatorios.
 
 Opciones de salida
 ------------------
@@ -62,6 +65,9 @@ Introducción
 
 Con la consulta a *Inventario Comparativo* usted podrá conocer la existencia de los productos en todas los centros de  costo de la empresa. Además de conocer la cantidad, también podrá visualizar el costo promedio.
 
+  .. figure:: images/3.png
+      :align: center
+
 Casos de Uso
 ------------
 
@@ -76,10 +82,10 @@ Filtros aplicables
 Podrá filtrar la información por:
 	- Código/Nombre/Referencia/Código de barras - del producto
 
-.. figure:: /_images/generales/placeholder.png
-  :align: center
+  .. figure:: images/4.png
+      :align: center
 
-  Introduzca la refrencia por la cual desea buscar el producto. No es obligatorio.
+Introduzca la refrencia por la cual desea buscar el producto. No es obligatorio.
 
 Opciones de salida
 ------------------

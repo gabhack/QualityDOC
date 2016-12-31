@@ -92,7 +92,7 @@ Editar/Eliminar una toma de inventario
 Ingresar datos a la Toma
 ========================
 
- - Para ingresar datos a una *Toma de inventario*, seleccione la toma en la grilla principal y haga click en el botón 'Ir a la toma' |wzedit.bmp|.
+ - Para ingresar datos a una *Toma de inventario*, seleccione la toma en la grilla principal y haga click en el botón |wzedit.bmp| *Ir a la toma*
 
 	.. figure:: images/33.png
    		:align: center
@@ -161,7 +161,7 @@ Cuando usted aplica una toma de inventario, el sistema soluciona las diferencias
 
   Así es la ventana de parametrización contable.
 
-Para *Aplicar una toma de inventario* pulse el botón Aplicar |btn_ok.bmp| y diga 'sí' en el mensaje de confirmación. Haga click en OK cuando el sistema confirme la aplicación. Será enviado de nuevo a la grilla principal.
+Para *Aplicar una toma de inventario* pulse el botón  |btn_ok.bmp| *aplicar* y diga 'sí' en el mensaje de confirmación. Haga click en OK cuando el sistema confirme la aplicación. Será enviado de nuevo a la grilla principal.
 
 Consultar una Toma que ya ha sido aplicada
 ==========================================
@@ -169,7 +169,7 @@ Consultar una Toma que ya ha sido aplicada
 En la grilla principal del proceso *Toma y aplicación de inventario*, para consultar una toma realice los siguientes pasos:
 
 	- Indique en la cabecera el centro de costo correspondiente a la toma. Automáticamente se actualizará la grilla mostrando las tomas que han sido aplicadas y las que aún no.
-	- Seleccione la toma que ya ha sido aplicada (marcada con un check al final de la fila en la grilla) y pulse en la cabecera el botón 'Consultar' |btn_ok.bmp|.
+	- Seleccione la toma que ya ha sido aplicada (marcada con un check al final de la fila en la grilla) y pulse en la cabecera el botón |btn_ok.bmp| *consultar*.
 
 Se desplegará una ventana donde usted podrá visualizar:
 
