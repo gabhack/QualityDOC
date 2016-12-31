@@ -27,7 +27,6 @@ Ud podrá remitirse a este informe para conocer :
 	- Una lista de saldos a favor debido a devoluciones de mercancías.
 	- Información detallada acerca de como se generan y se cruzan los saldos a favor por devoluciones de mercancías.
 
-		.. Note:
 
 			Para ver en detalle los saldos a favor del cliente y de que factura provienen en una ventana nueva, haga doble click en el número de identificación del cliente (la casilla de la primera columna da la grilla)
 
