@@ -2,6 +2,18 @@
 Informe Fiscal - Comprobante diario de ventas
 =============================================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+ Informe Fiscal - Comprobante diario de ventas
+
 Introducción
 ------------
 

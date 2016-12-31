@@ -2,6 +2,19 @@
 Movimiento del kardex por tipo de transacción
 =============================================
 
+Ubicación
+---------
+
+:Módulo:
+ Inventario
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Movimiento del kardex por tipo de transacción
+
+
 Introducción
 ------------
 En el apartado de consultas *Movimiento del Kardex por tipo de transacción* usted podrá visualizar un reporte de todas las operaciones transaccionales en un centro de costo específico de acuerdo a su tipo: entradas, salidas, traslados, etc.

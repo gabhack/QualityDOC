@@ -170,6 +170,10 @@ Eliminar una Lista de precios
 Exportar información de una Lista de precios
 ============================================
 
+	- Ejecute la opción *Administración de Lista de precios*
+	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios*
+	- Haga click en el botón  |export1.gif| *Eliminar lista de precios seleccionada*
+
 Usted podrá dar salida a la *Lista de Precios* en dos formas:
 
 - Lista general ordenada alfabéticamente

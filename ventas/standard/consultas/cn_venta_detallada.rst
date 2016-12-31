@@ -2,6 +2,19 @@
 Consulta de facturación detallada
 =================================
 
+Ubicación
+---------
+
+:Módulo:
+ Ventas
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Consulta de facturación detallada
+
+
 Introducción
 ------------
 

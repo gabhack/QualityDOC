@@ -2,6 +2,18 @@
 Movimiento diario del kardex
 ============================
 
+Ubicación
+---------
+
+:Módulo:
+ Inventario
+
+:Grupo:
+ Parámetros
+
+:Descripción:
+  Movimiento diario del kardex
+
 Introducción
 ------------
 
