@@ -18,7 +18,7 @@ Ubicación
 Introducción
 ============
 
-	Con este proceso se lleva a cabo una comprobación de la cantidad de dinero (en cualquiera de sus modos: efectivo, cheque, tarjetas) comparándolo con las cantidades en sistema. 
+	Con este proceso se lleva a cabo una comprobación de la cantidad de dinero (en cualquiera de sus modos: efectivo, cheque, electrónico) comparandolo con las cantidades en sistema. 
 
 	El proceso hace el cierre del día y hace la apertura hacia una fecha siguiente. No podrá hacer una nueva apertura hasta que no se haga el cierre de la última hecha.
 
@@ -51,25 +51,8 @@ Cuadrar la caja
 
 	Una vez haga el cierre de caja, podrá visualizar las transacciones desde la apertura de la caja, en pantalla. Si necesita modificar la observación puede hacerlo presionando el botón |wzedit.bmp|
 
+	 - Puede exportar los datos del cuadre de caja en |pdf_logo.gif| PDF y |printer_q.bmp| formato de impresión
 
-Opciones de salida
-------------------
-
-	- |pdf_logo.gif| PDF 
-	- |printer_q.bmp| Reporte
-
-
-Consultar un cuadre de caja
-===========================
-
-	- Ejecute la opción 'Cuadre diario de caja'
-	- Seleccione en la cabecera el centro de costo 
-	- Seleccione la caja pertinente
-	- Seleccione la fecha del cuadre a consultar (está elegida la última fecha de apertura por defecto) y presione enter, verá desplegarse la información  acerca de la relación de ingresos y egresos.
-
-
-Revertir un cuadre de caja
-==========================
 
 
 

@@ -31,7 +31,6 @@ Pre-requisitos
 	- `Crear un Vendedor <../../generalidades/act_vendedores.html#crear-un-vendedor>`_
 	- `Crear un producto o un servicio <../../../inventario/generalidades/act_maestroinsumos.html#productos-servicios>`_
 	- `Crear o configurar una lista de precios <../../generalidades/frm_listas_precios_post.html#crear-una-lista-de-precios>`_
-	- `Permitir las ventas en el centro de costos <>`_
 	- `Crear una caja <>`_
 
 
@@ -51,15 +50,15 @@ Para procesar una *venta* realice los siguientes pasos:
 	- Encontrará un campo de texto vacio, destinado a la búsqueda de productos. Use el lector laser, introduzca manualmente el código del producto, el codigo de acceso rápido o presione enter para buscarlo en la lista. El lector laser puede estar configurado para realizar un Enter automático después de encontrar el producto, si no es así, presione Enter.
 	- Verá información detallada del producto:
 
-+--------+--------------+-----+------------+------------+--------------+---------------+-----------+--------+
-| Nombre | cód. Sistema | IVA | Existencia |**cantidad**|Valor Unitario|Valor Descuento|% descuento|plus.bmp|
-+--------+--------------+-----+------------+------------+--------------+---------------+-----------+--------+
++--------+--------------+-----+------------+------------+--------------+---------------+-----------+----------+
+| Nombre | cód. Sistema | IVA | Existencia |**cantidad**|Valor Unitario|Valor Descuento|% descuento||plus.bmp||
++--------+--------------+-----+------------+------------+--------------+---------------+-----------+----------+
 
     - En el campo 'cantidad' introduzca el número de unidades que venderá o de veces que ha prestado un servicio.
     - Agregue el producto a la grilla presionando el botón |plus.bmp|
     - Después de agregar el producto en la grilla, podrá modificar la casilla en la columna 'cantidad' siempre que lo considere necesario. Si no hay suficientes productos en existencia el sistema se lo hará saber.
     - En la esquina inferior derecha, podrá ver información relacionada a la facturación (Sub Total, impuestos, descuentos, retenciones y total)
-    - Una vez esté seguro del total de la venta y los productos agregados, presione F2 si será cancelada en efectivo o F3 si será pagada con otros medios (cheque, tarjeta, crédito). 
+    - Una vez esté seguro del total de la venta y los productos agregados, presione F2 si será cancelada estrictamente efectivo o F3 si será pagada a través de otro medio o en una combinación de ellos (cheque, tarjeta, crédito, efectivo, notas de crédito, etc). 
 
     	.. Note:
 
@@ -78,6 +77,16 @@ Configurar resolución de facturación y Caja
 	- Oprima 'Actualizar' |save.bmp|
 
 
+Accesos rápidos de teclado
+==========================
+
+	- **F9:** Presione la tecla F9 para facturar a "Cuantías menores", saltando así el proceso de registro del cliente.
+	- **ESC:** Presione la tecla ESC para salir de esta pantalla
+	- **F5:** Presione la tecla F5 para ubicar el cursor en la casilla de observación
+	- **F6:** Presione la tecla F6 para habilitar la venta de productos a precio de costo. En adelante, todos los productos se incluirán en la factura con su costo promedio. Si no tiene los permisos para esta función, comuníquese con el encargado de sistema.
+	- **F7:** Presione la tecla F7 para abrir el cajón monedero.
+	- **F8:** Presione la tecla F8 para ubicar el cursor en la casilla de búsqueda de productos.
+	- **F10:** Presione la tecla F10 para imprimir la última factura emitida.
 
 
 
