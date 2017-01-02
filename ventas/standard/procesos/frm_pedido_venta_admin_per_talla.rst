@@ -18,7 +18,7 @@ Ubicación
 Introducción
 ============
 
-	En este proceso puede crear un pedido a un cliente según sus necesidades. Este proceso no genera una salida del inventario. Cuando desee darle salida a los productos, deberá ir a la opción  `Remisiones de pedidos <../../../inventario/standard/procesos/frm_remisiones.html>`_
+	En este proceso puede crear un pedido a un cliente según sus necesidades. Este proceso no genera una salida del inventario. Cuando el pedido haya llegado y desee darle salida, deberá ir a la opción `Remisiones de pedidos <../../../inventario/standard/procesos/frm_remisiones.html>`_
 
 
 Pre-requisitos
@@ -46,9 +46,10 @@ Editar/Imprimir/Eliminar un pedido
 ==================================
 
 	- Visualice los pedidos siguiendo los pasos del título `Visualizar los pedidos existentes`_
-	- Haga click en el botón |export1.gif| al final de la fila del producto, allí podrá elegir Modificar, Anular o Imprimir el pedido
+	- Haga click en el botón || al final de la fila del producto, allí podrá elegir Modificar, Anular o Imprimir el pedido
 		- Si elige Modificar, verá una pantalla similar a la de creación, elija los campos que desee cambiar y en la grilla los productos que desea quitar o aquellos en los que necesita cambiar las cantidades
-		- Si elige Anular entonces se desplegará una ventana para que indique un motivo y luego confirme haciendo click en |btn_ok.bmp|
+		- Si elige Anular entonces se desplegará una ventana para que indique un motivo y luego confirme haciendo click en |btn_ok.bmp| 
+		- Si elige Imprimir 
 
 
 Crear un pedido
@@ -64,9 +65,9 @@ Para crear un *Pedido* realice los siguientes pasos:
 	- Encontrará un campo de texto vacio, destinado a la búsqueda de productos. Use el lector laser, introduzca manualmente el código del producto, el codigo de acceso rápido o presione enter para buscarlo en la lista. El lector laser puede estar configurado para realizar un Enter automático después de encontrar el producto, si no es así, presione Enter.
 	- Verá información detallada del producto:
 
-+--------+--------------+-----+------------+------------+--------------+---------------+-----------+----------+
-| Nombre | cód. Sistema | IVA | Existencia |**cantidad**|Valor Unitario|Valor Descuento|% descuento||plus.bmp||
-+--------+--------------+-----+------------+------------+--------------+---------------+-----------+----------+
++--------+--------------+-----+------------+------------+--------------+---------------+-----------+--------+
+| Nombre | cód. Sistema | IVA | Existencia |**cantidad**|Valor Unitario|Valor Descuento|% descuento|plus.bmp|
++--------+--------------+-----+------------+------------+--------------+---------------+-----------+--------+
 
     - En el campo 'cantidad' introduzca el número de unidades que venderá o de veces que ha prestado un servicio.
     - En el campo 'precio de venta' podrá establecer otro precio distinto al ya marcado inicialmente por la lista de precios.
@@ -82,7 +83,7 @@ Para crear un *Pedido* realice los siguientes pasos:
 
 ---------------------------------------------------------
 
-.. |export1.gif| image:: /_images/generales/export1.gif
+
 .. |codbar.png| image:: /_images/generales/codbar.png
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
