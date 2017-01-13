@@ -23,6 +23,9 @@ En *Consulta general de facturación* podrá consultar información pertinente d
 
 **En *Consulta general de facturación* usted podrá además ejercer cambios sobre los datos de la factura si posee los permisos necesarios**
 
+ .. figure:: images/1.png
+ 	   :align: center
+
 Casos de uso
 ------------
 Ud podrá remitirse a este informe para:
@@ -48,6 +51,13 @@ Ud podrá remitirse a este informe para:
 	- Cambiar fecha en la factura
 	- Cambiar observacion en la factura
 	- Recontabilizar una factura
+
+ .. figure:: images/2.png
+ 	   :align: center
+
+ .. figure:: images/3.png
+ 	   :align: center
+
 
 
 

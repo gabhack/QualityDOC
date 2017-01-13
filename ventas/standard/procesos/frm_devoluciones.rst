@@ -66,6 +66,13 @@ Para procesar una devolución realice los siguientes pasos:
 
 	Si el cliente tiene cuentas por pagar, verá una ventana de confirmación con los saldos por factura y la posibilidad de marcarlos para abonar el monto de la devolución a la deuda.
 
+-----------------------------------------
+
+
+
+   .. figure:: images/4.png
+ 	:align: center
+
 
 ---------------------------------------------------------
 

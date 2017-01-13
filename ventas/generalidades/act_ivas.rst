@@ -39,6 +39,9 @@ ELiminar un IVA
 	.. Note:
 
 		No podrá eliminar una resolución que ya haya sido tomada en cuenta en un proceso de facturación.
+ 
+ .. figure:: images/26.png
+ 	:align: center
 
 Modificar un IVA
 ================
@@ -46,8 +49,11 @@ Modificar un IVA
 	- Ejecute la opción *Actualización de impuestos de IVA*
 	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
 	- Modifique lo que considere pertinente
-	- Haga click en |save.bmp| *guardar*
+ 	- Haga click en |save.bmp| *guardar*
+ 
 
+ .. figure:: images/27.png
+ 	:align: center
 
 
 

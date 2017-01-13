@@ -19,6 +19,9 @@ Introducción
 
 En *Facturacion mensual* podrá consultar información muy detallada acerca de las ventas en un rango de fechas determinado por centro de costo.
 
+ .. figure:: images/11.png
+ 	   :align: center
+
 Casos de uso
 ------------
 

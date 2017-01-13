@@ -23,6 +23,10 @@ Verá los productos ordenados para mostrar primeramente los que aún no tienen p
 
 El costo que muestra un 'combo o presentación' está determinado por la suma de los costos de los productos que forman parte de él.
 
+	  .. figure:: images/22.png
+	  	 :align: center
+
+
 
 Pre-requisitos
 ==============

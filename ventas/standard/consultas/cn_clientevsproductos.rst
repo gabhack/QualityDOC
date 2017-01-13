@@ -19,6 +19,9 @@ Introducción
 
 En *Producto Vs Cliente* podrá consultar el total de unidades vendidas a un cliente, impuestos agregados y el valor unitario.
 
+ .. figure:: images/9.png
+ 	   :align: center
+
 Casos de uso
 ------------
 

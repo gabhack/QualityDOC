@@ -12,7 +12,7 @@ Ubicación
  Operaciones
 
 :Descripción:
- Traslado entre bodegas
+ Corrección de costos
 
 
 Introducción
@@ -21,11 +21,11 @@ Introducción
 En esta operación usted podrá cambiar el costo promedio de un producto en el inventario. Tome en cuenta que:
 
 Las transacciones realizadas antes del cambio de costo, no se verán afectadas por el nuevo valor.
+
 El cambio de costo efectúa una transacción interna de salida (Salida por ajuste crédito) y una de entrada (Entrada por ajuste débito) que afecta a todos las unidades del producto en existencia.
 
-
-  .. figure:: /_images/generales/placeholder.png
-    :align: center
+		  .. figure:: images/56.png
+      		:align: center
 
 
   Así se ve la pantalla de Corrección de costos
@@ -51,11 +51,21 @@ Para cambiar el costo de uno o varios productos, proceda con los siguientes paso
    |código|Nombre|cód. Rápido|Referencia|costo actual|**Nuevo costo**||plus.bmp||
    +------+------+-----------+----------+------------+---------------+----------+
 
+		  .. figure:: images/57.png
+      		:align: center
+
+
 - Puede modificar la columna ‘Nuevo Costo’ siempre que quiera. También. puede quitar productos de la grilla, situándose en la casilla del código con un click y presionando la tecla Supr. 
 - Una vez haya agregado los productos pertinentes, tiene dos opciones:
 	- **Corregir en todos los centros de costo:** Pulse aquí para que estos productos se vean modificados en todos los centros donde tengan existencia.
 	- **Corregir únicamente en el centro de costo seleccionado:** Haga click aquí para corregir el costo solo en el centro seleccionado en la cabecera. 
+
+		  .. figure:: images/58.png
+      		:align: center
+
 - Se mostrará una ventana donde deberá colocar una observación o motivo del cambio. Servirá como referencia para un futuro. Presione F2 o haga click en  |btn_ok.bmp| *Aceptar*
+
+
 
 
 

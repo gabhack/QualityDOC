@@ -1,49 +1,41 @@
-=================================
-Consulta de facturación detallada
-=================================
-
-Ubicación
----------
-
-:Módulo:
- Ventas
-
-:Grupo:
- Parámetros
-
-:Descripción:
-  Consulta de facturación detallada
-
+======================================
+Informe de ventas por vendedor & línea
+======================================
 
 Introducción
 ------------
 
-En *Consulta de facturación detallada* podrá consultar información pertinenete de las facturas procesadas en un rango de tiempo determinado en un centro de costo específico.
+En *Informe de ventas por vendedor & línea* podrá consultar el total de ventas por línea de los vendedores registrados en un rango de fechas determinado.
+
+ .. figure:: images/9.png
+ 	   :align: center
 
 Casos de uso
 ------------
-Ud podrá remitirse a este informe para conocer:
 
-	- El resumen de las ventas procesadas en un centro de costo determinado en un rango de fechas establecido
-	- Los códigos de las facturas procesadas
-	- El monto por el cual fueron pagados los productos o servicios y el tipo de pago.
-	- El precio de Lista de precios comparado al precio que se facturó cada artículo o servicio en el momento de la venta 
-	- Costo y código del producto facturado
+Ud podrá remitirse a este informe para conocer en un rango de fechas determinado:
+
+	- Cantidad de ventas (moneda) por vendedor
+	- Cantidad de unidades vendidas por vendedor
+	- Cantidad de ventas (moneda) por vendedor y por línea
+	- Cantidad de unidades vendidas por vendedor y por línea
+
 
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Centro de costo
-	- Fecha
+	- Vendedor
+	- Línea
+	- Fechas
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar*
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Consulta de facturación detallada* en Los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de ventas por vendedor & línea* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
 	- |excel.bmp| Excel

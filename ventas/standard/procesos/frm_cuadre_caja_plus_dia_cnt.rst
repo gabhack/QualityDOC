@@ -51,6 +51,8 @@ Cuadrar la caja
 
 	Una vez haga el cierre de caja, podrá visualizar las transacciones desde la apertura de la caja, en pantalla. Si necesita modificar la observación puede hacerlo presionando el botón |wzedit.bmp|
 
+   .. figure:: images/5.png
+ 	   :align: center
 
 Opciones de salida
 ------------------
@@ -67,6 +69,8 @@ Consultar un cuadre de caja
 	- Seleccione la caja pertinente
 	- Seleccione la fecha del cuadre a consultar (está elegida la última fecha de apertura por defecto) y presione enter, verá desplegarse la información  acerca de la relación de ingresos y egresos.
 
+   .. figure:: images/6.png
+ 	   :align: center
 
 Revertir un cuadre de caja
 ==========================
@@ -78,7 +82,8 @@ Revertir un cuadre de caja
 	- Siga los pasos para `Consultar un cuadre de caja`_ 
 	- Haga click en el botón |descartar.bmp| *Deshacer*
 
-
+   .. figure:: images/7.png
+ 	  :align: center
 
 ---------------------------------------------------------
 

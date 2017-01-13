@@ -19,6 +19,9 @@ Introducción
 
 En *Informe de devoluciones en ventas* podrá consultar información detallada acerca de todas las devoluciones realizadas a partir de una venta durante un rango de tiempo determinado
 
+ .. figure:: images/7.png
+ 	   :align: center
+
 Casos de uso
 ------------
 
