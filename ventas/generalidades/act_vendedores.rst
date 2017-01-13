@@ -37,6 +37,8 @@ Para crear un vendedor realice los siguientes pasos:
  		- Supervisor asignado
 
 
+ .. figure:: images/19.png
+      		:align: center
 
 Elmiminar un vendedor
 =====================
@@ -49,6 +51,9 @@ Elmiminar un vendedor
  	No podrá eliminar un vendedor que tenga cualquier tipo de transacción adjudicada.
 
 
+ .. figure:: images/20.png
+      		:align: center
+
 Modificar un vendedor
 =====================
 
@@ -56,6 +61,10 @@ Modificar un vendedor
  	- Seleccione, haciendo click, a un vendedor en la grilla
  	- Presione el botón |wzedit.bmp| *modificar* al pie de la ventana
  	- Aparecerá una ventana donde podrá cambiar los datos del vendedor que necesite, y dejar los que considere ya están bien.
+
+
+ .. figure:: images/21.png
+      		:align: center
 
  	--------------------------------------------
 

@@ -33,6 +33,10 @@ Crear una Resolución de facturación
 
 	- Ejecute la opción "Administración de resoluciones de facturación"
 	- Haga click en el pie de la ventana en el botón |nuevo.bmp| *nuevo*
+
+ 			.. figure:: images/24.png
+      			:align: center
+
 	- Verá una ventana emergente con los siguientes campos:
 		- *Resolución destinada para el almacén:* La resolución debe ir relacionada con un almacen (una por sucursal) o puede ser compartida (dos puntos de venta en la misma sucursal)
 		- *No Resolución:* Entregado por la DIAN
@@ -81,7 +85,8 @@ Use esta ventana para vigilar cualquier salto en la numeración de las facturas,
 	- Inicie el Analisis haciendo click en el botón 'Iniciar Analisis'
 	- Podrá observar en la grilla los documentos faltantes o facturas anuladas, a que resolución pertenecen y alguna anotación. Puede filtrar los reusltados en la grilla como 'Anuladas', 'Inexistentes' o 'Todos'.
 
-
+ .. figure:: images/25.png
+      		:align: center
 
 
 

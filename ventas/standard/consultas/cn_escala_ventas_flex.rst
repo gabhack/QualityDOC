@@ -19,6 +19,9 @@ Introducción
 
 En *Escala de ventas por productos* podrá consultar qué productos se están vendiendo en mayor o menor cantidad e información detallada relacionada.
 
+ .. figure:: images/6.png
+ 	   :align: center
+
 Casos de uso
 ------------
 

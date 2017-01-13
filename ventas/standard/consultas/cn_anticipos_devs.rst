@@ -19,6 +19,11 @@ Introducción
 
 En *Informe de saldos a Favor por Devolución de Mercancías* podrá consultar el total de saldo al favor que tienen sus clientes por concepto de mercancía devuelta.
 
+
+ .. figure:: images/12.png
+ 	   :align: center
+
+
 Casos de uso
 ------------
 

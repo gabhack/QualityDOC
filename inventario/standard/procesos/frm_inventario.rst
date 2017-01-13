@@ -371,6 +371,8 @@ Para eliminar una orden de compra siga estos pasos:
 
  - Ejecute la opción *Entradas, salidas & transferencias de mercancías*.
  - Pulse el botón *Ingreso de mercancías por orden de compra*.
+ - Seleccione en la lista "Almacen" el centro de costo correspondiente.
+ - Elija en la lista "Proveedor" el proveedor adjudicado a la orden de compra.
  - En la lista de la derecha donde puede seleccionar la orden de compra, seleccione la que desea eliminar y presione la tecla 'Supr' o 'Delete'.
  - Vera un mensaje de confirmación donde deberá pulsar *Sí* si está seguro de eliminarla.
 

@@ -34,6 +34,10 @@ Crear una nueva Base de retención
 		- *Grupo:* Elija el tipo de retención que cubre: CREE, IVA, Renta o ICA.
 	- Haga click en |save.bmp| *guardar*
 
+ .. figure:: images/29.png
+ 	:align: center
+
+
 ELiminar una Base de retención
 ==============================
 
@@ -46,6 +50,9 @@ ELiminar una Base de retención
 
 		No podrá eliminar una Base de retención que ya haya sido tomada en cuenta en un proceso de facturación.
 
+ .. figure:: images/30.png
+ 	:align: center
+
 Modificar una Base de retención
 ===============================
 
@@ -55,7 +62,8 @@ Modificar una Base de retención
 	- Haga click en |save.bmp| *guardar*
 
 
-
+ .. figure:: images/31.png
+ 	:align: center
 
 
 

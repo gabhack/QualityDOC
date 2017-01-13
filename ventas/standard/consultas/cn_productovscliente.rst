@@ -20,6 +20,10 @@ Introducción
 
 En *Cliente Vs Producto* podrá seleccionar un producto y conocer los clientes a los que fue vendido e información detallada relacionada a la venta.
 
+ .. figure:: images/10.png
+ 	   :align: center
+
+
 Casos de uso
 ------------
 

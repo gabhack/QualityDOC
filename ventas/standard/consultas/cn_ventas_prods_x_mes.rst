@@ -19,6 +19,9 @@ Introducción
 
 En *Analisis anual de ventas por productos* podrá consultar información detallada acerca de las ventas mensuales por producto.
 
+ .. figure:: images/8.png
+ 	   :align: center
+
 Casos de uso
 ------------
 

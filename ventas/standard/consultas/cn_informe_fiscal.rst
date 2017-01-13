@@ -19,6 +19,9 @@ Introducción
 
 En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
 
+ .. figure:: images/5.png
+ 	   :align: center
+
 Casos de uso
 ------------
 

@@ -33,6 +33,9 @@ Para autorizar un cupo de crédito:
 	- Puede colocar el monto autorizado directamente en la casilla de la fila correspondiente al cliente, en la columna **Autorizado**
 	- Presione Enter
 
+ .. figure:: images/28.png
+ 	:align: center
+
 Buscar un cliente
 =================
 

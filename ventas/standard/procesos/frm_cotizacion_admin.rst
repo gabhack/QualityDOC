@@ -35,6 +35,10 @@ Visualizar cotizaciones existentes
 	- En la cabecera elija el centro de costo pertinente 
 	- Presione el botón 'Consultar' |btn_ok.bmp|
 
+   .. figure:: images/8.png
+ 	  :align: center
+
+
 Editar/Imprimir/Eliminar una cotización
 ================================
 
@@ -71,6 +75,8 @@ Para crear una *Cotizacion* realice los siguientes pasos:
 
 **Para ver como usar la cotización creada en el momento de la facturación, vea:** `Procesar una venta <../../standard/procesos/frm_facturacion.html#crear-una-factura-procesar-una-venta>`_
 
+   .. figure:: images/10.png
+ 	  :align: center
 
 ---------------------------------------------------------
 
