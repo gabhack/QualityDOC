@@ -17,6 +17,10 @@ Entre las principales opciones disponibles en el módulo de ventas se listan las
 	- Devolución de ventas
 	- Cuadre diario de caja
 	- Consultas acerca de facturación
+	- Establezca los cupos de crédito para su clientela
+	- Configure los impuestos relacionados a ventas como IVA y Retenciones.
+
+En este módulo además, tendrá la oportunidad de canjear/cruzar anticipos y notas de crédito con las cuentas por pagar del cliente. 
 
 A continuación se listan las diferentes opciones de manejo de ventas en el sistema, deberá ingresar a la opción que corresponda de acuerdo a el tipo de inventario que maneje su empresa, por ejemplo: inventario standard o inventario por tallaje.
 
