@@ -12,7 +12,7 @@ Ubicación
  Operaciones
 
 :Descripción:
-  Cotizaciones
+  Recibos de caja
 
 
 Introducción
