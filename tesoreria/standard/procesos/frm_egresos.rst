@@ -52,7 +52,7 @@ Pagos por Conceptos predefinidos
 Use este formulario para dar salida a dinero por razones comunes. Para hacer un pago por un concepto predefinido realice los siguientes pasos:	
 
 	- Ejecute la opción "Comprobantes de egresos"
-	- Seleccione la pestaña "Egresos a terceros"
+	- Seleccione la pestaña "Pagos por conceptos predefinidos"	
 	- En la lista "Almacén" seleccione el centro de costo correspondiente.
 	- En "Caja\Bco" elija la fuente del dinero.
 	- Si elige una cuenta bancaria como fuente, verá aparecer la lista: "Modo", elija allí la manera como el dinero saldrá del banco.
@@ -68,7 +68,7 @@ Egresos a Terceros
 	Use este formulario para realizar egresos a partir de cuentas contables. Necesita estar familiriazado con el tema contable para realizar esta operación.
 
 	- Ejecute la opción "Comprobantes de egresos"
-	- Seleccione la pestaña "Pagos por conceptos predefinidos"
+	- Seleccione la pestaña "Egresos a terceros"
 	- En la lista "Almacén" seleccione el centro de costo correspondiente.
 	- En "Caja\Bco" elija la fuente del dinero.
 	- Si elige una cuenta bancaria como fuente, verá aparecer la lista: "Modo", elija allí la manera como el dinero saldrá del banco.
