@@ -49,7 +49,7 @@ Pago de facturas a proveedores
 Pagos por Conceptos predefinidos
 ================================
 
-Use este formulario para dar salida a dinero por razones comunes. Para hacer un pago por un concepto predefinido realice los siguientes pasos:	
+Use este formulario para dar salida a dinero por razones comunes. No se necesita estar familiarizado con el tema contable. Para hacer un pago por un concepto predefinido realice los siguientes pasos:	
 
 	- Ejecute la opción "Comprobantes de egresos"
 	- Seleccione la pestaña "Pagos por conceptos predefinidos"	
@@ -65,7 +65,7 @@ Use este formulario para dar salida a dinero por razones comunes. Para hacer un 
 Egresos a Terceros
 ==================
 
-	Use este formulario para realizar egresos a partir de cuentas contables. Necesita estar familiriazado con el tema contable para realizar esta operación.
+	Use este formulario para realizar egresos a partir de cuentas contables. Necesita estar familiarizado con el tema contable para realizar esta operación.
 
 	- Ejecute la opción "Comprobantes de egresos"
 	- Seleccione la pestaña "Egresos a terceros"
