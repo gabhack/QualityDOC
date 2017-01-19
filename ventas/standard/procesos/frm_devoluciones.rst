@@ -65,6 +65,10 @@ Para procesar una devolución realice los siguientes pasos:
 
 	** Se desplegará una ventana que le permitirá buscar la factura en la que estará basada la devolución **
 
+	   		.. figure:: images/devoluciones/1.png
+ 			:align: center
+
+
 	- En la ventana desplegada aparecerán varias opciones marcables que le ayudarán a encontrar la factura que desea:
 
 		- Número de factura
@@ -79,9 +83,22 @@ Para procesar una devolución realice los siguientes pasos:
 	- Aparecerán todas las facturas relacionadas a sus terminos de búsqueda en pantalla.
 	- Marque la factura que desea, y haga click en  |btn_ok.bmp| *seleccionar factura*
 
+		   .. figure:: images/devoluciones/2.png
+	 	    :align: center
+
+
 	**Volverá a la pantalla inicial de devolución** 
 
-	- Verá los productos relacionados a la factura en el grid. Seleccione los que fueron devueltos por el cliente. Verifique los montos y presione |save.bmp| *guardar*
+	- Verá los productos relacionados a la factura en el grid. Seleccione los que fueron devueltos por el cliente. 
+		   .. figure:: images/devoluciones/3.png
+ 			:align: center
+
+	- Verifique los montos y presione |save.bmp| *guardar*
+
+		   .. figure:: images/devoluciones/4.png
+ 			:align: center
+
+
 	- Si el cliente adjudicado en la factura es 'Cuantías menores', el sistema le pedirá otro cliente como responsable por la devolución, en caso de agregar saldo a favor o cruzar con alguna deuda, se hará con el nuevo cliente seleccionado.
 	- En una ventana emergente podrá escribir una jutificación o una observación relacionada a la devolución. Presione F2 o pulse el botón |btn_ok.bmp| *aceptar*
 
@@ -90,12 +107,12 @@ Para procesar una devolución realice los siguientes pasos:
 
 	Si el cliente tiene cuentas por pagar, verá una ventana de confirmación con los saldos por factura y la posibilidad de marcarlos para abonar el monto de la devolución a la deuda.
 
+		 .. figure:: images/devoluciones/5.png
+ 			:align: center
 -----------------------------------------
 
 
 
-   .. figure:: images/4.png
- 	:align: center
 
 
 ---------------------------------------------------------
