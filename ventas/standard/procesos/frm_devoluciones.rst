@@ -30,6 +30,29 @@ Pre-requisitos
 	- Haber realizado una venta
 	- Conocer algún dato que identifique la venta a la que se desea registrar una devolución
 
+Casos de uso (Ejemplos)
+=======================
+
+Ejemplo caso 1:
+
+ClienteEjemplo desea devolver un artículo parte de una compra que realizó en efectivo hace algunos días. No devolverá la totalidad de la compra sino un artículo cuyo costo es 10.000 pesos. ClienteEjemplo **no tiene** cuentas por pagar pendientes. Su compañía deberá registrar esta devolución siguiendo los pasos indicados en “Devolución de mercancías”.
+
+El cliente quedará con un saldo a favor de 10mil pesos.
+
+Ejemplo caso 2:
+
+ClienteEjemplo desea devolver un artículo parte de una compra que realizó en efectivo hace algunos días. No devolverá la totalidad de la compra sino un artículo cuyo costo es 10.000 pesos. ClienteEjemplo **tiene** cuentas por pagar pendientes por otras compras. Su compañía deberá registrar esta devolución siguiendo los pasos indicados en “Devolución de mercancías”.
+
+En este caso, se procesa una nota crédito de manera automática por el valor del artículo devuelto (10.000). Se cruzarán los 10mil pesos con sus cuentas pendientes, haciendo una reducción de la deuda. 
+
+Si la deuda de ClienteEjemplo es menor a 10mil pesos, se reconocerá la diferencia como saldo a favor por devoluciones. 
+
+Ejemplo caso 3:
+
+ClienteEjemplo desea devolver un artículo parte de una compra que realizó **A crédito** hace algunos días. No devolverá la totalidad de la compra sino un artículo cuyo costo es 10.000 pesos. ClienteEjemplo **no tiene** cuentas por pagar pendientes por otras compras. Su compañía deberá registrar esta devolución siguiendo los pasos indicados en “Devolución de mercancías”.
+
+En este caso, se procesa una nota crédito de manera automática por el valor del artículo devuelto (10.000). Se restarán los 10mil pesos de su cuenta pendiente, haciendo una reducción del monto de la deuda. 
+
 
 Procesar una devolución de mercancía
 ====================================
@@ -56,9 +79,10 @@ Para procesar una devolución realice los siguientes pasos:
 	- Aparecerán todas las facturas relacionadas a sus terminos de búsqueda en pantalla.
 	- Marque la factura que desea, y haga click en  |btn_ok.bmp| *seleccionar factura*
 
-	** Volverá a la pantalla inicial de devolución **
+	**Volverá a la pantalla inicial de devolución** 
 
 	- Verá los productos relacionados a la factura en el grid. Seleccione los que fueron devueltos por el cliente. Verifique los montos y presione |save.bmp| *guardar*
+	- Si el cliente adjudicado en la factura es 'Cuantías menores', el sistema le pedirá otro cliente como responsable por la devolución, en caso de agregar saldo a favor o cruzar con alguna deuda, se hará con el nuevo cliente seleccionado.
 	- En una ventana emergente podrá escribir una jutificación o una observación relacionada a la devolución. Presione F2 o pulse el botón |btn_ok.bmp| *aceptar*
 
 
