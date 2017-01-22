@@ -17,7 +17,7 @@ En el módulo tesorería podrá configurar los parametros que definen el comport
 
   En este apartado puede consultar acerca de cómo modificar los parametros que rigen el flujo de dinero de su organización: Bancos, franquicias y cajas.
 
-  `Ventas - sin tallaje: <../tesoreria/ventas_standard.html>`_
+  `Tesorería - sin tallaje: <../tesoreria/tesoreria_standard.html>`_
 
 
   Encuentre aquí los pasos necesarios para llevar a cabo recibos de caja, comprobantes de egresos, notas bancarias, transferencias de fondos, relación de gastos, prestamos y además consultas sobre los movimientos efectuados.
