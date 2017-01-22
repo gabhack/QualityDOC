@@ -31,7 +31,7 @@ Pre-requisitos
 		- Haber configurado al menos una caja/cuenta para recibirr el dinero.
 
 
-Tealizar una transferencia de fondos
+Realizar una transferencia de fondos
 ====================================
 
 Realice los siguientes pasos:
