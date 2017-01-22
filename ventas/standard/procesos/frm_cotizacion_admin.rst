@@ -54,29 +54,49 @@ Para crear una *Cotizacion* realice los siguientes pasos:
 
 	- Ejecute la opción "Cotizaciones"
 	- Haga click en el botón |wznew.bmp| *nueva cotización*
+
+			.. figure:: images/cotizaciones/1.png
+ 			:align: center
+
 	- **Se desplegará una nueva ventana:**
 		- Elija el centro de costo para la cotización
 		- Elija la fecha y luego la vigencia de los precios que contendrá la cotización
 		- Escriba la identificación del cliente, si no está creado, puede hacerlo presionando 'sí' en la ventana de confirmación.dad
 		- Elija la lista de precios pertinente
 		- Presione |save.bmp| 
+
+		 .. figure:: images/cotizaciones/2.png
+ 			:align: center
+
 	- **Se desplegará una nueva ventana, para añadir una propuesta comercial:**
 		- En el campo 'Referencia' puede darle un nombre/identificador a la propuesta
 		- En la grilla, pulse sobre la cabecera de la columna 'Código' para agregar un artículo a la propuesta. Pulse justo donde dice 'Código'
+
+
+		 .. figure:: images/cotizaciones/3.png
+ 			:align: center
+
 		- Aparecera una nueva fila en la grilla, en ese momento presione Enter y proceda a buscar el producto.
 		- Al encontrar el producto en la lista, seleccionelo haciendo click sobre él y presione Enter
 		- Verá el producto en la grilla. Las casillas: 'Valor Unitario', 'Cantidad', 'IVA' y DCTO' son editables.
 		- Podrá escribir para que tipo de pago está destinada la propuesta en el campo de texto 'FORMA DE PAGO'
 		- Haga click en |save.bmp| *guardar*
+
+
+		 .. figure:: images/cotizaciones/4.png
+ 			:align: center
+
 	-Entrará de nuevo a la ventana con las características de la cotización, desde aquí podrá decidir si desea:
+	
 		- Agregar otra propuesta comercial |plus.bmp|
 		- Imprimir esta cotización |printer_q.bmp|
 		- Salir
 
+			.. figure:: images/cotizaciones/5.png
+ 			 :align: center
+
 **Para ver como usar la cotización creada en el momento de la facturación, vea:** `Procesar una venta <../../standard/procesos/frm_facturacion.html#crear-una-factura-procesar-una-venta>`_
 
-   .. figure:: images/10.png
- 	  :align: center
 
 ---------------------------------------------------------
 
