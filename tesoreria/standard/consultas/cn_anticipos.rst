@@ -1,51 +1,57 @@
-=============================================
-Informe Fiscal - Comprobante diario de ventas
-=============================================
+================================
+Informe de anticipos de clientes
+================================
 
 Ubicación
 ---------
 
 :Módulo:
- Ventas
+ Tesorería
 
 :Grupo:
  Consultas
 
 :Descripción:
- Informe Fiscal - Comprobante diario de ventas
+  Informe de anticipos de clientes
 
 Introducción
 ------------
 
-En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
+En *Informe de anticipos de clientes* podrá consultar el total de saldo al favor que tienen sus clientes por concepto de mercancía devuelta.
 
- .. figure:: images/5.png
- 	   :align: center
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer:
+Ud podrá remitirse a este informe para conocer :
 
-	- Informe con estructura reglamentaria (DIAN)
+	- Una lista de saldos a favor debido a devoluciones de mercancías.
+	- Información detallada acerca de como se generan y se cruzan los saldos a favor por devoluciones de mercancías.
+
+		.. Note:
+
+			Para ver en detalle los saldos a favor del cliente y de que factura provienen en una ventana nueva, haga doble click en el número de identificación del cliente (la casilla de la primera columna da la grilla)
+
+			En la información detallada verá una columna 'crédito' indicando las notas de crédito que han acumulado saldo a favor del cliente.
+
+
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Servidor
-	- Caja
-	- Fecha
+	- Centro de costo
+	- Moneda
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón  |printer_q.bmp| *imprimir informe* 
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Comprobante diario de ventas*, eligiendo de la lista en la esquina inferior derecha, entre Los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de anticipos de clientes* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |printer_q.bmp| Reporte
+	- |printer_q.bmp| Impresión
 
 
 

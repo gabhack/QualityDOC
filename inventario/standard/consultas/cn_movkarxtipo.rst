@@ -9,7 +9,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Parámetros
+ Consultas
 
 :Descripción:
   Movimiento del kardex por tipo de transacción

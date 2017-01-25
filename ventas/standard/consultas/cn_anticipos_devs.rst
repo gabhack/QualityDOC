@@ -9,7 +9,7 @@ Ubicación
  Ventas
 
 :Grupo:
- Parámetros
+ Consultas
 
 :Descripción:
   Saldos a Favor por Devolución de Mercancías

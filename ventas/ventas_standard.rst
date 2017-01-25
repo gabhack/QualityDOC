@@ -22,6 +22,7 @@ Consultas
 
 .. toctree::
   :maxdepth: 3
+  :numbered:
 
   /ventas/standard/consultas/cn_facturas
   /ventas/standard/consultas/cn_venta_detallada_vendedor

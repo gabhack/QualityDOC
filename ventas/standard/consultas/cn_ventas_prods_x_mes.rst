@@ -9,7 +9,7 @@ Ubicación
  Ventas
 
 :Grupo:
- Parámetros
+ Consultas
 
 :Descripción:
   Analisis anual de ventas por productos

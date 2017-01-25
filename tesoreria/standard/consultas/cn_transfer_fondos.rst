@@ -1,51 +1,54 @@
-=============================================
-Informe Fiscal - Comprobante diario de ventas
-=============================================
+===================================
+Consulta de transferencia de fondos
+===================================
 
 Ubicación
 ---------
 
 :Módulo:
- Ventas
+ Tesorería
 
 :Grupo:
  Consultas
 
 :Descripción:
- Informe Fiscal - Comprobante diario de ventas
+  Administrador general de transferencia de fondos
 
 Introducción
 ------------
 
-En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
+En *Administrador general de transferencia de fondos* podrá visualizar todos los fondos transferidos desde una cuenta/caja/caja menor, o todos los fondos que fueron transferidos hacia una cuenta/caja/caja menor, en un rango de fechas específico.
 
- .. figure:: images/5.png
- 	   :align: center
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer:
+Ud podrá remitirse a este informe para conocer :
 
-	- Informe con estructura reglamentaria (DIAN)
+	- Fecha de las transacciones
+	- Destino y origen de las transacciones
+	- Monto de las transacciones
+	- Tipo de transacción
+
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Servidor
-	- Caja
 	- Fecha
+	- Cuenta/caja/caja menor origen
+	- Cuenta/caja/caja menor destino
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón  |printer_q.bmp| *imprimir informe* 
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Comprobante diario de ventas*, eligiendo de la lista en la esquina inferior derecha, entre Los siguientes formatos:
+Usted podrá dar salida al reporte de *Administrador general de transferencia de fondos en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |printer_q.bmp| Reporte
+	- |printer_q.bmp| Impresión
+	- |excel.bmp| Excel
 
 
 

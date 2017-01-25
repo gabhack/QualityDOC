@@ -1,52 +1,55 @@
-=============================================
-Informe Fiscal - Comprobante diario de ventas
-=============================================
+=====================
+Recaudos por vendedor
+=====================
 
 Ubicación
 ---------
 
 :Módulo:
- Ventas
+ Tesorería
 
 :Grupo:
  Consultas
 
 :Descripción:
- Informe Fiscal - Comprobante diario de ventas
+  Consulta de recaudos por vendedor
 
 Introducción
 ------------
 
-En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
-
- .. figure:: images/5.png
- 	   :align: center
+En *Consulta de recaudos por vendedor* podrá visualizar los recaudos por ventas que se han realizado a nombre de un vendedor específico. De una venta a crédito solo podrá visualizar los abonos hechos a la deuda.
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer:
+Ud podrá remitirse a este informe para conocer :
 
-	- Informe con estructura reglamentaria (DIAN)
+	- El total de recuados por venta, en un centro de costo y un periodo determinado
+	- Conocer el detalle de las ventas relacionadas a los recaudos
+
+Ver el detalle de los recaudos
+------------------------------
+	
+	- Realice la búsqueda usando los filtros apropiados.
+	- Haga click en el botón + a la izquierda del vendedor en la grilla, para ver todas las ventas relacionadas a los recaudos.
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Servidor
-	- Caja
-	- Fecha
-
-
-Una vez elegidos los filtros principales y proceder con la consulta en el botón  |printer_q.bmp| *imprimir informe* 
+	- Vendedor
+	- Rango de fechas
+	- Centro de costo
+	
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Comprobante diario de ventas*, eligiendo de la lista en la esquina inferior derecha, entre Los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de anticipos de clientes* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |printer_q.bmp| Reporte
-
+	- |printer_q.bmp| Impresión
+	- |excel.bmp| Excel
 
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif

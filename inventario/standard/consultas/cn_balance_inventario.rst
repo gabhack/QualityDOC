@@ -9,7 +9,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Parámetros
+ Consultas
 
 :Descripción:
   Balance de inventario

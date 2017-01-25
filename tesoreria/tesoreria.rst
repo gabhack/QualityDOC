@@ -26,9 +26,3 @@ En el módulo tesorería podrá configurar los parametros que definen el comport
 
 
 
-Párametros
-
-# Administración de cajas, bancos & franquicias::
-# Administración de conceptos de tesorería::
-
-.. note:: El sistema creará las cuentas contables automàticamente
