@@ -9,7 +9,7 @@ Ubicación
  Ventas
 
 :Grupo:
- Parámetros
+ Consultas
 
 :Descripción:
  Consulta general de facturación

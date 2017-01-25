@@ -1,52 +1,51 @@
-=============================================
-Informe Fiscal - Comprobante diario de ventas
-=============================================
+==========================================
+Informe de Ventas vs Recaudos por vendedor
+==========================================
 
 Ubicación
 ---------
 
 :Módulo:
- Ventas
+ Tesorería
 
 :Grupo:
  Consultas
 
 :Descripción:
- Informe Fiscal - Comprobante diario de ventas
+  Informe de Ventas vs Recaudos por vendedor
 
 Introducción
 ------------
 
-En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
-
- .. figure:: images/5.png
- 	   :align: center
+En *Informe de Ventas vs Recaudos por vendedor* podrá visualizar la comparación de los montos de las ventas entre vendedores y los totales recaudados por las mismas. Obtenga información clara acerca de la facturación a clientes y los abonos a ventas a créditos, devoluciones y el neto adquirido por su compañía.
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer:
+Ud podrá remitirse a este informe para conocer :
 
-	- Informe con estructura reglamentaria (DIAN)
+	- El total facturado por un vendedor
+	- Los recaudos por ventas a crédito de un venedor
+	- El total por venta en devoluciones, cheques devueltos y anulaciones.
+
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Servidor
-	- Caja
-	- Fecha
-
-
-Una vez elegidos los filtros principales y proceder con la consulta en el botón  |printer_q.bmp| *imprimir informe* 
+	- Vendedor(es)
+	- Rango de fechas
+	- Centro de costo
+	
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Comprobante diario de ventas*, eligiendo de la lista en la esquina inferior derecha, entre Los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de Ventas vs Recaudos por vendedor* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |printer_q.bmp| Reporte
-
+	- |printer_q.bmp| Impresión
+	- |excel.bmp| Excel
 
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif

@@ -1,51 +1,51 @@
-=============================================
-Informe Fiscal - Comprobante diario de ventas
-=============================================
+================================
+Movimiento diario de tesorería
+================================
 
 Ubicación
 ---------
 
 :Módulo:
- Ventas
+ Tesorería
 
 :Grupo:
  Consultas
 
 :Descripción:
- Informe Fiscal - Comprobante diario de ventas
+  Informe de tesorería para cuadre de caja
 
 Introducción
 ------------
 
-En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
+En *Informe de tesorería para cuadre de caja* encontrará información relacionada a todos los movimientos de tesorería (entradas, salidas, cheques) clasificados por tipo en un rango de tiempo determinado.
 
- .. figure:: images/5.png
- 	   :align: center
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer:
+Ud podrá remitirse a este informe para conocer :
 
-	- Informe con estructura reglamentaria (DIAN)
+	- Facturación de contado
+	- Facturación a Crédito
+	- Recibos
+	- Egresos
+
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Servidor
-	- Caja
 	- Fecha
+	- Centro de costo
 
-
-Una vez elegidos los filtros principales y proceder con la consulta en el botón  |printer_q.bmp| *imprimir informe* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Comprobante diario de ventas*, eligiendo de la lista en la esquina inferior derecha, entre Los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe tesorería para cuadre de caja* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |printer_q.bmp| Reporte
+	- |printer_q.bmp| Impresión
+	- |excel.bmp| Excel
 
 
 

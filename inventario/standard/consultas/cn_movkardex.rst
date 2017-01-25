@@ -9,7 +9,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Parámetros
+ Consultas
 
 :Descripción:
   Movimiento diario del kardex

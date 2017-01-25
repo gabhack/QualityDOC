@@ -1,54 +1,52 @@
-=============================================
-Informe Fiscal - Comprobante diario de ventas
-=============================================
+==============================
+Movimiento detallado por cajas
+==============================
 
 Ubicación
 ---------
 
 :Módulo:
- Ventas
+  Tesorería
 
 :Grupo:
- Consultas
+  Consultas
 
 :Descripción:
- Informe Fiscal - Comprobante diario de ventas
+  Movimiento detallado por cajas
 
 Introducción
 ------------
-
-En *Comprobante diario de ventas* usted podrá consultar información relacionada con los movimientos de facturación de acuerdo al servidor y a una caja determinada.
-
- .. figure:: images/5.png
- 	   :align: center
+ 	
+ 	En la consulta *Movimiento detallado por cajas* obtenga información acerca de todos los ingresos y los egresos de la caja, caja menor o de sus cuentas bancarías por diferentes conceptos
 
 Casos de uso
 ------------
-
 Ud podrá remitirse a este informe para conocer:
-
-	- Informe con estructura reglamentaria (DIAN)
+ 	
+	- Los movimientos de una caja general en un intervalo de tiempo
+	- Los movimientos de una caja menor en un intervalo de tiempo
+	- Los movimientos de una cuenta bancaria en un intervalo de tiempo
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Servidor
-	- Caja
-	- Fecha
+	- Rango de fechas
+	- Centro de costos
 
 
-Una vez elegidos los filtros principales y proceder con la consulta en el botón  |printer_q.bmp| *imprimir informe* 
+Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Comprobante diario de ventas*, eligiendo de la lista en la esquina inferior derecha, entre Los siguientes formatos:
+Usted podrá dar salida al reporte en Los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |printer_q.bmp| Reporte
+	- |printer_q.bmp| Impresión
 
 
 
+.. |export1.gif| image:: /_images/generales/export1.gif
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |codbar.png| image:: /_images/generales/codbar.png

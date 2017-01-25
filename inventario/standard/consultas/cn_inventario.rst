@@ -9,7 +9,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Parámetros
+ Consultas
 
 :Descripción:
   Consulta de inventario general

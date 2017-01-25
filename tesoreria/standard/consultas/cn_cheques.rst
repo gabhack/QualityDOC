@@ -1,59 +1,62 @@
-======================================
-Informe de ventas por vendedor & línea
-======================================
+================================
+Administrador general de cheques
+================================
 
 Ubicación
 ---------
 
 :Módulo:
- Ventas
+ Tesorería
 
 :Grupo:
  Consultas
 
 :Descripción:
-  Informe de ventas por vendedor & línea
+ Administrador general de cheques
 
 Introducción
 ------------
 
-En *Informe de ventas por vendedor & línea* podrá consultar el total de ventas por línea de los vendedores registrados en un rango de fechas determinado.
+En *Administrador general de cheques* odrá visualizar todos aquellos pagos recibidos a través de un cheque. También, podrá realizar operaciones con respecto a un cheque en específico o varios a la vez.
 
- .. figure:: images/9.png
- 	   :align: center
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer en un rango de fechas determinado:
+Ud podrá remitirse a este informe para:
 
-	- Cantidad de ventas (moneda) por vendedor
-	- Cantidad de unidades vendidas por vendedor
-	- Cantidad de ventas (moneda) por vendedor y por línea
-	- Cantidad de unidades vendidas por vendedor y por línea
+	- Conocer todos los pagos efectuados a través de un cheque
+	- Consignar un cheque
+	- Devolver un cheque a un cliente (rebote).
+	- Transferir a otro centro de costo
 
+Realizar una operación sobre un cheque
+--------------------------------------
+
+  - Marquelos en la casilla al final de la fila de la grilla
+  - Debajo de la grilla encontrará la lista "¿Qué operación desea realizar?"
+  - Elija una opción de la lista que desea, y haga click en |save,bmp| en la cabecera de la ventana.
 
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
-	- Vendedor
-	- Línea
-	- Fechas
-
+	- Centro de costo
+	- Banco
+	- Rango de fechas
+	- Tipo (Diríjase a la pestaña superior de la ventana):
+		- Cheques consignados
+		- Cheques en canje - Se refiere a los cheques que en este mismo administrador han sido marcados como "en canje" para indicar que aún no han sido cobrados, antes de consignar [Opcional]
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Informe de ventas por vendedor & línea* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de anticipos de clientes* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
-	- |excel.bmp| Excel
 	- |printer_q.bmp| Impresión
-
-
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp

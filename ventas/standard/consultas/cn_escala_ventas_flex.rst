@@ -9,8 +9,7 @@ Ubicación
  Ventas
 
 :Grupo:
- Parámetros
-
+ Consultas
 :Descripción:
   Escala de ventas por productos
 
