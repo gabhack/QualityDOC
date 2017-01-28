@@ -45,7 +45,7 @@ Para crear un cliente realice los siguientes pasos:
  		- **Otros datos**: 
 
  			 .. figure:: images/3a.png
-   					:align: center
+   				:align: center
 
  				- Nombre comercial: Nombre del establecimiento (no razón social)
  				- lista de precios: Las listas de precios pueden ser asociadas a un cliente específico con el fin de ofrecer precios especiales al mismo. Vea `Configurar lista de precios <>`_ Esta lista será cargada automáticamente al elegir este cliente.
@@ -67,12 +67,13 @@ Para crear un cliente realice los siguientes pasos:
  			 .. figure:: images/3b.png
    					:align: center
 
- 		- Retenciones: Aparece un listado de retenciones creadas en sistema, puede marcar las que quiere que se apliquen **automáticamente** sobre la facturación para este cliente. 
+ 		- **Retenciones:** Aparece un listado de retenciones creadas en sistema, puede marcar las que quiere que se apliquen **automáticamente** sobre la facturación para este cliente. 
  			- Puede marcar la casilla *Retiene sobre cualquier base* para aplicar las retenciones marcadas en cualquier monto imponible.
 
 
- 				.. figure:: images/3c.png
-   			       :align: center
+ 				 .. figure:: images/3c.png
+   			          :align: center
+
  		- Información de Cartera: Se trata de un texto para el usuario que gestiona cartera (información de cobros, contacto, etc). Esta información aparece en la sección de **Cartera** para facilitar la gestión.
 
  	En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)

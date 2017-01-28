@@ -32,10 +32,10 @@ Crear una Resolución de facturación
 ===================================
 
 	- Ejecute la opción "Administración de resoluciones de facturación"
-	- Haga click en el pie de la ventana en el botón |nuevo.bmp| *nuevo*
+	- Haga click en el pie de la ventana en el botón |wznew.bmp| *nuevo*
 
  			.. figure:: images/24.png
-      			:align: center
+      			 :align: center
 
 	- Verá una ventana emergente con los siguientes campos:
 		- *Resolución destinada para el almacén:* La resolución debe ir relacionada con un almacen (una por sucursal) o puede ser compartida (dos puntos de venta en la misma sucursal)

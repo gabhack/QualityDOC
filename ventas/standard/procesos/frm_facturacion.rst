@@ -31,7 +31,7 @@ Pre-requisitos
 	- `Crear un Vendedor <../../generalidades/act_vendedores.html#crear-un-vendedor>`_
 	- `Crear un producto o un servicio <../../../inventario/generalidades/act_maestroinsumos.html#productos-servicios>`_
 	- `Crear o configurar una lista de precios <../../generalidades/frm_listas_precios_post.html#crear-una-lista-de-precios>`_
-	- `Crear una caja <>`_
+	- `Crear una caja <../../../inventario/generalidades/act_maestroinsumos.html#productos-servicios>`_
 
 
 
