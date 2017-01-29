@@ -140,7 +140,7 @@ Acceda a otros ajustes que le permitirán parametrizar y hacer más amena la fac
 		- Mostrar precio sin descuento y aplicar descuento automáticamente (muestra ambos)
 	- Marque 'Permitir cambiar precio de venta en factura' si desea habilitar esta opción al cajero.
 	- Marque 'Mostrar leyenda y precio mínimo' si desea que el cajero vea en pantalla el precio mínimo de venta.
-	- Marque 'Lista de precios pública' si la lista puede ser aplicada a cualquier cliente y no a uno específico. Para asociar una lista a un cliente diríjase a `Crear o modificar un cliente <>`_
+	- Marque 'Lista de precios pública' si la lista puede ser aplicada a cualquier cliente y no a uno específico. Para asociar una lista a un cliente diríjase a `Crear o modificar un cliente <../generalidades/act_clientes_pos.html#crear-un-cliente>`_
 	- Marque 'No permitir precios de venta inferiores al costo' si dese inhabilitar esta posibilidad al cajero.
 
 		 .. figure:: images/12.png
@@ -199,7 +199,7 @@ Por seguridad, cada cambio en los precios de su centro de costo de una lista det
 
 	- Ejecute la opción *Administración de Lista de precios*
 	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios* 
-	- Haga click en el botón |library_listview.bmp| *Log de cambios en precios de ventas*
+	- Haga click en el botón |library_listview.png| *Log de cambios en precios de ventas*
 
 		 .. figure:: images/16.png
 		   :align: center
@@ -219,7 +219,7 @@ Puede remarcar productos con algún color de su preferencia si es necesario. Pue
 Para etiquetar/desetiquetar un producto:
 
 	- Elija el producto en la grilla marcandolo en la casilla de la última columna (puede elegir varios)
-	- Presione el botón  |label.bmp| *Etiquetar productos*
+	- Presione el botón  || *Etiquetar productos*
 	- Elija la etiqueta de que desea, o elija 'Remover TAG de los productos seleccionados' para desetiquetar.
 
  .. figure:: images/18.png
@@ -228,6 +228,8 @@ Para etiquetar/desetiquetar un producto:
 
 --------------------------------------------
 
+.. |singleminus.gif| image:: /_images/generales/singleminus.gif
+.. |export1.gif| image:: /_images/generales/export1.gif
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |codbar.png| image:: /_images/generales/codbar.png
@@ -235,7 +237,7 @@ Para etiquetar/desetiquetar un producto:
 .. |calendaricon.gif| image:: /_images/generales/calendaricon.gif
 .. |gear.bmp| image:: /_images/generales/gear.bmp
 .. |openfolder.bmp| image:: /_images/generales/openfold.bmp
-.. |library_listview.bmp| image:: /_images/generales/library_listview.png
+.. |library_listview.png| image:: /_images/generales/library_listview.png
 .. |plus.bmp| image:: /_images/generales/plus.bmp
 .. |wzedit.bmp| image:: /_images/generales/wzedit.bmp
 .. |buscar.bmp| image:: /_images/generales/buscar.bmp
