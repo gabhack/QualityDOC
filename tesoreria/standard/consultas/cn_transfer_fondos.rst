@@ -44,7 +44,7 @@ Una vez elegidos los filtros principales y proceder con la consulta en el botón
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Administrador general de transferencia de fondos en los siguientes formatos:
+Usted podrá dar salida al reporte de *Administrador general de transferencia de fondos* en los siguientes formatos:
 
 	- |pdf_logo.gif| PDF 
 	- |printer_q.bmp| Impresión

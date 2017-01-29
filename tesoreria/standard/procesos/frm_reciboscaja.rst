@@ -53,7 +53,7 @@ Crear un recibo de caja por Recaudos de Cartera (Pago de venta a crédito)
 
 	- Seleccione la pestaña "Recaudos de Cartera"
 	- En el cuadro de texto "Cédula" Digite la cédula o presione Enter para buscarlo. Solo podrá visualizar clientes que hayan hecho una compra a crédito. Elija el cliente que realiza el abono.
-	- Al reyenar el cuadro de texto "Abono" entonces se irá agregando esa cantidad a las facturas en el orden en el que aparecen en la grilla. Si seleccione las facturas en la grilla, el cuadro de abono se rellena automáticamente con el total del monto. **El campo Vr. Recibo es editable, aquí puede especificar manualmente el monto que va a ser pagado de cada factura"**
+	- Al reyenar el cuadro de texto "Abono" entonces se irá agregando esa cantidad a las facturas en el orden en el que aparecen en la grilla. Si seleccione las facturas en la grilla, el cuadro de abono se rellena automáticamente con el total del monto. **El campo Vr. Recibo es editable, aquí puede especificar manualmente el monto que va a ser pagado de cada factura**
 	- Verá una grilla de menor tamaño donde puede agregar algún otro abono por otros conceptos, opcionalmente. Use esta opción si además del pago de la factura existe algun recargo o un anticipo.
 	- En el campo de texto "Observación" agregue información que le pueda ser útil en un futuro.
 	- Presione guardar y elija el (los) metodo(s) de pago. Si ha seleccionado ingresar el dinero a una cuenta bancaria, solo podrá seleccionar efectivo.
