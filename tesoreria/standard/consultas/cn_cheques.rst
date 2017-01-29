@@ -35,7 +35,7 @@ Realizar una operación sobre un cheque
 
   - Marquelos en la casilla al final de la fila de la grilla
   - Debajo de la grilla encontrará la lista "¿Qué operación desea realizar?"
-  - Elija una opción de la lista que desea, y haga click en |save,bmp| en la cabecera de la ventana.
+  - Elija una opción de la lista que desea, y haga click en |save.bmp| en la cabecera de la ventana.
 
 
 Filtros aplicables
