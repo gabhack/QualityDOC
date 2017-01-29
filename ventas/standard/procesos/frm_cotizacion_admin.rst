@@ -56,7 +56,7 @@ Para crear una *Cotizacion* realice los siguientes pasos:
 	- Haga click en el botón |wznew.bmp| *nueva cotización*
 
 			.. figure:: images/cotizaciones/1.png
- 			:align: center
+ 			    :align: center
 
 	- **Se desplegará una nueva ventana:**
 		- Elija el centro de costo para la cotización

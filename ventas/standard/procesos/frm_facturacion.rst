@@ -18,7 +18,7 @@ Ubicación
 Introducción
 ============
 
-En esta operación usted podrá realizar facturas de ventas a clientes. 
+En esta operación usted podrá realizar facturas de ventas a clientes.
 
 - La fecha de la factura se establece automáticamente de acuerdo a la configuración del centro de costo.
 
@@ -33,7 +33,7 @@ Pre-requisitos
 	- `Crear o configurar una lista de precios <../../generalidades/frm_listas_precios_post.html#crear-una-lista-de-precios>`_
 	- `Crear una caja <../../../tesoreria/generalidades/act_cajas.html#crear-caja-general>`_
 
-
+  
 
 Crear una factura / Procesar una venta
 ======================================
@@ -61,12 +61,12 @@ Para procesar una *venta* realice los siguientes pasos:
     - Agregue el producto a la grilla presionando el botón |plus.bmp|
     - Después de agregar el producto en la grilla, podrá modificar la casilla en la columna 'cantidad' siempre que lo considere necesario. Si no hay suficientes productos en existencia el sistema se lo hará saber.
     - En la esquina inferior derecha, podrá ver información relacionada a la facturación (Sub Total, impuestos, descuentos, retenciones y total)
-    - Una vez esté seguro del total de la venta y los productos agregados, presione F2 si será cancelada estrictamente efectivo o F3 si será pagada a través de otro medio o en una combinación de ellos (cheque, tarjeta, crédito, efectivo, notas de crédito, etc). 
+    - Una vez esté seguro del total de la venta y los productos agregados, presione F2 si será cancelada estrictamente efectivo o F3 si será pagada a través de otro medio o en una combinación de ellos (cheque, tarjeta, crédito, efectivo, notas de crédito, etc).
     Si hay notas de crédito pendientes, podrá elegirlas de la lista de metodos de pago.
 
-		
+
 		.. figure:: images/3.png
- 		  :align: center	    
+ 		  :align: center
 
     - Se desplegará una ventana de confirmación para imprimir o no el recibo/reporte de la venta.
 
@@ -90,7 +90,7 @@ Accesos rápidos de teclado
 ==========================
 
 	- |F5.png|  Presione la tecla F5 para ubicar el cursor en la casilla de observación
-	- |F6.png| Presione la tecla F6 para habilitar la venta de productos a precio de costo. En adelante, todos los productos se incluirán en la factura con su costo promedio. Si no tiene los permisos para esta función, comuníquese con el encargado de sistema. 
+	- |F6.png| Presione la tecla F6 para habilitar la venta de productos a precio de costo. En adelante, todos los productos se incluirán en la factura con su costo promedio. Si no tiene los permisos para esta función, comuníquese con el encargado de sistema.
 	- |F7.png| Presione la tecla F7 para abrir el cajón monedero.
 	- |F8.png| Presione la tecla F8 para ubicar el cursor en la casilla de búsqueda de productos.
 	- |F9.png| Presione la tecla F9 para facturar a "Cuantías menores", saltando así el proceso de registro del cliente.

@@ -64,7 +64,7 @@ Modificar un vendedor
 
 
  .. figure:: images/21.png
-      		:align: center
+      	:align: center
 
  	--------------------------------------------
 
