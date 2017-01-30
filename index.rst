@@ -16,5 +16,7 @@ Módulos Administrativos
   /inventario/inventario
   /ventas/ventas
   /tesoreria/tesoreria
+  /cartera/cartera
+
 
 
