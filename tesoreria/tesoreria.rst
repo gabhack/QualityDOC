@@ -1,6 +1,3 @@
-.. image:: /images/logo_quality.png
-   :align: center
-   :scale: 10 %
 
 Tesorería
 =========
@@ -22,7 +19,6 @@ En el módulo tesorería podrá configurar los parametros que definen el comport
 
   Encuentre aquí los pasos necesarios para llevar a cabo recibos de caja, comprobantes de egresos, notas bancarias, transferencias de fondos, relación de gastos, prestamos y además consultas sobre los movimientos efectuados.
 
-  ..       /inventario/_inventario_tallaje
 
 
 

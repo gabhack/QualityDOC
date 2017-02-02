@@ -9,7 +9,8 @@ Procesos
   :maxdepth: 2
   :numbered:
 
-
+  /cartera/standard/procesos/frm_notas_clientes
+  /cartera/standard/procesos/frm_saldoscxc
 
 
 
