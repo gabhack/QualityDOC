@@ -34,7 +34,7 @@ Pre-requisitos
 Pago de facturas a proveedores
 ==============================
 
-ära realizar un pago a un proveedor por una compra ya radicada, realice los siguientes pasos:
+Para realizar un pago a un proveedor por una compra ya radicada, realice los siguientes pasos:
 
 	- Ejecute la opción "Comprobantes de egresos"
 	- Seleccione la pestaña "Pago de facturas a proveedores"

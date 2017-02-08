@@ -17,8 +17,9 @@ Ubicación
 Introducción
 ------------
 
-En *Informe de anticipos de clientes* podrá consultar el total de saldo al favor que tienen sus clientes por concepto de mercancía devuelta.
+En *Informe de anticipos de clientes* podrá consultar el total de saldo al favor que tienen sus clientes por concepto de anticipos hechos desde la interfaz de recibos de caja. Un anticipo puede ser usado después como pago en la facturación a clientes. Puede observar los detalles de las transacciones relacionadas a este anticipo (cuando se recibe, cuando se usa como parte de pago, saldo restante, etc) desde esta interfaz.
 
+**Todas las operaciones y transacciones relacionadas a caja, banco, cuentas, facturación, pagos y demás, tienen la fecha de la caja abierta**
 
 Casos de uso
 ------------
@@ -26,13 +27,13 @@ Casos de uso
 Ud podrá remitirse a este informe para conocer :
 
 	- Una lista de saldos a favor debido a devoluciones de mercancías.
-	- Información detallada acerca de como se generan y se cruzan los saldos a favor por devoluciones de mercancías.
+	- Información detallada acerca de como se generan y se cruzan los saldos a favor por anticipos.
 
 		.. Note:
 
-			Para ver en detalle los saldos a favor del cliente y de que factura provienen en una ventana nueva, haga doble click en el número de identificación del cliente (la casilla de la primera columna da la grilla)
+			Para ver en detalle los saldos a favor del cliente y las transacciones relacionadas con el anticipo, haga doble click en el número de identificación del cliente (la casilla de la primera columna da la grilla)
 
-			En la información detallada verá una columna 'crédito' indicando las notas de crédito que han acumulado saldo a favor del cliente.
+			En la información detallada verá una columna 'crédito' indicando las entradas por recibo, y en la columna 'débito' los canjes en la facturación.
 
 
 
@@ -41,7 +42,7 @@ Filtros aplicables
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Moneda
+
 
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
