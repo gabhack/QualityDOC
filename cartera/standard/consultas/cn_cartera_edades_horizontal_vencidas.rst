@@ -19,6 +19,9 @@ Introducción
 
 En *Análisis horizontal de vencimiento de cartera (Vencida)* podrá consultar todas las cuentas de sus clientes que están ya vencidas. Obtenga los saldos vencidos de los clientes en diferentes columnas según la fecha de corte. Use esta consulta para priorizar los cobros y las rutas de los cobradores.
 
+		.. figure:: images/vencidos.png
+ 			:align: center
+
 Casos de uso
 ------------
 

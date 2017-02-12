@@ -19,6 +19,9 @@ Introducción
 
 En *Informe de Ventas vs Recaudos por vendedor* podrá visualizar la comparación de los montos de las ventas entre vendedores y los totales recaudados por las mismas. Obtenga información clara acerca de la facturación a clientes y los abonos a ventas a créditos, devoluciones y el neto adquirido por su compañía.
 
+ 		.. figure:: images/vendedores.png
+ 				:align: center
+
 Casos de uso
 ------------
 

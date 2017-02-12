@@ -21,6 +21,10 @@ En *Informe de anticipos de clientes* podrá consultar el total de saldo al favo
 
 **Todas las operaciones y transacciones relacionadas a caja, banco, cuentas, facturación, pagos y demás, tienen la fecha de la caja abierta**
 
+		.. figure:: images/anticipos/1.png
+ 			:align: center
+
+
 Casos de uso
 ------------
 
@@ -36,6 +40,8 @@ Ud podrá remitirse a este informe para conocer :
 			En la información detallada verá una columna 'crédito' indicando las entradas por recibo, y en la columna 'débito' los canjes en la facturación.
 
 
+ .. figure:: images/anticipos/2.png
+		:align: center
 
 Filtros aplicables
 ------------------

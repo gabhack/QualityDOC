@@ -19,6 +19,9 @@ Introducción
 
 En *Informe general de cartera a fecha de corte* podrá consultar todas las cuentas por cobrar a sus clientes hasta una fecha indicada. Las cuentas se muestran totalizadas hasta la fecha. Use este informe para evaluar las deudas de sus clientes por etapas.
 
+		.. figure:: images/carteraxcortes.png
+ 			:align: center
+
 Casos de uso
 ------------
 

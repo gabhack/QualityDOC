@@ -1,5 +1,5 @@
 ==========================================
-Tesorería - Sistema de Inventario Standard
+Cartera - Sistema de Inventario Standard
 ==========================================
 
 Procesos

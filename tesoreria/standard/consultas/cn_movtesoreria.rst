@@ -19,6 +19,8 @@ Introducción
 
 En *Informe de tesorería para cuadre de caja* encontrará información relacionada a todos los movimientos de tesorería (entradas, salidas, cheques) clasificados por tipo en un rango de tiempo determinado.
 
+ 			.. figure:: images/movimientotesoreria.png
+ 				 :align: center
 
 Casos de uso
 ------------

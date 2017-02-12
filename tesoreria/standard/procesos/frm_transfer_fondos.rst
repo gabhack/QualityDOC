@@ -41,6 +41,12 @@ Realice los siguientes pasos:
 	- Luego en la lista "Seleccione la caja" elija la caja o cuenta bancaria de donde saldrá el dinero. 
 	- Puede visualizar el monto disponible en el cuadro de texto "Monto disponible en esta caja"
 	- Digite el monto a transferir en el cuandro "Monto a transferir"
+		
+
+		.. figure:: images/transferenciadefondos/1.png
+ 				 :align: center 
+
+
 	- Bajo el encabezado "DESTINO DE LOS FONDOS", en la lista "Seleccione el almacén" elija el centro de costo de donde llegará el dinero.
 	- Luego en la lista "Seleccione la caja" elija la caja o cuenta bancaria de donde llegará el dinero. 
 	- En el cuadro "Monto disponible en esta caja" podrá visualizar el monto actual de la cuenta o caja destino (antes de la transferencia)

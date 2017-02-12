@@ -20,6 +20,9 @@ Introducción
 En *Consulta de ventas con tarjetas para conciliación bancaria* puede visualizar todos los pagos efectuados con las distintas granquicias a través de tarjetas de débito o crédito.
 
 
+ 			.. figure:: images/movimientotarjetas.png
+ 				 :align: center
+
 Casos de uso
 ------------
 

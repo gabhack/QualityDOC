@@ -20,6 +20,10 @@ Introducción
  	
  	En la *Administrador general de comprobantes de egresos* obtenga información acerca de todos los egresos de la caja o de sus cuentas bancarías por diferentes conceptos. Además puede anular e imprimir un comprobante en específico.
 
+		.. figure:: images/consultaegresos/1.png
+ 			:align: center
+
+
 Casos de uso
 ------------
 Ud podrá remitirse a este informe para conocer:
@@ -64,6 +68,10 @@ Para Anular un egreso:
 
 		Anular un egreso, aunque regresa el dinero a la caja, no elimina los registros de la operación.
 
+
+		.. figure:: images/consultaegresos/2.png
+ 			:align: center
+
 Eliminar un egreso
 ------------------
 
@@ -76,6 +84,9 @@ Para Eliminar un egreso:
 
 		Eliminar un egreso revierte todo el proceso y no deja rastro de la operación.
 
+		.. figure:: images/consultaegresos/2.png
+ 			:align: center
+
 Modificar un egreso
 -------------------
 
@@ -85,6 +96,9 @@ Para Modificar un egreso:
 	- Hag click en |export1.gif| al final de la fila del reporte y luego haga click en "Modificar egreso #######"
 	- Verá una ventana similar a la de "Comprobante de egresos" donde encontrará algunos datos precargados. Puedo modificar lo que necesite.
 	- Presione F2 para guardar los cambios.
+
+			.. figure:: images/consultaegresos/2.png
+ 			  :align: center
 
 Cambiar fecha a un egreso
 -------------------------
@@ -96,6 +110,9 @@ Para Modificar un egreso:
 	- Verá una ventana con un campo de texto para introducir la nueva fecha.
 	- Presione 'Aceptar'.
 
+			.. figure:: images/consultaegresos/2.png
+ 			  :align: center
+
 
 Imprimir nuevamente un comprobante
 ----------------------------------
@@ -104,6 +121,10 @@ Para Imprimir un comprobante:
 
 	- Realice la búsqueda correspondiente usando los filtros necesarios	
 	- Haga click en |export1.gif| al final de la fila del reporte y luego haga click en "Imprimir egreso #######"
+
+		.. figure:: images/consultaegresos/2.png
+ 			:align: center
+	
 
 .. |export1.gif| image:: /_images/generales/export1.gif
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif

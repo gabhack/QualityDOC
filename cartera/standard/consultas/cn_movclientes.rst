@@ -19,6 +19,9 @@ Introducción
 
 En *Estado de cuentas de clientes* podrá consultar en cada centro de costo el saldo en cartera de cada uno de sus clientes de manera cronológica en un period de tiempo determinado. Reciba información detallada de los movimientos que realiza el cliente para adquirir o abonar deudas.
 
+		.. figure:: images/cuentaclientes.png
+ 			:align: center
+
 Casos de uso
 ------------
 

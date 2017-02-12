@@ -19,6 +19,9 @@ Introducción
 
 En *Consulta de recaudos por vendedor* podrá visualizar los recaudos por ventas que se han realizado a nombre de un vendedor específico. De una venta a crédito solo podrá visualizar los abonos hechos a la deuda.
 
+ 			.. figure:: images/recaudosporvendedor.png
+ 				 :align: center
+
 Casos de uso
 ------------
 

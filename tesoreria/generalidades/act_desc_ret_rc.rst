@@ -24,7 +24,16 @@ Crear conceptos por descuentos, egresos, ingresos o retenciones predefinidos
 
 	Para crear un descuento predefinido:
 	- Ejecute la opción *Administrador de conceptos de recibos de caja y egresos*
+
+		.. figure:: images/conceptos/0.png
+ 			:align: center
+
+
 	- Elija la opción |wznew.bmp| 'Nuevo' en el pie de la ventana
+
+			.. figure:: images/conceptos/1.png
+ 			:align: center
+
 	- Elija la opción pertinente en la cabecera de la ventana desplegada	
 	- Escoja la cuenta contable que será afectada con el movimiento de dinero
 	- Si es factible, escoja el porcentaje que afectará al monto del movimiento (no aplica para ingresos)
@@ -38,6 +47,10 @@ Modificar conceptos por descuentos, egresos, ingresos o retenciones predefinidos
 	- Elija la opción |wzedit.bmp| 'Modificar' en el pie de la ventana	
 	- Ingrese los datos que desea cambiar (cuenta contable, y porcentaje si es necesario)
 	- Haga click en |save.bmp| 'Guardar'
+
+			.. figure:: images/conceptos/2.png
+ 			:align: center
+
 
 Eliminar conceptos por descuentos, egresos, ingresos o retenciones predefinidos
 =========================================================================================

@@ -19,6 +19,9 @@ Introducción
 
 En *Administrador general de transferencia de fondos* podrá visualizar todos los fondos transferidos desde una cuenta/caja/caja menor, o todos los fondos que fueron transferidos hacia una cuenta/caja/caja menor, en un rango de fechas específico.
 
+	 			.. figure:: images/transferfondos/6.png
+ 				 :align: center
+
 
 Casos de uso
 ------------
@@ -50,7 +53,18 @@ Usted podrá dar salida al reporte de *Administrador general de transferencia de
 	- |printer_q.bmp| Impresión
 	- |excel.bmp| Excel
 
+Anular/Eliminar una transferencia
+---------------------------------
 
+Para Anular una transferencia :
+
+	- Realice la búsqueda correspondiente usando los filtros necesarios	
+	- Haga click en |export1.gif| al final de la fila del reporte y luego haga click en "Anular/Eliminar la transferencia de fondos #######"
+
+
+
+ 		.. figure:: images/transferfondos/2.png
+ 				:align: center
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp

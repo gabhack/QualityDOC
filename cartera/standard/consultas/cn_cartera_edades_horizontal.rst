@@ -19,6 +19,9 @@ Introducción
 
 En *Informe horizontal de vencimiento de cartera* podrá consultar todas las cuentas de sus clientes que están a punto de vencerse. Obtenga los saldos de los clientes en diferentes columnas según la fecha de corte. Use esta consulta para priorizar los cobros y las rutas de los cobradores.
 
+		.. figure:: images/xvencer.png
+ 			:align: center
+
 Casos de uso
 ------------
 

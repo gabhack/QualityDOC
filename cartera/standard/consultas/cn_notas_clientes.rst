@@ -19,6 +19,9 @@ Introducción
 
 En *Administrador de notas a clientes* podrá consultar todas aquellas notas débito o crédito creadas en el modulo de cartera. Obtenga información oportuna y detallada acerca de cada nota. El *Administrador de notas a clientes* también le permite anular y modificar una nota.
 
+		.. figure:: images/notas.png
+ 			:align: center
+
 Casos de uso
 ------------
 

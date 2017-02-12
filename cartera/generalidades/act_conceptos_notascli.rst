@@ -32,6 +32,10 @@ Para crear un concepto de notas a clientes realice los siguientes pasos:
 	- Puede chequear el siguiente campo para indicar si este concepto implica IVA.
 	- Haga click en |save.bmp| 'Guardar'
 
+
+			.. figure:: images/conceptos/1.png
+ 			   :align: center
+
 Eliminar/Modificar concepto
 ===========================
 
@@ -41,6 +45,18 @@ Para modificar/eliminar un concepto de notas a clientes realice los siguientes p
 	- Seleccione el concepto en la lista haciendo click en él
 	- En el pie de la ventana, elija la opción |wzedit.bmp| 'Modificar' o |delete.bmp| 'Eliminar'
 	- Si elige 'modificar', se abrirá una ventana nueva, donde podrá cambiar todos los campos del concepto, luego haga click en |save.bmp| 'Guardar'. Si elige 'eliminar' entonces pulse 'sí' para confirmar la eliminación.
+
+
+
+			.. figure:: images/conceptos/2.png
+ 			  :align: center
+
+
+ 			  --------------------------------
+
+
+			.. figure:: images/conceptos/3.png
+ 			   :align: center
 
 --------------------------------------------
 
