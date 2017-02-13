@@ -19,8 +19,8 @@ Introducción
 
 En *Administrador general de transferencia de fondos* podrá visualizar todos los fondos transferidos desde una cuenta/caja/caja menor, o todos los fondos que fueron transferidos hacia una cuenta/caja/caja menor, en un rango de fechas específico.
 
-	 			.. figure:: images/transferfondos/6.png
- 				 :align: center
+	 .. figure:: images/transferfondos/6.png
+ 		 :align: center
 
 
 Casos de uso
@@ -65,7 +65,8 @@ Para Anular una transferencia :
 
  		.. figure:: images/transferfondos/2.png
  				:align: center
-
+ 				
+.. |export1.gif| image:: /_images/generales/export1.gif
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |codbar.png| image:: /_images/generales/codbar.png

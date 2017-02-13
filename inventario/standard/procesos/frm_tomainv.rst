@@ -44,7 +44,7 @@ Pasos para crear una toma de inventario
 
 - El sistema desplegará una ventana donde visualizará una grilla con todas las tomas pendientes.
 - Seleccione un centro de costo para verificar las tomas ya creadas en él.
-- Haga click en Nueva Toma |nuevo.bmp|.
+- Haga click en Nueva Toma |wznew.bmp|.
 	Entrará a una ventana donde elegirá las características para la nueva toma.
 
 	.. figure:: images/27.png

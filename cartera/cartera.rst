@@ -19,7 +19,7 @@ También podrá ingresar al sistema todas aquellas cuentas por cobrar con las qu
 En este apartado puede consultar acerca de cómo modificar los parametros que rigen los conceptos por dedudas adquiridas por sus clientes hacia su organización. Estos parametros dictarán los motivos por los cuales se crean una cuenta por cobrar y que cuentas contables serán afectadas.
 
 
-  `Cartera sin tallaje: <../cartera/cartera_standard.html>`_
+  `Cartera  <../cartera/cartera_standard.html>`_
 
 Encuentre aquí los procesos necesarios para ingresar al sistema las cuentas por cobrar de la organización. Consulte información y datos útiles para el desempeño de sus actividades y la agilización de los cobros.
 

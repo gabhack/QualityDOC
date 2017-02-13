@@ -18,8 +18,8 @@ Introducción
 ------------
 En el apartado de consultas *Balance de inventario* usted podrá visualizar información detallada acerca de los saldos en su centro de costos dado un periodo de tiempo.
 
-.. figure:: images/11.png
-   :align: center
+ .. figure:: images/11.png
+     :align: center
 
 
 Casos de uso

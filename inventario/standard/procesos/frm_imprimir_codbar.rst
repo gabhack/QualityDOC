@@ -34,7 +34,7 @@ Para Imprimir las etiquetas de código de barras
 	- Ejecute la opción *impresión de código de barras* 
 
 		  .. figure:: images/50.png
-      		:align: center
+      		   :align: center
 
 	- En la ventana que se desplega, elija el centro de costo donde se encuentran los productos que desea marcar con las etiquetas.
 	- Ahora puede proceder a insertar los artículos que desea marcar:
@@ -78,7 +78,7 @@ Configuración de Stickers
 Puede acceder a la configuración de Stickers en la opción *Impresión de código de barras* bajo la grilla. 
 
 		  .. figure:: images/53.png
-      		:align: center
+      		   :align: center
 
 
 Para configurar un modelo de Sticker:
