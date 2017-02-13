@@ -28,6 +28,9 @@ Introducción
 
 	**En la parte de abajo de la ventana, podrá visualizar una grilla resumen, donde verá de manera no detallada los totales en deuda por cliente.**
 
+		.. figure:: images/saldos.png
+ 			:align: center
+
 Pre-requisitos
 ==============
 

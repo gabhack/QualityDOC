@@ -19,6 +19,9 @@ Introducción
 
 En *Administrador general de cheques* odrá visualizar todos aquellos pagos recibidos a través de un cheque. También, podrá realizar operaciones con respecto a un cheque en específico o varios a la vez.
 
+		.. figure:: images/cheques/1.png
+ 			:align: center
+
 
 Casos de uso
 ------------
@@ -37,6 +40,8 @@ Realizar una operación sobre un cheque
   - Debajo de la grilla encontrará la lista "¿Qué operación desea realizar?"
   - Elija una opción de la lista que desea, y haga click en |save.bmp| en la cabecera de la ventana.
 
+		.. figure:: images/cheques/2.png
+ 			:align: center
 
 Filtros aplicables
 ------------------

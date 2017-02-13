@@ -20,6 +20,10 @@ Introducción
  	
  	En la *Informe general de egresos* obtenga información acerca de todos los egresos desde un centro de costo hacia un tercero o varios, por diferentes conceptos.
 
+ 			.. figure:: images/egresos.png
+ 				 :align: center
+
+
 Casos de uso
 ------------
 Ud podrá remitirse a este informe para conocer:

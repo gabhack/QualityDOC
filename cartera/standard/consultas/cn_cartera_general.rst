@@ -19,6 +19,9 @@ Introducción
 
 En *Informe General de Cartera* podrá consultar en cada centro de costo el saldo en cartera de cada uno de sus clientes. Halle aquí la especificación de los documentos (Facturas a crédito, Notas de débito, Facturas por traslados y cheques devueltos) que contribuyen a la deuda y los días de mora.
 
+		.. figure:: images/informecartera.png
+ 			:align: center
+
 Casos de uso
 ------------
 

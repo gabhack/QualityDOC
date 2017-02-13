@@ -19,6 +19,9 @@ Introducción
  	
  	En la *consulta general de recibos de caja* obtenga información acerca de todos los ingresos a la caja o a sus cuentas bancarías por diferentes conceptos. Además puede anular e imprimir un recibo en específico.
 
+ 			.. figure:: images/consultarecibos/1.png
+ 				 :align: center
+
 Casos de uso
 ------------
 Ud podrá remitirse a este informe para conocer:
@@ -59,6 +62,9 @@ Para Anular un recibo:
 	- Realice la búsqueda correspondiente usando los filtros necesarios	
 	- Haga click en |export1.gif| al final de la fila del reporte y luego haga click en "Anular el recibo #######"
 
+	 	.. figure:: images/consultarecibos/2.png
+ 				 :align: center
+
 Imprimir nuevamente un recibo
 =============================
 
@@ -66,6 +72,10 @@ Para Imprimir un recibo:
 
 	- Realice la búsqueda correspondiente usando los filtros necesarios	
 	- Haga click en |export1.gif| al final de la fila del reporte y luego haga click en "Imprimir recibo #######"
+
+		 	.. figure:: images/consultarecibos/2.png
+ 				    :align: center
+
 
 .. |export1.gif| image:: /_images/generales/export1.gif
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif

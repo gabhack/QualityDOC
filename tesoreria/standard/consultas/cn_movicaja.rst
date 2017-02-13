@@ -19,6 +19,9 @@ Introducción
  	
  	En la consulta *Movimiento detallado por cajas* obtenga información acerca de todos los ingresos y los egresos de la caja, caja menor o de sus cuentas bancarías por diferentes conceptos
 
+ 	 			.. figure:: images/movimientocajasbancos.png
+ 				 :align: center
+
 Casos de uso
 ------------
 Ud podrá remitirse a este informe para conocer:

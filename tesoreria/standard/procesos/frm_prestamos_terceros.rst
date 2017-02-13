@@ -29,6 +29,9 @@ Pre-requisitos
 		- `Haber hecho un egreso usando el concepto predefinido "prestamo a terceros" <../procesos/frm_egresos.html#pagos-por-conceptos-predefinidos>`_
 
 
+			.. figure:: images/prestamosterceros/a.png
+ 				 :align: center
+
 
 Definir pautas de un Prestamo a terceros
 =========================================
@@ -38,14 +41,25 @@ Para organizar un *Prestamo a terceros*, realice los siguientes pasos:
 	- Ejecute la opción "Prestamos a terceros"
 	- Seleccione el centro de costo donde se hizo el egreso
 	- Haga click en |wznew.bmp| 'Nuevo' 
+
+			.. figure:: images/prestamosterceros/1.png
+ 				 :align: center 
+
 	- Verá una ventana nueva para la modificación de las pautas del prestamo
 	- En el campo de texto 'Cédula o NIT' presione Enter para ver el listado del Terceros cuyo prestamo aún no tiene pautas establecidas
+
+			.. figure:: images/prestamosterceros/2.png
+ 				 :align: center
+
 	- El campo 'Observación' y la cuenta contable, son de solo lectura
 	- Una vez elegido podrá entonces proceder a rellenar los campos:
 		- Iniciar recuado en esta fecha: es la primera fecha en que el cliente deberá pagar una cuota
 		- Intervalo de días: Cuantos días a partir de la fecha inicial se sumarán para la próxima fecha de corte
 		- Número de cuotas: Elija en cuantas partes se realizará el cobro de este prestamo
 	-  Haga click en |save.bmp| 'Guardar prestamo'
+
+				.. figure:: images/prestamosterceros/4.png
+ 				 :align: center
 
 Abonar a un Prestamo
 --------------------
@@ -58,14 +72,18 @@ Abonar a un Prestamo
 	- Seleccione el centro de costo donde se hizo el egreso
 	- En la grilla haga click sobre el prestamo al que desea abonar
 	- Pulse el botón 'Mostrar detalles del prestamo N #####'
+
+
+
+			.. figure:: images/prestamosterceros/5.png
+ 				 :align: center
+
 	- Verá una pantalla similar a la de creación del prestamo
 	- Seleccione la caja o la cuenta, a donde irá el abono
 	- Sobre la grilla de las cuotas, escriba el monto del abono en el campo 'Monto total del recaudo'
 	- Presione Enter, verá como el monto ahora aparece sumado en la fila de la cuota en la grilla
 	- Haga click en 'Guardar recaudo'
 	- En la ventana emergente, elija el tipo de pago y presione F2
-
-
 
 
 

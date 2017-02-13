@@ -51,6 +51,10 @@ Siga estos pasos antes de especificar de que tipo de recaudo se trata:
 Crear un recibo de caja por Recaudos de Cartera (Pago de venta a crédito)
 =========================================================================
 
+			.. figure:: images/recibos/1.png
+ 				 :align: center 
+
+
 	- Seleccione la pestaña "Recaudos de Cartera"
 	- En el cuadro de texto "Cédula" Digite la cédula o presione Enter para buscarlo. Solo podrá visualizar clientes que hayan hecho una compra a crédito. Elija el cliente que realiza el abono.
 	- Al reyenar el cuadro de texto "Abono" entonces se irá agregando esa cantidad a las facturas en el orden en el que aparecen en la grilla. Si seleccione las facturas en la grilla, el cuadro de abono se rellena automáticamente con el total del monto. **El campo Vr. Recibo es editable, aquí puede especificar manualmente el monto que va a ser pagado de cada factura**
@@ -60,7 +64,11 @@ Crear un recibo de caja por Recaudos de Cartera (Pago de venta a crédito)
 	- Presione F2 para procesar la transacción.
 
 Crear un recibo de caja por Recaudos por conceptos (Anticipos de clientes, etc)
-=========================================================================
+===============================================================================
+
+			.. figure:: images/recibos/2.png
+ 				 :align: center 
+
 
 	- Seleccione la pestaña "Recaudos por conceptos"
 	- En el cuadro de texto "C.C. o NIT" Digite el NIT o presione Enter para buscarlo. Elija el cliente que realiza el abono.

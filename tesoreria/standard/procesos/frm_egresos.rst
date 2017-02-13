@@ -41,6 +41,10 @@ Para realizar un pago a un proveedor por una compra ya radicada, realice los sig
 	- En la lista "Almacén" seleccione el centro de costo correspondiente.
 	- En "Caja\Bco" elija la fuente del dinero.
 	- Si elige una cuenta bancaria como fuente, verá aparecer la lista:"Modo", elija allí la manera como el dinero saldrá del banco.
+
+			.. figure:: images/egresos/1.png
+ 				 :align: center 
+
 	- En C.C\Nit presione Enter para elegir el proveedor. Es importante que recuerde que las compras al proveedor solo podrán ser pagadas una vez se haga el proceso de radicación en el módulo "Proveedores".
 	- Una vez seleccione el proveedor podrá ver las facturas en la grilla. Al final de cada fila podrá chequear cuales facturas desea pagar.
 	- Si es necesario, puede agregar otros conceptos al egreso (comisiones, intereses, etc)
@@ -56,6 +60,10 @@ Use este formulario para dar salida a dinero por razones comunes. No se necesita
 	- En la lista "Almacén" seleccione el centro de costo correspondiente.
 	- En "Caja\Bco" elija la fuente del dinero.
 	- Si elige una cuenta bancaria como fuente, verá aparecer la lista: "Modo", elija allí la manera como el dinero saldrá del banco.
+
+			.. figure:: images/egresos/2.png
+ 				 :align: center 
+
 	- En C.C\Nit presione Enter para elegir el tercero al que realizará el abono.
 	- Puede escribir una observación opcionalmente
 	- Haga click en la primera casilla de la columna "Cód" en la grilla y luego presione Enter. Podrá ver un listado de los posibles conceptos. Puede agregar más de uno.
@@ -72,6 +80,10 @@ Egresos a Terceros
 	- En la lista "Almacén" seleccione el centro de costo correspondiente.
 	- En "Caja\Bco" elija la fuente del dinero.
 	- Si elige una cuenta bancaria como fuente, verá aparecer la lista: "Modo", elija allí la manera como el dinero saldrá del banco.
+
+			.. figure:: images/egresos/3.png
+ 				 :align: center 
+
 	- En C.C\Nit presione Enter para elegir el tercero al que realizará el abono.
 	- Puede escribir una observación opcionalmente
 	- Haga click en la primera casilla de la columna "Cuenta" en la grilla y luego presione Enter. Podrá ver un listado de las posibles cuentas. Puede agregar más de un movimiento contable.

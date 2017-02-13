@@ -22,6 +22,8 @@ Introducción
 
 	Es necesario que haya creado los conceptos necesarios en `conceptos de notas a clientes`_ para poder crear una nota a un cliente. 
 
+		.. figure:: images/notas.png
+ 			:align: center
 
 Pre-requisitos
 ==============
