@@ -163,7 +163,8 @@ Eliminar una Lista de precios
 =============================
 
 	- Ejecute la opción *Administración de Lista de precios*
-	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios*
+	- En la cabecera elija el centro de costos al que está relacionada la *Lista de Precios*
+	- Elija la *Lista de Precios*
 	- Haga click en el botón  |delete.bmp| *Eliminar lista de precios seleccionada*
 	- Haga click en 'Sí' para confirmar la eliminación
 
@@ -175,7 +176,8 @@ Exportar información de una Lista de precios
 ============================================
 
 	- Ejecute la opción *Administración de Lista de precios*
-	- En la cabecera elija el centro de costos al que irá relacionada la *Lista de Precios*
+	- En la cabecera elija el centro de costos al que está relacionada la *Lista de Precios*
+	- Elija la *Lista de Precios*
 	- Haga click en el botón  |export1.gif| *Eliminar lista de precios seleccionada*
 
 Usted podrá dar salida a la *Lista de Precios* en dos formas:

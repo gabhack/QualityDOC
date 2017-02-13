@@ -58,13 +58,13 @@ Para crear una Caja General realice los siguientes pasos:
 
 	- Ejecute la opción *Administración de Cajas, Bancos y Franquicias* 
 
-		 .. figure:: images\cajasybancos\0.png
+		 .. figure:: images/cajasybancos/0.png
  			:align: center
 
 	- En el árbol verá la opción 'Caja General', haga click en el signo '+' del lado izquierdo.
 
 
-		 .. figure:: images\cajasybancos\cajageneral\2.png
+		 .. figure:: images/cajasybancos/cajageneral/2.png
  			:align: center
 
 	- En los Centros desplegados, elija aquel donde desea crear la *Caja general*. Haga click a la izquierda del centro en el símbolo '+'.
