@@ -75,9 +75,9 @@ Consultar un cuadre de caja
 Revertir un cuadre de caja
 ==========================
 
-	..Note:
+.. NOTE::
 
-		Debe tener los permisos necesarios para realizar esta acción. Solo puede revertir el último cuadre de caja.
+Debe tener los permisos necesarios para realizar esta acción. Solo puede revertir el último cuadre de caja.
 	
 	- Siga los pasos para `Consultar un cuadre de caja`_ 
 	- Haga click en el botón |descartar.bmp| *Deshacer*
