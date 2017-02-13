@@ -25,7 +25,7 @@ Las transacciones realizadas antes del cambio de costo, no se verán afectadas p
 El cambio de costo efectúa una transacción interna de salida (Salida por ajuste crédito) y una de entrada (Entrada por ajuste débito) que afecta a todos las unidades del producto en existencia.
 
 		  .. figure:: images/56.png
-      		:align: center
+
 
 
   Así se ve la pantalla de Corrección de costos
@@ -52,7 +52,7 @@ Para cambiar el costo de uno o varios productos, proceda con los siguientes paso
    +------+------+-----------+----------+------------+---------------+----------+
 
 		  .. figure:: images/57.png
-      		:align: center
+
 
 
 - Puede modificar la columna ‘Nuevo Costo’ siempre que quiera. También. puede quitar productos de la grilla, situándose en la casilla del código con un click y presionando la tecla Supr. 
@@ -61,7 +61,7 @@ Para cambiar el costo de uno o varios productos, proceda con los siguientes paso
 	- **Corregir únicamente en el centro de costo seleccionado:** Haga click aquí para corregir el costo solo en el centro seleccionado en la cabecera. 
 
 		  .. figure:: images/58.png
-      		:align: center
+
 
 - Se mostrará una ventana donde deberá colocar una observación o motivo del cambio. Servirá como referencia para un futuro. Presione F2 o haga click en  |btn_ok.bmp| *Aceptar*
 

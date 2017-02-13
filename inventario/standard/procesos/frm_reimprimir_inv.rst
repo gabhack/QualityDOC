@@ -27,7 +27,7 @@ Seleccionar una Transacción
 	- En el campo 'No Transacción' presione Enter y busque en la lista la transacción que desea reimprimir. Al encontrarla, seleccionela y presione Enter.
 
 	 .. figure:: images/15.png
-       :align: center
+
 
 Reimprimir una transacción de inventario
 ========================================
@@ -36,7 +36,7 @@ Reimprimir una transacción de inventario
 	- Una vez seleccionada la transacción (`Seleccionar una Transacción`_) , verá los productos incluídos en ella en la grilla principal donde podrá verificar si es el documento que desea reimprimir. Presione F2 o haga click en el ícono |printer_q.bmp|
 
 	 .. figure:: images/16.png
-       :align: center
+
 
 
 Anular una transacción de Inventario
@@ -48,7 +48,7 @@ Anular una transacción de Inventario
 	- Cuando haya escrito el motivo y esté seguro de revertir esta transacción, presione F2 o haga click en el ícono |btn_ok.bmp|
 
  		.. figure:: images/17.png
-      	 :align: center
+
 
 Cambiar fecha a una transacción
 ===============================
@@ -58,7 +58,7 @@ Cambiar fecha a una transacción
 	- Se desplegará una ventana donde deberá introducir la nueva fecha y luego hacer click en el ícono |btn_ok.bmp|
 
  		.. figure:: images/18.png
-     	  :align: center
+
 
 Impresión de etiquetas de códigos de barras por transaccion
 ===========================================================
@@ -69,8 +69,8 @@ Impresión de etiquetas de códigos de barras por transaccion
 		- Si desea cambiar la cantidad de etiquetas a imprimir, podrá hacerlo directamente sobre la grilla en la fila del producto, en la columna 'imprimir'.
 		- Si desea dejar un producto por fuera de la lista de impresión, desmárquelo al final de la fila de la grilla. Si desea marcarlos todos, haga clicl en la cabecera gris de la columna.
 
- .. figure:: images/19.png
-     :align: center
+   .. figure:: images/19.png
+
 
   		Haga click para seleccionar todas las filas.
 
@@ -78,7 +78,7 @@ Impresión de etiquetas de códigos de barras por transaccion
 		- En la lista 'Formato de impresión' seleccione el formato de su preferencia.
 		- Presione F2 o haga click en el ícono |printer_q.bmp| para imprimir los códigos de barras.
 
-		**Usted podrá obtener una vista previa de la impresión si hace click en el ícono de la izquierda |printer_q.bmp|, bajo la lista de formatos**
+		**Usted podrá obtener una vista previa de la impresión si hace click en el ícono de la izquierda** |printer_q.bmp|, **bajo la lista de formatos**
 
 
 .. |printer_q.bmp| image:: /_images/generales/printer_q.bmp

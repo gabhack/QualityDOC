@@ -64,13 +64,14 @@ Para Anular un egreso:
 	- Realice la búsqueda correspondiente usando los filtros necesarios	
 	- Haga click en |export1.gif| al final de la fila del reporte y luego haga click en "Anular egreso #######"
 
-	..Note:
 
-		Anular un egreso, aunque regresa el dinero a la caja, no elimina los registros de la operación.
+.. NOTE::
+
+Anular un egreso, aunque regresa el dinero a la caja, no elimina los registros de la operación.
 
 
-		.. figure:: images/consultaegresos/2.png
- 			:align: center
+ .. figure:: images/consultaegresos/2.png
+ 		:align: center
 
 Eliminar un egreso
 ------------------
@@ -80,12 +81,10 @@ Para Eliminar un egreso:
 	- Realice la búsqueda correspondiente usando los filtros necesarios	
 	- Haga click en |export1.gif| al final de la fila del reporte y luego haga click en "Eliminar egreso #######"
 
-	..Note:
+**Eliminar un egreso revierte todo el proceso y no deja rastro de la operación.**
 
-		Eliminar un egreso revierte todo el proceso y no deja rastro de la operación.
-
-		.. figure:: images/consultaegresos/2.png
- 			:align: center
+ .. figure:: images/consultaegresos/2.png
+ 	:align: center
 
 Modificar un egreso
 -------------------

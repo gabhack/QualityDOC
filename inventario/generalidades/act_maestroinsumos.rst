@@ -391,7 +391,7 @@ Los *Servicios* forman parte del producto no tangible de su empresa: asesorías,
 
       En este campo puede introducir una descripción detallada del servicio que prestó.
 
-  .. Note:
+  .. NOTE::
   **Ejemplo:** Incluya el servicio 'Reparación Impresoras' y en información detallada puede colocar 'HP 2200'
 
 
@@ -633,7 +633,7 @@ Para agregar productos a la presentación
 
 - Inserte la cantidad del producto seleccionado que irá en la presentación. 
 
-  -- Note:
+ .. NOTE::
   **Ejemplo 2.2**
   En la creación de la *Presentación* 'cable Ethernet 50m', seleccione el producto 'cable Ethernet' y en el campo cantidad digite '50'.
 
