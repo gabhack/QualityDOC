@@ -17,6 +17,7 @@ Módulos Administrativos
   /ventas/ventas
   /tesoreria/tesoreria
   /cartera/cartera
+  /config/config
 
 
 
