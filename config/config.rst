@@ -12,7 +12,7 @@ Este módulo también es útil para crear/modificar/eliminar los Centros de Cost
 
 ---------------------------------
 
-En el apartado de Generalidades puede administrar los Centros de costo de su organización. Además puede establecer las autorizaciones por defecto para nuevos usuarios, y otrogar permisos especiales a usuarios sobre ciertos procesos más específicos.
+En el apartado de Generalidades puede administrar los Centros de costo de su organización. Además puede establecer las autorizaciones por defecto para nuevos usuarios, y otorgar permisos especiales a usuarios sobre ciertos procesos más específicos.
 
   `Generalidades <../config/generalidades/generalidades.html>`_ 
 
