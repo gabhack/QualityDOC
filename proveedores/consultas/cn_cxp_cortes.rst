@@ -1,54 +1,48 @@
-=============================
-Estado de cuenta de clientes
-=============================
+===================================
+Cuentas por pagar a fecha de corte
+====================================
 
 Ubicación
 ---------
 
 :Módulo:
- Cartera
+  Proveedores
 
 :Grupo:
  Consultas
 
 :Descripción:
-  Estado de cuenta de clientes
+  Cuentas por pagar a fecha de corte
 
 Introducción
 ------------
 
-En *Estado de cuentas de clientes* podrá consultar en cada centro de costo el saldo en cartera de cada uno de sus clientes de manera cronológica en un periodo de tiempo determinado. Reciba información detallada de los movimientos que realiza el cliente para adquirir o abonar deudas.
+En *Cuentas por pagar a fecha de corte* podrá consultar todas las cuentas por pagar a sus proveedores hasta una fecha indicada. Las cuentas se muestran totalizadas hasta la fecha. Use este informe para evaluar las deudas a sus proveedores por etapas.
 
-		.. figure:: images/cuentaclientes.png
- 			:align: center
 
 Casos de uso
 ------------
 
 Ud podrá remitirse a este informe para conocer :
 
-	- El saldo acumulado en cartera de cada cliente en cada movimiento
-	- Información sobre las transacciones: día, hora, documento, saldos a débito, saldos a crédito.
+	- Cuentas por pagar a proveedores hasta una fecha indicada
 	
-
-
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Cliente
-	- Rango de fechas
+	- Fecha tope
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Estado de cuenta de clientes* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Cuentas por pagar a fecha de corte* en los siguientes formatos:
 
 	- |printer_q.bmp| Impresión
 	- |pdf_logo.gif| PDF
-
+	- |excel.bmp| Excel
 
 
 

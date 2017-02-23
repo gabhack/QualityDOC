@@ -36,9 +36,9 @@ Para crear un cliente realice los siguientes pasos:
  			- Común
  			- Gran contribuyente
  		- **Documento de identificación**: Si este número de identificación ha sido usado en algún otro apartado (vendedores, proveedores, etc) entonces el sistema desplegará la información registrada de esta persona.
- 		- **Datos básicos**: Nombres, telefonos, dirección
+ 		- **Datos básicos**: Nombres (si es Régimen Común) o Razón social, teléfonos, dirección
 
- 			.. Note:
+ 		.. NOTE::
 
  			Datos obligatorios: Primer nombre, primer apellido, departamento, municipio y número de documento.
 

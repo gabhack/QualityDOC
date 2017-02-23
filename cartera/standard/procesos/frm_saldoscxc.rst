@@ -48,6 +48,7 @@ Ingresar un saldo inicial por cobrar a cliente
 Realice los siguientes pasos:
 
 	- Ejecute la opción "Saldos iniciales de cuentas por cobrar"
+	- Elija el Centro de costo
 	- Elija la cuenta de cartera que se verá afectada en la lista 'cta cartera'
 	- Seleccione la cuenta de contrapartida por defecto, para todos los movimientos ingresados, en la lista 'contrapartida'
 	- Ahora podrá iniciar la inserción de saldos a la grilla
@@ -55,7 +56,7 @@ Realice los siguientes pasos:
 		- El siguiente campo {_FC, _ND} indica el tipo de cuenta por cobrar, si se refiere a una factura a crédito o a una nota débito.
 		- Introduzca ahora el número o la referencia del documento que respalda la deuda del cliente
 		- Introduzca la fecha en que fue adquirida la deuda (se generó la factura o la nota) y luego la feha de corte para pagarla.
-		- Elija una cuenta contable específica a afectar como contrapartida. Si no lo hace, tomará la elegida en el paso 3.
+		- Elija una cuenta contable específica a afectar como contrapartida. Si no lo hace, tomará la elegida en el paso 4.
 		- Elija al vendedor que realizo la factura, si lo desea
 		- Ingrese el monto de la cuenta por cobrar
 		- Presione Enter. Ahora puede elegir introducir otra cuenta por cobrar de otro cliente o de este mismo. Si no tiene más cuentas por cobrar entonces pulse el botón |save.bmp| 'Guardar Facturas'

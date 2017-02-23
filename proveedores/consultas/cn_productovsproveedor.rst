@@ -1,35 +1,31 @@
-=============================
-Estado de cuenta de clientes
-=============================
+=====================
+Producto vs Proveedor
+=====================
 
 Ubicación
 ---------
 
 :Módulo:
- Cartera
+ Proveedores
 
 :Grupo:
  Consultas
 
 :Descripción:
-  Estado de cuenta de clientes
+ Producto vs Proveedor
 
 Introducción
 ------------
 
-En *Estado de cuentas de clientes* podrá consultar en cada centro de costo el saldo en cartera de cada uno de sus clientes de manera cronológica en un periodo de tiempo determinado. Reciba información detallada de los movimientos que realiza el cliente para adquirir o abonar deudas.
-
-		.. figure:: images/cuentaclientes.png
- 			:align: center
+En *Producto vs Proveedores* podrá consultar en cada centro de costo el listado de entradas de un producto específico. Vea en detalle el proveedor, la cantidad y el monto acumulado por concepto de compras de este artículo.
 
 Casos de uso
 ------------
 
 Ud podrá remitirse a este informe para conocer :
 
-	- El saldo acumulado en cartera de cada cliente en cada movimiento
-	- Información sobre las transacciones: día, hora, documento, saldos a débito, saldos a crédito.
-	
+	- Un listado de las entradas un producto en específico separados por proveedor.
+	- El monto de la suma de todas las compras de este producto.
 
 
 Filtros aplicables
@@ -37,18 +33,18 @@ Filtros aplicables
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Cliente
+	- Producto
 	- Rango de fechas
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Estado de cuenta de clientes* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Producto vs Proveedor* en los siguientes formatos:
 
 	- |printer_q.bmp| Impresión
 	- |pdf_logo.gif| PDF
-
+	- |excel.bmp| Excel
 
 
 

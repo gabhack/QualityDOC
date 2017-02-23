@@ -29,8 +29,10 @@ Para asignar una contraseña al proceso al cual fue autorizado, realice los sigu
 	- Presione |btn_ok.bmp| 'Login'
 	- En una lista verá los nombres de los procesos a los cuales ha sido autorizado. Haga click en el botón a la derecha del proceso al cual desea asignar contraseña.
 	- Verá una ventana emergente en la cual podrá elegir dos tipos de contraseña:
-		-**Temporal:** Esta contraseña es asignada a un usuario en específico y tiene un lapso de duración que usted elige colocando la fecha de inicio y la de caducación. Puede usarla para delegar este proceso a otro usuario. En esta misma interfaz puede eliminar y cambiar la contraseña.
-		-**Permanente:** Esta contraseña no es temporal y no necesita la asignación de un usuario. 
+		
+		- **Temporal:** Esta contraseña es asignada a un usuario en específico y tiene un lapso de duración que usted elige colocando la fecha de inicio y la de caducación. Puede usarla para delegar este proceso a otro usuario. En esta misma interfaz puede eliminar y cambiar la contraseña.
+
+		- **Permanente:** Esta contraseña no es temporal y no necesita la asignación de un usuario. 
 
 Quitar acceso a un Usuario
 ==========================

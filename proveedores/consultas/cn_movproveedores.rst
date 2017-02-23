@@ -1,33 +1,30 @@
-=============================
-Estado de cuenta de clientes
-=============================
+===============================
+Estado de cuenta de Proveedores
+===============================
 
 Ubicación
 ---------
 
 :Módulo:
- Cartera
+ Proveedores
 
 :Grupo:
  Consultas
 
 :Descripción:
-  Estado de cuenta de clientes
+  Estado de cuenta de proveedores
 
 Introducción
 ------------
 
-En *Estado de cuentas de clientes* podrá consultar en cada centro de costo el saldo en cartera de cada uno de sus clientes de manera cronológica en un periodo de tiempo determinado. Reciba información detallada de los movimientos que realiza el cliente para adquirir o abonar deudas.
-
-		.. figure:: images/cuentaclientes.png
- 			:align: center
+En *Estado de cuentas de proveedores* podrá consultar en cada centro de costo el saldo con cada uno de los proveedores de manera cronológica en un periodo de tiempo determinado. Reciba información detallada de los movimientos realizados para abonar y adquirir deudas a proveedores.
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer :
+Ud podrá remitirse a este informe para conocer:
 
-	- El saldo acumulado en cartera de cada cliente en cada movimiento
+	- El saldo acumulado con cada proveedor después de cada movimiento
 	- Información sobre las transacciones: día, hora, documento, saldos a débito, saldos a crédito.
 	
 
@@ -37,14 +34,14 @@ Filtros aplicables
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Cliente
+	- Proveedor
 	- Rango de fechas
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Estado de cuenta de clientes* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Estado de cuenta de proveedores* en los siguientes formatos:
 
 	- |printer_q.bmp| Impresión
 	- |pdf_logo.gif| PDF

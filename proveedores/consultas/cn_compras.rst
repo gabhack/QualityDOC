@@ -1,6 +1,6 @@
-=============================
-Estado de cuenta de clientes
-=============================
+================================
+Administrador general de compras
+================================
 
 Ubicación
 ---------
@@ -12,23 +12,21 @@ Ubicación
  Consultas
 
 :Descripción:
-  Estado de cuenta de clientes
+  Administrador general de compras
 
 Introducción
 ------------
 
-En *Estado de cuentas de clientes* podrá consultar en cada centro de costo el saldo en cartera de cada uno de sus clientes de manera cronológica en un periodo de tiempo determinado. Reciba información detallada de los movimientos que realiza el cliente para adquirir o abonar deudas.
-
-		.. figure:: images/cuentaclientes.png
- 			:align: center
+En *Administrador general de compras* podrá consultar todas las compras hechas a uno o a todos los proveedores. Utilice los filtros para encontrar una compra que le interese al momento. Puede reimprimir y cambiar la fecha a una compra cualquiera.
 
 Casos de uso
 ------------
 
-Ud podrá remitirse a este informe para conocer :
+Ud podrá remitirse a este informe para:
 
-	- El saldo acumulado en cartera de cada cliente en cada movimiento
-	- Información sobre las transacciones: día, hora, documento, saldos a débito, saldos a crédito.
+	- Buscar todas las compras realizadas a un proveedor específico en un lapso de tiempo definido.
+	- Hacer una búsqueda de compras que contengan un artículo determinado.
+	- Reimprimir o cambiar la fecha a un informe.
 	
 
 
@@ -37,21 +35,31 @@ Filtros aplicables
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Cliente
+	- Proveedor (o todos)
 	- Rango de fechas
+	- Un artículo específico *-Introduzca la primera palabra del nombre del producto*
+
+Reimprimir/cambiar fecha a una compra
+---------------------------------------
+
+	- Encuentre la compra usando los filtros de búsqueda disponibles
+	- Cuando encuentre la compra que buscaba, en la grilla, haga click en |export.gif| al final de la fila de la compra
+	- Elija la opción de su conveniencia
+
+
+
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Estado de cuenta de clientes* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Estado de cuenta de proveedores* en los siguientes formatos:
 
-	- |printer_q.bmp| Impresión
-	- |pdf_logo.gif| PDF
-
+	- |Excel.bmp| excel
 
 
 
+.. |export1.gif| image:: /_images/generales/export1.gif
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |codbar.png| image:: /_images/generales/codbar.png
