@@ -1,30 +1,30 @@
-=============================
-Conceptos de notas a clientes
-=============================
+================================
+Conceptos de notas a Proveedores
+================================
 
 Ubicación
 =========
 
 :Módulo:
- Cartera
+ Proveedores
 
 :Grupo:
  Parámetros
 
 :Descripción:
-  Conceptos de notas a clientes
+  Conceptos de notas a proveedores
 
 Introducción
 ============
 
-	A través de la interfaz *Conceptos de notas a clientes* usted puede crear los conceptos necesarios para la realización de notas débito o crédito. Además, establezca las cuentas contables que serán afectadas tras usar este concepto en una nota.
+	A través de la interfaz *Conceptos de notas a proveedores* usted puede crear los conceptos necesarios para la realización de notas débito o crédito. Además, establezca las cuentas contables que serán afectadas tras usar este concepto en una nota.
 
 Crear Concepto
-==================
+==============
 
-Para crear un *concepto de notas a clientes* realice los siguientes pasos:
+Para crear un *concepto de notas a proveedores* realice los siguientes pasos:
 
-	- Ejecute la opción *Conceptos de notas a clientes* 
+	- Ejecute la opción *Conceptos de notas a proveedores* 
 	- En el pie de la ventana, elija la opción |wznew.bmp| 'Nuevo'
 	- Se abrirá una ventana nueva, donde podrá seleccionar si desea que el concepto apliqué para 'débito', 'crédito' o 'todos'
 	- En el cuadro de texto 'Nombre del concepto de la nota' indique el nombre con el que identificará más adelante el concepto.
@@ -33,30 +33,17 @@ Para crear un *concepto de notas a clientes* realice los siguientes pasos:
 	- Haga click en |save.bmp| 'Guardar'
 
 
-			.. figure:: images/conceptos/1.png
- 			   :align: center
-
 Eliminar/Modificar concepto
 ===========================
 
-Para modificar/eliminar un concepto de notas a clientes realice los siguientes pasos:
+Para modificar/eliminar un concepto de notas a proveedores realice los siguientes pasos:
 
-	- Ejecute la opción *Conceptos de notas a clientes* 
+	- Ejecute la opción *Conceptos de notas a proveedores* 
 	- Seleccione el concepto en la lista haciendo click en él
 	- En el pie de la ventana, elija la opción |wzedit.bmp| 'Modificar' o |delete.bmp| 'Eliminar'
 	- Si elige 'modificar', se abrirá una ventana nueva, donde podrá cambiar todos los campos del concepto, luego haga click en |save.bmp| 'Guardar'. Si elige 'eliminar' entonces pulse 'sí' para confirmar la eliminación.
 
 
-
-			.. figure:: images/conceptos/2.png
- 			  :align: center
-
-
- 			  --------------------------------
-
-
-			.. figure:: images/conceptos/3.png
- 			   :align: center
 
 --------------------------------------------
 

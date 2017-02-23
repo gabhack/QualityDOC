@@ -17,7 +17,7 @@ Ubicación
 Introducción
 ============
 
-	Use esta interfaz para asignar autorizaciones por defecto a nuevos usuarios. Estas autorizaciones son específicas y envuelven cada proceso dentro del sistema. Para Modificar luego de que un usuario está creado, entonces debe ir a `<>`_
+	Use esta interfaz para asignar autorizaciones por defecto a nuevos usuarios. Estas autorizaciones son específicas y envuelven cada proceso dentro del sistema. Para Modificar luego de que un usuario está creado, entonces debe ir a `Acceso a procesos específicos <../../config/acceso/act_perfil.html#permisos-especificos-sobre-un-proceso-amplio>`_
 
 Asignar autorizaciones por defecto a nuevos usuarios
 ====================================================

@@ -59,10 +59,10 @@ Eliminar un centro de costo
 
 	  No podrá eliminar un centro de costo sobre el cual se haya hecho alguna operación
 
-	- Ejecute la opción *Estructura de almacenes de la empresa*
-	- Haga click en la Región donde está el *Centro de costo* 
-	- Elija el *centro de costo* a eliminar en la rama principal del árbol. Haga click derecho sobre él. Escoja la opción |delete.bmp| 'Eliminar Centro de costo'
-	- Oprima 'Sí' en el mensaje de confirmación
+- Ejecute la opción *Estructura de almacenes de la empresa*
+- Haga click en la Región donde está el *Centro de costo* 
+- Elija el *centro de costo* a eliminar en la rama principal del árbol. Haga click derecho sobre él. Escoja la opción |delete.bmp| 'Eliminar Centro de costo'
+- Oprima 'Sí' en el mensaje de confirmación
 
 Cambiar Nombre a un Centro de costo
 ===================================
@@ -104,7 +104,6 @@ Datos Básicos
 
 **Observación:** Información fija a la hora de facturar
 
-**Posición de cursor:**
 
 Control de fechas para las transacciones 
 ****************************************

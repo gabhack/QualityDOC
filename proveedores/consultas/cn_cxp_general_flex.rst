@@ -1,53 +1,61 @@
-=============================
-Estado de cuenta de clientes
-=============================
+=====================================================
+Consulta general de cuentas por pagar (con Anulación)
+=====================================================
 
 Ubicación
 ---------
 
 :Módulo:
- Cartera
+ Proveedores
 
 :Grupo:
  Consultas
 
 :Descripción:
-  Estado de cuenta de clientes
+  Consulta general de cuentas por pagar (con Anulación)
 
 Introducción
 ------------
 
-En *Estado de cuentas de clientes* podrá consultar en cada centro de costo el saldo en cartera de cada uno de sus clientes de manera cronológica en un periodo de tiempo determinado. Reciba información detallada de los movimientos que realiza el cliente para adquirir o abonar deudas.
-
-		.. figure:: images/cuentaclientes.png
- 			:align: center
+En *Consulta general de cuentas por pagar (con anulación)* podrá consultar en un centro de costo las cuentas por pagar a uno o varios proveedores, y verlas de manera detallada y separada. Las cuentas por pagar incluyen facturas radicadas o gastos causados. Podrá anular, cambiar fecha, cambiar fecha de vencimiento o asignar otro proveedor - a la factura.
 
 Casos de uso
 ------------
 
 Ud podrá remitirse a este informe para conocer :
 
-	- El saldo acumulado en cartera de cada cliente en cada movimiento
-	- Información sobre las transacciones: día, hora, documento, saldos a débito, saldos a crédito.
+	- El monto a pagar a sus proveedores 
+	- Realizar cambios sobre una factura radicada o causación 
+		- Cambiar fecha / cambiar fecha de vencimiento
+		- Asignarla a otro proveedor
+		- Anular
 	
-
+	
 
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Cliente
-	- Rango de fechas
+	- Proveedor
+	- moneda
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
+Reimprimir/modificar/anular una factura/causación
+-------------------------------------------------
+
+	- Encuentre la compra usando los filtros de búsqueda disponibles
+	- Cuando encuentre la compra que buscaba, en la grilla, haga click en |export.gif| al final de la fila de la compra
+	- Elija la opción de su conveniencia
+
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Estado de cuenta de clientes* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Consulta general de cuentas por pagar* en los siguientes formatos:
 
 	- |printer_q.bmp| Impresión
 	- |pdf_logo.gif| PDF
+	- |excel.bmp| Excel
 
 
 

@@ -18,6 +18,6 @@ Módulos Administrativos
   /tesoreria/tesoreria
   /cartera/cartera
   /config/config
-
+  /proveedores/proveedores
 
 
