@@ -30,12 +30,20 @@ Para crear un cliente realice los siguientes pasos:
    			:align: center
 
  	- En el pie de la ventana pulse sobre el botón |wznew.bmp| *nuevo*
+
+
  	- Se desplegará una ventana emergente donde podrá dar cavida a los datos del cliente:
  		- Régimen (tributario): 
  			- Simplificado
  			- Común
  			- Gran contribuyente
  		- **Documento de identificación**: Si este número de identificación ha sido usado en algún otro apartado (vendedores, proveedores, etc) entonces el sistema desplegará la información registrada de esta persona.
+
+ 	 		..NOTE::
+
+ 	 			En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)
+
+
  		- **Datos básicos**: Nombres (si es Régimen Común) o Razón social, teléfonos, dirección
 
  		.. NOTE::
@@ -61,7 +69,7 @@ Para crear un cliente realice los siguientes pasos:
 
  			
 
- 		- **Sucursales**: Un cliente puede tener en cuanto a su negocio, varias sucursales. En esta pestaña se pueden crear sucursales para saber a cual se atiende en el momento de la venta. 
+ 		- **Sucursales**: Un cliente puede tener en cuanto a su negocio, varias sucursales. En esta pestaña se pueden crear sucursales para saber a cual se atiende en el momento de la venta. Para crear una nueva sucursal, haga click en la pestaña 'Sucursales' y luego en el botón 'Crear sucursales'. La referencia de la sucursal se refiere a cualquier nombre que la pueda identificar.
 
 
  			 .. figure:: images/3b.png
@@ -76,7 +84,7 @@ Para crear un cliente realice los siguientes pasos:
 
  		- Información de Cartera: Se trata de un texto para el usuario que gestiona cartera (información de cobros, contacto, etc). Esta información aparece en la sección de **Cartera** para facilitar la gestión.
 
- 	En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)
+
 
 
 

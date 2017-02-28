@@ -178,7 +178,7 @@ Exportar información de una Lista de precios
 	- Ejecute la opción *Administración de Lista de precios*
 	- En la cabecera elija el centro de costos al que está relacionada la *Lista de Precios*
 	- Elija la *Lista de Precios*
-	- Haga click en el botón  |export1.gif| *Eliminar lista de precios seleccionada*
+	- Haga click en el botón  |export1.gif| *Exportar lista de precios seleccionada*
 
 Usted podrá dar salida a la *Lista de Precios* en dos formas:
 
@@ -193,6 +193,19 @@ en los siguientes formatos:
 
  .. figure:: images/15.png
    :align: center
+
+ Copiar una lista de precios 
+ ===========================
+
+ Si necesita una lista de precios igual a una creada en otro centro de costos, puede copiarla siguiendo estos pasos:
+
+ 	- Ejecute la opción *Administración de Lista de precios*
+	- En la cabecera elija el centro de costos al que está relacionada la *Lista de Precios* que desea copiar
+	- Haga click en el botón || 'copiar lista de precios'
+	- En la ventana emergente, seleccione el Centro de costo donde irá la nueva lista.
+	- Escoja una *Lista de precios* en la lista
+	- Digite un nombre para la nueva lista y haga click en || "Copiar Lista" 
+
 
 Log de cambios en precios de venta
 ==================================
@@ -221,11 +234,13 @@ Puede remarcar productos con algún color de su preferencia si es necesario. Pue
 Para etiquetar/desetiquetar un producto:
 
 	- Elija el producto en la grilla marcandolo en la casilla de la última columna (puede elegir varios)
-	- Presione el botón  || *Etiquetar productos*
+	- Presione el botón  |singleminus.gif| *Etiquetar productos*
 	- Elija la etiqueta de que desea, o elija 'Remover TAG de los productos seleccionados' para desetiquetar.
 
  .. figure:: images/18.png
    :align: center
+
+
 
 
 --------------------------------------------
