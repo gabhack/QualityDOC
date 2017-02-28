@@ -1,6 +1,6 @@
-=====================================================
-Consulta general de cuentas por pagar (con Anulación)
-=====================================================
+=====================================
+Facturas a proveedores por periodos
+=====================================
 
 Ubicación
 ---------
@@ -12,25 +12,21 @@ Ubicación
  Consultas
 
 :Descripción:
-  Consulta general de cuentas por pagar (con Anulación)
+  Facturas a proveedores por periodos
 
 Introducción
 ------------
 
-En *Consulta general de cuentas por pagar (con anulación)* podrá consultar en un centro de costo las cuentas por pagar a uno o varios proveedores, y verlas de manera detallada y separada. Las cuentas por pagar incluyen facturas radicadas o gastos causados. Podrá anular, cambiar fecha, cambiar fecha de vencimiento o asignar otro proveedor - a la factura.
+En *Facturas a proveedores por periodos* podrá consultar en uno varios centros de costo los documentos generados por compras a un proveedor (facturas, causaciones, etc) en un periodo de tiempo determinado.
 
 Casos de uso
 ------------
 
 Ud podrá remitirse a este informe para conocer :
 
-	- El monto a pagar a sus proveedores 
-	- Realizar cambios sobre una factura radicada o causación 
-		- Cambiar fecha / cambiar fecha de vencimiento
-		- Asignarla a otro proveedor
-		- Anular
+	- Listado de facturas de un proveedor en un lapso de tiempo determinado
 	
-	
+
 
 Filtros aplicables
 ------------------
@@ -38,20 +34,13 @@ Podrá filtrar la información por:
 
 	- Centro de costo
 	- Proveedor
-	- moneda
+	- Rango de fechas
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
-Reimprimir/modificar/anular una factura/causación
--------------------------------------------------
-
-	- Encuentre la compra usando los filtros de búsqueda disponibles
-	- Cuando encuentre la compra que buscaba, en la grilla, haga click en |export1.gif| al final de la fila de la compra
-	- Elija la opción de su conveniencia
-
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Consulta general de cuentas por pagar* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Facturas a proveedores por periodos* en los siguientes formatos:
 
 	- |printer_q.bmp| Impresión
 	- |pdf_logo.gif| PDF
@@ -59,7 +48,7 @@ Usted podrá dar salida al reporte de *Consulta general de cuentas por pagar* en
 
 
 
-.. |export1.gif| image:: /_images/generales/export1.gif
+
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp
 .. |codbar.png| image:: /_images/generales/codbar.png
