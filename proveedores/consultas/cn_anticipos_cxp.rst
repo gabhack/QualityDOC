@@ -1,48 +1,59 @@
 ==================================
-Cuentas por pagar a fecha de corte
+Informe de anticipos a proveedores
 ==================================
 
 Ubicación
 ---------
 
 :Módulo:
-  Proveedores
+ Proveedores
 
 :Grupo:
  Consultas
 
 :Descripción:
-  Cuentas por pagar a fecha de corte
+  Informe de anticipos a proveedores
 
 Introducción
 ------------
 
-En *Cuentas por pagar a fecha de corte* podrá consultar todas las cuentas por pagar a sus proveedores hasta una fecha indicada. Las cuentas se muestran totalizadas hasta la fecha. Use este informe para evaluar las deudas a sus proveedores por etapas.
+En *Informe de anticipos a proveedores* podrá consultar el total de saldo al favor que tienen sus proveedores por concepto de anticipos. Un anticipo puede ser usado después como pago en la facturación a proveedores. Puede observar los detalles de las transacciones relacionadas a este anticipo (cuando se recibe, cuando se usa como parte de pago, saldo restante, etc) desde esta interfaz.
 
+**Todas las operaciones y transacciones relacionadas a caja, banco, cuentas, facturación, pagos y demás, tienen la fecha de la caja abierta**
 
 Casos de uso
 ------------
 
 Ud podrá remitirse a este informe para conocer :
 
-	- Cuentas por pagar a proveedores hasta una fecha indicada
-	
+	- Una lista de saldos a favor debido a devoluciones de mercancías.
+	- Información detallada acerca de como se generan y se cruzan los saldos a favor por anticipos.
+
+		.. Note:
+
+			Para ver en detalle los saldos a favor del proveedor y las transacciones relacionadas con el anticipo, haga doble click en el número de identificación del cliente (la casilla de la primera columna da la grilla)
+
+			En la información detallada verá una columna 'crédito' indicando las entradas por recibo, y en la columna 'débito' los canjes en la facturación.
+
+
+
+
 Filtros aplicables
 ------------------
 Podrá filtrar la información por:
 
 	- Centro de costo
-	- Fecha tope
+	- Moneda
+
 
 Una vez elegidos los filtros principales y proceder con la consulta en el botón |btn_ok.bmp| *consultar* 
 
 Opciones de salida
 ------------------
-Usted podrá dar salida al reporte de *Cuentas por pagar a fecha de corte* en los siguientes formatos:
+Usted podrá dar salida al reporte de *Informe de anticipos a proveedores* en los siguientes formatos:
 
+	- |pdf_logo.gif| PDF 
 	- |printer_q.bmp| Impresión
-	- |pdf_logo.gif| PDF
-	- |excel.bmp| Excel
 
 
 

@@ -25,7 +25,7 @@ Pre-requisitos
 
 	Para hacer una radicación deberá:
 
-	- Tener al menos una _EC: `Entrada de almacén por Compras de un proveedor en un Centro de costo <>`_
+	- Tener al menos una _EC: `Entrada de almacén por Compras de un proveedor en un Centro de costo <../../../inventario/standard/procesos/frm_inventario.html#entradas-de-mercancias>`_
 	- Tener el documento (factura) que incluye/refleja la entrada por compra.
 
 Radicar una factura
