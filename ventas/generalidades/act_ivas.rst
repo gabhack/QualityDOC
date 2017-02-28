@@ -26,7 +26,22 @@ Crear un nuevo IVA
 	- En el pie de la ventana haga click en |wznew.bmp| *nuevo*
 	- En la ventana emergente, coloque una descripción del nuevo impuesto en el campo de texto 
 	- En el campo númerico coloque el porcentaje del impuesto.
+	- Especifique la cuenta contable para la operación de Impuesto Generado, y debajo, la cuenta para reflejar la devolución.
+	- Especifique la cuenta contable para la operación de Impuesto Descontable, y debajo, la cuenta para reflejar la devolución.
 	- Haga click en |save.bmp| *guardar*
+
+
+Modificar un IVA
+================
+
+	- Ejecute la opción *Actualización de impuestos de IVA*
+	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
+	- Modifique lo que considere pertinente
+ 	- Haga click en |save.bmp| *guardar*
+ 
+
+ .. figure:: images/27.png
+ 	:align: center
 
 ELiminar un IVA
 ===============
@@ -41,18 +56,6 @@ ELiminar un IVA
 		No podrá eliminar una resolución que ya haya sido tomada en cuenta en un proceso de facturación.
  
  .. figure:: images/26.png
- 	:align: center
-
-Modificar un IVA
-================
-
-	- Ejecute la opción *Actualización de impuestos de IVA*
-	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
-	- Modifique lo que considere pertinente
- 	- Haga click en |save.bmp| *guardar*
- 
-
- .. figure:: images/27.png
  	:align: center
 
 
