@@ -6,7 +6,7 @@ Ubicación
 ---------
 
 :Módulo:
- Cartera
+ Proveedores
 
 :Grupo:
  Consultas
