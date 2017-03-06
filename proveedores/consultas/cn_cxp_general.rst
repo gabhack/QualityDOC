@@ -19,6 +19,10 @@ Introducción
 
 En *Consulta general de cuentas por pagar* podrá consultar en uno o varios centros, las cuentas por pagar a uno o varios proveedores, y verlas de manera detallada y separada. Las cuentas por pagar incluyen facturas radicadas o gastos causados.
 
+
+ .. figure:: images/generalpagar.png
+ 	:align: center
+
 Casos de uso
 ------------
 

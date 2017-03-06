@@ -21,6 +21,9 @@ Introducción
 
 	Es necesario que haya creado los conceptos necesarios en `conceptos de notas a proveedores <../../proveedores/generalidades/act_conceptos_notasprov.html>`_ para poder crear una nota a un proveedor. 
 
+ 	 		.. figure:: images/notas/0.png
+ 			    :align: center
+
 
 Pre-requisitos
 ==============
@@ -44,11 +47,16 @@ Realice los siguientes pasos:
 	- Digite en el campo de texto 'valor' el monto de la nota.
 	- En caso de ser una nota débito, seleccione la factura sobre la cual se hará
 	- Pulse |plus.bmp| 'Agregar'
+
+	 	 .. figure:: images/notas/1.png
+ 		     :align: center
+
 	- Puede agregar a la grilla otros montos por otros conceptos para sumar al valor de la nota
 	- Si el total es correcto, introduzca en el capo de observación el porqué de la nota.
 	- Haga click en |save.bmp| 'Guardar Nota' para finalizar el proceso
 
-
+	 	 .. figure:: images/notas/2.png
+ 		     :align: center
 
 ---------------------------------------------------------
 

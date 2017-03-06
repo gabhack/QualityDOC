@@ -22,6 +22,10 @@ En *Estado de cuenta por documento* podrá consultar las cuentas por pagar a sus
 Puede usar los filtros para evaluar el estado de deuda de su cartera en el paso del tiempo y según el estado de los documentos.
 
 
+ .. figure:: images/documento.png
+ 	:align: center
+
+
 Casos de uso
 ------------
 

@@ -18,6 +18,11 @@ Introducción
 
 En *Proveedor vs Productos* podrá consultar en cada centro de costo las entradas de mercancía hechas, con los productos de manera detallada y los montos acumulados en cada remisión.
 
+
+
+ .. figure:: images/proveedorvs.png
+ 	:align: center
+
 Casos de uso
 ------------
 

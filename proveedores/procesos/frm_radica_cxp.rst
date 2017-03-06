@@ -20,6 +20,9 @@ Introducción
 
 	La radicación de una factura es la forma de darle la entrada a cuenta por pagar a proveedor. Para hacer una radicación debe existir una factura o documento. Una factura puede contener varias entradas por compra.
 
+		 	 .. figure:: images/radicacion/0.png
+ 		     	:align: center
+
 Pre-requisitos
 ==============
 
@@ -40,11 +43,18 @@ Radicar una factura
 	 - Al escojer el proveedor se desplegarán las entradas por compras
 	 - Escriba la fecha que viene indicada en la factura
 	 - Digite el número de identificación del documento *Necesario*
+
+	 	 	 .. figure:: images/radicacion/1.png
+ 		            :align: center
+
 	 - Escriba el número de días que tiene en plazo para pagar esta factura *Necesario*
 	 - Marque en la grilla las Entradas a almacén por compras a proveedor que vienen reflejadas en esta factura. Las entradas vienen identificadas por su referencia, fecha y el monto.
 	 - Los fletes que marcón en la Entrada, se verán reflejados automáticamente en la grilla del medio. Si no desea incluirlos deberá desmarcarlos en la grilla.
 	 - Puede agregar a la factura otros montos por diferentes conceptos. Estos montos pueden incluir algún descuento o un valor agregado.
 	 - Verifique los montos y presione |save.bmp| 
+
+	 	 	.. figure:: images/radicacion/2.png
+ 		          :align: center
 
 	 .. NOTE::
 

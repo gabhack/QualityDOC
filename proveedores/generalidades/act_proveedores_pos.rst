@@ -19,6 +19,10 @@ Introducción
 
 En *Administración de proveedores* podrá crear nuevos proveedores, visualizarlos en forma de grilla, eliminarlos o modificar sus datos. Cada proveedores tiene un código interno asignado, puede buscarlo desde la grilla usando la razón social o el documento.
 
+
+ 		.. figure:: images/admin/0.png
+ 			:align: center
+
 Crear un proveedor
 ================
 
@@ -26,6 +30,10 @@ Para crear un proveedore realice los siguientes pasos:
  	
  	- Ejecute la opción *Administración de proveedor*
  	- En el pie de la ventana pulse sobre el botón |wznew.bmp| *nuevo*
+
+ 	 		.. figure:: images/conceptos/1.png
+ 			    :align: center
+
  	- Se desplegará una ventana emergente donde podrá dar cavida a los datos del proveedor:
  		- Régimen (tributario): 
  			- Simplificado
@@ -52,6 +60,16 @@ Para crear un proveedore realice los siguientes pasos:
 
  	En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)
 
+Modificar un cliente
+====================
+
+ 	- Ejecute la opción *Administración de proveedores*
+ 	- Seleccione, haciendo click, a un proveedor en la grilla
+ 	- Presione el botón |wzedit.bmp| *modificar* al pie de la ventana
+ 	- Aparecerá una ventana donde podrá cambiar los datos del proveedor que necesite, y dejar los que considere ya están bien.
+
+ 	 		.. figure:: images/conceptos/2.png
+ 			    :align: center
 
 
 Elmiminar un proveedor
@@ -67,14 +85,8 @@ Elmiminar un proveedor
  	 
  	 No podrá eliminar un proveedor que tenga cualquier tipo de transacción adjudicada.
 
-
-Modificar un cliente
-====================
-
- 	- Ejecute la opción *Administración de proveedores*
- 	- Seleccione, haciendo click, a un proveedor en la grilla
- 	- Presione el botón |wzedit.bmp| *modificar* al pie de la ventana
- 	- Aparecerá una ventana donde podrá cambiar los datos del proveedor que necesite, y dejar los que considere ya están bien.
+ 	.. figure:: images/conceptos/3.png
+ 		:align: center
 
 
 

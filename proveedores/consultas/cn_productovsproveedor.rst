@@ -19,6 +19,10 @@ Introducción
 
 En *Producto vs Proveedores* podrá consultar en cada centro de costo el listado de entradas de un producto específico. Vea en detalle el proveedor, la cantidad y el monto acumulado por concepto de compras de este artículo.
 
+
+ .. figure:: images/productovs.png
+ 	:align: center
+
 Casos de uso
 ------------
 

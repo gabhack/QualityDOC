@@ -20,6 +20,8 @@ Introducción
 En *Administrador de notas proveedores* podrá consultar todas aquellas notas débito o crédito creadas en el modulo de proveedores. Obtenga información oportuna y detallada acerca de cada nota. El *Administrador de notas proveedores* también le permite anular y modificar una nota.
 
 
+ .. figure:: images/notas.png
+ 	:align: center
 
 Casos de uso
 ------------

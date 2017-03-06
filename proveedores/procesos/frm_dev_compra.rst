@@ -20,6 +20,8 @@ Introducción
 
 	En esta operación usted podrá registrar la devolución de mercancías a un proveedor en base a una compra (ya radicada) hecha anteriormente. A partir de allí podrá generar saldo a su favor o cruzar sus cuentas por pagar con una nota de crédito. 
 
+ 	 		.. figure:: images/devolucion/0.png
+ 			    :align: center
 
 Pre-requisitos
 ==============
@@ -62,6 +64,10 @@ Devolver una compra
 		- En el campo 'Almacén' seleccione el centro de costo donde realizó la compra
 		- Elija el intervalo de fechas en el que se realizaron la compra que desea devolver
 		- En el campo 'CC o NIT' presione Enter para elegir el proveedor al que realizará la devolución
+
+ 	 		.. figure:: images/devolucion/1.png
+ 			    :align: center
+
 		- En la grilla aparecerán todas las ENTRADAS POR COMPRAS RADICADAS en el intervalo de fechas y centro que eligió
 		- Haga doble click en la entrada donde se encuentran los productos que devolverá
 		- En la grilla aparecerán los productos relacionados a la compra, marque los que desea devolver
@@ -69,7 +75,8 @@ Devolver una compra
 		- Puede agregar un descuento o una retención a la mercancía devuelta, haciendo click en "Agregar otros conceptos"
 		- Haga click en |save.bmp| 'Guardar Nota'
 
-
+		 	 .. figure:: images/devolucion/2.png
+ 			   		:align: center
 
 
 
