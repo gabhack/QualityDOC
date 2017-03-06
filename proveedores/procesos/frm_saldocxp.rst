@@ -29,6 +29,8 @@ Introducción
 	**En la parte de abajo de la ventana, podrá visualizar una grilla resumen, donde verá de manera no detallada los totales en deudas a proveedores**
 
 
+	 	 	 .. figure:: images/saldos/0.png
+ 		            :align: center
 
 Pre-requisitos
 ==============
@@ -50,6 +52,11 @@ Realice los siguientes pasos:
 	- Elija el Centro de costo que adquirió la deuda
 	- Elija la cuenta de proveedor que se verá afectada en la lista 'cta proveedor'
 	- Seleccione la cuenta de contrapartida por defecto, para todos los movimientos ingresados, en la lista 'contrapartida'
+
+
+	 	.. figure:: images/saldos/1.png
+ 		         :align: center
+
 	- Ahora podrá iniciar la inserción de saldos a la grilla
 		- Haga click en la primera casilla de la columna 'código' y presione Enter. Ahora podrá seleccionar alguno de los Proveedores en la lista.
 		- El siguiente campo {_FP, _PD, _CG}, elija si la cuenta por pagar deriva de una factura a proveedor, una nota de debito proveedor o una causación de gastos. 
@@ -58,6 +65,10 @@ Realice los siguientes pasos:
 		- Elija una cuenta contable específica a afectar como contrapartida. Si no lo hace, tomará la elegida en el paso 4.
 		- Ingrese el monto de la cuenta por pagar
 		- Presione Enter. Ahora puede elegir introducir otra cuenta por pagar a otro proveedor o a ese mismo. Si no tiene más cuentas por pagar entonces pulse el botón |save.bmp| 'Guardar Facturas'
+
+
+	 	 	 .. figure:: images/saldos/2.png
+ 		            :align: center
 
 
 

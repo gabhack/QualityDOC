@@ -19,6 +19,10 @@ Introducción
 
 En *Estado de cuentas de proveedores* podrá consultar en cada centro de costo el saldo con cada uno de los proveedores de manera cronológica en un periodo de tiempo determinado. Reciba información detallada de los movimientos realizados para abonar y adquirir deudas a proveedores.
 
+
+ .. figure:: images/estadocuentaprov.png
+ 	:align: center
+
 Casos de uso
 ------------
 

@@ -20,6 +20,9 @@ Introducción
 
 	Use esta interfaz para mantenerse al día con el registro de sus movimientos contables. En *Causación de gastos* puede incluir al sistema todas esas facturas provenientes de gastos varios: educación, transporte, esparcimiento, aseo, servicios, etc.
 
+ 	 		.. figure:: images/causacion/0.png
+ 			    :align: center
+
 
 Pre-requisitos
 ==============
@@ -40,12 +43,23 @@ Causar un gasto
 		- Seleccione en la lista 'Partida crédito' la cuenta contable a la que se acreditará
 		- En el campo 'CC NIT' presione Enter para elegir al proveedor que presta el servicio que genera el gasto
 		- Si lo desea, escriba una Observación que aporte información relevante de la factura o la causación
+ 	 		
+ 	 		.. figure:: images/causacion/1.png
+ 			    :align: center
+
 		- En la grilla, haga click y Enter en la primera celda de la primera columna en la primera fila para ver una lista de cuentas contables a las cuales debitará.
 		- Haga click en |save.bmp| 'Guardar'
+
+		.. figure:: images/causacion/2.png
+ 			     :align: center
+
+		
 
 		.. NOTE::
 
 		La causación de gastos, al igual que la radicación de facturas no informan al sistema que se haya realizado el egreso. Para realizar el egreso debe hacer un 'Comprobante de egresos' a este proveedor, en el módulo de tesorería.
+
+
 
 	---------------------------------------------------------
 

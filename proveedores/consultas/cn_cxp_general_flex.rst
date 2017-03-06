@@ -19,6 +19,10 @@ Introducción
 
 En *Consulta general de cuentas por pagar (con anulación)* podrá consultar en un centro de costo las cuentas por pagar a uno o varios proveedores, y verlas de manera detallada y separada. Las cuentas por pagar incluyen facturas radicadas o gastos causados. Podrá anular, cambiar fecha, cambiar fecha de vencimiento o asignar otro proveedor - a la factura.
 
+
+ .. figure:: images/generalanula.png
+ 	:align: center
+
 Casos de uso
 ------------
 

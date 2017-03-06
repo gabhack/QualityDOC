@@ -19,6 +19,10 @@ Introducción
 
 En *Administrador general de compras* podrá consultar todas las compras hechas a uno o a todos los proveedores. Utilice los filtros para encontrar una compra que le interese al momento. Puede reimprimir y cambiar la fecha a una compra cualquiera.
 
+
+ .. figure:: images/generalcompras.png
+ 	:align: center
+
 Casos de uso
 ------------
 

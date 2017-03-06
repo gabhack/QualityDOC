@@ -20,6 +20,10 @@ Introducción
 En *Cuentas por pagar a fecha de corte* podrá consultar todas las cuentas por pagar a sus proveedores hasta una fecha indicada. Las cuentas se muestran totalizadas hasta la fecha. Use este informe para evaluar las deudas a sus proveedores por etapas.
 
 
+
+ .. figure:: images/cuentasfecha.png
+ 	:align: center
+
 Casos de uso
 ------------
 

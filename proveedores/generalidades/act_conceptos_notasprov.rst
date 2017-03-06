@@ -19,6 +19,9 @@ Introducción
 
 	A través de la interfaz *Conceptos de notas a proveedores* usted puede crear los conceptos necesarios para la realización de notas débito o crédito. Además, establezca las cuentas contables que serán afectadas tras usar este concepto en una nota.
 
+ .. figure:: images/conceptos/0.png
+ 	:align: center
+
 Crear Concepto
 ==============
 
@@ -26,6 +29,10 @@ Para crear un *concepto de notas a proveedores* realice los siguientes pasos:
 
 	- Ejecute la opción *Conceptos de notas a proveedores* 
 	- En el pie de la ventana, elija la opción |wznew.bmp| 'Nuevo'
+
+ 		.. figure:: images/conceptos/1.png
+ 			:align: center
+
 	- Se abrirá una ventana nueva, donde podrá seleccionar si desea que el concepto apliqué para 'débito', 'crédito' o 'todos'
 	- En el cuadro de texto 'Nombre del concepto de la nota' indique el nombre con el que identificará más adelante el concepto.
 	- En la lista 'Cuenta contable' escoja la cuenta que se verá adefctada si el usuario decide usar este concepto.
@@ -41,6 +48,17 @@ Para modificar/eliminar un concepto de notas a proveedores realice los siguiente
 	- Ejecute la opción *Conceptos de notas a proveedores* 
 	- Seleccione el concepto en la lista haciendo click en él
 	- En el pie de la ventana, elija la opción |wzedit.bmp| 'Modificar' o |delete.bmp| 'Eliminar'
+
+		**Editar**
+
+ 		.. figure:: images/conceptos/2.png
+ 			:align: center
+
+ 		**Eliminar**
+
+ 		 .. figure:: images/conceptos/3.png
+ 			:align: center
+
 	- Si elige 'modificar', se abrirá una ventana nueva, donde podrá cambiar todos los campos del concepto, luego haga click en |save.bmp| 'Guardar'. Si elige 'eliminar' entonces pulse 'sí' para confirmar la eliminación.
 
 

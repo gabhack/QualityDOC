@@ -19,6 +19,10 @@ Introducción
 
 En *Facturas a proveedores por periodos* podrá consultar en uno varios centros de costo los documentos generados por compras a un proveedor (facturas, causaciones, etc) en un periodo de tiempo determinado.
 
+
+ .. figure:: images/facturasprov.png
+ 	:align: center
+
 Casos de uso
 ------------
 
