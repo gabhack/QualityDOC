@@ -18,7 +18,7 @@ En el módulo Tesorería podrá configurar los parametros que definen el comport
   `Tesorería <../tesoreria/tesoreria_standard.html>`_
 
 
-  Encuentre aquí los pasos necesarios para llevar a cabo recibos de caja, comprobantes de egresos, notas bancarias, transferencias de fondos, relación de gastos, prestamos y además consultas sobre los movimientos efectuados.
+  Lleve a cabo: recibos de caja, comprobantes de egresos, notas bancarias, transferencias de fondos, relación de gastos, prestamos y además consultas sobre los movimientos efectuados.
 
 
 

@@ -18,7 +18,7 @@ Ubicación
 Introducción
 ============
 
-	En este proceso podrá organizar los prestamos de confianza que hace a un tercero determinado. Una vez ha realizado el egreso puede recurrir a esta interfaz para establecer el número de cuotas y las fechas de recaudo. También podrá hacer los abonos a partir de aquí.
+	En este proceso podrá organizar los prestamos de confianza que hace a un tercero determinado. Una vez ha realizado el egreso puede recurrir a esta interfaz para establecer el número de cuotas y las fechas de recaudo.mbién podrá hacer los abonos a partir de aquí.
 
 
 Pre-requisitos
@@ -40,7 +40,7 @@ Para organizar un *Prestamo a terceros*, realice los siguientes pasos:
 
 	- Ejecute la opción "Prestamos a terceros"
 	- Seleccione el centro de costo donde se hizo el egreso
-	- Haga click en |wznew.bmp| 'Nuevo' 
+	- Haga click en |wznew.bmp| *Nuevo* 
 
 			.. figure:: images/prestamosterceros/1.png
  				 :align: center 

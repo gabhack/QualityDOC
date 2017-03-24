@@ -29,7 +29,8 @@ Crear un proveedor
 Para crear un proveedore realice los siguientes pasos:
  	
  	- Ejecute la opción *Administración de proveedor*
- 	- En el pie de la ventana pulse sobre el botón |wznew.bmp| *nuevo*
+ 	- En el pie de la ventana pulse sobre el botón |wznew.bmp| *Nuevo*
+ 	- En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)
 
  	 		.. figure:: images/conceptos/1.png
  			    :align: center
@@ -43,9 +44,11 @@ Para crear un proveedore realice los siguientes pasos:
  			- **Documento de identificación**: Si este número de identificación ha sido usado en algún otro apartado (vendedores, proveedores, etc) entonces el sistema desplegará la información registrada de esta persona.
  			- **Datos básicos**: Nombres (si es Régimen Común) o Razón social, teléfonos, dirección
 
- 			.. Note:
 
- 			Datos obligatorios: Primer nombre, primer apellido, departamento, municipio y número de documento.
+ 			.. NOTE::
+
+				Datos obligatorios: Primer nombre, primer apellido, departamento, municipio y número de documento.
+
  		- **Otros datos**: 
 
  				- Nombre comercial: Nombre del establecimiento (no razón social)
@@ -58,14 +61,14 @@ Para crear un proveedore realice los siguientes pasos:
  			- Puede marcar la casilla *Retiene sobre cualquier base* para aplicar las retenciones marcadas en cualquier monto imponible.
 
 
- 	En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)
 
-Modificar un cliente
-====================
+
+Modificar un proveedor
+======================
 
  	- Ejecute la opción *Administración de proveedores*
- 	- Seleccione, haciendo click, a un proveedor en la grilla
- 	- Presione el botón |wzedit.bmp| *modificar* al pie de la ventana
+ 	- Haga click en el proveedor a modificar, en la grilla
+ 	- Presione el botón |wzedit.bmp| *Modificar* al pie de la ventana
  	- Aparecerá una ventana donde podrá cambiar los datos del proveedor que necesite, y dejar los que considere ya están bien.
 
  	 		.. figure:: images/conceptos/2.png
@@ -76,8 +79,8 @@ Elmiminar un proveedor
 ======================
 
  	- Ejecute la opción *Administración de proveedores*
- 	- Seleccione, haciendo click, a un proveedor en la grilla
- 	- Presione el botón |delete.bmp| *eliminar* al pie de la ventana
+ 	- Haga click en el proveedor a modificar, en la grilla
+ 	- Presione el botón |delete.bmp| *Eliminar* al pie de la ventana
 
 	- En el cuadro de confirmación presiones 'Sí'
 

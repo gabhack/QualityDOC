@@ -48,7 +48,7 @@ Causar un gasto
  			    :align: center
 
 		- En la grilla, haga click y Enter en la primera celda de la primera columna en la primera fila para ver una lista de cuentas contables a las cuales debitará.
-		- Haga click en |save.bmp| 'Guardar'
+		- Haga click en |save.bmp| *Guardar*
 
 		.. figure:: images/causacion/2.png
  			     :align: center

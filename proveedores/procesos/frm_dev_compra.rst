@@ -73,7 +73,7 @@ Devolver una compra
 		- En la grilla aparecerán los productos relacionados a la compra, marque los que desea devolver
 		- En la columna 'Devolver' digite el número de unidades compradas que devolverá
 		- Puede agregar un descuento o una retención a la mercancía devuelta, haciendo click en "Agregar otros conceptos"
-		- Haga click en |save.bmp| 'Guardar Nota'
+		- Haga click en |save.bmp| *Guardar Nota*
 
 		 	 .. figure:: images/devolucion/2.png
  			   		:align: center

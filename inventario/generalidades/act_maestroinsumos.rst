@@ -441,7 +441,7 @@ Para agregar diferentes productos a una misma familia siga estos pasos:
         Cód. barra |########| Variante |ROJO|
   
   - Presione Enter, y vea como es agregado a la lista.
-  - A continuación puede seguir agregando productos a la familia o guardar los cambios en el Icono |save.bmp| Guardar.
+  - A continuación puede seguir agregando productos a la familia o guardar los cambios en el Icono |save.bmp| *Guardar*.
   
     .. figure:: images/16.png
         :align: center

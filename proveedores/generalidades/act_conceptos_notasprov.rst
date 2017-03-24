@@ -28,16 +28,16 @@ Crear Concepto
 Para crear un *concepto de notas a proveedores* realice los siguientes pasos:
 
 	- Ejecute la opción *Conceptos de notas a proveedores* 
-	- En el pie de la ventana, elija la opción |wznew.bmp| 'Nuevo'
+	- En el pie de la ventana, elija la opción |wznew.bmp| *Nuevo*
 
  		.. figure:: images/conceptos/1.png
  			:align: center
 
 	- Se abrirá una ventana nueva, donde podrá seleccionar si desea que el concepto apliqué para 'débito', 'crédito' o 'todos'
 	- En el cuadro de texto 'Nombre del concepto de la nota' indique el nombre con el que identificará más adelante el concepto.
-	- En la lista 'Cuenta contable' escoja la cuenta que se verá adefctada si el usuario decide usar este concepto.
+	- En la lista 'Cuenta contable' escoja la cuenta que se verá afectada si el usuario decide usar este concepto.
 	- Puede chequear el siguiente campo para indicar si este concepto implica IVA.
-	- Haga click en |save.bmp| 'Guardar'
+	- Haga click en |save.bmp| *Guardar*
 
 
 Eliminar/Modificar concepto
@@ -47,7 +47,7 @@ Para modificar/eliminar un concepto de notas a proveedores realice los siguiente
 
 	- Ejecute la opción *Conceptos de notas a proveedores* 
 	- Seleccione el concepto en la lista haciendo click en él
-	- En el pie de la ventana, elija la opción |wzedit.bmp| 'Modificar' o |delete.bmp| 'Eliminar'
+	- En el pie de la ventana, elija la opción |wzedit.bmp| *Modificar* o |delete.bmp| 'Eliminar'
 
 		**Editar**
 
@@ -59,7 +59,7 @@ Para modificar/eliminar un concepto de notas a proveedores realice los siguiente
  		 .. figure:: images/conceptos/3.png
  			:align: center
 
-	- Si elige 'modificar', se abrirá una ventana nueva, donde podrá cambiar todos los campos del concepto, luego haga click en |save.bmp| 'Guardar'. Si elige 'eliminar' entonces pulse 'sí' para confirmar la eliminación.
+	- Si elige 'modificar', se abrirá una ventana nueva, donde podrá cambiar todos los campos del concepto, luego haga click en |save.bmp| *Guardar*. Si elige 'eliminar' entonces pulse 'sí' para confirmar la eliminación.
 
 
 

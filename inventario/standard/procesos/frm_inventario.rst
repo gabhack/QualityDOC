@@ -288,7 +288,7 @@ Para realizar una transferencia de mercancías, siga estos pasos:
 
  - Presione Enter de Nuevo o el ícono |plus.bmp| para agregar el producto a la lista.
  - Una vez el producto aparezca en la lista, podrá ingresar otro producto presionando Enter.
- - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| Guardar.
+ - Si no hay más productos para agregar, revise que el listado sea el correcto y presione F2 o el ícono |save.bmp| *Guardar*.
  - El sistema pedirá que confirme el procedimiento, seleccione *Sí*.
  - Visualizará un comprobante de salida. Puede imprimirlo para respaldo físico.
  - Ahora podrá consultar ambas bodegas y ver los cambios en las cantidades de producto. Para consultar, consulte en el manual acerca de este mismo módulo en el apartado *consultas*.
@@ -425,7 +425,7 @@ Para realizar una *Entrada de mercancía* por orden de compra al sistema siga lo
  - Verá como aparece información relacionada a cada producto en la lista.
  - En la columna *costo* ingrese el precio del producto que aparece en la factura (sin IVA).
  - En la columna *descuento* ingrese el porcentaje del descuento en caso de ser necesario.
- - Revise que el listado, los costos, IVA, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| Guardar.
+ - Revise que el listado, los costos, IVA, fletes y descuentos sean correctos y presione F2 o el ícono |save.bmp| *Guardar*.
  - El sistema pedirá que confirme el procedimiento, seleccione *sí*.
  - Visualizará en un documento un comprobante de ingreso de mercancía por compra a proveedor. Puede imprimirlo para respaldo físico. Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
 

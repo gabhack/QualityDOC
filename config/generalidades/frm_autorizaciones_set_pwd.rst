@@ -26,7 +26,7 @@ Para asignar una contraseña al proceso al cual fue autorizado, realice los sigu
 
 	- Ejecute la opción *Administrador de contraseñas para autorizaciones*
 	- Ingrese el nombre de usuario y la contraseña con la cual accede al sistema Quality
-	- Presione |btn_ok.bmp| 'Login'
+	- Presione |btn_ok.bmp| *Login*
 	- En una lista verá los nombres de los procesos a los cuales ha sido autorizado. Haga click en el botón a la derecha del proceso al cual desea asignar contraseña.
 	- Verá una ventana emergente en la cual podrá elegir dos tipos de contraseña:
 		
@@ -39,17 +39,17 @@ Quitar acceso a un Usuario
 
 	- Ejecute la opción *Administrador de contraseñas para autorizaciones*
 	- Ingrese el nombre de usuario y la contraseña con la cual accede al sistema Quality
-	- Presione |btn_ok.bmp| 'Loguin'
+	- Presione |btn_ok.bmp| *Login*
 	- En una lista verá los nombres de los procesos a los cuales ha sido autorizado. Haga click en el botón a la derecha del proceso en el cual desea desautorizar a un usuario.
 	- Elija *Contraseña Temporal* y luego el usuario en la lista desplegable.
-	- Haga click en el botón |delete.bmp| 'Eliminar contraseña'. Este usuario perderá el acceso al proceso.
+	- Haga click en el botón |delete.bmp| *Eliminar contraseña*. Este usuario perderá el acceso al proceso.
 
 Cambiar Contraseña
 ==================
 
 	- Ejecute la opción *Administrador de contraseñas para autorizaciones*
 	- Ingrese el nombre de usuario y la contraseña con la cual accede al sistema Quality
-	- Presione |btn_ok.bmp| 'Login'
+	- Presione |btn_ok.bmp| *Login*
 	- En una lista verá los nombres de los procesos a los cuales ha sido autorizado. Haga click en el botón a la derecha del proceso en el cual desea cambiar su contraseña o la de un usuario autorizado.
 		- Puede cambiar su *Contraseña permanente*, eligiendo esta opción en la lista y cambie los campos de contraseña. 
 		- Puede cambiar la contraseña de un usuario delegado eligiendo *Contraseña temporal* y luego seleccionando el usuario de la lista. Cambie los campos de contraseña.

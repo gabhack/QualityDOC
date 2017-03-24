@@ -48,10 +48,10 @@ Realice los siguientes pasos:
 	- En la lista concepto, seleccione el motivo por el cual adiciona la nota. Si no hay un concepto creado no podrá crear tampoco la nota. `Conceptos de notas a clientes <../../../cartera/generalidades/act_conceptos_notascli.html>`_
 	- Digite en el campo de texto 'valor' el monto de la nota.
 	- En caso de ser una nota débito, seleccione la factura sobre la cual se hará
-	- Pulse |plus.bmp| 'Agregar'
+	- Pulse |plus.bmp| *Agregar*
 	- Puede agregar a la grilla otros montos por otros conceptos para sumar al valor de la nota
 	- Si el total es correcto, introduzca en el capo de observación el porqué de la nota.
-	- Haga click en |save.bmp| 'Guardar' para finalizar el proceso
+	- Haga click en |save.bmp| *Guardar* para finalizar el proceso
 
 
 

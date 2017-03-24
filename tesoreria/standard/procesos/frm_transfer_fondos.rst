@@ -51,7 +51,7 @@ Realice los siguientes pasos:
 	- Luego en la lista "Seleccione la caja" elija la caja o cuenta bancaria de donde llegará el dinero. 
 	- En el cuadro "Monto disponible en esta caja" podrá visualizar el monto actual de la cuenta o caja destino (antes de la transferencia)
 	- Digite, si es necesario, una observación acerca de la transferencia.
-	- Haga click en |save.bmp| 'Procesar'
+	- Haga click en |save.bmp| *Procesar*
 
 ---------------------------------------------------------
 
