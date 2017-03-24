@@ -33,14 +33,14 @@ Eliminar una Región
 ===================
 
 	- Ejecute la opción *Estructura de almacenes de la empresa*
-	- Encuentre la Región a eliminar en la rama principal del árbol. Haga click derecho sobre ella. Escoja la opción |delete.bmp| 'Eliminar region'
+	- Encuentre la Región a eliminar en la rama principal del árbol. Haga click derecho sobre ella. Escoja la opción |delete.bmp| *Eliminar region*
 	- Oprima 'Sí' en el mensaje de confirmación
 
 Cambiar Nombre a una Región
 ===========================
 
 	- Ejecute la opción *Estructura de almacenes de la empresa*
-	- Encuentre la Región en la rama principal del árbol. Haga click derecho sobre ella y elija |wzedit.bmp| 'Cambiar nombre a '
+	- Encuentre la Región en la rama principal del árbol. Haga click derecho sobre ella y elija |wzedit.bmp| *Cambiar nombre a *
 
 Crear un Centro de costo
 ========================
@@ -49,8 +49,8 @@ Para crear un *Centro de costo* realice los siguientes pasos:
 
 	
 	- Ejecute la opción *Estructura de almacenes de la empresa*
-	- Encuentre la región en el árbol dentro de la cual creará el centro de costo. Haga click derecho sobre ella. Escoja la opción |wznew.bmp| 'Crear nuevo centro de costo'
-	- Verá en la rama de la Región un nuevo Centro con el nombre editable. Si por algún motivo ya no está editable el nombre del nuevo centro, haga click derecho sobre él y elija |wzedit.bmp| 'Cambiar nombre a '
+	- Encuentre la región en el árbol dentro de la cual creará el centro de costo. Haga click derecho sobre ella. Escoja la opción |wznew.bmp| *Crear nuevo centro de costo*
+	- Verá en la rama de la Región un nuevo Centro con el nombre editable. Si por algún motivo ya no está editable el nombre del nuevo centro, haga click derecho sobre él y elija |wzedit.bmp| *Cambiar nombre a *
 
 Eliminar un centro de costo
 ===========================
@@ -61,7 +61,7 @@ Eliminar un centro de costo
 
 - Ejecute la opción *Estructura de almacenes de la empresa*
 - Haga click en la Región donde está el *Centro de costo* 
-- Elija el *centro de costo* a eliminar en la rama principal del árbol. Haga click derecho sobre él. Escoja la opción |delete.bmp| 'Eliminar Centro de costo'
+- Elija el *centro de costo* a eliminar en la rama principal del árbol. Haga click derecho sobre él. Escoja la opción |delete.bmp| *Eliminar Centro de costo*
 - Oprima 'Sí' en el mensaje de confirmación
 
 Cambiar Nombre a un Centro de costo
@@ -69,7 +69,7 @@ Cambiar Nombre a un Centro de costo
 
 	- Ejecute la opción *Estructura de almacenes de la empresa*
 	- Haga click en la Región donde está el *Centro de costo* 
-	- Encuentre el *Centro de Costo* y haga click derecho sobre él y elija |wzedit.bmp| 'Cambiar nombre a '
+	- Encuentre el *Centro de Costo* y haga click derecho sobre él y elija |wzedit.bmp| *Cambiar nombre a *
 
 Propiedades de un Centro de Costo
 =================================
@@ -78,7 +78,7 @@ Para ver y modificar las propiedades de un *Centro de costo* realice los siguien
 
 	- Ejecute la opción *Estructura de almacenes de la empresa*
 	- Haga click en la Región donde está el *Centro de costo* 
-	- Encuentre el *Centro de Costo* y haga click derecho sobre él y elija |wzedit.bmp| 'Modificar propiedades de'
+	- Encuentre el *Centro de Costo* y haga click derecho sobre él y elija |wzedit.bmp| *Modificar propiedades de*
 	- Verá una despegarse una ventana con las siguientes pestañas:
 
 Datos Básicos

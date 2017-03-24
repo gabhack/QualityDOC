@@ -6,7 +6,7 @@ Ubicación
 =========
 
 :Módulo:
- Cartera
+ Proveedores
 
 :Grupo:
  Operaciones
@@ -53,7 +53,7 @@ Realice los siguientes pasos:
 
 	- Puede agregar a la grilla otros montos por otros conceptos para sumar al valor de la nota
 	- Si el total es correcto, introduzca en el capo de observación el porqué de la nota.
-	- Haga click en |save.bmp| 'Guardar Nota' para finalizar el proceso
+	- Haga click en |save.bmp| *Guardar Nota* para finalizar el proceso
 
 	 	 .. figure:: images/notas/2.png
  		     :align: center

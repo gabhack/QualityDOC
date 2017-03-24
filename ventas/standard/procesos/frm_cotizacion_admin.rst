@@ -33,7 +33,7 @@ Visualizar cotizaciones existentes
 
 	- Ejecute la opción "Cotizaciones"
 	- En la cabecera elija el centro de costo pertinente 
-	- Presione el botón 'Consultar' |btn_ok.bmp|
+	- Presione el botón |btn_ok.bmp| *Consultar*
 
    .. figure:: images/8.png
  	  :align: center

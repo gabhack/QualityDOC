@@ -6,7 +6,7 @@ Ubicación
 =========
 
 :Módulo:
- Ventas
+ Tesorería
 
 :Grupo:
  Parámetros
@@ -284,7 +284,7 @@ Para aceptar pagos en tarjetas y otras transacciones relacionadas, deberá prime
 	- Podrá cambiar el nombre de la franquicia, y más abajo elegir si se trata de una de 'débito' o de 'crédito'
 	- Elija en 'Cuenta Comisiones' la cuenta contable que será afectada con las comisiones.
 	- En adelante, podrá elegir los valores de comisiones, impuestos o retenciones que produce el uso de esta franquicia como parte de pago. Haga uso del simulador para comprobar si son correctos los valores digitados.
-	- Haga click en |save.bmp| Guardar. Los valores guardados no incluyen los introducidos y generados por el simulador.
+	- Haga click en |save.bmp| *Guardar*. Los valores guardados no incluyen los introducidos y generados por el simulador.
 
 			.. figure:: images/cajasybancos/franquicias/4.png
  			     :align: center

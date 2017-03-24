@@ -86,7 +86,7 @@ Cerrar una caja menor
 Realice los siguientes pasos:
 
 	- Ejecute la opción "Relación de gastos de caja menor"
-	- Haga click en el botón |btn_ok.bmp| 'Cerrar Caja Menor'
+	- Haga click en el botón |btn_ok.bmp| *Cerrar Caja Menor*
 	- En la ventana de confirmación presione 'sí'
 
 		 	.. figure:: images/relacioncajamenor/4.png

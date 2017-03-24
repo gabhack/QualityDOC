@@ -64,7 +64,7 @@ Realice los siguientes pasos:
 		- Introduzca la fecha en que fue adquirida la deuda (se generó la factura o la nota) y luego la feha de corte para pagarla.
 		- Elija una cuenta contable específica a afectar como contrapartida. Si no lo hace, tomará la elegida en el paso 4.
 		- Ingrese el monto de la cuenta por pagar
-		- Presione Enter. Ahora puede elegir introducir otra cuenta por pagar a otro proveedor o a ese mismo. Si no tiene más cuentas por pagar entonces pulse el botón |save.bmp| 'Guardar Facturas'
+		- Presione Enter. Ahora puede elegir introducir otra cuenta por pagar a otro proveedor o a ese mismo. Si no tiene más cuentas por pagar entonces pulse el botón |save.bmp| *Guardar Facturas*
 
 
 	 	 	 .. figure:: images/saldos/2.png

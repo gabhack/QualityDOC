@@ -18,7 +18,7 @@ En el módulo Proveedores podrá configurar los parametros que definen el compor
   `Proveedores <../proveedores/proveedores_standard.html>`_
 
 
-  Encuentre aquí los pasos necesarios para llevar a cabo notas de crédito y débito a proveedores, radicalización de facturas, causación de gastos y devolución de compras. Consulte además los reportes disponibles en este módulo.
+  En este apartado lleve a cabo: notas de crédito y débito a proveedores, radicalización de facturas, causación de gastos y devolución de compras. Consulte además los reportes disponibles en este módulo.
 
 
 

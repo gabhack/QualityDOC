@@ -29,7 +29,7 @@ Para darle la potestad a un usuario de manejar un proceso, realice los siguiente
 	- Ejecute la opción *Configuración de seguridad para procesos*
 	- En la lista de procesos haga click en el botón a un lado del nombre del proceso que quiere administrar
 	- Verá el listado de usuarios del sistema que pueden ser autorizados. Marque los que desee.
-	- Haga click en el botón |save.bmp| "Guardar esta configuración"
+	- Haga click en el botón |save.bmp| *Guardar esta configuración*
 
 	.. NOTE::
 
