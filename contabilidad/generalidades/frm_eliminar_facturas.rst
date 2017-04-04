@@ -20,7 +20,7 @@ Introducción
 	La interfaz "Eliminación de facturas" le permitirá eliminar facturas de ventas, para ello necesitará el número exacto de la factura. No podrá eliminar facturas a las que se les haya hecho un abono, deberá primero eliminar esos abonos (eliminarlos,más no anularlos)
 
 
-		.. figure:: images/elimventas/1.png
+		.. figure:: images/elimventa/1.png
  			:align: center
 
 Eliminar una factura
@@ -30,13 +30,13 @@ Eliminar una factura
 	- En la lista 'Almacén' elija el centro de costo donde la factura de venta fue generada
 	- En el campo 'Número de factura' digite el número de factura que generó el sistema al procesar la venta y presione *Buscar factura*. Puede consultar las ventas realizadas en el módulo de Ventas.
 
-		.. figure:: images/elimventas/2.png
+		.. figure:: images/elimventa/2.png
  			:align: center
 
 	- La factura se mostrará en la grilla, márquela en la casilla final y haga click en |delete.bmp| *Eliminar*
 	- En la ventana emergente introduzca una justificación y presione luego F2 o |btn_ok.bmp| 
 
-		.. figure:: images/elimventas/3.png
+		.. figure:: images/elimventa/3.png
  			:align: center
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
