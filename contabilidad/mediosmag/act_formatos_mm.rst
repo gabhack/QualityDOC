@@ -32,6 +32,11 @@ Modificar un concepto
 
 Los conceptos vienen, generalmente, precargados al sistema. Puede modificar el nombre del concepto haciendo click derecho sobre él y pulsando la opción "Modificar concepto: ..."
 
+ .. figure:: images/medios/b.png
+     	:align: center
+--------------------------------------------------
+ .. figure:: images/medios/b2.png
+     	:align: center
 
 Agregar cuentas contables a una columna de valor
 ================================================

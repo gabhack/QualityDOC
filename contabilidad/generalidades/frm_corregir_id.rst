@@ -19,12 +19,20 @@ Introducción
 
 	La referencia del documento de identificación de un tercero (cédula, NIT, etc) es clave para la seguridad, búsquedas y transacciones del sistema. Quality le permite cambiar este id de manera segura registrando un historial cronológico de cambios.
 
+		.. figure:: images/idcambio/1.png
+ 			:align: center
+
 Cambiar el Id de un Tercero
 ===========================
 
 	- Ejecute la opción "Corrección de documentos de identificación"
 	- Pulse el botón *Buscar*. En la ventana emergente elija un tercero haciendo click sobre él y luego Enter.
 	- Se cargará la información del tercero en los campos de la parte superior, en la grilla podrá observar el historial de cambios de su Id.
+
+
+		.. figure:: images/idcambio/2.png
+ 			:align: center
+
 	- En la parte inferior podrá cambiar los datos relacionados a la identificación
 		- Régimen
 		- Tipo de documento

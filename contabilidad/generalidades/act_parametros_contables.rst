@@ -41,7 +41,10 @@ Ajustar el plan único de cuentas (PUC)
 	- Ejecute la opción "Parametrización contable"
 	- Haga click en la pestaña 'Contabilidad'
 	- En la lista '¿qué parámetros desea configurar?' seleccione la opción 'Plan único de cuentas PUC'
-	- Siga las instrucciones contenidas en: ref
+	- Siga las instrucciones contenidas en `PUC <../generalidades/act_cuentas_gen.html>`_
+
+		.. figure:: images/parametrizacion/1/1.png
+ 			:align: center
 
 Asignar fuentes contables a procesos
 ------------------------------------
@@ -50,6 +53,10 @@ Asignar fuentes contables a procesos
 	- Haga click en la pestaña 'Contabilidad'
 	- En la lista '¿qué parámetros desea configurar?' seleccione la opción 'Fuentes contables'
 	- A la izquierda obervará el listado de procesos del sistema y a la derecha las fuentes contables que puede asignar
+
+
+		.. figure:: images/parametrizacion/1/2.png
+ 			:align: center
 
 *Si necesita crear una nueva fuente contable, puede hacerlo dando click al botón 'Administrador de fuentes contables' en la parte inferior de la ventana*
 
@@ -62,6 +69,11 @@ Parametros generales de inventarios
 	- Ejecute la opción "Parametrización contable"
 	- Haga click en la pestaña 'Inventario'
 	- En la lista '¿qué parámetros desea configurar?' seleccione la opción 'Parámetros generales'
+
+
+		.. figure:: images/parametrizacion/2/1.png
+ 			:align: center
+
 	- Haga click en |wzedit.bmp| *Modificar parámetros*
 	- En esta opción encontrará:
 		- Transferencias en cola: Cuando realiza transferencias con confirmación se crea una cola de espera hasta que el centro de costo haga el proceso de recibimiento de los productos. En esta opción, puede indicar el número de transacciones que puede haber en cola.
@@ -75,6 +87,11 @@ Parametros de Ventas
 	- Ejecute la opción "Parametrización contable"
 	- Haga click en la pestaña 'Inventario'
 	- En la lista '¿qué parámetros desea configurar?' seleccione la opción 'Parámetros de Ventas'
+
+
+		.. figure:: images/parametrizacion/2/2.png
+ 			:align: center
+
 	- Verá una grilla con una fila por cada línea de productos en su catalogo, ejemplo de una tienda por departamentos: computación, juguetes, papelería. Verá tres columnas al final de la fila que indican la cuenta relacionada a: Ingreso, costo x ventas e inventarios
 	- Si quiere agregar/cambiar una cuenta haga click en el botón:|wzedit.bmp| *Modificar* parámetros para que las celdas se vuelvan modificables
 	- ELija, según la fila y la columna, la cuenta que desea agregar/modificar haciendo click, borrando el valor actual (si lo tiene) y presionando Enter.
@@ -94,6 +111,10 @@ Parametros de Ventas
 		- Verá todos los filtros en la grilla, puede cerrar la ventana
 
 
+		.. figure:: images/parametrizacion/filtros.png
+ 			:align: center
+
+
 Parametros de devolución de ventas
 ----------------------------------
 
@@ -101,6 +122,11 @@ Parametros de devolución de ventas
 	- Ejecute la opción "Parametrización contable"
 	- Haga click en la pestaña 'Inventario'
 	- En la lista '¿qué parámetros desea configurar?' seleccione la opción 'Parámetros de devolución de Ventas'
+
+
+		.. figure:: images/parametrizacion/2/3.png
+ 			:align: center
+
 	- Verá una grilla con una fila por cada línea de productos en su catalogo, ejemplo de una tienda por departamentos: computación, juguetes, papelería. Verá tres columnas al final de la fila que indican la cuenta relacionada a: Devolución, costo x ventas e inventarios
 	- Si quiere agregar/cambiar una cuenta haga click en el botón:|wzedit.bmp| *Modificar parámetros* para que las celdas se vuelvan modificables
 	- ELija, según la fila y la columna, la cuenta que desea agregar/modificar haciendo click, borrando el valor actual (si lo tiene) y presionando Enter.
@@ -119,6 +145,8 @@ Parametros de devolución de ventas
 			- *Ejemplo:* Si solo desea ver las cuentas contenidas en 'Pasivos' entonces seleccione el Item '2 PASIVO'. Estas serán las únicas cuentas visibles al cambiar una cuenta en la grilla (De la columna en la que se está aplicando el filtro)
 		- Verá todos los filtros en la grilla, puede cerrar la ventana.
 
+			.. figure:: images/parametrizacion/filtros.png
+ 			   :align: center
 
 Tesorería
 =========
@@ -127,6 +155,9 @@ Tesorería
 		- Pedir documento físico para: Comprobantes de egresos y recibos de caja.
 		- Usar la caja menor sólo desde su propio módulo
 		- Permitir cruzar saldos a favor (notas credito, anticipos) de un centro de costo en otro
+
+		     .. figure:: images/parametrizacion/3/1.png
+ 			     :align: center
 
 Cuenta de cajas
 ---------------
@@ -152,12 +183,19 @@ Cuenta de cajas
 			- *Ejemplo:* Si solo desea ver las cuentas contenidas en 'Pasivos' entonces seleccione el Item '2 PASIVO'. Estas serán las únicas cuentas visibles al cambiar una cuenta en la grilla (De la columna en la que se está aplicando el filtro)
 		- Verá todos los filtros en la grilla, puede cerrar la ventana
 
+			.. figure:: images/parametrizacion/filtros.png
+ 			   :align: center
+
 Cuentas bancarias
 -----------------
 
 	- Ejecute la opción "Parametrización contable"
 	- Haga click en la pestaña 'Tesorería'
 	- En la lista '¿qué parámetros desea configurar?' seleccione la opción 'Cuentas bancarias'
+
+		.. figure:: images/parametrizacion/3/2.png
+ 			:align: center
+
 	- Seleccione el centro de costo
 	- Verá una grilla con una fila por cada cuenta bancaria en su centro de costo. 
 	+------------+---+------+----+----------------+--------+------+---+
@@ -196,6 +234,9 @@ Ventas
 		- Hacer coincidir fecha de transacciones con la fecha del servidor
 		- Redondear decimales en factura de venta
 
+		.. figure:: images/parametrizacion/4/1.png
+ 			:align: center
+
 Cuentas por pagar (CxP)
 =======================
 
@@ -210,6 +251,9 @@ Cuentas por pagar (CxP)
 		- Concepto de retención de IVA por compras al régimen simplificado
 
 Elija tambien si desea realizar una auditoría de saldos de cuentas por pagar después de cada transacción
+
+		.. figure:: images/parametrizacion/5/1.png
+ 			:align: center
 
 Nómina
 ======

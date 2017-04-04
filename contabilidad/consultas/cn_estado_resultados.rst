@@ -12,12 +12,15 @@ Ubicación
  Consultas
 
 :Descripción:
-  Estado de resultados por centro de costo
+  Estado de resultados 
 
 Introducción
 ============
 
 	El *Estado de resultados*, Estado de rendimiento económico o Estado de ganancias y pérdidas, genera de manera ordenada la forma del resultado del ejercicio durante un período. Puede elegir el nivel de detalle que desee según el arbol de cuentas.
+
+ .. figure:: images/estadoresultados/1.png
+     	:align: center
 
 Filtros aplicables
 ==================

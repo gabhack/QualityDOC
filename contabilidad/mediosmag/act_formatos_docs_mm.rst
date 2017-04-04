@@ -19,6 +19,11 @@ Introducción
 
 	Un esquema se refiere a las columnas elegidas para el formato del medio magnético. En esta interfaz podrá definir las columnas que irán en el esquema, esto significa que después de seleccionar alguno de los formatos de medio mágnetico que vienen predefinidos en el sistema, podrá elegir los datos que aparecerán en el documento.
 
+
+ .. figure:: images/medios/a.png
+     	:align: center
+
+
 	Puede crear varios esquemas para uno de estos formatos y llamarlos diferente. Tenga en cuenta que mayoritariamente necesita un solo esquema de columnas para cada formato.
 
 	Columnas estáticas o maestras
@@ -39,12 +44,23 @@ Definir un esquema para para un formato de medio magnético
 	- Ejecute la opción "Definición de formatos de exportación para medios magnéticos"
 	- Elija el 'Formato de medios magnéticos'
 	- Haga click en el botón |plus.bmp|
+
+ 			.. figure:: images/medios/a2.png
+     			:align: center
+
+
 	- El cursor se situará en el nuevo campo vacío 'Nombre del documento', escriba el nombre para el nuevo esquemaH
 		- **Agregar columnnas estáticas:** En el panel izquierdo podrá ver las columnas que puede agregar arrastrandolas desde ese panel al de la derecha. El orden en el panel será el mismo orden de las columnas en el documento, puede subir cada elemento para ajustar el ordeb a sus necesidades.
+			 .. figure:: images/medios/a3.png
+		     	:align: center
+
 		- **Agregar columnas de valor:** Sobre el panel derecho, presione el botón |plus.bmp| *Agregar columna de valor. En la ventana emergente indique los siguientes campos:
 			- Nombre de la columna: Es importante nombrarla de manera clara y específica.
 			- Valor Neteado o Valor Base: De acuerdo a sus necesidades, puede elegir si el valor de esta columna será neto o solo la base antes del impuesto.
-			- Filtrar montos: El sistema le permite filtrar los valores de la columna para resumir algunos datos y filtrar con valores mínimos de monto. Al momento de generar el medio puede elegir si usar el filtro o no.
+			- Filtrar montos: El sistema le permite filtrar los valores de la columna para resumir algunos datos y filtrar con valores mínimos de monto.
+
+			 .. figure:: images/medios/a4.png
+			     	:align: center
 
 	.. NOTE::
 

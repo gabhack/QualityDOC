@@ -19,6 +19,9 @@ Introducción
 
 	Puede obtener el estado financiero de su organización, a través del *Balance General*, en un momento determinado. Puede obtener los saldos desde la rama más gruesa del árbol de cuentas, hasta la más detallada.
 
+		.. figure:: images/general/1.png
+ 			:align: center
+
 Filtros aplicables
 ==================
 

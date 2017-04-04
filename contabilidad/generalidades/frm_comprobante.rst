@@ -24,14 +24,27 @@ Crear un comprobante contable
 
 	- Ejecute la opción "Actualización de comprobantes"
 	- Pulse el botón |wznew.bmp| *Nuevo*
+
+		.. figure:: images/adcomprobantes/1.png
+ 			:align: center
+
+
 	- Elija en la lista 'Centro' el centro de costo donde realizará el asiento
 	- En la lista 'Fuente' escoja la acción 'comprobante de contabilidad'
 	- En el siguiente campo, coloque el cursor y presione Enter para ver el listado de cuentas contables. Seleccione una haciendo click sobre ella y luego Enter
+
+		.. figure:: images/adcomprobantes/2.png
+ 			:align: center
+
 	- Se cargará automáticamente el nombre de la cuenta en el segundo campo
 	- En el tercer campo digite el número de id del tercero
 	- Escoja el centro de costo en el cuarto campo (lista)
 	- Escriba el detalle del movimiento
 	- Escriba el saldo en el campo débito o en el campo crédito de acuerdo al asiento. El cursor se pondrá en el campo correspondiente a la naturaleza de la cuenta.
+
+		.. figure:: images/adcomprobantes/3.png
+ 			:align: center
+
 	- Pulse |plus.bmp| y vea el asiento agregarse a la grilla
 	- Puede crear varios asientos y mientras que la diferencia entre la partida del crédito y del débito sea 0, usted podrá guardar el comprobante haciendo click en |save.bmp| *Guardar*
 
@@ -52,6 +65,10 @@ Editar un comprobante
 
 	- Ejecute la opción "Actualización de comprobantes"
 	- Haga click en el botón *Buscar*
+
+		.. figure:: images/adcomprobantes/4.png
+ 			:align: center
+
 	- En la ventana emergente, seleccione los filtros que considere necesarios para encontra el asiento contable que busca
 	- Haga doble click sobre el asiento
 	- Vera ponerse el comprobante en la grilla, para modificarlo presione |wzedit.bmp| *Editar*
@@ -66,6 +83,10 @@ Exportar/Imprimir un asiento
 	- En la ventana emergente, seleccione los filtros que considere necesarios para encontra el asiento contable que busca
 	- Haga doble click sobre el asiento
 	- Haga click en el botón |export1.gif| *Opciones*
+
+		.. figure:: images/adcomprobantes/6.png
+ 			:align: center
+
 	- Elija el medio por el cual desea dar salida al comprobante.
 
 .. |export1.gif| image:: /_images/generales/export1.gif

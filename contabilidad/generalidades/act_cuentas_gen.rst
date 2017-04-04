@@ -25,6 +25,10 @@ Crear una cuenta contable
 Para crear una *Cuenta* realice los siguientes pasos:
 
 	-Ejecute la opción "Plan único de cuentas"
+
+		.. figure:: images/puc/1.png
+ 			:align: center
+
 	- Puede hacer click derecho en cualquier carpeta del árbol y luego click en "Crear nueva cuenta" 
 
 	 		
@@ -46,11 +50,15 @@ Para crear una *Cuenta* realice los siguientes pasos:
 
 	- Presione |save.bmp| *Guardar*
 
+
+
 Cambiar nombre a una cuenta/clase/grupo/auxiliar
 ================================================
 
 	- Ejecute la opción "Plan único de cuentas"
 	- Puede hacer click derecho en cualquier elemento del árbol y luego click en "cambiar nombre"
+		.. figure:: images/puc/2.png
+ 			:align: center
 	- El elemento pasará a modo editable y usted podrá digitar un nuevo nombre
 	- Presione Enter 
 
@@ -59,6 +67,8 @@ Modificar una cuenta/clase/grupo/auxiliar
 
 	- Ejecute la opción "Plan único de cuentas"
 	- Puede hacer click derecho en cualquier elemento del árbol y luego click en "Modificar Propiedades"
+		.. figure:: images/puc/3.png
+ 			:align: center
 	- Se desplegará la ventana de creación de cuentas con los datos de este elemento precargados. Modifique los parametros deseados.
 	- Click en |save.bmp| *Guardar*
 

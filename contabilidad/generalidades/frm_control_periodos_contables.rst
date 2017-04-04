@@ -26,6 +26,10 @@ Cerrar un periodo contable
 	- Seleccione el año
 	- Elija el centro de costo
 	- Verá en la grilla todos los meses ya cumplidos hasta la fecha actual. correspondientes al año elegido
+
+		.. figure:: images/cierreperiodos/1.png
+ 			:align: center
+
 	- Al lado derecho de cada mes, en la grilla, puede elegir si el mes está cerrado o abierto. 
 	- Para guardar los cambios presione |save.bmp| *Guardar en el centro de costo actual*, o si lo desea *Guardar en todos los centros de costo*
 

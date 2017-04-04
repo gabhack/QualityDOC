@@ -26,6 +26,9 @@ Listado de fuentes contables
 
 	En la opción "Fuentes contables" puede visualizar todas las posibles fuentes contables, sus siglas y su significado, y el método de anulación.
 
+		.. figure:: images/fuentes/1.png
+ 			:align: center
+
 Nueva fuente contable
 =====================
 
@@ -33,6 +36,8 @@ Para crear una nueva fuente contable, realice los siguientes pasos:
 
 	- Ejecute la opción "Fuentes contables"
 	- Haga click en |wznew.bmp| *Nuevo*
+		.. figure:: images/fuentes/2.png
+ 			:align: center
 	- En la ventana emergente, introduzca las dos letras que identificarán la fuente en el campo 'Código de documento', ejemplo: 'FC'. Verá como se crea automáticamente un código para la anulación.
 	- En el campo 'Nombre de la fuente contable' digite el nombre completo que identifica el documento, Ejemplo: "Facturación a crédito"
 	- Puede elegir tres tipos de anulación para esta fuente:
@@ -48,6 +53,8 @@ Modificar fuente contable
 	- Ejecute la opción "Fuentes contables"
 	- Seleccione la fuente contable de la lista haciendo click en ella
 	- Presione |wzedit.bmp| *Modificar*
+		.. figure:: images/fuentes/3.png
+ 			:align: center
 	- Verá una ventana con los datos de la fuente precargados. Modifique los necesarios.
 	- Haga click en |save.bmp| *Guardar*
 
@@ -57,6 +64,8 @@ Eliminar fuente contable
 	- Ejecute la opción "Fuentes contables"
 	- Seleccione la fuente contable de la lista haciendo click en ella
 	- Presione |delete.bmp| *Eliminar*
+		.. figure:: images/fuentes/4.png
+ 			:align: center
 	- En la ventana de confirmación oprima 'Sí'.
 
 

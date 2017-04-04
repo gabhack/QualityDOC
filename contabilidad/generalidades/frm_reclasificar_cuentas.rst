@@ -28,8 +28,15 @@ Reclasificar una cuenta
 	- Seleccione la cuenta que desea modificar
 	- Elija la cuenta que recibirá el saldo
 	- Pulse |btn_ok.bmp|
+
+		.. figure:: images/reclasificar/1.png
+ 			:align: center
+
 	- Se mostrarán los movimientos relacionados a la cuenta en la grilla y a la izquierda las fuentes contables. Seleccione las fuentes que serán afectadas.
 	- Haga click en |save.bmp| para realizar la sustitución
+
+		.. figure:: images/reclasificar/2.png
+ 			:align: center
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp

@@ -28,6 +28,9 @@ Listado de terceros
 
 	Para filtrar los resultados puede usar la barra de búsqueda en la parte superior de la ventana. También puede listar los terceros según su tipo: Proveedor, cliente, o todos.
 
+		.. figure:: images/terceros/1.png
+ 			:align: center
+
 Crear un nuevo Tercero
 ======================
 
@@ -37,6 +40,10 @@ Para crear un nuevo tercero, realice los siguientes pasos:
 	- Haga click en el botón |wznew.bmp| *Nuevo*
 	- Verá una ventana emergente con los campos necesarios para la especificación del tercero.
     - En la cabecera conseguirá dos opciones llamadas "Múltiples textos" y "Único texto" que modificarán la manera en cómo el sistema pide los datos (En uno, o en varios campos de texto)
+
+		.. figure:: images/terceros/2.png
+ 			:align: center
+
 
  	- Se desplegará una ventana emergente donde podrá dar cavida a los datos del *tercero*:
  		- Régimen (tributario): 
@@ -78,6 +85,9 @@ Elmiminar un tercero
  	- Ejecute la opción *Administración de terceros*
  	- Haga click en el tercero a eliminar, en la grilla
  	- Presione el botón |delete.bmp| *eliminar* al pie de la ventana
+
+		.. figure:: images/terceros/3.png
+ 			:align: center
 
 	- En el cuadro de confirmación presiones 'Sí'
 

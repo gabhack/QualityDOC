@@ -42,12 +42,19 @@ Crear una nueva configuración de certificado de retención
 
 		- Ejecute la opción "Configuración de certificados de retenciones"
 		- En la parte inferior de la ventana, presione |wznew.bmp| *Nuevo*
+
+			.. figure:: images/certificados/1.png
+ 				:align: center
+
 		- En la ventana emergente podrá establecer los parámetros necesarios (explicados en la `Introducción`_) para la creación de un certificado:
 			- Razón Social
 			- Dirección
 			- Nombre del certificado
 			- Descripción del certificado
 			- Cuentas contables
+
+				.. figure:: images/certificados/2.png
+ 				     :align: center
 		- Presione |save.bmp| *Guardar*
 
 			.. NOTE::
@@ -69,7 +76,11 @@ Editar/Eliminar una configuración de certificado
 		- En la parte inferior seleccione la opción:
 
 			- |delete.bmp| *Eliminar*
+				.. figure:: images/certificados/4.png
+ 				     :align: center
 			- |wzedit.bmp| *Modificar*: Se desplegará una ventana donde puede modificar los datos correspondientes a este tipo de certificado.
+				.. figure:: images/certificados/3.png
+ 				     :align: center
 
 
 

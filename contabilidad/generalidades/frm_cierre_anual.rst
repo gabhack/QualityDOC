@@ -19,6 +19,9 @@ Introducción
 
 	En esta interfaz podrá generar y guardar el cierre anual contable.
 
+		.. figure:: images/cierreanual/1.png
+ 			:align: center
+
 Cerrar el año contable
 ======================
 
@@ -28,6 +31,10 @@ Cerrar el año contable
 		- Seleccione el año del cierre
 		- Haga click en el botón |btn_ok.bmp| *Generar*
 		- Se desplegará en la grilla el listado de cuentas con sus totalizaciones
+
+		.. figure:: images/cierreanual/2.png
+ 			:align: center
+
 
 Cerrar cuentas adicionales
 ==========================
@@ -39,6 +46,11 @@ Cerrar cuentas adicionales
 		- En la ventana emergente elija en la lista 'Cuenta origen' la cuenta que desea cerrar adicionalmente
 		- Seleccione ne 'Cuenta destino' la cuenta en la que el saldo, de la cuenta a cerrar, irá a dar
 		- Cierre la ventana y siga las instrucciones para hacer el cierre del año. 
+
+		.. figure:: images/cierreanual/3.png
+ 			:align: center
+
+
 
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
 .. |excel.bmp| image:: /_images/generales/excel.bmp

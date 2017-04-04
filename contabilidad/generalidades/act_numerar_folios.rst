@@ -24,6 +24,10 @@ Crear un libro
 
 	- Ejecute la opción "Numeración de Libros"
 	- Haga click en el botón |plus.bmp|
+
+		.. figure:: images/numeracion/1.png
+ 			:align: center
+
 	- En el campo de texto 'Nombre del libro' digite el nombre del libro
 	- En el campo 'Última página impresa' digite el número total de páginas del libro
 	- Pulse |save.bmp| para guardar
@@ -34,6 +38,8 @@ Imprimir un libro
 	- Ejecute la opción "Numeración de Libros"
 	- En la lista 'Nombre del libro' seleccione el libro que desea imprimir
 	- Haga click en |printer_q.bmp| *Imprimir folios del libro seleccionado*
+		.. figure:: images/numeracion/2.png
+ 			:align: center
 
 Eliminar un libro
 =================
@@ -41,6 +47,8 @@ Eliminar un libro
 	- Ejecute la opción "Numeración de Libros"
 	- En la lista 'Nombre del libro' seleccione el libro que desea eliminar
 	- Haga click en |delete.bmp|
+		.. figure:: images/numeracion/3.png
+ 			:align: center
 	- En la ventana de confirmación pulse 'Sí'
 
 Modificar un libro

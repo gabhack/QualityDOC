@@ -19,6 +19,9 @@ Introducción
 
 	Puede generar un reporte de los comprobantes contables registrados diariamente por la empresa. Filtre el resultado por periodos, fuentes contables o terceros. 
 
+	 .. figure:: images/diario/1.png
+     	:align: center
+
 Filtros aplicables
 ==================
 

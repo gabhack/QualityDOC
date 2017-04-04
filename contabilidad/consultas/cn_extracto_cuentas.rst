@@ -19,6 +19,8 @@ Introducción
 
 	El *Extracto de cuentas corrientes* o Movimiento de cuentas por tercero, organiza por terceros y cuentas contables todos los movimientos realizados. 
 
+ .. figure:: images/corrientes/1.png
+     	:align: center
 
 Filtros aplicables
 ==================

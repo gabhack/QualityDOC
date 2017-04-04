@@ -16,7 +16,6 @@ Consultas
   /contabilidad/consultas/cn_prueba_terceros
   /contabilidad/consultas/cn_cert_retencion
   /contabilidad/consultas/cn_comprobantes
-  /contabilidad/consultas/cn_resultados
   /contabilidad/consultas/cn_resultados_anual
   /contabilidad/consultas/cn_resultados_comparativo_cc
   /contabilidad/consultas/cn_extracto_cuentas

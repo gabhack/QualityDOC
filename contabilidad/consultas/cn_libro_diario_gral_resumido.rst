@@ -19,6 +19,19 @@ Introducción
 
 	Puede generar un reporte resumido de los comprobantes contables. Filtre el resultado por periodos y fuentes contables. Organice el resumen por terceros. Establezca el nivel de detalle, en el arbol de cuentas, que usted prefiera.
 
+Nivel 3
+-------
+
+ .. figure:: images/generalresumido/1.png
+     	:align: center
+
+Nivel 5
+-------
+
+ .. figure:: images/diariotercero/2.png
+     	:align: center
+
+
 Filtros aplicables
 ==================
 

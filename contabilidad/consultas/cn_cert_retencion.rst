@@ -17,7 +17,7 @@ Ubicación
 Introducción
 ============
 
-	En esta interfaz podrá generar un *Certificado de retención*. Deberá seleccionar un tipo de certificado que anteriormente debe haber creado en la interfaz `Configuración de certificado de retención <>`_. 
+	En esta interfaz podrá generar un *Certificado de retención*. Deberá seleccionar un tipo de certificado que anteriormente debe haber creado en la interfaz `Configuración de certificado de retención <../generalidades/act_certificados_ret.html>`_. 
 
 	- Un certificado de retención se expide hacia un solo tercero. Seleccionando varios terceros en la grilla, se expedirá uno para cada uno, en un reporte de varias páginas.
 	- Los terceros que aparecen en la grilla son solo aquellos que tienen relación con las cuentas contables seleccionadas para ese tipo de certificado. 
@@ -50,12 +50,17 @@ Generar un certificado de retención:
 			
 			**Recuerde que para varios proveedores, el reporte se hará individual, y el documento se visualiza en varias páginas** 
 
+ .. figure:: images/certificados/1.png
+     	:align: center
+
 Opciones de salida
 ==================
 
 	- |printer_q.bmp| Impresión
 	- |pdf_logo.gif| PDF
 
+ .. figure:: images/certificados/2.png
+     	:align: center
 
 .. |export1.gif| image:: /_images/generales/export1.gif
 .. |pdf_logo.gif| image:: /_images/generales/pdf_logo.gif
