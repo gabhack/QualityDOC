@@ -9,7 +9,7 @@ Ubicación
  Tesoreria
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Prestamos a Terceros

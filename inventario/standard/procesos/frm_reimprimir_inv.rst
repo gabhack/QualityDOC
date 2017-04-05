@@ -8,7 +8,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
  Reimpresión de transacciones de inventario

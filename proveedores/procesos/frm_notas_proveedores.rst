@@ -9,7 +9,7 @@ Ubicación
  Proveedores
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Notas débito y crédito a Proveedores

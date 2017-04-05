@@ -9,7 +9,7 @@ Ubicación
  Tesoreria
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Relación de gastos de caja menor

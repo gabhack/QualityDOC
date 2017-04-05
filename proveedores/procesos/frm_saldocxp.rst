@@ -9,7 +9,7 @@ Ubicación
  Proveedores
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Saldos iniciales de cuentas por pagar

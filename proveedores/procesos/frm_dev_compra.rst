@@ -9,7 +9,7 @@ Ubicación
  Proveedores
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Devolución de compras

@@ -9,7 +9,7 @@ Ubicación
   Ventas
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Reimpresión y Anulación de facturas de venta

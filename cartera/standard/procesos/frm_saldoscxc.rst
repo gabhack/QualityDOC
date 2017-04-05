@@ -9,7 +9,7 @@ Ubicación
  Cartera
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Saldos iniciales de cuentas por cobrar

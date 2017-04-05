@@ -9,7 +9,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
  Impresión de código de barras

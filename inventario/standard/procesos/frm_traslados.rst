@@ -8,7 +8,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
  Traslado entre bodegas

@@ -9,7 +9,7 @@ Ubicación
  Cartera
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Notas débito y crédito a clientes

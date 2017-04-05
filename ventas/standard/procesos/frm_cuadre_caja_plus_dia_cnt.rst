@@ -9,7 +9,7 @@ Ubicación
   Ventas
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
   Cuadre diario de caja

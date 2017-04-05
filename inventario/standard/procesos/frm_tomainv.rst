@@ -9,7 +9,7 @@ Ubicación
  Inventario
 
 :Grupo:
- Operaciones
+ Procesos
 
 :Descripción:
 Toma y aplicación de inventario
